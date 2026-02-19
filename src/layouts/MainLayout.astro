@@ -29,7 +29,7 @@ const fullCanonical = new URL(canonical || Astro.url.pathname, siteUrl).href;
     <meta charset="UTF-8" />
     <meta name="description" content={description} />
     <meta name="viewport" content="width=device-width" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="icon" type="image/png" href="/logo.png" />
     <link rel="canonical" href={fullCanonical} />
     <meta name="generator" content={Astro.generator} />
     <title>{title}</title>
@@ -40,7 +40,7 @@ const fullCanonical = new URL(canonical || Astro.url.pathname, siteUrl).href;
     <meta property="og:url" content={fullCanonical} />
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content="RS Avukatlık Bürosu" />
-    <meta property="og:image" content="https://www.rsavukatlik.com/office-v1.jpg" />
+    <meta property="og:image" content="https://www.rsavukatlik.com/logo.png" />
     <meta property="og:locale" content="tr_TR" />
     
     {/* Twitter */}
@@ -48,7 +48,7 @@ const fullCanonical = new URL(canonical || Astro.url.pathname, siteUrl).href;
     <meta name="twitter:title" content={title} />
     <meta name="twitter:description" content={description} />
     <meta name="twitter:creator" content="@avramazansimsek" />
-    <meta name="twitter:image" content="https://www.rsavukatlik.com/office-v1.jpg" />
+    <meta name="twitter:image" content="https://www.rsavukatlik.com/logo.png" />
 
     {schema && (
       <script type="application/ld+json" set:html={JSON.stringify(schema)} />

@@ -83,8 +83,8 @@ export default function ArticleView({ article, relatedArticles }: ArticleViewPro
                                     <User className="w-5 h-5 text-gold" />
                                 </div>
                                 <div>
-                                    <div className="text-white font-medium">RS Avukatlık</div>
-                                    <div className="text-white/40 text-xs">Av. Ramazan ŞİMŞEK</div>
+                                    <div className="text-white font-medium">Av. Ramazan Şimşek</div>
+                                    <div className="text-white/40 text-xs">Kurucu Avukat</div>
                                 </div>
                             </div>
 

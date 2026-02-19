@@ -1,0 +1,69 @@
+---
+import MainLayout from '@/layouts/MainLayout.astro';
+import Hero from '@/sections/Hero';
+import HomeAbout from '@/sections/HomeAbout';
+import Reviews from '@/sections/Reviews';
+import Contact from '@/sections/Contact';
+
+import { contactInfo } from '@/data/content';
+
+const title = "İstanbul Kartal Avukat - RS Avukatlık | Ağır Ceza & Boşanma Avukatı";
+const description = "İstanbul Kartal'da Av. Ramazan Şimşek yönetiminde Ağır Ceza, Çekişmeli Boşanma, İşçi Alacakları ve Tapu davalarında uzman, sonuç odaklı avukatlık hizmeti.";
+const canonical = "/";
+
+const schema = {
+  "@context": "https://schema.org",
+  "@type": "LegalService",
+  "name": "RS Avukatlık",
+  "image": "https://rsavukatlik.com/office-v1.jpg",
+  "url": "https://www.rsavukatlik.com",
+  "telephone": contactInfo.phone,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": contactInfo.address,
+    "addressLocality": "Kartal",
+    "addressRegion": "İstanbul",
+    "postalCode": "34865",
+    "addressCountry": "TR"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.9105,
+    "longitude": 29.1834
+  },
+  "openingHoursSpecification": {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "opens": "09:00",
+    "closes": "18:00"
+  },
+  "founder": {
+    "@type": "Person",
+    "name": "Av. Ramazan Şimşek",
+    "image": "https://www.rsavukatlik.com/images/kurucu-ramazan-simsek.jpg",
+    "jobTitle": "Kurucu Avukat",
+    "url": "https://www.rsavukatlik.com",
+    "sameAs": [
+      "https://www.instagram.com/av.ramazansimsek",
+      "https://www.linkedin.com/in/ramazan-%C5%9Fim%C5%9Fek"
+    ]
+  },
+  "sameAs": [
+    "https://www.instagram.com/av.ramazansimsek",
+    "https://www.linkedin.com/in/ramazan-%C5%9Fim%C5%9Fek"
+  ]
+};
+---
+
+<MainLayout title={title} description={description} canonical={canonical} schema={schema}>
+  <Hero client:load />
+  <HomeAbout client:visible />
+  <Reviews client:visible />
+  <Contact client:visible />
+</MainLayout>

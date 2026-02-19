@@ -1,0 +1,14 @@
+
+> build
+> astro build
+
+[31m[1m13:54:06[22m [ERROR] [@astrojs/tailwind][39m An unhandled error occurred while running the [1m"astro:config:setup"[22m hook
+It looks like you're trying to use `tailwindcss` directly as a PostCSS plugin. The PostCSS plugin has moved to a separate package, so to continue using Tailwind CSS with PostCSS you'll need to install `@tailwindcss/postcss` and update your PostCSS configuration.
+  [1mLocation:[22m
+    [4mC:\Users\RAMAZAN ŞİMŞEK\Desktop\rs avukatlık\Kimi_Agent_RS Hukuk Web Tasarımı\astro-app\node_modules\tailwindcss\dist\chunk-CT46QCH7.mjs:38:1643[24m
+  [1mStack trace:[22m
+[2m    at Ha (file:///C:/Users/RAMAZAN%20%C5%9E%C4%B0M%C5%9EEK/Desktop/rs%20avukatl%C4%B1k/Kimi_Agent_RS%20Hukuk%20Web%20Tasar%C4%B1m%C4%B1/astro-app/node_modules/tailwindcss/dist/chunk-CT46QCH7.mjs:38:1643)
+    at async astro:config:setup (file:///C:/Users/RAMAZAN%20%C5%9E%C4%B0M%C5%9EEK/Desktop/rs%20avukatl%C4%B1k/Kimi_Agent_RS%20Hukuk%20Web%20Tasar%C4%B1m%C4%B1/astro-app/node_modules/@astrojs/tailwind/dist/index.js:45:17)
+    at async runHookInternal (file:///C:/Users/RAMAZAN%20%C5%9E%C4%B0M%C5%9EEK/Desktop/rs%20avukatl%C4%B1k/Kimi_Agent_RS%20Hukuk%20Web%20Tasar%C4%B1m%C4%B1/astro-app/node_modules/astro/dist/integrations/hooks.js:51:5)
+    at async AstroBuilder.setup (file:///C:/Users/RAMAZAN%20%C5%9E%C4%B0M%C5%9EEK/Desktop/rs%20avukatl%C4%B1k/Kimi_Agent_RS%20Hukuk%20Web%20Tasar%C4%B1m%C4%B1/astro-app/node_modules/astro/dist/core/build/index.js:71:21)
+    at async build (file:///C:/Users/RAMAZAN%20%C5%9E%C4%B0M%C5%9EEK/Desktop/rs%20avukatl%C4%B1k/Kimi_Agent_RS%20Hukuk%20Web%20Tasar%C4%B1m%C4%B1/astro-app/node_modules/astro/dist/core/build/index.js:45:3)[22m

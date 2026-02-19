@@ -1,0 +1,16 @@
+---
+import MainLayout from '@/layouts/MainLayout.astro';
+import RegionalView from '@/views/pages/RegionalView';
+import { regions } from '@/data/regions';
+
+const regionId = 'kartal-is';
+const data = regions[regionId];
+
+const title = data?.title || 'Kartal İş Avukatı - RS Avukatlık';
+const description = data?.description || 'Kartal İş Avukatı. İşe iade davaları, kıdem tazminatı, fazla mesai ve iş kazası tazminatları. İşçi ve işveren vekilliği.';
+const canonical = `/${data?.slug}`;
+---
+
+<MainLayout title={title} description={description} canonical={canonical}>
+  <RegionalView regionId={regionId} />
+</MainLayout>

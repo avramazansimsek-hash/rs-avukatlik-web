@@ -1,0 +1,33 @@
+---
+import MainLayout from '@/layouts/MainLayout.astro';
+import ContactPage from '@/views/Contact';
+
+const title = "İletişim | RS Avukatlık - İstanbul Kartal";
+const description = "RS Avukatlık Bürosu'na ulaşın. Adres: Mustafa Kemal Cad, Hukukçular Towers, Kartal. Tel: +90 544 273 60 27";
+const canonical = "https://www.rsavukatlik.com/iletisim";
+
+const schema = {
+  "@context": "https://schema.org",
+  "@type": "ContactPage",
+  "name": "İletişim",
+  "description": description,
+  "mainEntity": {
+      "@type": "LegalService",
+      "name": "RS Avukatlık",
+      "telephone": "+905555555555", // TODO: Check for accurate number usage from variables
+      "email": "info@rsavukatlik.com", 
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Cevizli Mah. Mustafa Kemal Cad. Hukukçular Towers A Blok No: 66 K: 18 D: 180",
+        "addressLocality": "Kartal",
+        "addressRegion": "İstanbul",
+        "postalCode": "34865",
+        "addressCountry": "TR"
+      }
+  }
+};
+---
+
+<MainLayout title={title} description={description} canonical={canonical} schema={schema}>
+  <ContactPage client:load />
+</MainLayout>

@@ -1,0 +1,16 @@
+---
+import MainLayout from '@/layouts/MainLayout.astro';
+import RegionalView from '@/views/pages/RegionalView';
+import { regions } from '@/data/regions';
+
+const regionId = 'kartal-bosanma';
+const data = regions[regionId];
+
+const title = data?.title || 'Kartal Boşanma Avukatı - RS Avukatlık';
+const description = data?.description || 'Kartal Boşanma Avukatı. Anlaşmalı boşanma, çekişmeli boşanma, velayet, nafaka ve mal paylaşımı davalarında uzman destek.';
+const canonical = `/${data?.slug}`;
+---
+
+<MainLayout title={title} description={description} canonical={canonical}>
+  <RegionalView regionId={regionId} />
+</MainLayout>

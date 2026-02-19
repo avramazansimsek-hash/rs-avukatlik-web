@@ -1,0 +1,41 @@
+---
+import MainLayout from '@/layouts/MainLayout.astro';
+import PracticeAreasPage from '@/views/pages/PracticeAreas';
+
+const title = "Faaliyet Alanlarımız | RS Avukatlık - Ceza, İcra, Aile Hukuku";
+const description = "Ceza Hukuku, Aile Hukuku, İş Hukuku, Ticaret Hukuku ve İcra İflas Hukuku alanlarında uzman avukatlık hizmeti.";
+const canonical = "https://www.rsavukatlik.com/faaliyet-alanlarimiz";
+
+const schema = [
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Ana Sayfa",
+        "item": "https://rsavukatlik.com/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Faaliyet Alanlarımız",
+        "item": "https://rsavukatlik.com/faaliyet-alanlarimiz"
+      }
+    ]
+  },
+  {
+      "@context": "https://schema.org",
+      "@type": "LegalService",
+      "name": "RS Avukatlık",
+      "url": "https://rsavukatlik.com/faaliyet-alanlarimiz",
+      // Add OfferCatalog if needed, but keeping it simple for now or fetch data if possible
+      // For now, let's keep it minimal or duplicate the data if we want full fidelity
+    }
+];
+---
+
+<MainLayout title={title} description={description} canonical={canonical} schema={schema}>
+  <PracticeAreasPage client:load />
+</MainLayout>

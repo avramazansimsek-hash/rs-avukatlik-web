@@ -1,0 +1,30 @@
+---
+import MainLayout from '@/layouts/MainLayout.astro';
+import ArticlesPage from '@/views/pages/Articles';
+import { getAllArticles } from '@/lib/articles';
+
+const articles = await getAllArticles();
+
+const title = "Hukuki Makaleler | RS Avukatlık - Hukuk Blogu";
+const description = "Ceza Hukuku, Aile Hukuku, İş ve Ticaret Hukuku alanlarında güncel makaleler, yargıtay kararları ve hukuki bilgilendirme yazıları.";
+const canonical = "https://www.rsavukatlik.com/makalelerimiz";
+
+const schema = {
+  "@context": "https://schema.org",
+  "@type": "Blog",
+  "name": "RS Avukatlık Hukuk Blogu",
+  "description": description,
+  "url": "https://www.rsavukatlik.com/makalelerimiz",
+  "blogPost": articles.map(article => ({
+    "@type": "BlogPosting",
+    "headline": article.title,
+    "description": article.excerpt,
+    "datePublished": article.date,
+    "url": `https://www.rsavukatlik.com/makalelerimiz/${article.slug}`
+  }))
+};
+---
+
+<MainLayout title={title} description={description} canonical={canonical} schema={schema}>
+  <ArticlesPage client:load initialArticles={articles} />
+</MainLayout>

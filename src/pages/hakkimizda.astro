@@ -1,0 +1,29 @@
+---
+import MainLayout from '@/layouts/MainLayout.astro';
+import AboutPage from '@/views/About';
+
+const title = "Hakkımızda | RS Avukatlık - Av. Ramazan Şimşek";
+const description = "RS Avukatlık olarak müvekkillerimize uluslararası standartlarda, nitelikli ve çözüm odaklı hukuki danışmanlık hizmeti sunuyoruz.";
+const canonical = "https://www.rsavukatlik.com/hakkimizda";
+
+const schema = {
+  "@context": "https://schema.org",
+  "@type": "AboutPage",
+  "name": "Hakkımızda",
+  "description": description,
+  "mainEntity": {
+      "@type": "LegalService",
+      "name": "RS Avukatlık",
+      "founder": {
+          "@type": "Person",
+          "name": "Av. Ramazan Şimşek",
+          "image": "https://rsavukatlik.com/images/kurucu-ramazan-simsek.jpg", 
+          "jobTitle": "Kurucu Avukat"
+      }
+  }
+};
+---
+
+<MainLayout title={title} description={description} canonical={canonical} schema={schema}>
+  <AboutPage client:load />
+</MainLayout>

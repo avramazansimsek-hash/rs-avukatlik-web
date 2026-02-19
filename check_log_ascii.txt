@@ -1,0 +1,307 @@
+node.exe : 
+At line:1 char:1
++ & "C:\Program Files
+\nodejs/node.exe" "C:
+\Program Files\nodejs
+/node_mo ...
++ ~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~
+    + CategoryInfo   
+           : NotSpe  
+  cified: (:String   
+ ) [], RemoteExce    
+ption
+    + FullyQualified 
+   ErrorId : Native  
+  CommandError
+ 
+Auto-generating colle
+ctions for folders in
+ "src/content/" that 
+are not defined as co
+llections.
+This is deprecated, s
+o you should define t
+hese collections your
+self in "src/content.
+config.ts".
+The following collect
+ions have been auto-g
+enerated: [32marticl
+es[39m
+
+[2m17:20:48[22m [34m[content][39m Syncing content
+[2m17:20:49[22m [34m[content][39m Synced content
+[2m17:20:49[22m [34m[types][39m Generated [2m224ms[22m
+[2m17:20:49[22m [34m[check][39m Getting diagnostics for Astro files in C:\Users\RAMAZAN ????M??EK\Desktop\rs avukatl??k\Kimi_Agent_RS Hukuk Web Tasar??m??\astro-app...
+[96m_legacy_backup/ArticleDetail.tsx[0m:[93m4[0m:[93m24[0m - [91merror[0m[90m ts(2307): [0mCannot find module 'react-helmet-async' or its corresponding type declarations.
+
+[7m4[0m import { Helmet } from 'react-helmet-async';
+[7m [0m [91m                       ~~~~~~~~~~~~~~~~~~~~[0m
+[96m_legacy_backup/ArticleDetail.tsx[0m:[93m2[0m:[93m46[0m - [91merror[0m[90m ts(2307): [0mCannot find module 'react-router-dom' or its corresponding type declarations.
+
+[7m2[0m import { useParams, Link, useNavigate } from 'react-router-dom';
+[7m [0m [91m                                             ~~~~~~~~~~~~~~~~~~[0m
+
+[96m_legacy_backup/Articles.tsx[0m:[93m2[0m:[93m22[0m - [91merror[0m[90m ts(2307): [0mCannot find module 'react-router-dom' or its corresponding type declarations.
+
+[7m2[0m import { Link } from 'react-router-dom';
+[7m [0m [91m                     ~~~~~~~~~~~~~~~~~~[0m
+
+[96m_legacy_backup/PetitionDetail.tsx[0m:[93m4[0m:[93m24[0m - [91merror[0m[90m ts(2307): [0mCannot find module 'react-helmet-async' or its corresponding type declarations.
+
+[7m4[0m import { Helmet } from 'react-helmet-async';
+[7m [0m [91m                       ~~~~~~~~~~~~~~~~~~~~[0m
+[96m_legacy_backup/PetitionDetail.tsx[0m:[93m2[0m:[93m46[0m - [91merror[0m[90m ts(2307): [0mCannot find module 'react-router-dom' or its corresponding type declarations.
+
+[7m2[0m import { useParams, Link, useNavigate } from 'react-router-dom';
+[7m [0m [91m                                             ~~~~~~~~~~~~~~~~~~[0m
+
+[96m_legacy_backup/Petitions.tsx[0m:[93m3[0m:[93m22[0m - [91merror[0m[90m ts(2307): [0mCannot find module 'react-router-dom' or its corresponding type declarations.
+
+[7m3[0m import { Link } from 'react-router-dom';
+[7m [0m [91m                     ~~~~~~~~~~~~~~~~~~[0m
+
+[96m_legacy_backup/PetitionsPage.tsx[0m:[93m3[0m:[93m23[0m - [91merror[0m[90m ts(2307): [0mCannot find module '@/components/Petitions' or its corresponding type declarations.
+
+[7m3[0m import Petitions from '@/components/Petitions';
+[7m [0m [91m                      ~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96m_legacy_backup/PracticeAreas.tsx[0m:[93m16[0m:[93m24[0m - [91merror[0m[90m ts(2307): [0mCannot find module 'react-helmet-async' or its corresponding type declarations.
+
+[7m16[0m import { Helmet } from 'react-helmet-async';
+[7m  [0m [91m                       ~~~~~~~~~~~~~~~~~~~~[0m
+[96m_legacy_backup/PracticeAreas.tsx[0m:[93m14[0m:[93m22[0m - [91merror[0m[90m ts(2307): [0mCannot find module 'react-router-dom' or its corresponding type declarations.
+
+[7m14[0m import { Link } from 'react-router-dom';
+[7m  [0m [91m                     ~~~~~~~~~~~~~~~~~~[0m
+
+[96m_legacy_backup/RegionalLanding.tsx[0m:[93m2[0m:[93m24[0m - [91merror[0m[90m ts(2307): [0mCannot find module 'react-helmet-async' or its corresponding type declarations.
+
+[7m2[0m import { Helmet } from 'react-helmet-async';
+[7m [0m [91m                       ~~~~~~~~~~~~~~~~~~~~[0m
+
+[96m_legacy_backup/ScrollToTop.tsx[0m:[93m2[0m:[93m29[0m - [91merror[0m[90m ts(2307): [0mCannot find module 'react-router-dom' or its corresponding type declarations.
+
+[7m2[0m import { useLocation } from 'react-router-dom';
+[7m [0m [91m                            ~~~~~~~~~~~~~~~~~~[0m
+
+[96m_legacy_backup/pages_ArticleDetail.tsx[0m:[93m4[0m:[93m24[0m - [91merror[0m[90m ts(2307): [0mCannot find module 'react-helmet-async' or its corresponding type declarations.
+
+[7m4[0m import { Helmet } from 'react-helmet-async';
+[7m [0m [91m                       ~~~~~~~~~~~~~~~~~~~~[0m
+[96m_legacy_backup/pages_ArticleDetail.tsx[0m:[93m2[0m:[93m46[0m - [91merror[0m[90m ts(2307): [0mCannot find module 'react-router-dom' or its corresponding type declarations.
+
+[7m2[0m import { useParams, Link, useNavigate } from 'react-router-dom';
+[7m [0m [91m                                             ~~~~~~~~~~~~~~~~~~[0m
+
+[96m_legacy_backup/pages_Contact.tsx[0m:[93m215[0m:[93m24[0m - [93mwarning[0m[90m ts(6385): [0m'Linkedin' is deprecated.
+
+[7m215[0m                       <Linkedin className="w-5 h-5" />
+[7m   [0m [93m                       ~~~~~~~~[0m
+[96m_legacy_backup/pages_Contact.tsx[0m:[93m205[0m:[93m24[0m - [93mwarning[0m[90m ts(6385): [0m'Instagram' is deprecated.
+
+[7m205[0m                       <Instagram className="w-5 h-5" />
+[7m   [0m [93m                       ~~~~~~~~~[0m
+[96m_legacy_backup/pages_Contact.tsx[0m:[93m51[0m:[93m40[0m - [93mwarning[0m[90m ts(6385): [0m'FormEvent' is deprecated.
+
+[7m51[0m   const handleSubmit = async (e: React.FormEvent) => {
+[7m  [0m [93m                                       ~~~~~~~~~[0m
+[96m_legacy_backup/pages_Contact.tsx[0m:[93m10[0m:[93m3[0m - [93mwarning[0m[90m ts(6385): [0m'Linkedin' is deprecated.
+
+[7m10[0m   Linkedin,
+[7m  [0m [93m  ~~~~~~~~[0m
+[96m_legacy_backup/pages_Contact.tsx[0m:[93m9[0m:[93m3[0m - [93mwarning[0m[90m ts(6385): [0m'Instagram' is deprecated.
+
+[7m9[0m   Instagram,
+[7m [0m [93m  ~~~~~~~~~[0m
+
+[96m_legacy_backup/pages_PetitionDetail.tsx[0m:[93m4[0m:[93m24[0m - [91merror[0m[90m ts(2307): [0mCannot find module 'react-helmet-async' or its corresponding type declarations.
+
+[7m4[0m import { Helmet } from 'react-helmet-async';
+[7m [0m [91m                       ~~~~~~~~~~~~~~~~~~~~[0m
+[96m_legacy_backup/pages_PetitionDetail.tsx[0m:[93m2[0m:[93m46[0m - [91merror[0m[90m ts(2307): [0mCannot find module 'react-router-dom' or its corresponding type declarations.
+
+[7m2[0m import { useParams, Link, useNavigate } from 'react-router-dom';
+[7m [0m [91m                                             ~~~~~~~~~~~~~~~~~~[0m
+
+[96m_legacy_backup/pages_PetitionsPage.tsx[0m:[93m3[0m:[93m23[0m - [91merror[0m[90m ts(2307): [0mCannot find module '@/components/Petitions' or its corresponding type declarations.
+
+[7m3[0m import Petitions from '@/components/Petitions';
+[7m [0m [91m                      ~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96m_legacy_backup/pages_RegionalLanding.tsx[0m:[93m2[0m:[93m24[0m - [91merror[0m[90m ts(2307): [0mCannot find module 'react-helmet-async' or its corresponding type declarations.
+
+[7m2[0m import { Helmet } from 'react-helmet-async';
+[7m [0m [91m                       ~~~~~~~~~~~~~~~~~~~~[0m
+
+[96msrc/components/SEO.tsx[0m:[93m1[0m:[93m24[0m - [91merror[0m[90m ts(2307): [0mCannot find module 'react-helmet-async' or its corresponding type declarations.
+
+[7m1[0m import { Helmet } from 'react-helmet-async';
+[7m [0m [91m                       ~~~~~~~~~~~~~~~~~~~~[0m
+
+[96msrc/components/ui/chart.tsx[0m:[93m282[0m:[93m15[0m - [91merror[0m[90m ts(7006): [0mParameter 'item' implicitly has an 'any' type.
+
+[7m282[0m         .map((item) => {
+[7m   [0m [91m              ~~~~[0m
+[96msrc/components/ui/chart.tsx[0m:[93m281[0m:[93m18[0m - [91merror[0m[90m ts(7006): [0mParameter 'item' implicitly has an 'any' type.
+
+[7m281[0m         .filter((item) => item.type !== "none")
+[7m   [0m [91m                 ~~~~[0m
+[96msrc/components/ui/chart.tsx[0m:[93m281[0m:[93m10[0m - [91merror[0m[90m ts(2339): [0mProperty 'filter' does not exist on type '{}'.
+
+[7m281[0m         .filter((item) => item.type !== "none")
+[7m   [0m [91m         ~~~~~~[0m
+[96msrc/components/ui/chart.tsx[0m:[93m268[0m:[93m17[0m - [91merror[0m[90m ts(2339): [0mProperty 'length' does not exist on type '{}'.
+
+[7m268[0m   if (!payload?.length) {
+[7m   [0m [91m                ~~~~~~[0m
+[96msrc/components/ui/chart.tsx[0m:[93m262[0m:[93m39[0m - [91merror[0m[90m ts(2344): [0mType '"payload" | "verticalAlign"' does not satisfy the constraint '"string" | "media" | "spacing" | "order" | "height" | "width" | "rotate" | "scale" | "cursor" | "fill" | "stroke" | "strokeWidth" | "fontFamily" | "fontSize" | "fontWeight" | "letterSpacing" | ... 433 more ... | "portal"'.
+  Type '"payload"' is not assignable to type '"string" | "media" | "spacing" | "order" | "height" | "width" | "rotate" | "scale" | "cursor" | "fill" | "stroke" | "strokeWidth" | "fontFamily" | "fontSize" | "fontWeight" | "letterSpacing" | ... 433 more ... | "portal"'.
+
+[7m262[0m   Pick<RechartsPrimitive.LegendProps, "payload" | "verticalAlign"> & {
+[7m   [0m [91m                                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+[96msrc/components/ui/chart.tsx[0m:[93m184[0m:[93m23[0m - [91merror[0m[90m ts(7006): [0mParameter 'index' implicitly has an 'any' type.
+
+[7m184[0m           .map((item, index) => {
+[7m   [0m [91m                      ~~~~~[0m
+[96msrc/components/ui/chart.tsx[0m:[93m184[0m:[93m17[0m - [91merror[0m[90m ts(7006): [0mParameter 'item' implicitly has an 'any' type.
+
+[7m184[0m           .map((item, index) => {
+[7m   [0m [91m                ~~~~[0m
+[96msrc/components/ui/chart.tsx[0m:[93m183[0m:[93m20[0m - [91merror[0m[90m ts(7006): [0mParameter 'item' implicitly has an 'any' type.
+
+[7m183[0m           .filter((item) => item.type !== "none")
+[7m   [0m [91m                   ~~~~[0m
+[96msrc/components/ui/chart.tsx[0m:[93m114[0m:[93m3[0m - [91merror[0m[90m ts(2339): [0mProperty 'label' does not exist on type 'Omit<Props<ValueType, NameType>, PropertiesReadFromContext> & { active?: boolean | undefined; allowEscapeViewBox?: AllowInDimension | undefined; ... 24 more ...; wrapperStyle?: CSSProperties | undefined; } & ClassAttributes<...> & HTMLAttributes<...> & { ...; }'.
+
+[7m114[0m   label,
+[7m   [0m [91m  ~~~~~[0m
+[96msrc/components/ui/chart.tsx[0m:[93m109[0m:[93m3[0m - [91merror[0m[90m ts(2339): [0mProperty 'payload' does not exist on type 'Omit<Props<ValueType, NameType>, PropertiesReadFromContext> & { active?: boolean | undefined; allowEscapeViewBox?: AllowInDimension | undefined; ... 24 more ...; wrapperStyle?: CSSProperties | undefined; } & ClassAttributes<...> & HTMLAttributes<...> & { ...; }'.
+
+[7m109[0m   payload,
+[7m   [0m [91m  ~~~~~~~[0m
+
+[96msrc/layouts/MainLayout.astro[0m:[93m54[0m:[93m15[0m - [93mwarning[0m[90m astro(4000): [0mThis script will be treated as if it has the `is:inline` directive because it contains an attribute. Therefore, features that require processing (e.g. using TypeScript or npm packages in the script) are unavailable.
+
+See docs for more details: https://docs.astro.build/en/guides/client-side-scripts/#script-processing.
+
+Add the `is:inline` directive explicitly to silence this hint.
+
+[7m54[0m       <script type="application/ld+json" set:html={JSON.stringify(schema)} />
+[7m  [0m [93m              ~~~~[0m
+
+[96msrc/sections/Contact.tsx[0m:[93m164[0m:[93m20[0m - [93mwarning[0m[90m ts(6385): [0m'Linkedin' is deprecated.
+
+[7m164[0m                   <Linkedin className="w-5 h-5" />
+[7m   [0m [93m                   ~~~~~~~~[0m
+[96msrc/sections/Contact.tsx[0m:[93m155[0m:[93m20[0m - [93mwarning[0m[90m ts(6385): [0m'Instagram' is deprecated.
+
+[7m155[0m                   <Instagram className="w-5 h-5" />
+[7m   [0m [93m                   ~~~~~~~~~[0m
+[96msrc/sections/Contact.tsx[0m:[93m41[0m:[93m40[0m - [93mwarning[0m[90m ts(6385): [0m'FormEvent' is deprecated.
+
+[7m41[0m   const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
+[7m  [0m [93m                                       ~~~~~~~~~[0m
+[96msrc/sections/Contact.tsx[0m:[93m10[0m:[93m3[0m - [93mwarning[0m[90m ts(6385): [0m'Linkedin' is deprecated.
+
+[7m10[0m   Linkedin
+[7m  [0m [93m  ~~~~~~~~[0m
+[96msrc/sections/Contact.tsx[0m:[93m9[0m:[93m3[0m - [93mwarning[0m[90m ts(6385): [0m'Instagram' is deprecated.
+
+[7m9[0m   Instagram,
+[7m [0m [93m  ~~~~~~~~~[0m
+[96msrc/sections/Contact.tsx[0m:[93m8[0m:[93m3[0m - [93mwarning[0m[90m ts(6133): [0m'Facebook' is declared but its value is never read.
+
+[7m8[0m   Facebook,
+[7m [0m [93m  ~~~~~~~~[0m
+[96msrc/sections/Contact.tsx[0m:[93m8[0m:[93m3[0m - [93mwarning[0m[90m ts(6385): [0m'Facebook' is deprecated.
+
+[7m8[0m   Facebook,
+[7m [0m [93m  ~~~~~~~~[0m
+
+[96msrc/sections/Footer.tsx[0m:[93m48[0m:[93m20[0m - [93mwarning[0m[90m ts(6385): [0m'Linkedin' is deprecated.
+
+[7m48[0m                   <Linkedin className="w-4 h-4" />
+[7m  [0m [93m                   ~~~~~~~~[0m
+[96msrc/sections/Footer.tsx[0m:[93m38[0m:[93m20[0m - [93mwarning[0m[90m ts(6385): [0m'Instagram' is deprecated.
+
+[7m38[0m                   <Instagram className="w-4 h-4" />
+[7m  [0m [93m                   ~~~~~~~~~[0m
+[96msrc/sections/Footer.tsx[0m:[93m1[0m:[93m42[0m - [93mwarning[0m[90m ts(6385): [0m'Linkedin' is deprecated.
+
+[7m1[0m import { Phone, Mail, MapPin, Instagram, Linkedin } from 'lucide-react';
+[7m [0m [93m                                         ~~~~~~~~[0m
+[96msrc/sections/Footer.tsx[0m:[93m1[0m:[93m31[0m - [93mwarning[0m[90m ts(6385): [0m'Instagram' is deprecated.
+
+[7m1[0m import { Phone, Mail, MapPin, Instagram, Linkedin } from 'lucide-react';
+[7m [0m [93m                              ~~~~~~~~~[0m
+
+[96msrc/sections/Navigation.tsx[0m:[93m248[0m:[93m22[0m - [93mwarning[0m[90m ts(6385): [0m'Linkedin' is deprecated.
+
+[7m248[0m                     <Linkedin className="w-5 h-5" />
+[7m   [0m [93m                     ~~~~~~~~[0m
+[96msrc/sections/Navigation.tsx[0m:[93m238[0m:[93m22[0m - [93mwarning[0m[90m ts(6385): [0m'Instagram' is deprecated.
+
+[7m238[0m                     <Instagram className="w-5 h-5" />
+[7m   [0m [93m                     ~~~~~~~~~[0m
+[96msrc/sections/Navigation.tsx[0m:[93m139[0m:[93m20[0m - [93mwarning[0m[90m ts(6385): [0m'Linkedin' is deprecated.
+
+[7m139[0m                   <Linkedin className="w-4 h-4" />
+[7m   [0m [93m                   ~~~~~~~~[0m
+[96msrc/sections/Navigation.tsx[0m:[93m128[0m:[93m20[0m - [93mwarning[0m[90m ts(6385): [0m'Instagram' is deprecated.
+
+[7m128[0m                   <Instagram className="w-4 h-4" />
+[7m   [0m [93m                   ~~~~~~~~~[0m
+[96msrc/sections/Navigation.tsx[0m:[93m2[0m:[93m37[0m - [93mwarning[0m[90m ts(6385): [0m'Linkedin' is deprecated.
+
+[7m2[0m import { Menu, X, Phone, Instagram, Linkedin } from 'lucide-react';
+[7m [0m [93m                                    ~~~~~~~~[0m
+[96msrc/sections/Navigation.tsx[0m:[93m2[0m:[93m26[0m - [93mwarning[0m[90m ts(6385): [0m'Instagram' is deprecated.
+
+[7m2[0m import { Menu, X, Phone, Instagram, Linkedin } from 'lucide-react';
+[7m [0m [93m                         ~~~~~~~~~[0m
+
+[96msrc/views/Contact.tsx[0m:[93m211[0m:[93m24[0m - [93mwarning[0m[90m ts(6385): [0m'Linkedin' is deprecated.
+
+[7m211[0m                       <Linkedin className="w-5 h-5" />
+[7m   [0m [93m                       ~~~~~~~~[0m
+[96msrc/views/Contact.tsx[0m:[93m201[0m:[93m24[0m - [93mwarning[0m[90m ts(6385): [0m'Instagram' is deprecated.
+
+[7m201[0m                       <Instagram className="w-5 h-5" />
+[7m   [0m [93m                       ~~~~~~~~~[0m
+[96msrc/views/Contact.tsx[0m:[93m51[0m:[93m40[0m - [93mwarning[0m[90m ts(6385): [0m'FormEvent' is deprecated.
+
+[7m51[0m   const handleSubmit = async (e: React.FormEvent) => {
+[7m  [0m [93m                                       ~~~~~~~~~[0m
+[96msrc/views/Contact.tsx[0m:[93m10[0m:[93m3[0m - [93mwarning[0m[90m ts(6385): [0m'Linkedin' is deprecated.
+
+[7m10[0m   Linkedin,
+[7m  [0m [93m  ~~~~~~~~[0m
+[96msrc/views/Contact.tsx[0m:[93m9[0m:[93m3[0m - [93mwarning[0m[90m ts(6385): [0m'Instagram' is deprecated.
+
+[7m9[0m   Instagram,
+[7m [0m [93m  ~~~~~~~~~[0m
+
+[96msrc/views/FAQ.tsx[0m:[93m1[0m:[93m24[0m - [91merror[0m[90m ts(2307): [0mCannot find module 'react-helmet-async' or its corresponding type declarations.
+
+[7m1[0m import { Helmet } from 'react-helmet-async';
+[7m [0m [91m                       ~~~~~~~~~~~~~~~~~~~~[0m
+
+[96msrc/views/pages/ArticleView.tsx[0m:[93m1[0m:[93m1[0m - [93mwarning[0m[90m ts(6192): [0mAll imports in import declaration are unused.
+
+[7m1[0m import { useEffect, useState } from 'react';
+[7m [0m [93m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[96msrc/views/pages/FAQ.tsx[0m:[93m1[0m:[93m24[0m - [91merror[0m[90m ts(2307): [0mCannot find module 'react-helmet-async' or its corresponding type declarations.
+
+[7m1[0m import { Helmet } from 'react-helmet-async';
+[7m [0m [91m                       ~~~~~~~~~~~~~~~~~~~~[0m
+
+Result (119 files): 
+- 30 errors
+- 0 warnings
+- 29 hints
+

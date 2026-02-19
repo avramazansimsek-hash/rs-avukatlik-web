@@ -1,0 +1,112 @@
+---
+import MainLayout from '@/layouts/MainLayout.astro';
+import { getAllArticles } from '@/lib/articles';
+import { ArrowRight, BookOpen, Scale, AlertCircle } from 'lucide-react';
+
+const articles = await getAllArticles();
+const cezaArticles = articles.filter(a => a.category === 'Ceza Hukuku');
+
+const title = "Kartal Ceza Hukuku Rehberi | RS Avukatlık";
+const description = "Kartal Ceza Avukatı rehberliğiyle Türk Ceza Kanunu kapsamındaki suçlar, cezalar ve yargılama süreçleri hakkında kapsamlı bilgi kaynağı.";
+const canonical = "https://www.rsavukatlik.com/kartal-ceza-hukuku-rehberi";
+
+const schema = {
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": title,
+  "description": description,
+  "url": canonical,
+  "mainEntity": {
+    "@type": "ItemList",
+    "itemListElement": cezaArticles.map((article, index) => ({
+      "@type": "ListItem",
+      "position": index + 1,
+      "url": `https://www.rsavukatlik.com/makalelerimiz/${article.slug}`,
+      "name": article.title
+    }))
+  }
+};
+---
+
+<MainLayout title={title} description={description} canonical={canonical} schema={schema}>
+  <main className="bg-navy min-h-screen pt-24 pb-20">
+    {/* Hero Section */}
+    <section className="relative py-20 px-4">
+      <div className="container mx-auto max-w-4xl text-center">
+        <span className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-gold/10 text-gold text-xs font-semibold uppercase tracking-wider mb-6 border border-gold/20">
+          <BookOpen className="w-3 h-3" />
+          Kapsamlı Hukuk Rehberi
+        </span>
+        <h1 className="font-serif text-4xl md:text-6xl font-bold text-white mb-6">
+          Kartal Ceza Hukuku <span className="text-gold">Rehberi</span>
+        </h1>
+        <p className="text-white/70 text-lg md:text-xl max-w-2xl mx-auto leading-relaxed mb-10">
+          Türk Ceza Kanunu'ndaki kritik suç tanımları, cezalar ve yargılama süreçleri hakkında detaylı bilgilendirme ve uzman görüşleri.
+        </p>
+        
+        {/* Power Page Link (Master Link) */}
+        <div className="bg-white/5 border border-gold/30 rounded-2xl p-8 max-w-2xl mx-auto transform hover:scale-105 transition-transform duration-300">
+          <h2 className="text-xl font-bold text-white mb-2">Hukuki Desteğe mi İhtiyacınız Var?</h2>
+          <p className="text-white/60 mb-6">Kartal Anadolu Adliyesi'nde görülen davalarınız için uzman desteği alın.</p>
+          <a href="/kartal-ceza-avukati" className="inline-flex items-center justify-center bg-gold text-navy-dark font-bold py-3 px-8 rounded-lg hover:bg-white hover:text-navy transition-colors w-full sm:w-auto">
+            <Scale className="w-5 h-5 mr-2" />
+            Kartal Ceza Avukatı Hizmetimiz
+          </a>
+        </div>
+      </div>
+    </section>
+
+    {/* Content Grid */}
+    <section className="container mx-auto px-4 max-w-6xl">
+      <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+        {cezaArticles.map((article) => (
+          <article className="bg-white/5 border border-white/10 rounded-xl overflow-hidden hover:border-gold/30 transition-all duration-300 group">
+            <div className="p-6">
+              <div className="flex items-center gap-2 text-gold/80 text-xs font-semibold uppercase mb-3">
+                <AlertCircle className="w-3 h-3" />
+                {article.category}
+              </div>
+              <h3 className="font-serif text-xl font-bold text-white mb-3 group-hover:text-gold transition-colors">
+                <a href={`/makalelerimiz/${article.slug}`} className="focus:outline-none">
+                  <span className="absolute inset-0" aria-hidden="true" />
+                  {article.title}
+                </a>
+              </h3>
+              <p className="text-white/60 text-sm line-clamp-3 mb-4">
+                {article.excerpt}
+              </p>
+              <div className="flex items-center text-gold text-sm font-medium">
+                İncele <ArrowRight className="w-4 h-4 ml-2 group-hover:translate-x-1 transition-transform" />
+              </div>
+            </div>
+          </article>
+        ))}
+      </div>
+    </section>
+
+    {/* Local Authority Section */}
+    <section className="container mx-auto px-4 max-w-4xl mt-20 text-center">
+      <div className="bg-gradient-to-br from-navy-light to-navy border border-white/10 rounded-2xl p-10">
+        <h2 className="font-serif text-2xl font-bold text-white mb-4">Bölgesel Uzmanlık: Kartal Anadolu Adliyesi</h2>
+        <p className="text-white/70 mb-8">
+          Ceza yargılamaları, yerel mahkeme uygulamalarına hakimiyet gerektirir. 
+          RS Avukatlık olarak, Kartal ve çevre ilçelerdeki (Maltepe, Pendik, Tuzla) ceza mahkemelerinde 
+          müvekkillerimizin özgürlüğünü savunuyoruz.
+        </p>
+        <div className="flex flex-wrap justify-center gap-4">
+          <a href="/kartal-ceza-avukati" className="text-gold hover:text-white underline underline-offset-4 transition-colors">
+            Kartal Ağır Ceza Avukatı
+          </a>
+          <span className="text-white/20">•</span>
+          <a href="/kartal-ceza-avukati" className="text-gold hover:text-white underline underline-offset-4 transition-colors">
+            Asliye Ceza Davaları
+          </a>
+          <span className="text-white/20">•</span>
+          <a href="/iletisim" className="text-gold hover:text-white underline underline-offset-4 transition-colors">
+             Hemen İletişime Geçin
+          </a>
+        </div>
+      </div>
+    </section>
+  </main>
+</MainLayout>

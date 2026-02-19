@@ -1,0 +1,64 @@
+---
+import '@/globals.css';
+import Navigation from '@/sections/Navigation';
+import Footer from '@/sections/Footer';
+import FloatingWhatsApp from '@/components/FloatingWhatsApp';
+import DisclaimerModal from '@/components/DisclaimerModal';
+
+interface Props {
+  title: string;
+  description?: string;
+  canonical?: string;
+  schema?: any;
+}
+
+const { 
+  title, 
+  description = "İstanbul Kartal merkezli RS Avukatlık; Ağır Ceza, Boşanma ve İş Hukuku davalarında uzman Kurucu Av. Ramazan Şimşek ile profesyonel avukatlık hizmeti sunar.", 
+  canonical, 
+  schema 
+} = Astro.props;
+
+const siteUrl = 'https://www.rsavukatlik.com';
+const fullCanonical = new URL(canonical || Astro.url.pathname, siteUrl).href;
+---
+
+<!doctype html>
+<html lang="tr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="description" content={description} />
+    <meta name="viewport" content="width=device-width" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="canonical" href={fullCanonical} />
+    <meta name="generator" content={Astro.generator} />
+    <title>{title}</title>
+    
+    {/* Open Graph */}
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={fullCanonical} />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="RS Avukatlık Bürosu" />
+    <meta property="og:image" content="https://www.rsavukatlik.com/office-v1.jpg" />
+    <meta property="og:locale" content="tr_TR" />
+    
+    {/* Twitter */}
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:creator" content="@avramazansimsek" />
+    <meta name="twitter:image" content="https://www.rsavukatlik.com/office-v1.jpg" />
+
+    {schema && (
+      <script type="application/ld+json" set:html={JSON.stringify(schema)} />
+    )}
+  </head>
+  <body class="bg-navy min-h-screen text-white antialiased">
+    <Navigation client:load currentPath={Astro.url.pathname} />
+    <slot />
+    <Footer />
+    <FloatingWhatsApp client:idle />
+    <DisclaimerModal client:idle />
+  </body>
+</html>

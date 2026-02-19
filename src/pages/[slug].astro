@@ -1,0 +1,53 @@
+---
+import MainLayout from '@/layouts/MainLayout.astro';
+import RegionalView from '@/views/pages/RegionalView';
+import { regions } from '@/data/regions';
+
+export function getStaticPaths() {
+  return Object.values(regions).map((region) => ({
+    params: { slug: region.slug },
+    props: { regionId: region.id, data: region },
+  }));
+}
+
+const { regionId, data } = Astro.props;
+
+if (!data) {
+  return Astro.redirect('/404');
+}
+
+const title = data.title;
+const description = data.description;
+const canonical = `https://rsavukatlik.com/${data.slug}`;
+
+const schema = {
+  "@context": "https://schema.org",
+  "@type": "LegalService",
+  "name": data.title,
+  "description": data.description,
+  "url": canonical,
+  "telephone": "+905442736027", // Use the phone number from metadata or config
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Mustafa Kemal Caddesi, Seyit Gazi Sokak No: 66 Hukukçular Towers A Blok Kat 18 Daire 110",
+    "addressLocality": "Kartal",
+    "addressRegion": "İstanbul",
+    "postalCode": "34865",
+    "addressCountry": "TR"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.9233689,
+    "longitude": 29.1717963
+  },
+  "areaServed": [
+    data.title.split(' - ')[0].replace(' Avukat', '')
+  ],
+  "priceRange": "₺₺",
+  "image": "https://rsavukatlik.com/office-v1.jpg"
+};
+---
+
+<MainLayout title={title} description={description} canonical={canonical} schema={schema}>
+  <RegionalView client:load regionId={regionId} />
+</MainLayout>

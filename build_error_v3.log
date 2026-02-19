@@ -1,0 +1,30 @@
+
+> build
+> astro build
+
+
+Auto-generating collections for folders in "src/content/" that are not defined as collections.
+This is deprecated, so you should define these collections yourself in "src/content.config.ts".
+The following collections have been auto-generated: [32marticles[39m
+
+[2m13:56:29[22m [34m[content][39m Syncing content
+[2m13:56:29[22m [34m[content][39m Synced content
+[2m13:56:29[22m [34m[types][39m Generated [2m190ms[22m
+[2m13:56:29[22m [34m[build][39m output: [34m"static"[39m
+[2m13:56:29[22m [34m[build][39m mode: [34m"static"[39m
+[2m13:56:29[22m [34m[build][39m directory: [34mC:\Users\RAMAZAN ŞİMŞEK\Desktop\rs avukatlık\Kimi_Agent_RS Hukuk Web Tasarımı\astro-app\dist\[39m
+[2m13:56:29[22m [34m[build][39m Collecting build info...
+[2m13:56:29[22m [34m[build][39m [32m✓ Completed in 281ms.[39m
+[2m13:56:29[22m [34m[build][39m Building static entrypoints...
+[33m[1m13:56:31[22m [WARN] [vite][39m [33mThe glob option "as" has been deprecated in favour of "query". Please update `as: 'raw'` to `query: '?raw', import: 'default'`.[39m
+[31m[1m13:56:31[22m [ERROR] [vite][39m [31m✗[39m Build failed in 2.21s
+[vite]: Rollup failed to resolve import "react-router-dom" from "C:/Users/RAMAZAN ŞİMŞEK/Desktop/rs avukatlık/Kimi_Agent_RS Hukuk Web Tasarımı/astro-app/src/components/FloatingWhatsApp.tsx".
+This is most likely unintended because it can break your application at runtime.
+If you do want to externalize this module explicitly add it to
+`build.rollupOptions.external`
+  [1mStack trace:[22m
+[2m    at viteLog (file:///C:/Users/RAMAZAN%20%C5%9E%C4%B0M%C5%9EEK/Desktop/rs%20avukatl%C4%B1k/Kimi_Agent_RS%20Hukuk%20Web%20Tasar%C4%B1m%C4%B1/astro-app/node_modules/vite/dist/node/chunks/dep-D4NMHUTW.js:46374:15)
+    at onwarn (file:///C:/Users/RAMAZAN%20%C5%9E%C4%B0M%C5%9EEK/Desktop/rs%20avukatl%C4%B1k/Kimi_Agent_RS%20Hukuk%20Web%20Tasar%C4%B1m%C4%B1/astro-app/node_modules/@vitejs/plugin-react/dist/index.js:90:7)
+    at onRollupLog (file:///C:/Users/RAMAZAN%20%C5%9E%C4%B0M%C5%9EEK/Desktop/rs%20avukatl%C4%B1k/Kimi_Agent_RS%20Hukuk%20Web%20Tasar%C4%B1m%C4%B1/astro-app/node_modules/vite/dist/node/chunks/dep-D4NMHUTW.js:46422:5)
+    at file:///C:/Users/RAMAZAN%20%C5%9E%C4%B0M%C5%9EEK/Desktop/rs%20avukatl%C4%B1k/Kimi_Agent_RS%20Hukuk%20Web%20Tasar%C4%B1m%C4%B1/astro-app/node_modules/rollup/dist/es/shared/node-entry.js:20958:32
+    at ModuleLoader.handleInvalidResolvedId (file:///C:/Users/RAMAZAN%20%C5%9E%C4%B0M%C5%9EEK/Desktop/rs%20avukatl%C4%B1k/Kimi_Agent_RS%20Hukuk%20Web%20Tasar%C4%B1m%C4%B1/astro-app/node_modules/rollup/dist/es/shared/node-entry.js:21689:26)[22m

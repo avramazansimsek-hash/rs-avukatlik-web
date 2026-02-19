@@ -1,0 +1,16 @@
+---
+import MainLayout from '@/layouts/MainLayout.astro';
+import RegionalView from '@/views/pages/RegionalView';
+import { regions } from '@/data/regions';
+
+const regionId = 'kartal-icra';
+const data = regions[regionId];
+
+const title = data?.title || 'Kartal İcra Avukatı - RS Avukatlık';
+const description = data?.description || 'Kartal İcra Avukatı ile alacak takibi, haciz ve borç tahsili işlemleri.';
+const canonical = `/${data?.slug}`;
+---
+
+<MainLayout title={title} description={description} canonical={canonical}>
+  <RegionalView regionId={regionId} />
+</MainLayout>

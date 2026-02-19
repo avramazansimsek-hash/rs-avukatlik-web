@@ -31,6 +31,6 @@ jobs:
           server: ${{ secrets.FTP_SERVER }}
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
-          server-dir: ./public_html/ # Değiştirilmesi gerekebilir (örn: ./ veya ./httpdocs/)
+          server-dir: ./httpdocs/
           local-dir: ./dist/
           dangerous-clean-slate: true # Dikkat: Hedef klasördeki her şeyi silip yenisini yazar.

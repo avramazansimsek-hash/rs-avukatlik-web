@@ -152,6 +152,32 @@ export default function AboutPage() {
             </div>
           </div>
 
+
+          {/* Founder Info */}
+          <div
+            className={`mt-24 max-w-4xl mx-auto text-center transition-all duration-700 delay-500 ${isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-8'
+              }`}
+          >
+            <div className="flex flex-col items-center">
+              <div className="w-48 h-48 rounded-full border-4 border-gold/20 overflow-hidden mb-8 shadow-xl relative group">
+                <img
+                  src="/kurucu-ramazan-simsek.jpg?v=2"
+                  alt="Av. Ramazan Şimşek"
+                  className="w-full h-full object-cover object-[center_30%] transition-transform duration-700 group-hover:scale-110"
+                />
+                <div className="absolute inset-0 bg-gold/10 opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
+              </div>
+              <h3 className="font-serif text-3xl font-bold text-white mb-2">
+                Av. Ramazan Şimşek
+              </h3>
+              <p className="text-gold text-base font-medium tracking-wider uppercase mb-6">
+                Kurucu Avukat
+              </p>
+              <p className="text-white/70 text-lg leading-relaxed max-w-2xl mx-auto">
+                "Hukukun üstünlüğü ve müvekkil memnuniyeti ilkeleriyle, her davanın arkasında bir insan hikayesi olduğunun bilinciyle çalışıyoruz."
+              </p>
+            </div>
+          </div>
         </div>
       </section>
     </main>

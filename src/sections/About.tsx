@@ -142,7 +142,7 @@ export default function About() {
           <div className="flex flex-col items-center">
             <div className="w-48 h-48 rounded-full border-4 border-gold/20 overflow-hidden mb-8 shadow-xl relative group">
               <img
-                src="/kurucu-ramazan-simsek.jpg"
+                src="/kurucu-ramazan-simsek.jpg?v=2"
                 alt="Av. Ramazan Şimşek"
                 className="w-full h-full object-cover object-[center_30%] transition-transform duration-700 group-hover:scale-110"
               />

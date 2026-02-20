@@ -81,7 +81,7 @@ export default function HomeAbout() {
                         >
                             <div className="w-40 h-40 rounded-full border-4 border-gold/20 overflow-hidden mb-6 shadow-xl relative group">
                                 <img
-                                    src="/kurucu-ramazan-simsek.jpg"
+                                    src="/kurucu-ramazan-simsek.jpg?v=2"
                                     alt="Av. Ramazan Şimşek"
                                     className="w-full h-full object-cover object-[center_30%]"
                                 />

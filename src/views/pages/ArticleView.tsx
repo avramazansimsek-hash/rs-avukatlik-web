@@ -79,8 +79,12 @@ export default function ArticleView({ article, relatedArticles }: ArticleViewPro
                         {/* Author */}
                         <div className="flex items-center justify-between border-t border-white/10 pt-8">
                             <div className="flex items-center gap-3">
-                                <div className="w-10 h-10 rounded-full bg-gold/20 flex items-center justify-center">
-                                    <User className="w-5 h-5 text-gold" />
+                                <div className="w-12 h-12 rounded-full border border-gold/20 overflow-hidden">
+                                    <img
+                                        src="/kurucu-ramazan-simsek.jpg?v=2"
+                                        alt="Av. Ramazan Şimşek"
+                                        className="w-full h-full object-cover"
+                                    />
                                 </div>
                                 <div>
                                     <div className="text-white font-medium">Av. Ramazan Şimşek</div>

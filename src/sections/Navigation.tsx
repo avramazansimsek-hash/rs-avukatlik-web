@@ -63,14 +63,14 @@ export default function Navigation({ currentPath = '' }: NavigationProps) {
                     <div key={item.href} className="relative group/dropdown">
                       <a
                         href="/makalelerimiz"
-                        className={`relative text-sm font-medium transition-all duration-300 py-4 ${isActive('/makalelerimiz') || isActive('/dilekceler')
+                        className={`relative text-sm font-medium transition-all duration-300 py-4 ${isActive('/makalelerimiz') || isActive('/dilekce-ornekleri')
                           ? 'text-gold'
                           : 'text-white/80 hover:text-gold'
                           }`}
                       >
                         {item.label}
                         <span
-                          className={`absolute bottom-2 left-0 h-0.5 bg-gold transition-all duration-300 ${isActive('/makalelerimiz') || isActive('/dilekceler') ? 'w-full' : 'w-0 group-hover/dropdown:w-full'
+                          className={`absolute bottom-2 left-0 h-0.5 bg-gold transition-all duration-300 ${isActive('/makalelerimiz') || isActive('/dilekce-ornekleri') ? 'w-full' : 'w-0 group-hover/dropdown:w-full'
                             }`}
                         />
                       </a>
@@ -85,7 +85,7 @@ export default function Navigation({ currentPath = '' }: NavigationProps) {
                             Makalelerimiz
                           </a>
                           <a
-                            href="/dilekceler"
+                            href="/dilekce-ornekleri"
                             className="block px-6 py-3 text-sm text-white/80 hover:text-gold hover:bg-white/5 transition-colors"
                           >
                             Dilekçe Örnekleri
@@ -190,7 +190,7 @@ export default function Navigation({ currentPath = '' }: NavigationProps) {
                   <div key={item.href} className="flex flex-col">
                     <a
                       href="/makalelerimiz"
-                      className={`text-lg font-medium py-3 px-4 rounded-lg transition-all duration-300 ${isActive('/makalelerimiz') && !isActive('/dilekceler')
+                      className={`text-lg font-medium py-3 px-4 rounded-lg transition-all duration-300 ${isActive('/makalelerimiz') && !isActive('/dilekce-ornekleri')
                         ? 'bg-gold/20 text-gold'
                         : 'text-white/80 hover:bg-white/5 hover:text-gold'
                         }`}
@@ -199,8 +199,8 @@ export default function Navigation({ currentPath = '' }: NavigationProps) {
                       Makalelerimiz
                     </a>
                     <a
-                      href="/dilekceler"
-                      className={`text-lg font-medium py-3 px-4 rounded-lg transition-all duration-300 ml-4 border-l-2 border-white/10 ${isActive('/dilekceler')
+                      href="/dilekce-ornekleri"
+                      className={`text-lg font-medium py-3 px-4 rounded-lg transition-all duration-300 ml-4 border-l-2 border-white/10 ${isActive('/dilekce-ornekleri')
                         ? 'text-gold border-gold'
                         : 'text-white/60 hover:text-gold hover:border-gold/50'
                         }`}

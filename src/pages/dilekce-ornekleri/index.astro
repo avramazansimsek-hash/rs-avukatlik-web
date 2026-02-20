@@ -1,0 +1,31 @@
+---
+import MainLayout from '@/layouts/MainLayout.astro';
+import DilekcelerPage from '@/views/pages/Dilekceler';
+import { getAllDilekceler } from '@/lib/dilekceler';
+
+const dilekceler = await getAllDilekceler();
+
+const title = "Dilekçe Örnekleri | RS Avukatlık";
+const description = "Ceza Hukuku, Aile Hukuku, İcra Hukuku ve diğer tüm branşlarda en güncel dilekçe örnekleri. Hukuki bilgi ve dilekçe şablonları.";
+const canonical = "https://www.rsavukatlik.com/dilekce-ornekleri";
+
+const schema = {
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": title,
+  "description": description,
+  "url": canonical,
+  "mainEntity": {
+    "@type": "ItemList",
+    "itemListElement": dilekceler.slice(0, 50).map((dilekce, index) => ({
+      "@type": "ListItem",
+      "position": index + 1,
+      "url": `https://www.rsavukatlik.com/dilekce-ornekleri/${dilekce.slug}`
+    }))
+  }
+};
+---
+
+<MainLayout title={title} description={description} canonical={canonical} schema={schema}>
+  <DilekcelerPage client:load initialDilekceler={dilekceler} />
+</MainLayout>

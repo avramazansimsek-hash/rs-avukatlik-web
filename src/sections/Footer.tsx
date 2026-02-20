@@ -70,6 +70,14 @@ export default function Footer() {
               ))}
               <li>
                 <a
+                  href="/dilekce-ornekleri"
+                  className="text-white/60 hover:text-gold transition-colors text-sm"
+                >
+                  Dilekçe Örnekleri
+                </a>
+              </li>
+              <li>
+                <a
                   href="/sikca-sorulan-sorular"
                   className="text-white/60 hover:text-gold transition-colors text-sm"
                 >

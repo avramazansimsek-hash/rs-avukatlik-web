@@ -1,0 +1,90 @@
+---
+import MainLayout from '@/layouts/MainLayout.astro';
+import DilekceView from '@/views/pages/DilekceView';
+import { getAllDilekceler } from '@/lib/dilekceler';
+
+export async function getStaticPaths() {
+  const dilekceler = await getAllDilekceler();
+  return dilekceler.map((dilekce) => ({
+    params: { slug: dilekce.slug },
+    props: { dilekce },
+  }));
+}
+
+const { dilekce } = Astro.props;
+
+if (!dilekce) {
+  return Astro.redirect('/404');
+}
+
+const title = `${dilekce.title} | RS Avukatlık`;
+const description = dilekce.excerpt;
+const canonical = `https://www.rsavukatlik.com/dilekce-ornekleri/${dilekce.slug}`;
+
+const allDilekceler = await getAllDilekceler();
+const relatedDilekceler = allDilekceler
+  .filter(d => d.category === dilekce.category && d.slug !== dilekce.slug)
+  .slice(0, 3); // Get up to 3 related petitions
+
+const getIsoDate = (dateStr: string) => {
+    try {
+        return new Date(dateStr).toISOString().split('T')[0];
+    } catch (e) {
+        return new Date().toISOString().split('T')[0];
+    }
+};
+
+const schema = [
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Ana Sayfa",
+                "item": "https://www.rsavukatlik.com/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Dilekçe Örnekleri",
+                "item": "https://www.rsavukatlik.com/dilekce-ornekleri"
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": dilekce.title,
+                "item": canonical
+            }
+        ]
+    },
+    {
+        "@context": "https://schema.org",
+        "@type": "ItemPage", // Alternatively standard Article 
+        "headline": dilekce.title,
+        "description": dilekce.excerpt,
+        "author": {
+            "@type": "Person",
+            "name": "Av. Ramazan Şimşek",
+            "url": "https://www.rsavukatlik.com",
+            "sameAs": [
+                "https://www.instagram.com/av.ramazansimsek",
+                "https://www.linkedin.com/in/ramazan-%C5%9Fim%C5%9Fek"
+            ]
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "RS Avukatlık",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://www.rsavukatlik.com/logo.webp"
+            }
+        }
+    }
+];
+---
+
+<MainLayout title={title} description={description} canonical={canonical} schema={schema}>
+  <DilekceView client:load dilekce={dilekce} relatedDilekceler={relatedDilekceler} />
+</MainLayout>

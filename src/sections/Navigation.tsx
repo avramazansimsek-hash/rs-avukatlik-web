@@ -63,14 +63,14 @@ export default function Navigation({ currentPath = '' }: NavigationProps) {
                     <div key={item.href} className="relative group/dropdown">
                       <a
                         href="/makalelerimiz"
-                        className={`relative text-sm font-medium transition-all duration-300 py-4 ${isActive('/makalelerimiz') || isActive('/dilekce-ornekleri')
+                        className={`relative text-sm font-medium transition-all duration-300 py-4 ${isActive('/makalelerimiz') || isActive('/dilekce-ornekleri') || isActive('/kanunlar')
                           ? 'text-gold'
                           : 'text-white/80 hover:text-gold'
                           }`}
                       >
                         {item.label}
                         <span
-                          className={`absolute bottom-2 left-0 h-0.5 bg-gold transition-all duration-300 ${isActive('/makalelerimiz') || isActive('/dilekce-ornekleri') ? 'w-full' : 'w-0 group-hover/dropdown:w-full'
+                          className={`absolute bottom-2 left-0 h-0.5 bg-gold transition-all duration-300 ${isActive('/makalelerimiz') || isActive('/dilekce-ornekleri') || isActive('/kanunlar') ? 'w-full' : 'w-0 group-hover/dropdown:w-full'
                             }`}
                         />
                       </a>
@@ -86,9 +86,15 @@ export default function Navigation({ currentPath = '' }: NavigationProps) {
                           </a>
                           <a
                             href="/dilekce-ornekleri"
-                            className="block px-6 py-3 text-sm text-white/80 hover:text-gold hover:bg-white/5 transition-colors"
+                            className="block px-6 py-3 text-sm text-white/80 hover:text-gold hover:bg-white/5 transition-colors border-b border-white/5"
                           >
                             Dilekçe Örnekleri
+                          </a>
+                          <a
+                            href="/kanunlar"
+                            className="block px-6 py-3 text-sm text-white/80 hover:text-gold hover:bg-white/5 transition-colors"
+                          >
+                            Kanunlar ve Mevzuat
                           </a>
                         </div>
                       </div>
@@ -190,7 +196,7 @@ export default function Navigation({ currentPath = '' }: NavigationProps) {
                   <div key={item.href} className="flex flex-col">
                     <a
                       href="/makalelerimiz"
-                      className={`text-lg font-medium py-3 px-4 rounded-lg transition-all duration-300 ${isActive('/makalelerimiz') && !isActive('/dilekce-ornekleri')
+                      className={`text-lg font-medium py-3 px-4 rounded-lg transition-all duration-300 ${isActive('/makalelerimiz') && !isActive('/dilekce-ornekleri') && !isActive('/kanunlar')
                         ? 'bg-gold/20 text-gold'
                         : 'text-white/80 hover:bg-white/5 hover:text-gold'
                         }`}
@@ -207,6 +213,16 @@ export default function Navigation({ currentPath = '' }: NavigationProps) {
                       style={{ animationDelay: `${index * 50 + 25}ms` }}
                     >
                       ↳ Dilekçe Örnekleri
+                    </a>
+                    <a
+                      href="/kanunlar"
+                      className={`text-lg font-medium py-3 px-4 rounded-lg transition-all duration-300 ml-4 border-l-2 border-white/10 ${isActive('/kanunlar')
+                        ? 'text-gold border-gold'
+                        : 'text-white/60 hover:text-gold hover:border-gold/50'
+                        }`}
+                      style={{ animationDelay: `${index * 50 + 50}ms` }}
+                    >
+                      ↳ Kanunlar ve Mevzuat
                     </a>
                   </div>
                 );

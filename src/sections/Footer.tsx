@@ -78,6 +78,14 @@ export default function Footer() {
               </li>
               <li>
                 <a
+                  href="/kanunlar"
+                  className="text-white/60 hover:text-gold transition-colors text-sm"
+                >
+                  Kanunlar ve Mevzuat
+                </a>
+              </li>
+              <li>
+                <a
                   href="/sikca-sorulan-sorular"
                   className="text-white/60 hover:text-gold transition-colors text-sm"
                 >

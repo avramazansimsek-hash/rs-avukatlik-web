@@ -2,7 +2,7 @@
 slug: "tck-madde-54"
 title: "TCK Madde 54: Madde 54- (1) İyiniyetli üçüncü kişilere ait olmamak koşuluyla, kasıtlı bir suçu..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 54 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

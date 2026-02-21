@@ -2,7 +2,7 @@
 slug: "tmk-madde-965"
 title: "TMK Madde 965: Madde 965- Borç vadesinde ödenmezse, ödünç veren, borçluya önceden noter aracılı..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 965 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

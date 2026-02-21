@@ -2,7 +2,7 @@
 slug: "tmk-madde-242"
 title: "TMK Madde 242: Madde 242- Mal ayrılığı rejiminde eşlerden her biri, yasal sınırlar içerisinde k..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 242 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

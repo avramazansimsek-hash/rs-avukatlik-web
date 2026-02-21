@@ -2,7 +2,7 @@
 slug: "hmk-madde-38"
 title: "HMK Madde 38: MADDE 38- (1) Hâkimin reddi sebebini bilen tarafın, ret talebini en geç ilk duru..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 38 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

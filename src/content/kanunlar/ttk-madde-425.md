@@ -2,7 +2,7 @@
 slug: "ttk-madde-425"
 title: "TTK Madde 425: MADDE 425- (1) Pay sahibi, paylarından doğan haklarını kullanmak için, genel kur..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 425 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

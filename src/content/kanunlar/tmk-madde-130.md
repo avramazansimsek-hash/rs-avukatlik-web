@@ -2,7 +2,7 @@
 slug: "tmk-madde-130"
 title: "TMK Madde 130: Madde 130- Yeniden evlenmek isteyen kimse, önceki evliliğinin sona ermiş olduğun..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 130 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "is_kanunu-madde-63"
 title: "IS_KANUNU Madde 63: Madde 63 - Genel bakımdan çalışma süresi haftada en çok kırkbeş saattir. Aksi ka..."
 category: "İş Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İş Kanunu Madde 63 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

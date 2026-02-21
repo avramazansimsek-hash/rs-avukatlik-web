@@ -2,7 +2,7 @@
 slug: "hmk-madde-70"
 title: "HMK Madde 70: MADDE 70- (1) Cumhuriyet savcısı, kanunda açıkça öngörülen hâllerde, hukuk davas..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 70 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

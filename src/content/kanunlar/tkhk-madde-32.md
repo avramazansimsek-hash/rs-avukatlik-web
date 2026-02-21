@@ -2,7 +2,7 @@
 slug: "tkhk-madde-32"
 title: "TKHK Madde 32: MADDE 32- (1) Konut finansmanı sözleşmesi, konut edinmeleri amacıyla; tüketicile..."
 category: "Tüketicinin Korunması Hakkında Kanun"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Tüketicinin Korunması Hakkında Kanun Madde 32 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tbk-madde-458"
 title: "TBK Madde 458: MADDE 458- Pazarlamacılık ilişkisinden doğan muaccel alacaklar ile işverenin öde..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 458 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-823"
 title: "TTK Madde 823: MADDE 823- (1) Muhatap ve yerleşim yerli çeki ödeyecek olan üçüncü kişi aleyhine..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 823 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

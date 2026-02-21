@@ -2,7 +2,7 @@
 slug: "cmk-madde-332"
 title: "CMK Madde 332: Madde 332 – (1) Suçların soruşturma ve kovuşturması sırasında Cumhuriyet savcısı..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 332 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

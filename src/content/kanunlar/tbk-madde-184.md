@@ -2,7 +2,7 @@
 slug: "tbk-madde-184"
 title: "TBK Madde 184: MADDE 184- Alacağın devrinin geçerliliği, yazılı şekilde yapılmış olmasına bağlı..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 184 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

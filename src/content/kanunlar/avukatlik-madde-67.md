@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-67"
 title: "AVUKATLIK Madde 67: Madde 67 – Bir avukat, levhasında yazılı bulunduğu baro bölgesi dışında sürekli..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 67 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

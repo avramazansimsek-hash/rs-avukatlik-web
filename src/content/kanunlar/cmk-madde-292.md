@@ -2,7 +2,7 @@
 slug: "cmk-madde-292"
 title: "CMK Madde 292: Madde 292 – (1) Sanığın aleyhine, yokluğunda verilen hükümlerde eski hâle getirm..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 292 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

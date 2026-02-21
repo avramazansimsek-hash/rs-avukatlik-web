@@ -2,7 +2,7 @@
 slug: "tmk-madde-740"
 title: "TMK Madde 740: Madde 740- Komşunun arazisine taşarak zarar veren dal ve kökler, onun istemi üze..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 740 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

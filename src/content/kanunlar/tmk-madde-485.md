@@ -2,7 +2,7 @@
 slug: "tmk-madde-485"
 title: "TMK Madde 485: Madde 485- Vesayet makamı, ancak gerekli araştırmayı yaptıktan ve vasiyi dinledi..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 485 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

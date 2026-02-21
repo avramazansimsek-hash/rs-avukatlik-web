@@ -2,7 +2,7 @@
 slug: "ttk-madde-633"
 title: "TTK Madde 633: MADDE 633- (1) Esas sermayenin kaybı ya da borca batık olma hâllerinde anonim şi..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 633 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

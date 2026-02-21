@@ -2,7 +2,7 @@
 slug: "cmk-madde-157"
 title: "CMK Madde 157: Madde 157 – (1) Kanunun başka hüküm koyduğu hâller saklı kalmak ve savunma hakla..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 157 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

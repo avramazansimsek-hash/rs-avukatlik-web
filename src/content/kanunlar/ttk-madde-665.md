@@ -2,7 +2,7 @@
 slug: "ttk-madde-665"
 title: "TTK Madde 665: MADDE 665- (1) İptali istenen senet ibraz edilirse, mahkeme, dilekçe sahibine se..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 665 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

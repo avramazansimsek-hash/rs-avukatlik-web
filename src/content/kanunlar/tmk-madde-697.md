@@ -2,7 +2,7 @@
 slug: "tmk-madde-697"
 title: "TMK Madde 697: Madde 697- Bir paydaşın çıkarılmasına ilişkin hükümler, kıyas yoluyla, pay üzeri..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 697 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

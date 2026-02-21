@@ -1,8 +1,8 @@
 ---
 slug: "avukatlik-madde-6"
-title: "AVUKATLIK Madde 6: Madde 6 – Bu Kanunun yürürlüğe girdiği tarihte Avukatlar Yardımlaşma Sandığında..."
+title: "AVUKATLIK Madde 6: Madde 6 – (Değişik: 2/5/2001 - 4667/6 md.)..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 6 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 
@@ -11,13 +11,13 @@ excerpt: "Avukatlık Kanunu Madde 6 tam metni, gerekçesi ve Av. Ramazan Şimşe
 ## Kanun Metni
 
 ```text
-Madde 6 – Bu Kanunun yürürlüğe girdiği tarihte Avukatlar Yardımlaşma Sandığında üye bulunan avukatlar, levhasına yazılı oldukları baroya müracat ederek sandıktaki kayıtların silinmesini istiyebilirler.
+Madde 6 – (Değişik: 2/5/2001 - 4667/6 md.)
 
-Yukarıdaki fıkra gereğince sandıktan kayıtları silinen avukatların sandıktaki alacaklarının, üyelik süresi ve sandık mevcuduna göre kendilerine ödenmesi şekli, bu Kanunun yürürlüğe girdiği tarihten itibaren üç ay içinde ilgili baro yönetim kurulu tarafından hazırlanıp baro genel kurulunca onaylanan bir yönetmelikle tespit edilir.
+(…)[5] 4 üncü maddedeki koşulları taşıyanlar başvurdukları baro levhasına yazılmalarını dilekçe ile isteyebilirler.[6]
 
  
 
-Geçici
+Karar:
 ```
 
 

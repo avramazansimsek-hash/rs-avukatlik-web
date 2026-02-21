@@ -2,7 +2,7 @@
 slug: "ttk-madde-1053"
 title: "TTK Madde 1053: MADDE 1053- (1) Malik, alacaklının alacağını ödeme veya feshi bildirme hakkına s..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1053 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

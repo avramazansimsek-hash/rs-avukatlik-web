@@ -2,7 +2,7 @@
 slug: "tbk-madde-211"
 title: "TBK Madde 211: MADDE 211- Aksine sözleşme veya âdet yoksa, ölçme ve tartma gibi devir giderleri..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 211 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

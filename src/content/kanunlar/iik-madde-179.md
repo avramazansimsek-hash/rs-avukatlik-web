@@ -2,7 +2,7 @@
 slug: "iik-madde-179"
 title: "IIK Madde 179: Madde 179- (Değişik: 28/2/2018-7101/3 md.)..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 179 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

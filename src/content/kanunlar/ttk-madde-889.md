@@ -2,7 +2,7 @@
 slug: "ttk-madde-889"
 title: "TTK Madde 889: MADDE 889- (1) Eşyanın zıyaı veya hasara uğramış olduğu açıkça görülüyorsa, gönd..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 889 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

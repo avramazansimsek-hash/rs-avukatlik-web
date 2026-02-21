@@ -2,7 +2,7 @@
 slug: "ttk-madde-1020"
 title: "TTK Madde 1020: MADDE 1020- (1) İpoteğin kapsamı hakkında Türk Medenî Kanununun 862 ve 863 üncü..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1020 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

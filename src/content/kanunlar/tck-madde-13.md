@@ -2,7 +2,7 @@
 slug: "tck-madde-13"
 title: "TCK Madde 13: Madde 13- (1) Aşağıdaki suçların, vatandaş veya yabancı tarafından, yabancı ülke..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 13 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

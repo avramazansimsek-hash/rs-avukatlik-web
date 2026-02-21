@@ -2,7 +2,7 @@
 slug: "tbk-madde-86"
 title: "TBK Madde 86: MADDE 86- Çeşit borçlarında hukuki ilişkiden ve işin özelliğinden aksi anlaşılma..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 86 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

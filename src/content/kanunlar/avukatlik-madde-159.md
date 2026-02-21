@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-159"
 title: "AVUKATLIK Madde 159: Madde 159 – Disiplin cezasını gerektirecek eylemlerin işlenmesinden itibaren üç..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 159 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

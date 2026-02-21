@@ -2,7 +2,7 @@
 slug: "tmk-madde-855"
 title: "TMK Madde 855: Madde 855- Birden çok taşınmazın aynı borç için rehnedilmesi, taşınmazların aynı..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 855 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

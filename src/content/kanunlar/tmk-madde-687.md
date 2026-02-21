@@ -2,7 +2,7 @@
 slug: "tmk-madde-687"
 title: "TMK Madde 687: Madde 687- Asıl şeye zilyet olan kimsenin sadece geçici olarak kullanması veya t..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 687 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

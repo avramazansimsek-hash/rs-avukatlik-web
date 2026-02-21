@@ -2,7 +2,7 @@
 slug: "cmk-madde-163"
 title: "CMK Madde 163: Madde 163 – (1) Suçüstü hâli ile gecikmesinde sakınca bulunan hâllerde, Cumhuriy..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 163 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

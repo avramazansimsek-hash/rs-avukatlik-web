@@ -2,7 +2,7 @@
 slug: "tmk-madde-180"
 title: "TMK Madde 180: Madde 180- Ayrılığa karar verilirse mahkeme, ayrılığın süresine ve eşlerin durum..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 180 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

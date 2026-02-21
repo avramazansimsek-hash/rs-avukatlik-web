@@ -2,7 +2,7 @@
 slug: "ttk-madde-1196"
 title: "TTK Madde 1196: MADDE 1196- (1) Taşıyan, navlun dışında, pey akçesi, prim, bahşiş ve benzeri bir..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1196 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

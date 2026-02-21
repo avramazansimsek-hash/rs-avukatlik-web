@@ -2,7 +2,7 @@
 slug: "tmk-madde-796"
 title: "TMK Madde 796: Madde 796- İntifa hakkı, konusunun tamamen yok olması ve taşınmazlarda tescilin..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 796 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

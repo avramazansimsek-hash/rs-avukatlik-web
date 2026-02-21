@@ -2,7 +2,7 @@
 slug: "is_kanunu-madde-104"
 title: "IS_KANUNU Madde 104: Madde 104 - Bu Kanunun 63 üncü maddesinde ve bu maddede belirtilen yönetmelikte..."
 category: "İş Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İş Kanunu Madde 104 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

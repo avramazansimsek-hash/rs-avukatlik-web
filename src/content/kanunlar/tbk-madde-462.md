@@ -2,7 +2,7 @@
 slug: "tbk-madde-462"
 title: "TBK Madde 462: MADDE 462- İşveren, işçiye her yeni iş verişinde genel çalışma koşulları dışında..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 462 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

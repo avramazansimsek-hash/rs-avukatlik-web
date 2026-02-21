@@ -2,7 +2,7 @@
 slug: "hmk-madde-40"
 title: "HMK Madde 40: MADDE 40- (1) Hâkimin reddi talebi, reddi istenen hâkim katılmaksızın mensup old..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 40 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

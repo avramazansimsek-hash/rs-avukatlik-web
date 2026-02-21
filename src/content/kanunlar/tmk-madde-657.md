@@ -2,7 +2,7 @@
 slug: "tmk-madde-657"
 title: "TMK Madde 657: Madde 657- Taşınmazlar, paylaşmanın yapıldığı zamandaki gerçek değerleri esas al..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 657 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

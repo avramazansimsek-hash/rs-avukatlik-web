@@ -2,7 +2,7 @@
 slug: "iik-madde-37"
 title: "IIK Madde 37: Madde 37 – İcra emrinde yazılı müddet geçtiği halde borcunu ödemiyenlerin mallar..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 37 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

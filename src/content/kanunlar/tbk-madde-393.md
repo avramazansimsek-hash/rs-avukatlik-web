@@ -2,7 +2,7 @@
 slug: "tbk-madde-393"
 title: "TBK Madde 393: MADDE 393- Hizmet sözleşmesi, işçinin işverene bağımlı olarak belirli veya belir..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 393 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

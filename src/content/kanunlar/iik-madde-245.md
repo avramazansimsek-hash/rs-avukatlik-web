@@ -2,7 +2,7 @@
 slug: "iik-madde-245"
 title: "IIK Madde 245: Madde 245 – Alacaklıların masa tarafından neticelendirilmesine lüzum görmedikler..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 245 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

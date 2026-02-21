@@ -2,7 +2,7 @@
 slug: "tck-madde-99"
 title: "TCK Madde 99: Madde 99- (1) Rızası olmaksızın bir kadının çocuğunu düşürten kişi, beş yıldan o..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 99 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

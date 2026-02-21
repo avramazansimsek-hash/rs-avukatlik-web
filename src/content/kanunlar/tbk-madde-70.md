@@ -2,7 +2,7 @@
 slug: "tbk-madde-70"
 title: "TBK Madde 70: MADDE 70- Bir başkasına ait bina veya diğer yapı eserlerinden zarar görme tehlik..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 70 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

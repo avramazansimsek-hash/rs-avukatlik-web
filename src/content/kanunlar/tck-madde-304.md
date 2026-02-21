@@ -2,7 +2,7 @@
 slug: "tck-madde-304"
 title: "TCK Madde 304: Madde 304- (1) Türkiye Cumhuriyeti Devletine karşı savaş açması veya hasmane har..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 304 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

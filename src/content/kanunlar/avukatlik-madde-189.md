@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-189"
 title: "AVUKATLIK Madde 189: Madde 189 – (Mülga: 26/2/1970 - 1238/6 md.)..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 189 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

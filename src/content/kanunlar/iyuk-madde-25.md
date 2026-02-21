@@ -2,7 +2,7 @@
 slug: "iyuk-madde-25"
 title: "IYUK Madde 25: Madde 25 – Kararın mahkeme başkanı ve üyeleri veya hakimi tarafından imzalı asıl..."
 category: "İdari Yargılama Usulü Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İdari Yargılama Usulü Kanunu Madde 25 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

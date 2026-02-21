@@ -2,7 +2,7 @@
 slug: "ttk-madde-42"
 title: "TTK Madde 42: MADDE 42- (1) Kollektif şirketin ticaret unvanı, bütün ortakların veya ortaklard..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 42 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

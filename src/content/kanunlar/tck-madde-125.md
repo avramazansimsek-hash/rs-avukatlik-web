@@ -2,7 +2,7 @@
 slug: "tck-madde-125"
 title: "TCK Madde 125: Madde 125- (1) Bir kimseye onur, şeref ve saygınlığını rencide edebilecek niteli..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 125 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

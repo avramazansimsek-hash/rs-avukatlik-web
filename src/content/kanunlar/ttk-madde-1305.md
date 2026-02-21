@@ -2,7 +2,7 @@
 slug: "ttk-madde-1305"
 title: "TTK Madde 1305: MADDE 1305- (1) Kurtarma ücreti taraflarca belirlenmemişse veya kararlaştırılan..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1305 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

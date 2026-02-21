@@ -2,7 +2,7 @@
 slug: "tbk-madde-383"
 title: "TBK Madde 383: MADDE 383- Kullanma için belirli bir süre öngörülmemişse, ödünç alanın, ödünç ko..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 383 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

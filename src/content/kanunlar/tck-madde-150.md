@@ -2,7 +2,7 @@
 slug: "tck-madde-150"
 title: "TCK Madde 150: Madde 150- (1) Kişinin bir hukuki ilişkiye dayanan alacağını tahsil amacıyla teh..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 150 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-313"
 title: "TTK Madde 313: MADDE 313- (1) Komanditerler, önce aldıkları ve usulüne göre tahakkuk ettirilmiş..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 313 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

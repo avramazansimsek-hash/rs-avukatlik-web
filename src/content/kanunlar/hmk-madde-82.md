@@ -2,7 +2,7 @@
 slug: "hmk-madde-82"
 title: "HMK Madde 82: MADDE 82- (1) İstifa eden vekilin vekâlet görevi, istifanın müvekkiline tebliğin..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 82 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

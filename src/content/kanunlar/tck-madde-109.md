@@ -2,7 +2,7 @@
 slug: "tck-madde-109"
 title: "TCK Madde 109: Madde 109- (1) Bir kimseyi hukuka aykırı olarak bir yere gitmek veya bir yerde k..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 109 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

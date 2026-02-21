@@ -2,7 +2,7 @@
 slug: "tmk-madde-270"
 title: "TMK Madde 270: Madde 270 - Mal rejimi eşler arasındaki borçların muaccel olmasını önlemez. Bunu..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 270 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

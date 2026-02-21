@@ -2,7 +2,7 @@
 slug: "hmk-madde-104"
 title: "HMK Madde 104: MADDE 104- (1) Adli tatile tabi olan dava ve işlerde, bu Kanunun tayin ettiği sü..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 104 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tkhk-madde-78"
 title: "TKHK Madde 78: MADDE 78- (1) (Değişik:24/3/2022-7392/16 md.) 77 nci maddenin on ikinci ve on üç..."
 category: "Tüketicinin Korunması Hakkında Kanun"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Tüketicinin Korunması Hakkında Kanun Madde 78 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "hmk-madde-400"
 title: "HMK Madde 400: MADDE 400- (1) Taraflardan her biri, görülmekte olan bir davada henüz inceleme s..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 400 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

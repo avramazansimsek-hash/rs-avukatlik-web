@@ -2,7 +2,7 @@
 slug: "ttk-madde-130"
 title: "TTK Madde 130: MADDE 130- (1) Sermaye olarak şirkete alacaklarını devretmiş olan bir ortak, ala..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 130 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

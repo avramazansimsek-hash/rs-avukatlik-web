@@ -2,7 +2,7 @@
 slug: "tmk-madde-167"
 title: "TMK Madde 167: Madde 167- Boşanma davası açmaya hakkı olan eş, dilerse boşanma, dilerse ayrılık..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 167 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

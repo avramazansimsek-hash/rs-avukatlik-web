@@ -2,7 +2,7 @@
 slug: "tck-madde-336"
 title: "TCK Madde 336: Madde 336- (1) Yetkili makamların kanun ve düzenleyici işlemlere göre açıklanmas..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 336 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-948"
 title: "TMK Madde 948: Madde 948- Aynı taşınır üzerinde birden çok rehin hakkı bulunduğu takdirde, alac..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 948 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

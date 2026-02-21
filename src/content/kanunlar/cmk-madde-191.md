@@ -2,7 +2,7 @@
 slug: "cmk-madde-191"
 title: "CMK Madde 191: Madde 191 – (1) Sanığın ve müdafiinin hazır bulunup bulunmadığı, çağrılmış tanık..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 191 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

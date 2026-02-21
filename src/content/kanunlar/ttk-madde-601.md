@@ -2,7 +2,7 @@
 slug: "ttk-madde-601"
 title: "TTK Madde 601: MADDE 601- (1) Esas sermayenin azaltılması hâli hariç, ortaklara, esas sermaye p..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 601 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

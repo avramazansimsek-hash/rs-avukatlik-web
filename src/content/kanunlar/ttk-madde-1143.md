@@ -2,7 +2,7 @@
 slug: "ttk-madde-1143"
 title: "TTK Madde 1143: MADDE 1143- (1) Sözleşme, yükleme limanı düzenlemeleri ve bunlar yoksa yerel tea..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1143 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

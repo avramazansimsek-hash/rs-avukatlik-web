@@ -2,7 +2,7 @@
 slug: "cmk-madde-19"
 title: "CMK Madde 19: Madde 19 – (1) Yetkili hâkim veya mahkeme, hukukî veya fiilî sebeplerle görevini..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 19 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

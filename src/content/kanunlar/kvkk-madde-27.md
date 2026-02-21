@@ -2,7 +2,7 @@
 slug: "kvkk-madde-27"
 title: "KVKK Madde 27: MADDE 27- (1) Kurum personeli, bu Kanunla düzenlenen hususlar dışında 657 sayılı..."
 category: "Kişisel Verilerin Korunması Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Kişisel Verilerin Korunması Kanunu Madde 27 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

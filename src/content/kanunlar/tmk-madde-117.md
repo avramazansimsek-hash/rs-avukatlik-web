@@ -2,7 +2,7 @@
 slug: "tmk-madde-117"
 title: "TMK Madde 117: Madde 117- Vakıfların malları üzerinde zilyetlik yoluyla kazanma hükümleri uygul..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 117 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -1,8 +1,8 @@
 ---
 slug: "iik-madde-19"
-title: "IIK Madde 19: Madde 19- (Ek:28/3/2023-7445/5 md.)..."
+title: "IIK Madde 19: Madde 19 – (Değişik: 18/2/1965-538/12 md.)..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 19 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 
@@ -11,15 +11,19 @@ excerpt: "İcra ve İflas Kanunu Madde 19 tam metni, gerekçesi ve Av. Ramazan �
 ## Kanun Metni
 
 ```text
-Madde 19- (Ek:28/3/2023-7445/5 md.)
+Madde 19 – (Değişik: 18/2/1965-538/12 md.)
 
-Bu maddeyi ihdas eden Kanunla, Kanuna eklenen 79/a maddesi, bu maddenin yürürlüğe girdiği tarihten önce verilen konutta haciz yapılmasına ilişkin kararlar hakkında uygulanmaz. Bu değişikliğin yürürlüğe girdiği tarihten önce verilen konutta haciz kararları hakkında, bu değişiklikten önceki hükümlerin uygulanmasına devam olunur.
+Gün olarak tayin olunan müddetlerde ilk gün hesaba katılmaz.
 
-Bu maddeyi ihdas eden Kanunla, Kanunun 82 nci maddesinin birinci fıkrasının (3) numaralı bendi ile ikinci fıkrasında yapılan değişiklikler, bu maddenin yürürlüğe girdiği tarihten önce haczedilmiş eşyalar hakkında uygulanmaz. Bu değişikliklerin yürürlüğe girdiği tarihten önce haczedilen eşyalar hakkında, bu değişikliklerden önceki hükümlerin uygulanmasına devam olunur.
+Ay veya sene olarak tayin olunan müddetler ayın veya senenin kaçıncı günü işlemeye başlamış ise biteceği ay veya senenin aynı gününde ve müddetin biteceği ayın sonunda böyle bir gün yoksa ayın son gününde biter. (Ek cümle:2/3/2024-7499/1 md.) Müddet, hafta olarak belirlenmiş ise başladığı güne son hafta içindeki karşılık gelen günde biter.
+
+Bir müddetin sonuncu günü resmi bir tatil gününe rastlarsa, müddet tatili takibeden günde biter.
+
+Müddet, son günün tatil saatinde bitmiş sayılır.
 
  
 
-Geçici
+Müddetlerin değiştirilmemesi:
 ```
 
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-1206"
 title: "TTK Madde 1206: MADDE 1206- (1) Taşıyan, üzerinde hapis hakkı kullandığı eşyanın paraya çevrilme..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1206 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

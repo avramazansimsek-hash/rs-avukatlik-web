@@ -2,7 +2,7 @@
 slug: "tbk-madde-550"
 title: "TBK Madde 550: MADDE 550- Temsil yetkisinin verildiği ticaret siciline tescil edilmemiş olsa bi..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 550 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

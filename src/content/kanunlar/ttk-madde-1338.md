@@ -2,7 +2,7 @@
 slug: "ttk-madde-1338"
 title: "TTK Madde 1338: MADDE 1338- (1) 1992 tarihli Sorumluluk Sözleşmesinin I inci maddesinin altıncı..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1338 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

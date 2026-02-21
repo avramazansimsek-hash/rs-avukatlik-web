@@ -2,7 +2,7 @@
 slug: "tbk-madde-214"
 title: "TBK Madde 214: MADDE 214- Satış sözleşmesinin kurulduğu sırada var olan bir hak dolayısıyla, sa..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 214 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

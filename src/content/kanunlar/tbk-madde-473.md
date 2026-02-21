@@ -2,7 +2,7 @@
 slug: "tbk-madde-473"
 title: "TBK Madde 473: MADDE 473- Yüklenicinin işe zamanında başlamaması veya sözleşme hükümlerine aykı..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 473 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

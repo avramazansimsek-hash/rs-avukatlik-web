@@ -2,7 +2,7 @@
 slug: "tck-madde-79"
 title: "TCK Madde 79: Madde 79- (1) Doğrudan doğruya veya dolaylı olarak maddi menfaat elde etmek maks..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 79 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

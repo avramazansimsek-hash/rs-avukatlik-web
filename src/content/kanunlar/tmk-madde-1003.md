@@ -2,7 +2,7 @@
 slug: "tmk-madde-1003"
 title: "TMK Madde 1003: Madde 1003- Bir taşınmazın kütüğe kaydı ve belirlenmesinde resmî bir ölçüme daya..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 1003 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

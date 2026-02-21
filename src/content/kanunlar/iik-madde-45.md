@@ -2,7 +2,7 @@
 slug: "iik-madde-45"
 title: "IIK Madde 45: Madde 45 – Rehinle temin edilmiş bir alacağın borçlusu iflasa tabi şahıslardan o..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 45 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

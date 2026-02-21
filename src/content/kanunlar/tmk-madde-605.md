@@ -2,7 +2,7 @@
 slug: "tmk-madde-605"
 title: "TMK Madde 605: Madde 605-Yasal ve atanmış mirasçılar mirası reddedebilirler...."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 605 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

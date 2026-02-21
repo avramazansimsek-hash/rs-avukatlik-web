@@ -2,7 +2,7 @@
 slug: "ttk-madde-1161"
 title: "TTK Madde 1161: MADDE 1161- (1) Yolculuk çarteri sözleşmesine veya taşıtanın sonradan verdiği ge..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1161 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

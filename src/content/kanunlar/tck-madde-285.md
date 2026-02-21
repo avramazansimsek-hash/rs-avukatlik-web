@@ -2,7 +2,7 @@
 slug: "tck-madde-285"
 title: "TCK Madde 285: Madde 285- (1) (Değişik: 2/7/2012-6352/92 md.)..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 285 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

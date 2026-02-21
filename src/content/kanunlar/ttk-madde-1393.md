@@ -2,7 +2,7 @@
 slug: "ttk-madde-1393"
 title: "TTK Madde 1393: MADDE 1393- (1) Sıra cetvelinin dördüncü sırasına, gemi, cebrî icra yoluyla satı..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1393 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tck-madde-108"
 title: "TCK Madde 108: Madde 108- (1) Bir şeyi yapması veya yapmaması ya da kendisinin yapmasına müsaad..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 108 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

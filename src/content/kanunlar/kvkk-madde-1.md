@@ -1,8 +1,8 @@
 ---
 slug: "kvkk-madde-1"
-title: "KVKK Madde 1: MADDE 1- (1) Bu Kanunun yayımı tarihinden itibaren altı ay içinde 21 inci madded..."
+title: "KVKK Madde 1: MADDE 1- (1) Bu Kanunun amacı, kişisel verilerin işlenmesinde başta özel hayatın..."
 category: "Kişisel Verilerin Korunması Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Kişisel Verilerin Korunması Kanunu Madde 1 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 
@@ -11,29 +11,11 @@ excerpt: "Kişisel Verilerin Korunması Kanunu Madde 1 tam metni, gerekçesi ve 
 ## Kanun Metni
 
 ```text
-MADDE 1- (1) Bu Kanunun yayımı tarihinden itibaren altı ay içinde 21 inci maddede öngörülen usule göre Kurul üyeleri seçilir ve Başkanlık teşkilatı oluşturulur.
-
-(2) Veri sorumluları, Kurul tarafından belirlenen ve ilan edilen süre içinde Veri Sorumluları Siciline kayıt yaptırmak zorundadır.
-
-(3) Bu Kanunun yayımı tarihinden önce işlenmiş olan kişisel veriler, yayımı tarihinden itibaren iki yıl içinde bu Kanun hükümlerine uygun hâle getirilir. Bu Kanun hükümlerine aykırı olduğu tespit edilen kişisel veriler derhâl silinir, yok edilir veya anonim hâle getirilir. Ancak bu Kanunun yayımı tarihinden önce hukuka uygun olarak alınmış rızalar, bir yıl içinde aksine bir irade beyanında bulunulmaması hâlinde, bu Kanuna uygun kabul edilir.
-
-(4) Bu Kanunda öngörülen yönetmelikler bu Kanunun yayımı tarihinden itibaren bir yıl içinde yürürlüğe konulur.
-
-(5) Bu Kanunun yayımı tarihinden itibaren bir yıl içinde, kamu kurum ve kuruluşlarında bu Kanunun uygulanmasıyla ilgili koordinasyonu sağlamak üzere üst düzey bir yönetici belirlenerek Başkanlığa bildirilir.
-
-(6) İlk seçilen Başkan, İkinci Başkan ve kura ile belirlenen iki üye altı yıl; diğer beş üye ise dört yıl görev yapar.
-
-(7) Kuruma bütçe tahsis edilene kadar;
-
-a) Kurumun giderleri Başbakanlık bütçesinden karşılanır.
-
-b) Kurumun hizmetlerini yerine getirmesi amacıyla bina, araç, gereç, mefruşat ve donanım gibi gerekli tüm destek hizmetleri Başbakanlıkça sağlanır.
-
-(8) Kurumun hizmet birimleri faaliyete geçinceye kadar sekretarya hizmetleri Başbakanlık tarafından yerine getirilir.
+MADDE 1- (1) Bu Kanunun amacı, kişisel verilerin işlenmesinde başta özel hayatın gizliliği olmak üzere kişilerin temel hak ve özgürlüklerini korumak ve kişisel verileri işleyen gerçek ve tüzel kişilerin yükümlülükleri ile uyacakları usul ve esasları düzenlemektir.
 
  
 
-GEÇİCİ
+Kapsam
 ```
 
 

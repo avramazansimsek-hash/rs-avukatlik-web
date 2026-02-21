@@ -2,7 +2,7 @@
 slug: "ttk-madde-1001"
 title: "TTK Madde 1001: MADDE 1001- (1) Gemi siciline kayıtlı olan bir geminin devri için, malik ile ikt..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1001 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

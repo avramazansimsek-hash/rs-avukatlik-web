@@ -2,7 +2,7 @@
 slug: "tmk-madde-739"
 title: "TMK Madde 739: Madde 739- Kazı ve yapılarda uyulması gerekli kurallar özel kanunlarla belirleni..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 739 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

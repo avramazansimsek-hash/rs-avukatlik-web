@@ -2,7 +2,7 @@
 slug: "ttk-madde-476"
 title: "TTK Madde 476: MADDE 476- (1) Payın itibarî değeri en az bir kuruştur. Bu değer ancak birer kur..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 476 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

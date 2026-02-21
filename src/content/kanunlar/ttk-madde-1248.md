@@ -2,7 +2,7 @@
 slug: "ttk-madde-1248"
 title: "TTK Madde 1248: MADDE 1248- (1) Taşıyan, taşıma ister bizzat onun tarafından, isterse bir başkas..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1248 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

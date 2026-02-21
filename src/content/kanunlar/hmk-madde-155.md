@@ -2,7 +2,7 @@
 slug: "hmk-madde-155"
 title: "HMK Madde 155: MADDE 155- (1) Tutanak, hâkim ve zabıt kâtibi tarafından derhâl imzalanır...."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 155 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

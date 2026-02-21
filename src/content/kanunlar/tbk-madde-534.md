@@ -2,7 +2,7 @@
 slug: "tbk-madde-534"
 title: "TBK Madde 534: MADDE 534- Satılmak üzere kendisine gönderilen eşya açıkça ayıplı ise komisyoncu..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 534 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tck-madde-302"
 title: "TCK Madde 302: Madde 302- (1) (Değişik: 29/6/2005 – 5377/36 md.) Devlet topraklarının tamamını..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 302 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

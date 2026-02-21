@@ -2,7 +2,7 @@
 slug: "ttk-madde-933"
 title: "TTK Madde 933: MADDE 933- (1) Denize elverişsiz hâle gelmiş olan bir gemi bu Kanunun uygulanmas..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 933 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

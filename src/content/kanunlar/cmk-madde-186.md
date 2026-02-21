@@ -2,7 +2,7 @@
 slug: "cmk-madde-186"
 title: "CMK Madde 186: Madde 186 – (1) Açıklığın kaldırılması kararı, nedenleriyle birlikte tutanağa ge..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 186 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

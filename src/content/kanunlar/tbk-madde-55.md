@@ -2,7 +2,7 @@
 slug: "tbk-madde-55"
 title: "TBK Madde 55: MADDE 55- Destekten yoksun kalma zararları ile bedensel zararlar, bu Kanun hüküm..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 55 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

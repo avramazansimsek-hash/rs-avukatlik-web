@@ -2,7 +2,7 @@
 slug: "ttk-madde-73"
 title: "TTK Madde 73: MADDE 73- (1) Türkiye Muhasebe Standartlarında aksi öngörülmemişse bilançoda, du..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 73 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

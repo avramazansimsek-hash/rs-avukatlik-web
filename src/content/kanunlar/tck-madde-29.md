@@ -2,7 +2,7 @@
 slug: "tck-madde-29"
 title: "TCK Madde 29: Madde 29- (1) Haksız bir fiilin meydana getirdiği hiddet veya şiddetli elemin et..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 29 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

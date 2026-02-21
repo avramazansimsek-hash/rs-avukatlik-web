@@ -2,7 +2,7 @@
 slug: "cmk-madde-67"
 title: "CMK Madde 67: Madde 67 – (1) İncelemeleri sona erdiğinde bilirkişi yaptığı işlemleri ve vardığ..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 67 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

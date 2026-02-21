@@ -2,7 +2,7 @@
 slug: "tmk-madde-991"
 title: "TMK Madde 991: Madde 991- Bir taşınırın zilyetliğini iyiniyetle edinmemiş olan kimseye karşı ön..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 991 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

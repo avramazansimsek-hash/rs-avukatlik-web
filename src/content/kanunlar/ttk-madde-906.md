@@ -2,7 +2,7 @@
 slug: "ttk-madde-906"
 title: "TTK Madde 906: MADDE 906- (1) Yolcu, taşıyıcı tarafından iç hizmetleri düzenlemek için konulmuş..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 906 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

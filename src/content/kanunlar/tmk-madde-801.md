@@ -2,7 +2,7 @@
 slug: "tmk-madde-801"
 title: "TMK Madde 801: Madde 801- İntifa hakkı sahibi, yükümlü olmadığı hâlde yaptığı giderler, yenilem..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 801 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

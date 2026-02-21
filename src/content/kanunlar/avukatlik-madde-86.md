@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-86"
 title: "AVUKATLIK Madde 86: Madde 86 – (Değişik: 8/5/1984 - 3003/3 md.)..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 86 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

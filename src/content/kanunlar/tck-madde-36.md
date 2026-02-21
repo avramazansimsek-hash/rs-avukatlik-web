@@ -2,7 +2,7 @@
 slug: "tck-madde-36"
 title: "TCK Madde 36: Madde 36- (1) Fail, suçun icra hareketlerinden gönüllü vazgeçer veya kendi çabal..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 36 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-979"
 title: "TMK Madde 979: Madde 979- Bir üçüncü kişi veya zilyetliği devreden, özel bir hukukî ilişkiye da..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 979 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

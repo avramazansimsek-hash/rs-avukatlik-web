@@ -2,7 +2,7 @@
 slug: "tbk-madde-377"
 title: "TBK Madde 377: MADDE 377- Aksine anlaşma veya yerel âdet yoksa kiracı, kiralanan hayvanların uğ..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 377 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

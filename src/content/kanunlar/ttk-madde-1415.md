@@ -2,7 +2,7 @@
 slug: "ttk-madde-1415"
 title: "TTK Madde 1415: MADDE 1415- (1) Sigortacının sigorta sözleşmesini, bazı hükümlerine ilişkin olar..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1415 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

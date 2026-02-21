@@ -2,7 +2,7 @@
 slug: "tbk-madde-110"
 title: "TBK Madde 110: MADDE 110- Borcun konusu bir şeyin teslimini gerektirmiyorsa, alacaklının temerr..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 110 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-690"
 title: "TTK Madde 690: MADDE 690- (1) Vadenin geçmesinden sonra yapılan ciro, vadeden önce yapılan bir..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 690 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

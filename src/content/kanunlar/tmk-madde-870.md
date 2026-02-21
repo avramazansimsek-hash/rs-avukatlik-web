@@ -2,7 +2,7 @@
 slug: "tmk-madde-870"
 title: "TMK Madde 870: Madde 870- Rehnin sağladığı güvence, tescilde belirtilen rehin derecesi ile sını..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 870 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

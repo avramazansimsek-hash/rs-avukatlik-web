@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-35"
 title: "AVUKATLIK Madde 35: Madde 35 – (Değişik: 26/2/1970 - 1238/1 md.)..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 35 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

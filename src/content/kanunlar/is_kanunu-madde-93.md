@@ -2,7 +2,7 @@
 slug: "is_kanunu-madde-93"
 title: "IS_KANUNU Madde 93: Madde 93 - İş hayatını izleme, denetleme ve teftiş yetkisi olan iş müfettişleri..."
 category: "İş Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İş Kanunu Madde 93 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

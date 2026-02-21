@@ -2,7 +2,7 @@
 slug: "tbk-madde-360"
 title: "TBK Madde 360: MADDE 360- Kiraya veren, birlikte kiralanmış taşınır şeyler varsa bunlar da için..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 360 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

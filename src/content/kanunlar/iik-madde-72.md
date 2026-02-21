@@ -2,7 +2,7 @@
 slug: "iik-madde-72"
 title: "IIK Madde 72: Madde 72 – (Değişik: 18/2/1965-538/43 md.)..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 72 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

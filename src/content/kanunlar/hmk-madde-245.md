@@ -2,7 +2,7 @@
 slug: "hmk-madde-245"
 title: "HMK Madde 245: MADDE 245- (1) Kanunda gösterilen hükümler saklı kalmak üzere, tanıklık için çağ..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 245 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

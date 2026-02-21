@@ -2,7 +2,7 @@
 slug: "tck-madde-40"
 title: "TCK Madde 40: Madde 40- (1) Suça iştirak için kasten ve hukuka aykırı işlenmiş bir fiilin varl..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 40 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

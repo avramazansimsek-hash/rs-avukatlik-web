@@ -2,7 +2,7 @@
 slug: "ttk-madde-838"
 title: "TTK Madde 838: MADDE 838- (1) Makbuz senediyle varant emre yazılı olmasa bile ayrı ayrı veya bi..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 838 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

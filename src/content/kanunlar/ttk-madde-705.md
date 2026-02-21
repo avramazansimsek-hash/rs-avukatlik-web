@@ -2,7 +2,7 @@
 slug: "ttk-madde-705"
 title: "TTK Madde 705: MADDE 705- (1) Görüldükten belirli bir süre sonra ödenecek bir poliçenin vadesi,..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 705 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

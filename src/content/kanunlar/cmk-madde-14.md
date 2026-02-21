@@ -2,7 +2,7 @@
 slug: "cmk-madde-14"
 title: "CMK Madde 14: Madde 14 – (1) Yabancı ülkede işlenen ve kanun hükümleri uyarınca Türkiye'de sor..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 14 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

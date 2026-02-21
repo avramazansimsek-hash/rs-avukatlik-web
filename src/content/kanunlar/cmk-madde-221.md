@@ -2,7 +2,7 @@
 slug: "cmk-madde-221"
 title: "CMK Madde 221: Madde 221 – (1) Duruşma tutanağında;..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 221 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

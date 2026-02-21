@@ -2,7 +2,7 @@
 slug: "iik-madde-315"
 title: "IIK Madde 315: Madde 315 – Yukarki maddelere göre talebin kabulü üzerine verilen hüküm, Resmi G..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 315 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

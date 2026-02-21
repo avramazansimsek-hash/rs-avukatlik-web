@@ -2,7 +2,7 @@
 slug: "ttk-madde-1090"
 title: "TTK Madde 1090: MADDE 1090- (1) Kaptan, yola çıkmadan önce geminin denize ve yola elverişli olma..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1090 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

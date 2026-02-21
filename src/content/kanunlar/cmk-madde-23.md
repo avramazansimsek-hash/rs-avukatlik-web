@@ -2,7 +2,7 @@
 slug: "cmk-madde-23"
 title: "CMK Madde 23: Madde 23 – (1) Bir karar veya hükme katılan hâkim, yüksek görevli mahkemece bu h..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 23 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

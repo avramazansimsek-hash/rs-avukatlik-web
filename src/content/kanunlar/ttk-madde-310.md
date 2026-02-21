@@ -2,7 +2,7 @@
 slug: "ttk-madde-310"
 title: "TTK Madde 310: MADDE 310- (1) Her komanditer, iş yılı sonunda ve iş saatleri içinde, şirketin e..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 310 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

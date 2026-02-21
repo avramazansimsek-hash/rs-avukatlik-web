@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-65"
 title: "AVUKATLIK Madde 65: Madde 65 – (Değişik: 18/2/2009 - 5838/28 md.)..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 65 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-202"
 title: "TMK Madde 202: Madde 202- Eşler arasında edinilmiş mallara katılma rejiminin uygulanması asıldı..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 202 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

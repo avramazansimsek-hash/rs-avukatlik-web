@@ -2,7 +2,7 @@
 slug: "tck-madde-193"
 title: "TCK Madde 193: Madde 193- (1) İçeriğinde zehir bulunan ve üretilmesi, bulundurulması veya satıl..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 193 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

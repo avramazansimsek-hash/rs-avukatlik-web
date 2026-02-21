@@ -2,7 +2,7 @@
 slug: "tmk-madde-956"
 title: "TMK Madde 956: Madde 956- Hamile yazılı senetlerin rehni için senetlerin rehin alacaklısına tes..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 956 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-618"
 title: "TMK Madde 618: Madde 618- Ödemeden âciz bir mirasbırakanın mirasını reddeden mirasçılar, onun a..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 618 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

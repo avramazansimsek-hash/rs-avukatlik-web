@@ -2,7 +2,7 @@
 slug: "tmk-madde-876"
 title: "TMK Madde 876: Madde 876- Alacaklı, rehinli taşınmazın korunması için zorunlu masraf yapmışsa v..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 876 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

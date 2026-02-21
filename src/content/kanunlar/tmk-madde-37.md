@@ -2,7 +2,7 @@
 slug: "tmk-madde-37"
 title: "TMK Madde 37: Madde 37- Kişisel durum sicili, Devletçe atanan memurlar tarafından tutulur. Sic..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 37 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

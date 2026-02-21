@@ -2,7 +2,7 @@
 slug: "tbk-madde-38"
 title: "TBK Madde 38: MADDE 38- Korkutulan, içinde bulunduğu durum bakımından kendisinin veya yakınlar..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 38 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

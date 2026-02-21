@@ -2,7 +2,7 @@
 slug: "tmk-madde-161"
 title: "TMK Madde 161: Madde 161- Eşlerden biri zina ederse, diğer eş boşanma davası açabilir...."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 161 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

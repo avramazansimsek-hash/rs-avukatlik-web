@@ -2,7 +2,7 @@
 slug: "ttk-madde-183"
 title: "TTK Madde 183: MADDE 183- (1) Tür değiştirmede ortakların şirket payları ve hakları korunur. Oy..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 183 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

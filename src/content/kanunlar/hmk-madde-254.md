@@ -2,7 +2,7 @@
 slug: "hmk-madde-254"
 title: "HMK Madde 254: MADDE 254- (1) Dinleme sırasında öncelikle tanıktan adı, soyadı, doğum tarihi, m..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 254 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-983"
 title: "TTK Madde 983: MADDE 983- (1) Hukuki bir işlem ile bir geminin mülkiyetini, intifa hakkını, gem..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 983 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

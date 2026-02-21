@@ -2,7 +2,7 @@
 slug: "is_kanunu-madde-36"
 title: "IS_KANUNU Madde 36: Madde 36 - Genel ve katma bütçeli dairelerle mahalli idareler veya kamu iktisadi..."
 category: "İş Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İş Kanunu Madde 36 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

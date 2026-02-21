@@ -2,7 +2,7 @@
 slug: "tbk-madde-321"
 title: "TBK Madde 321: MADDE 321- Kiracı, kiraya verenin yazılı rızasıyla kiralananda yenilik ve değişi..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 321 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

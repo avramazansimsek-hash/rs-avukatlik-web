@@ -2,7 +2,7 @@
 slug: "ttk-madde-1054"
 title: "TTK Madde 1054: MADDE 1054- (1) Yapı hâlindeki gemiler üzerinde de ipotek kurulabilir...."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1054 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

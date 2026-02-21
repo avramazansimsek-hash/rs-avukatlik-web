@@ -2,7 +2,7 @@
 slug: "ttk-madde-1407"
 title: "TTK Madde 1407: MADDE 1407- (1) Temsilci, sigorta ettiren tarafından, sigorta şartlarıyla ilgili..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1407 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

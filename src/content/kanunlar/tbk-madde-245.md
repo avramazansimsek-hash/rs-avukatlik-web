@@ -2,7 +2,7 @@
 slug: "tbk-madde-245"
 title: "TBK Madde 245: MADDE 245- Satılanın tescilden sonraki bir zamanda alıcı tarafından teslim alınm..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 245 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

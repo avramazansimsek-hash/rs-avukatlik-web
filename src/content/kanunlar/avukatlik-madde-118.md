@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-118"
 title: "AVUKATLIK Madde 118: Madde 118 – Birlik yönetim kurulu, birlik başkanı ile, birlik genel kurulu taraf..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 118 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

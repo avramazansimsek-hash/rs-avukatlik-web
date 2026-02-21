@@ -2,7 +2,7 @@
 slug: "ttk-madde-986"
 title: "TTK Madde 986: MADDE 986- (1) Yapı hâlindeki bir gemi, malikin istemi üzerine veya yapı üzerind..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 986 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-159"
 title: "TTK Madde 159: MADDE 159- (1) Bir şirket tam veya kısmi bölünebilir...."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 159 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

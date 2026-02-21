@@ -2,7 +2,7 @@
 slug: "kvkk-madde-23"
 title: "KVKK Madde 23: MADDE 23- (1) Kurulun toplantı günlerini ve gündemini Başkan belirler. Başkan ge..."
 category: "Kişisel Verilerin Korunması Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Kişisel Verilerin Korunması Kanunu Madde 23 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

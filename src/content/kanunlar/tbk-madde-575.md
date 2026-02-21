@@ -2,7 +2,7 @@
 slug: "tbk-madde-575"
 title: "TBK Madde 575: MADDE 575- Ardiyeci, ticari malları, genel saklama sözleşmesinde olduğu gibi ger..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 575 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

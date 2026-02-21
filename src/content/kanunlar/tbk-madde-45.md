@@ -2,7 +2,7 @@
 slug: "tbk-madde-45"
 title: "TBK Madde 45: MADDE 45- Temsilci, yetkisinin sona ermiş olduğunu bilmediği sürece, temsil olun..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 45 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

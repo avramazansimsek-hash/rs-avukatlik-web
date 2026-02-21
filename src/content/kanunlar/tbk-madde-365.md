@@ -2,7 +2,7 @@
 slug: "tbk-madde-365"
 title: "TBK Madde 365: MADDE 365- Kiracı, kiralananın bakımını gereği gibi sağlamakla yükümlüdür...."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 365 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

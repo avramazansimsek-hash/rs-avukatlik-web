@@ -2,7 +2,7 @@
 slug: "ttk-madde-271"
 title: "TTK Madde 271: MADDE 271- (1) Kollektif şirket alacaklılarının şirket malları üzerinde ortaklar..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 271 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

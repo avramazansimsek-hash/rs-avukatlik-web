@@ -2,7 +2,7 @@
 slug: "ttk-madde-1263"
 title: "TTK Madde 1263: MADDE 1263- (1) Kabin bagajının uğradığı zıya veya hasardan dolayı taşıyanın sor..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1263 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

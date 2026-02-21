@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-53"
 title: "AVUKATLIK Madde 53: Madde 53 – Avukat, iş için yaptığı görüşmelerden gerekli saydıklarını bir tutana..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 53 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

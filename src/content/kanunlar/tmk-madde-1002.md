@@ -2,7 +2,7 @@
 slug: "tmk-madde-1002"
 title: "TMK Madde 1002: Madde 1002- Tapu kütüğüne tescil istemleri, isteyenin kimliği ve istemin konusu..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 1002 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

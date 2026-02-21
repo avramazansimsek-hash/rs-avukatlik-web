@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-56"
 title: "AVUKATLIK Madde 56: Madde 56 – Usulüne uygun olarak düzenlenen ve avukata verilmiş olan vekâletname..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 56 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

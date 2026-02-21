@@ -2,7 +2,7 @@
 slug: "ttk-madde-19"
 title: "TTK Madde 19: MADDE 19- (1) Bir tacirin borçlarının ticari olması asıldır. Ancak, gerçek kişi..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 19 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

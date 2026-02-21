@@ -2,7 +2,7 @@
 slug: "tbk-madde-115"
 title: "TBK Madde 115: MADDE 115- Borçlunun ağır kusurundan sorumlu olmayacağına ilişkin önceden yapıla..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 115 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

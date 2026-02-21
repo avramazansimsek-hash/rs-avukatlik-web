@@ -2,7 +2,7 @@
 slug: "tkhk-madde-26"
 title: "TKHK Madde 26: MADDE 26- (1) Belirli süreli kredi sözleşmesinin şartları, tüketici aleyhine değ..."
 category: "Tüketicinin Korunması Hakkında Kanun"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Tüketicinin Korunması Hakkında Kanun Madde 26 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

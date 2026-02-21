@@ -2,7 +2,7 @@
 slug: "tmk-madde-754"
 title: "TMK Madde 754: Madde 754- Taşınmaz mülkiyeti hakkının kamu yararı için kısıtlanması, özellikle..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 754 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

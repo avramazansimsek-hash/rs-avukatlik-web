@@ -2,7 +2,7 @@
 slug: "ttk-madde-723"
 title: "TTK Madde 723: MADDE 723- (1) Hamil, protesto gününü veya poliçede “gidersiz” kaydı mevcut ise,..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 723 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

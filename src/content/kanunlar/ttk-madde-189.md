@@ -2,7 +2,7 @@
 slug: "ttk-madde-189"
 title: "TTK Madde 189: MADDE 189- (1) Yönetim organı tür değiştirme planı ile yeni türün şirket sözleşm..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 189 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

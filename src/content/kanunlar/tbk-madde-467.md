@@ -2,7 +2,7 @@
 slug: "tbk-madde-467"
 title: "TBK Madde 467: MADDE 467- İşçiyi aralıksız biçimde çalıştıran işveren, ürünü kabulde temerrüde..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 467 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

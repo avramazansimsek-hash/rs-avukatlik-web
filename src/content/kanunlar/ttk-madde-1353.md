@@ -2,7 +2,7 @@
 slug: "ttk-madde-1353"
 title: "TTK Madde 1353: MADDE 1353- (1) Deniz alacaklarının teminat altına alınması için, geminin sadece..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1353 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

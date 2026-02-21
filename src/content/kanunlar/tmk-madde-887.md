@@ -2,7 +2,7 @@
 slug: "tmk-madde-887"
 title: "TMK Madde 887: Madde 887- İpotekli taşınmazın maliki borçtan şahsen sorumlu değilse, alacaklını..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 887 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

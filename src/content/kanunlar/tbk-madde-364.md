@@ -2,7 +2,7 @@
 slug: "tbk-madde-364"
 title: "TBK Madde 364: MADDE 364- Kiracı, kiralananı özgülendiği amaca uygun ve iyi bir biçimde işletme..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 364 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

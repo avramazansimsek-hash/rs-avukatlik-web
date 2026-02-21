@@ -2,7 +2,7 @@
 slug: "tbk-madde-217"
 title: "TBK Madde 217: MADDE 217- Satılanın tamamı alıcının elinden alınmışsa, satış sözleşmesi kendili..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 217 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

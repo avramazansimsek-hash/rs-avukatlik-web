@@ -2,7 +2,7 @@
 slug: "iik-madde-202"
 title: "IIK Madde 202: Madde 202 – Müflisin kefil olduğu borçlar vadeleri gelmese bile masaya zimmet ol..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 202 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

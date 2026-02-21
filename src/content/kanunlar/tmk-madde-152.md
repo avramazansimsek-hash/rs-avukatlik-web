@@ -2,7 +2,7 @@
 slug: "tmk-madde-152"
 title: "TMK Madde 152: Madde 152- İptal davası açma hakkı, iptal sebebinin öğrenildiği veya korkunun et..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 152 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-1443"
 title: "TTK Madde 1443: MADDE 1443- (1) Teklifin yapılması ile kabulü arasındaki değişiklikler hakkında..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1443 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-620"
 title: "TMK Madde 620: Madde 620- Resmî defter, sulh mahkemesi tarafından düzenlenir; bu deftere tereke..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 620 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

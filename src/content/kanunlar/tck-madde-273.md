@@ -2,7 +2,7 @@
 slug: "tck-madde-273"
 title: "TCK Madde 273: Madde 273- (1) Kişinin;..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 273 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

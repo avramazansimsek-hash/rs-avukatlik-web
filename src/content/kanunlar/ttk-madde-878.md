@@ -2,7 +2,7 @@
 slug: "ttk-madde-878"
 title: "TTK Madde 878: MADDE 878- (1) Zıya, hasar veya teslimdeki gecikme, aşağıdaki hâllerden birine b..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 878 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

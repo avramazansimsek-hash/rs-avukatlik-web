@@ -2,7 +2,7 @@
 slug: "tbk-madde-183"
 title: "TBK Madde 183: MADDE 183- Kanun, sözleşme veya işin niteliği engel olmadıkça alacaklı, borçlunu..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 183 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

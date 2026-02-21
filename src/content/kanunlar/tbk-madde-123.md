@@ -2,7 +2,7 @@
 slug: "tbk-madde-123"
 title: "TBK Madde 123: MADDE 123- Karşılıklı borç yükleyen sözleşmelerde, taraflardan biri temerrüde dü..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 123 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

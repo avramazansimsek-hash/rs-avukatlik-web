@@ -2,7 +2,7 @@
 slug: "tmk-madde-280"
 title: "TMK Madde 280: Madde 280- Bir eş, üstün bir yararının varlığını ispat etmek suretiyle diğer mal..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 280 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

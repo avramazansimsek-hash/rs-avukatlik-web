@@ -2,7 +2,7 @@
 slug: "tbk-madde-159"
 title: "TBK Madde 159: MADDE 159- Alacağın bir taşınır rehniyle güvenceye bağlanmış olması, bu alacak i..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 159 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

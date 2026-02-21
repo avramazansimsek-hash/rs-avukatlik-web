@@ -2,7 +2,7 @@
 slug: "tbk-madde-389"
 title: "TBK Madde 389: MADDE 389- Ödünç alanın, ödünç konusunun teslimine ve ödünç verenin de bu şeyin..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 389 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-147"
 title: "TMK Madde 147: Madde 147- Sona ermiş bir evliliğin mutlak butlanı Cumhuriyet savcısı tarafından..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 147 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

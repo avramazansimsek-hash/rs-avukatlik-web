@@ -2,7 +2,7 @@
 slug: "tbk-madde-300"
 title: "TBK Madde 300: MADDE 300- Kira sözleşmesi, belirli ve belirli olmayan bir süre için yapılabilir..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 300 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

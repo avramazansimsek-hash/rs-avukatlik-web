@@ -2,7 +2,7 @@
 slug: "tbk-madde-555"
 title: "TBK Madde 555: MADDE 555- Havale, havale edenin, kendi hesabına, para, kıymetli evrak ya da diğ..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 555 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

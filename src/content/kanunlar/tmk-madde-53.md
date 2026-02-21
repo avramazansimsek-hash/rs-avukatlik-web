@@ -2,7 +2,7 @@
 slug: "tmk-madde-53"
 title: "TMK Madde 53: Madde 53- Tüzel kişinin malvarlığının tasfiyesi, kanunda ve kuruluş belgesinde a..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 53 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

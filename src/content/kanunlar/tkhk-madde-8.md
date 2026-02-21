@@ -2,7 +2,7 @@
 slug: "tkhk-madde-8"
 title: "TKHK Madde 8: MADDE 8- (1) Ayıplı mal, tüketiciye teslimi anında, taraflarca kararlaştırılmış..."
 category: "Tüketicinin Korunması Hakkında Kanun"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Tüketicinin Korunması Hakkında Kanun Madde 8 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

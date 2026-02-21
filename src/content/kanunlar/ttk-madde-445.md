@@ -2,7 +2,7 @@
 slug: "ttk-madde-445"
 title: "TTK Madde 445: MADDE 445- (1) 446 ncı maddede belirtilen kişiler, kanun veya esas sözleşme hükü..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 445 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

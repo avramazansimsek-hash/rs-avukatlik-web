@@ -2,7 +2,7 @@
 slug: "hmk-madde-268"
 title: "HMK Madde 268: MADDE 268- (Değişik : 3/11/2016-6754/50 md.)..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 268 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

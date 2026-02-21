@@ -2,7 +2,7 @@
 slug: "tck-madde-147"
 title: "TCK Madde 147: Madde 147- (1) Hırsızlık suçunun ağır ve acil bir ihtiyacı karşılamak için işlen..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 147 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-30"
 title: "TMK Madde 30: Madde 30- Doğum ve ölüm, nüfus sicilindeki kayıtlarla ispat olunur...."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 30 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-55"
 title: "TMK Madde 55: Madde 55- Kamu tüzel kişileri ile ticaret şirketleri hakkındaki kanun hükümleri..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 55 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

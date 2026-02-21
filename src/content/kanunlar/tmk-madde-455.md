@@ -2,7 +2,7 @@
 slug: "tmk-madde-455"
 title: "TMK Madde 455: Madde 455- Vesayet altındaki kişi, kendi tasarrufuna bırakılmış olan mallar ile..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 455 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-1270"
 title: "TTK Madde 1270: MADDE 1270- (1) Yolcunun ölümünden ve bedensel zararından ilgilisi lehine doğan..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1270 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

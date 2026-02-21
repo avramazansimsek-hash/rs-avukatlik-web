@@ -2,7 +2,7 @@
 slug: "ttk-madde-61"
 title: "TTK Madde 61: MADDE 61- (1) Dava açma hakkını haiz bulunan kimsenin talebi üzerine mahkeme, me..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 61 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

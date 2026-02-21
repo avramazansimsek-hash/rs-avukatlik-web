@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-178"
 title: "AVUKATLIK Madde 178: Madde 178 – (Değişik: 2/5/2001 - 4667/86 md.)..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 178 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

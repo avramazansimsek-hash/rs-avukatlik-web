@@ -2,7 +2,7 @@
 slug: "tck-madde-339"
 title: "TCK Madde 339: Madde 339- (1) Devletin güvenliği veya iç veya dış siyasal yararları bakımından..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 339 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

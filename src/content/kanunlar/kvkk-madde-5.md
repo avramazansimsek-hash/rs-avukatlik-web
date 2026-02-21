@@ -2,7 +2,7 @@
 slug: "kvkk-madde-5"
 title: "KVKK Madde 5: MADDE 5- (1) Kişisel veriler ilgili kişinin açık rızası olmaksızın işlenemez...."
 category: "Kişisel Verilerin Korunması Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Kişisel Verilerin Korunması Kanunu Madde 5 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

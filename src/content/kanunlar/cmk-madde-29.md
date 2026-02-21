@@ -2,7 +2,7 @@
 slug: "cmk-madde-29"
 title: "CMK Madde 29: Madde 29 – (1) Reddi istenen hâkim, ret hakkında bir karar verilinceye kadar yal..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 29 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tbk-madde-224"
 title: "TBK Madde 224: MADDE 224- Hayvan satışında satıcının sorumlu olacağı süre yazılı olarak belirle..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 224 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

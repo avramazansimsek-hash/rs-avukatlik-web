@@ -2,7 +2,7 @@
 slug: "ktk-madde-63"
 title: "KTK Madde 63: Madde 63 – Karayolunda trafiğe çıkan bütün araçların, nicelik ve nitelikleri yön..."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 63 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

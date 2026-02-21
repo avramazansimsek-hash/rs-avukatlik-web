@@ -2,7 +2,7 @@
 slug: "ttk-madde-539"
 title: "TTK Madde 539: MADDE 539- (1) Tasfiye memurlarına Kanunla tanınmış yetkiler devredilemez; ancak..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 539 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

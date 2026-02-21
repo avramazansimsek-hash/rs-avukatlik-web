@@ -2,7 +2,7 @@
 slug: "tbk-madde-169"
 title: "TBK Madde 169: MADDE 169- Müteselsil alacaklılık, borçlunun, alacaklılardan her birine borcun t..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 169 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

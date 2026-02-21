@@ -2,7 +2,7 @@
 slug: "tbk-madde-385"
 title: "TBK Madde 385: MADDE 385- Kullanım ödüncü sözleşmesi, ödünç alanın ölmesiyle kendiliğinden sona..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 385 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

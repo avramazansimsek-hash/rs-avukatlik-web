@@ -2,7 +2,7 @@
 slug: "is_kanunu-madde-48"
 title: "IS_KANUNU Madde 48: Madde 48 - İşçilere geçici iş göremezlik ödeneği verilmesi gerektiği zamanlarda..."
 category: "İş Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İş Kanunu Madde 48 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

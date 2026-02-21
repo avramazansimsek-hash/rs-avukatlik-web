@@ -2,7 +2,7 @@
 slug: "ttk-madde-901"
 title: "TTK Madde 901: MADDE 901- (1) Gönderen tüketici ise, taşıyıcı veya 879 uncu maddede anılan kişi..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 901 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

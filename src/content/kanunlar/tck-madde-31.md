@@ -2,7 +2,7 @@
 slug: "tck-madde-31"
 title: "TCK Madde 31: Madde 31- (1) Fiili işlediği sırada oniki yaşını doldurmamış olan çocukların cez..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 31 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

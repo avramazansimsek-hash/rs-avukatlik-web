@@ -2,7 +2,7 @@
 slug: "tck-madde-282"
 title: "TCK Madde 282: Madde 282- (1) (Değişik: 26/6/2009 – 5918/5 md.) Alt sınırı altı ay veya daha fa..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 282 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

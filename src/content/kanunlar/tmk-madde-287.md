@@ -2,7 +2,7 @@
 slug: "tmk-madde-287"
 title: "TMK Madde 287: Madde 287- Çocuk evlilik içinde ana rahmine düşmüşse davacı, kocanın baba olmadı..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 287 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

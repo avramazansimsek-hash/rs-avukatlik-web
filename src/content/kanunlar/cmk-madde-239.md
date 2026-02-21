@@ -2,7 +2,7 @@
 slug: "cmk-madde-239"
 title: "CMK Madde 239: Madde 239 – (1) (Değişik: 24/7/2008-5793/41 md.) Mağdur veya suçtan zarar gören..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 239 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

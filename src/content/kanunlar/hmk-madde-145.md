@@ -2,7 +2,7 @@
 slug: "hmk-madde-145"
 title: "HMK Madde 145: MADDE 145- (1) Taraflar, Kanunda belirtilen süreden sonra delil gösteremezler. A..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 145 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

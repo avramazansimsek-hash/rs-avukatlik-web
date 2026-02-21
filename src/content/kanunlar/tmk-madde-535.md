@@ -2,7 +2,7 @@
 slug: "tmk-madde-535"
 title: "TMK Madde 535: Madde 535- Mirasbırakan vasiyetnameyi bizzat okuyamaz veya imzalayamazsa, memur..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 535 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

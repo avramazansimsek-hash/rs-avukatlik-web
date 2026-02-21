@@ -2,7 +2,7 @@
 slug: "ttk-madde-1514"
 title: "TTK Madde 1514: MADDE 1514- (1) Sigortalının sağlığı, hastalık sigortaları ile meblağ sigortası..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1514 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

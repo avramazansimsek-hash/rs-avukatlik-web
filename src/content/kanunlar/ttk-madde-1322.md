@@ -2,7 +2,7 @@
 slug: "ttk-madde-1322"
 title: "TTK Madde 1322: MADDE 1322- (1) Gemi alacaklılarının rehin hakkı ana parayı, faizi, takip ve yar..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1322 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tbk-madde-628"
 title: "TBK Madde 628: MADDE 628- Her ortak, ortaklık işlerinde kendi işlerinde olduğu ölçüde çaba ve ö..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 628 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-1498"
 title: "TTK Madde 1498: MADDE 1498- (1) Sigortacı, yenilemeler de dâhil olmak üzere, sözleşmenin yapılma..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1498 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

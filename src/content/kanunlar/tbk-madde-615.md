@@ -2,7 +2,7 @@
 slug: "tbk-madde-615"
 title: "TBK Madde 615: MADDE 615- Bakım alacaklısı, ölünceye kadar bakma sözleşmesi yüzünden kanuna gör..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 615 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-128"
 title: "AVUKATLIK Madde 128: Madde 128 – Birlik Saymanı Birliğin mallarını Birlik Başkanlık Divanının kararla..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 128 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

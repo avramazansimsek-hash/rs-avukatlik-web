@@ -2,7 +2,7 @@
 slug: "tck-madde-187"
 title: "TCK Madde 187: Madde 187- (1) Kişilerin hayatını ve sağlığını tehlikeye sokacak biçimde ilaç ür..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 187 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

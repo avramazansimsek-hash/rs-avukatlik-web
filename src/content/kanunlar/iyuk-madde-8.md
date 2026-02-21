@@ -1,8 +1,8 @@
 ---
 slug: "iyuk-madde-8"
-title: "IYUK Madde 8: Madde 8..."
+title: "IYUK Madde 8: Madde 8 – 1. Süreler, tebliğ, yayın veya ilan tarihini izleyen günden itibaren i..."
 category: "İdari Yargılama Usulü Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İdari Yargılama Usulü Kanunu Madde 8 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 
@@ -11,74 +11,15 @@ excerpt: "İdari Yargılama Usulü Kanunu Madde 8 tam metni, gerekçesi ve Av. R
 ## Kanun Metni
 
 ```text
-Madde 8
+Madde 8 – 1. Süreler, tebliğ, yayın veya ilan tarihini izleyen günden itibaren işlemeye başlar.
 
-	
+2. Tatil günleri sürelere dahildir. Şu kadarki, sürenin son günü tatil gününe rastlarsa, süre tatil gününü izleyen çalışma gününün bitimine kadar uzar.
 
-7/4/2015
+3. Bu Kanunda yazılı sürelerin bitmesi çalışmaya ara verme zamanına rastlarsa bu süreler, ara vermenin sona erdiği günü izleyen tarihten itibaren yedi gün uzamış sayılır.
 
+ 
 
-
-
-Anayasa Mahkemesinin 25/11/2015 tarihli ve
-
-E.: 2014/86, K.: 2015/109 sayılı Kararı
-
-	
-
-28
-
-	
-
-8/1/2016
-
-
-
-
-6723
-
-	
-
-27, 61
-
-	
-
-23/7/2016
-
-
-
-
-6754
-
-	
-
-31
-
-	
-
-24/11/2016
-
-
-
-
-7035
-
-	
-
-20, 45, 50, 52
-
-	
-
-5/8/2017
-
-
-
-
-7103
-
-	
-
-Geçici
+Görevli olmayan yerlere başvurma:
 ```
 
 

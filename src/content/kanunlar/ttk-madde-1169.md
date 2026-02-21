@@ -2,7 +2,7 @@
 slug: "ttk-madde-1169"
 title: "TTK Madde 1169: MADDE 1169- (1) Hazırlık bildiriminin muhatabına ulaşmasını izleyen ilk takvim g..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1169 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

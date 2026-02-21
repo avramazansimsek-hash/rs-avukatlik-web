@@ -2,7 +2,7 @@
 slug: "tmk-madde-939"
 title: "TMK Madde 939: Madde 939 - Kanunda öngörülen ayrık durumlar dışında taşınırlar, ancak zilyetliğ..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 939 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

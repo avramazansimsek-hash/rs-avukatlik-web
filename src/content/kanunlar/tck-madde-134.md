@@ -2,7 +2,7 @@
 slug: "tck-madde-134"
 title: "TCK Madde 134: Madde 134- (1) Kişilerin özel hayatının gizliliğini ihlal eden kimse, bir yıldan..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 134 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

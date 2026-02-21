@@ -2,7 +2,7 @@
 slug: "ktk-madde-93"
 title: "KTK Madde 93: Madde 93 – (Değişik: 17/10/1996-4199/34 md.)..."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 93 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

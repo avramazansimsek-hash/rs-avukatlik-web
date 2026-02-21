@@ -2,7 +2,7 @@
 slug: "tck-madde-66"
 title: "TCK Madde 66: Madde 66- (1) Kanunda başka türlü yazılmış olan haller dışında kamu davası;..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 66 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

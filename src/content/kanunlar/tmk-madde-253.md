@@ -2,7 +2,7 @@
 slug: "tmk-madde-253"
 title: "TMK Madde 253: Madde 253- Paylaştırmanın ayın olarak yapılması asıldır. Buna olanak yoksa bedel..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 253 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

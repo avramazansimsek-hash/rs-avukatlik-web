@@ -2,7 +2,7 @@
 slug: "iik-madde-328"
 title: "IIK Madde 328: Madde 328 – İcra mahkemesi aşağıdaki hallerde alacaklılardan birinin veya komise..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 328 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

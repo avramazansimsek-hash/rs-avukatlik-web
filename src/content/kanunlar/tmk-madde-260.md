@@ -2,7 +2,7 @@
 slug: "tmk-madde-260"
 title: "TMK Madde 260: Madde 260- Kişisel mallar, mal rejimi sözleşmesi, üçüncü kişinin karşılıksız kaz..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 260 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

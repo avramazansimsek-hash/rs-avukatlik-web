@@ -2,7 +2,7 @@
 slug: "ttk-madde-881"
 title: "TTK Madde 881: MADDE 881- (1) Taşıyıcı, eşyanın zıyaı veya hasarı hâlinde, 880 inci madde uyarı..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 881 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

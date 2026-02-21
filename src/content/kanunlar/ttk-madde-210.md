@@ -2,7 +2,7 @@
 slug: "ttk-madde-210"
 title: "TTK Madde 210: MADDE 210- (Değişik: 26/6/2012-6335/13 md.)..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 210 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

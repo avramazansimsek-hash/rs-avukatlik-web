@@ -2,7 +2,7 @@
 slug: "ttk-madde-1515"
 title: "TTK Madde 1515: MADDE 1515- (1) Lehtarı belirleyerek başkasının hastalığı üzerine sigorta yapıla..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1515 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

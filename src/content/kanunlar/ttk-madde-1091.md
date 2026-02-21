@@ -2,7 +2,7 @@
 slug: "ttk-madde-1091"
 title: "TTK Madde 1091: MADDE 1091- (1) Kaptan, yükleme ve boşaltma araçlarının kullanılma amaçlarına uy..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1091 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

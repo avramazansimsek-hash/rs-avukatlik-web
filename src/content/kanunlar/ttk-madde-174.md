@@ -2,7 +2,7 @@
 slug: "ttk-madde-174"
 title: "TTK Madde 174: MADDE 174- (1) Bölünmeye katılan şirketlerin alacaklıları, Türkiye Ticaret Sicil..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 174 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-1349"
 title: "TTK Madde 1349: MADDE 1349- (1) Yargılama ve takip giderleri için sorumluluk sınırlanamaz; bir f..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1349 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

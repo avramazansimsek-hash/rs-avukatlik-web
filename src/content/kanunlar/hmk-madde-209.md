@@ -2,7 +2,7 @@
 slug: "hmk-madde-209"
 title: "HMK Madde 209: MADDE 209- (1) Adi bir senetteki yazı veya imza inkâr edildiğinde, bu konuda bir..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 209 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

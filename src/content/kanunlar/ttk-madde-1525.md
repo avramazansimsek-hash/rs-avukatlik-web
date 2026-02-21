@@ -2,7 +2,7 @@
 slug: "ttk-madde-1525"
 title: "TTK Madde 1525: MADDE 1525- (1) Tarafların açıkça anlaşmaları ve 18 inci maddenin üçüncü fıkrası..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1525 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

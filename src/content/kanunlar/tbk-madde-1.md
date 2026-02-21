@@ -1,8 +1,8 @@
 ---
 slug: "tbk-madde-1"
-title: "TBK Madde 1: Madde 1..."
+title: "TBK Madde 1: MADDE 1- Sözleşme, tarafların iradelerini karşılıklı ve birbirine uygun olarak a..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 1 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 
@@ -11,20 +11,13 @@ excerpt: "Türk Borçlar Kanunu Madde 1 tam metni, gerekçesi ve Av. Ramazan Şi
 ## Kanun Metni
 
 ```text
-Madde 1
+MADDE 1- Sözleşme, tarafların iradelerini karşılıklı ve birbirine uygun olarak açıklamalarıyla kurulur.
 
-	
+İrade açıklaması, açık veya örtülü olabilir.
 
-11/6/2022
+ 
 
-
-
-
-7456
-
-	
-
-Geçici
+2. İkinci derecedeki noktalar
 ```
 
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-1301"
 title: "TTK Madde 1301: MADDE 1301- (1) Kurtarma sözleşmesi, yanlış yönlendirme veya tehlikenin etkisi a..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1301 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

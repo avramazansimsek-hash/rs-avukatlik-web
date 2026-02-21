@@ -2,7 +2,7 @@
 slug: "tmk-madde-546"
 title: "TMK Madde 546: Madde 546- Miras sözleşmesi, tarafların yazılı anlaşmasıyla her zaman ortadan ka..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 546 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

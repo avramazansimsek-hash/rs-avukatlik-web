@@ -2,7 +2,7 @@
 slug: "iik-madde-121"
 title: "IIK Madde 121: Madde 121 – Bir intifa hakkı veya taksim edilmemiş bir miras veya bir şirket yah..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 121 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

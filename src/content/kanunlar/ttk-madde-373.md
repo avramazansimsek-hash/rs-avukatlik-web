@@ -2,7 +2,7 @@
 slug: "ttk-madde-373"
 title: "TTK Madde 373: MADDE 373- (1) Yönetim kurulu, temsile yetkili kişileri ve bunların temsil şekil..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 373 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

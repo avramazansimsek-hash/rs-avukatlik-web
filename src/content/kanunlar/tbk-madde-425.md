@@ -2,7 +2,7 @@
 slug: "tbk-madde-425"
 title: "TBK Madde 425: MADDE 425- İşveren, yıllık ücretli iznini kullanan her işçiye, yıllık ücretli iz..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 425 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

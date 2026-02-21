@@ -2,7 +2,7 @@
 slug: "tmk-madde-631"
 title: "TMK Madde 631: Madde 631- Mirasın Devlete geçmesi hâlinde sulh mahkemesi, re'sen yukarıdaki usu..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 631 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

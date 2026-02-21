@@ -2,7 +2,7 @@
 slug: "tmk-madde-478"
 title: "TMK Madde 478: Madde 478- Atamanın ilân edilmiş olması veya vesayet makamının gerekli görmesi h..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 478 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

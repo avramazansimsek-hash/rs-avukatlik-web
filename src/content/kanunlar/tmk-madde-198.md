@@ -2,7 +2,7 @@
 slug: "tmk-madde-198"
 title: "TMK Madde 198: Madde 198 - Eşlerden biri, birliğin giderlerine katılma yükümlülüğünü yerine get..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 198 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

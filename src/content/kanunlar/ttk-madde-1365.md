@@ -2,7 +2,7 @@
 slug: "ttk-madde-1365"
 title: "TTK Madde 1365: MADDE 1365- (1) İcra dairesi, istem üzerine derhâl ihtiyati haczi uygular...."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1365 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

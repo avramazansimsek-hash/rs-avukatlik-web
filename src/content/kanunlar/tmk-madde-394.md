@@ -2,7 +2,7 @@
 slug: "tmk-madde-394"
 title: "TMK Madde 394: Madde 394- Malikin ölümünden sonra aile yurdunun devam edebilmesi, taşınmazın mi..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 394 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

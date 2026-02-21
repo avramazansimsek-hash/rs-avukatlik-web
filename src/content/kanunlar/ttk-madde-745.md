@@ -2,7 +2,7 @@
 slug: "ttk-madde-745"
 title: "TTK Madde 745: MADDE 745- (1) Nüshalardan birini kabul için gönderen kişi, bu nüshayı elinde tu..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 745 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

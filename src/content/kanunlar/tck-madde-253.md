@@ -2,7 +2,7 @@
 slug: "tck-madde-253"
 title: "TCK Madde 253: Madde 253- (1) Rüşvet suçunun işlenmesi suretiyle yararına haksız menfaat sağlan..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 253 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

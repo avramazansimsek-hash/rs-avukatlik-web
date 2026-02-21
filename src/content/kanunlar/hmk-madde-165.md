@@ -2,7 +2,7 @@
 slug: "hmk-madde-165"
 title: "HMK Madde 165: MADDE 165- (1) Bir davada hüküm verilebilmesi, başka bir davaya, idari makamın t..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 165 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

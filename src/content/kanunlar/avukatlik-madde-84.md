@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-84"
 title: "AVUKATLIK Madde 84: Madde 84 – (Değişik: 2/5/2001 - 4667/50 md.)..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 84 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

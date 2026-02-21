@@ -2,7 +2,7 @@
 slug: "iyuk-madde-36"
 title: "IYUK Madde 36: Madde 36 – İdari sözleşmelerden doğanlar dışında kalan tam yargı davalarında yet..."
 category: "İdari Yargılama Usulü Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İdari Yargılama Usulü Kanunu Madde 36 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

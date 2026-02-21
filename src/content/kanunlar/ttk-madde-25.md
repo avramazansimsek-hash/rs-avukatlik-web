@@ -2,7 +2,7 @@
 slug: "ttk-madde-25"
 title: "TTK Madde 25: MADDE 25- (1) (Değişik: 15/8/2017-KHK-694/163 md.; Aynen kabul: 1/2/2018-7078/15..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 25 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

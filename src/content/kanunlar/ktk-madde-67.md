@@ -2,7 +2,7 @@
 slug: "ktk-madde-67"
 title: "KTK Madde 67: Madde 67 – Manevralarda aşağıdaki kurallar uygulanır...."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 67 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

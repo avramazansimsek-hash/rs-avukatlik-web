@@ -2,7 +2,7 @@
 slug: "cmk-madde-136"
 title: "CMK Madde 136: Madde 136 – (1) Şüpheli veya sanığa yüklenen suç dolayısıyla müdafiin bürosu, ko..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 136 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

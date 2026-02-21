@@ -2,7 +2,7 @@
 slug: "hmk-madde-16"
 title: "HMK Madde 16: MADDE 16- (1) Haksız fiilden doğan davalarda, haksız fiilin işlendiği veya zarar..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 16 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-1209"
 title: "TTK Madde 1209: MADDE 1209- (1) Gemi, yolculuk başlamadan önce umulmayan bir hâl yüzünden zayi o..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1209 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

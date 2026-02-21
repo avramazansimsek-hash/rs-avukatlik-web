@@ -2,7 +2,7 @@
 slug: "tmk-madde-641"
 title: "TMK Madde 641: Madde 641- Mirasçılar, tereke borçlarından müteselsilen sorumludurlar...."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 641 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

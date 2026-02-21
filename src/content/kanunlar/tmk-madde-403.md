@@ -2,7 +2,7 @@
 slug: "tmk-madde-403"
 title: "TMK Madde 403: Madde 403- Vasi, vesayet altındaki küçüğün veya kısıtlının kişiliği ve malvarlığ..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 403 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-115"
 title: "TTK Madde 115: MADDE 115- (1) Sözleşmede hüküm yoksa ücretin miktarı, acentenin bulunduğu yerde..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 115 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

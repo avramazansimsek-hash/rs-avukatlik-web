@@ -2,7 +2,7 @@
 slug: "ttk-madde-1280"
 title: "TTK Madde 1280: MADDE 1280- (1) Dispeç, ilgililerin oybirliğiyle atayacakları bir veya birden fa..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1280 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tbk-madde-453"
 title: "TBK Madde 453: MADDE 453- Pazarlamacıya belirli bir pazarlama alanında veya belirli bir müşteri..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 453 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

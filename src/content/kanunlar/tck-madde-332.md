@@ -2,7 +2,7 @@
 slug: "tck-madde-332"
 title: "TCK Madde 332: Madde 332- (1) Devletin askerî yararı gereği girilmesi yasaklanmış olan yerlere,..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 332 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

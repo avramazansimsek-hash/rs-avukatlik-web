@@ -2,7 +2,7 @@
 slug: "tbk-madde-13"
 title: "TBK Madde 13: MADDE 13- Kanunda yazılı şekilde yapılması öngörülen bir sözleşmenin değiştirilm..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 13 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

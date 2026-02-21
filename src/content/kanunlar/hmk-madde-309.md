@@ -2,7 +2,7 @@
 slug: "hmk-madde-309"
 title: "HMK Madde 309: MADDE 309- (1) Feragat ve kabul, dilekçeyle veya yargılama sırasında sözlü olara..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 309 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tbk-madde-412"
 title: "TBK Madde 412: MADDE 412- İşçi, sözleşme gereğince parça başına veya götürü olarak çalışmayı üs..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 412 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

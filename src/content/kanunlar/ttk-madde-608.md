@@ -2,7 +2,7 @@
 slug: "ttk-madde-608"
 title: "TTK Madde 608: MADDE 608- (1) Kâr payı, sadece net dönem kârından ve bunun için ayrılmış yedek..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 608 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tbk-madde-392"
 title: "TBK Madde 392: MADDE 392- Ödüncün geri verilmesi konusunda belirli bir gün ya da bildirim süres..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 392 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

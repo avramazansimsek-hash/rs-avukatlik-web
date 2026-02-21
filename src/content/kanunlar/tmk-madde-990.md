@@ -2,7 +2,7 @@
 slug: "tmk-madde-990"
 title: "TMK Madde 990: Madde 990- Zilyet, iradesi dışında elinden çıkmış olsa bile, para ve hamile yazı..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 990 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

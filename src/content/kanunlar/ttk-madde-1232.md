@@ -2,7 +2,7 @@
 slug: "ttk-madde-1232"
 title: "TTK Madde 1232: MADDE 1232- (1) Emre yazılı bir konişmento düzenlenmişse kaptan, yükletenin eşya..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1232 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

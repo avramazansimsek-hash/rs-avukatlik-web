@@ -2,7 +2,7 @@
 slug: "ktk-madde-35"
 title: "KTK Madde 35: Madde 35 – (Değişik : 16/7/2004-5228/45 md.)..."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 35 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

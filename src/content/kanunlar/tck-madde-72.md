@@ -2,7 +2,7 @@
 slug: "tck-madde-72"
 title: "TCK Madde 72: Madde 72- (1) Dava ve ceza zamanaşımı süreleri gün, ay ve yıl hesabıyla belirlen..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 72 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

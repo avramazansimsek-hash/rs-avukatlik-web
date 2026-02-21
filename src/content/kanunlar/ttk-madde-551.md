@@ -2,7 +2,7 @@
 slug: "ttk-madde-551"
 title: "TTK Madde 551: MADDE 551- (1) Ayni sermayenin veya devralınacak işletme ile ayınların değerleme..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 551 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-749"
 title: "TMK Madde 749: Madde 749- Sınırlıklar üzerinde paylı mülkiyete ilişkin hükümler saklı kalmak üz..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 749 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-1020"
 title: "TMK Madde 1020: Madde 1020- Tapu sicili herkese açıktır...."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 1020 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

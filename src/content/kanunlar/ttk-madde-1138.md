@@ -2,7 +2,7 @@
 slug: "ttk-madde-1138"
 title: "TTK Madde 1138: MADDE 1138- (1) Taşıyan, navlun karşılığında;..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1138 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

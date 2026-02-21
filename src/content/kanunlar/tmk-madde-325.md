@@ -2,7 +2,7 @@
 slug: "tmk-madde-325"
 title: "TMK Madde 325: Madde 325- Olağanüstü hâller mevcutsa, çocuğun menfaatine uygun düştüğü ölçüde ç..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 325 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

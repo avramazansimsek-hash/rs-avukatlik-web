@@ -2,7 +2,7 @@
 slug: "cmk-madde-200"
 title: "CMK Madde 200: Madde 200 – (1) Sanığın yüzüne karşı suç ortaklarından birinin veya bir tanığın..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 200 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-285"
 title: "TTK Madde 285: MADDE 285- (1) Kanuna, şirket sözleşmesine veya iş görme şartlarını gösteren diğ..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 285 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

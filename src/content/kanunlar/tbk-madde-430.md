@@ -2,7 +2,7 @@
 slug: "tbk-madde-430"
 title: "TBK Madde 430: MADDE 430- Belirli süreli hizmet sözleşmesi, aksi kararlaştırılmadıkça, fesih bi..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 430 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

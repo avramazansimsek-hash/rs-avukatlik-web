@@ -2,7 +2,7 @@
 slug: "ttk-madde-363"
 title: "TTK Madde 363: MADDE 363- (1) 334 üncü madde hükmü saklı kalmak üzere, herhangi bir sebeple bir..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 363 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

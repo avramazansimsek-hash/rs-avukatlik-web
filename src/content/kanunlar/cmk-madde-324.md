@@ -2,7 +2,7 @@
 slug: "cmk-madde-324"
 title: "CMK Madde 324: Madde 324 – (1) Harçlar ve tarifesine göre ödenmesi gereken avukatlık ücretleri..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 324 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

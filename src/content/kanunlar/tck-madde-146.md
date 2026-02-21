@@ -2,7 +2,7 @@
 slug: "tck-madde-146"
 title: "TCK Madde 146: Madde 146- (1) Hırsızlık suçunun, malın geçici bir süre kullanılıp zilyedine iad..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 146 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "hmk-madde-116"
 title: "HMK Madde 116: MADDE 116- (1) İlk itirazlar aşağıdakilerden ibarettir:..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 116 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-459"
 title: "TMK Madde 459: Madde 459- Belli bir iş için görevlendirilmiş olan kayyım, vesayet makamının tal..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 459 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

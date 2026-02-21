@@ -2,7 +2,7 @@
 slug: "tmk-madde-24"
 title: "TMK Madde 24: Madde 24- Hukuka aykırı olarak kişilik hakkına saldırılan kimse, hâkimden, saldı..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 24 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-1430"
 title: "TTK Madde 1430: MADDE 1430- (1) Sigorta ettiren, sözleşmeyle kararlaştırılan primi ödemekle yükü..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1430 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

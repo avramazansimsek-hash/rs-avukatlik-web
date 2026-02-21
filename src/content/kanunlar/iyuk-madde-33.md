@@ -2,7 +2,7 @@
 slug: "iyuk-madde-33"
 title: "IYUK Madde 33: Madde 33 – 1. (Değişik: 5/4/1990-3622/12 md.) Kamu görevlilerinin atanması ve na..."
 category: "İdari Yargılama Usulü Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İdari Yargılama Usulü Kanunu Madde 33 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

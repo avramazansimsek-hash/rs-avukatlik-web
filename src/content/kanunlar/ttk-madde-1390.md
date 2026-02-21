@@ -2,7 +2,7 @@
 slug: "ttk-madde-1390"
 title: "TTK Madde 1390: MADDE 1390- (1) Sıra cetvelinin birinci sırasına, geminin haczi tarihinden ödeme..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1390 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-440"
 title: "TTK Madde 440: MADDE 440- (1) Mahkeme, şirketi ve istem sahiplerini dinledikten sonra kararını..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 440 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

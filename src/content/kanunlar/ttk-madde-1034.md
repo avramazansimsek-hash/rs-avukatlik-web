@@ -2,7 +2,7 @@
 slug: "ttk-madde-1034"
 title: "TTK Madde 1034: MADDE 1034- (1) Malik, alacaklıya ülke içinde bir yerleşim yeri veya bir temsilc..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1034 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

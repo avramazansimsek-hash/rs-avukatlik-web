@@ -2,7 +2,7 @@
 slug: "tkhk-madde-68"
 title: "TKHK Madde 68: MADDE 68- (1) (Değişik cümle:24/3/2022-7392/13 md.) Tarafların İcra ve İflas Kan..."
 category: "Tüketicinin Korunması Hakkında Kanun"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Tüketicinin Korunması Hakkında Kanun Madde 68 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

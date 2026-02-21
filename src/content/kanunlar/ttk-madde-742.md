@@ -2,7 +2,7 @@
 slug: "ttk-madde-742"
 title: "TTK Madde 742: MADDE 742- (1) Araya girerek ödemede bulunan kişi, lehine ödemede bulunduğu kişi..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 742 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

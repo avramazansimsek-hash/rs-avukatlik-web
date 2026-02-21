@@ -2,7 +2,7 @@
 slug: "tmk-madde-476"
 title: "TMK Madde 476: Madde 476- Kendi isteğiyle kısıtlanmış olan kişi üzerindeki vesayetin kaldırılma..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 476 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

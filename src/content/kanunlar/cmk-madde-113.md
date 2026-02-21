@@ -2,7 +2,7 @@
 slug: "cmk-madde-113"
 title: "CMK Madde 113: Madde 113 – (1) Şüpheli veya sanık tarafından gösterilecek güvence, aşağıda yazı..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 113 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

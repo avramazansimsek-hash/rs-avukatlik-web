@@ -2,7 +2,7 @@
 slug: "iik-madde-93"
 title: "IIK Madde 93: Madde 93 – İcra dairesi mahsullerin toplanması için lazım gelen tedbirleri alır...."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 93 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

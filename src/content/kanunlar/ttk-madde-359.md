@@ -2,7 +2,7 @@
 slug: "ttk-madde-359"
 title: "TTK Madde 359: MADDE 359- (1) Anonim şirketin, esas sözleşmeyle atanmış veya genel kurul tarafı..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 359 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

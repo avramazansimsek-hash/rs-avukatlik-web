@@ -2,7 +2,7 @@
 slug: "tmk-madde-970"
 title: "TMK Madde 970: Madde 970- İşletme olarak taşınmaz rehni karşılığında ödünç verme işiyle uğraşma..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 970 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

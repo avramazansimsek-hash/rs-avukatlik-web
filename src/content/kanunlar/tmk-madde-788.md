@@ -2,7 +2,7 @@
 slug: "tmk-madde-788"
 title: "TMK Madde 788: Madde 788- Yararlanan taşınmazın ihtiyaçlarındaki değişiklik, yüklü taşınmazın i..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 788 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

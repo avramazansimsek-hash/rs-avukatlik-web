@@ -2,7 +2,7 @@
 slug: "tmk-madde-497"
 title: "TMK Madde 497: Madde 497- Altsoyu, ana ve babası ve onların altsoyu bulunmayan mirasbırakanın m..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 497 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

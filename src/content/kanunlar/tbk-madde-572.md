@@ -2,7 +2,7 @@
 slug: "tbk-madde-572"
 title: "TBK Madde 572: MADDE 572- Ardiyeci, kendisine bırakılan malları bir komisyoncu gibi özenle sakl..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 572 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

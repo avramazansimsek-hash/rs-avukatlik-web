@@ -2,7 +2,7 @@
 slug: "tmk-madde-344"
 title: "TMK Madde 344: Madde 344- Velâyet altındaki çocuk, ayırt etme gücüne sahip ise ana ve babanın r..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 344 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-488"
 title: "TMK Madde 488: Madde 488- İlgililer, vesayet makamının kararlarına karşı, tebliğ gününden başla..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 488 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-1478"
 title: "TTK Madde 1478: MADDE 1478- (1) Zarar gören, uğradığı zararın sigorta bedeline kadar olan kısmın..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1478 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

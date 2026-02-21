@@ -2,7 +2,7 @@
 slug: "tbk-madde-234"
 title: "TBK Madde 234: MADDE 234- Aksine sözleşme yoksa, satılan alıcının zilyetliğine girince satış be..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 234 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

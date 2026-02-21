@@ -2,7 +2,7 @@
 slug: "tkhk-madde-6"
 title: "TKHK Madde 6: MADDE 6- (1) Vitrinde, rafta, elektronik ortamda veya açıkça görülebilir herhang..."
 category: "Tüketicinin Korunması Hakkında Kanun"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Tüketicinin Korunması Hakkında Kanun Madde 6 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

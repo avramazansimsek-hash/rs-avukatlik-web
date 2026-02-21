@@ -2,7 +2,7 @@
 slug: "tbk-madde-345"
 title: "TBK Madde 345: MADDE 345- Kira bedelinin belirlenmesine ilişkin dava her zaman açılabilir...."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 345 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

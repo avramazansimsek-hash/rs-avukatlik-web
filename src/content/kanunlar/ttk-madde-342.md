@@ -2,7 +2,7 @@
 slug: "ttk-madde-342"
 title: "TTK Madde 342: MADDE 342- (1) Üzerlerinde sınırlı ayni bir hak, haciz ve tedbir bulunmayan, nak..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 342 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

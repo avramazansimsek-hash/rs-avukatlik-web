@@ -2,7 +2,7 @@
 slug: "ttk-madde-1363"
 title: "TTK Madde 1363: MADDE 1363- (1) Deniz alacağını teminat altına almak üzere ihtiyati haciz kararı..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1363 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

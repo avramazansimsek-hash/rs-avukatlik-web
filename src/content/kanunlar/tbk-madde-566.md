@@ -2,7 +2,7 @@
 slug: "tbk-madde-566"
 title: "TBK Madde 566: MADDE 566- Saklanan, masrafları ve hasarı saklatana ait olmak üzere, korunması g..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 566 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

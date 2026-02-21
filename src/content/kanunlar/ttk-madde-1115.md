@@ -2,7 +2,7 @@
 slug: "ttk-madde-1115"
 title: "TTK Madde 1115: MADDE 1115- (1) Kaptan, para ihtiyacı müşterek avaryadan kaynaklanmış olup da bu..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1115 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

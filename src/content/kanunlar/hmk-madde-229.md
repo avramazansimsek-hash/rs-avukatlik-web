@@ -2,7 +2,7 @@
 slug: "hmk-madde-229"
 title: "HMK Madde 229: MADDE 229- (1) Yemin için davet edilen kimse, tayin edilen gün ve saatte mahkeme..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 229 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

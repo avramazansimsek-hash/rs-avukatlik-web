@@ -2,7 +2,7 @@
 slug: "tmk-madde-54"
 title: "TMK Madde 54: Madde 54- Tüzel kişinin malvarlığı, kanunda veya kuruluş belgesinde başka bir hü..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 54 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

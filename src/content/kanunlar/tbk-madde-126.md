@@ -2,7 +2,7 @@
 slug: "tbk-madde-126"
 title: "TBK Madde 126: MADDE 126- İfasına başlanmış sürekli edimli sözleşmelerde, borçlunun temerrüdü h..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 126 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

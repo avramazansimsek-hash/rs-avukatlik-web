@@ -2,7 +2,7 @@
 slug: "cmk-madde-266"
 title: "CMK Madde 266: Madde 266 – (1) Kanun yoluna başvurulduktan sonra bundan vazgeçilmesi, mercii ta..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 266 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

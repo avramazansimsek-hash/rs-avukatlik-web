@@ -2,7 +2,7 @@
 slug: "tmk-madde-104"
 title: "TMK Madde 104: Madde 104- Tesciline karar verilen vakıf, vakfın yerleşim yeri mahkemesi nezdind..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 104 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

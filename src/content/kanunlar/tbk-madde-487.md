@@ -2,7 +2,7 @@
 slug: "tbk-madde-487"
 title: "TBK Madde 487: MADDE 487- Yayım sözleşmesi, bir fikir ve sanat eseri sahibinin veya halefinin,..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 487 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

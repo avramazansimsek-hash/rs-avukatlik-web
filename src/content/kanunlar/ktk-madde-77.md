@@ -2,7 +2,7 @@
 slug: "ktk-madde-77"
 title: "KTK Madde 77: Madde 77 – Bu Kanun açısından;..."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 77 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

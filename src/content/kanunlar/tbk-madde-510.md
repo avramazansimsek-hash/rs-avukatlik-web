@@ -2,7 +2,7 @@
 slug: "tbk-madde-510"
 title: "TBK Madde 510: MADDE 510- Vekâlet veren, vekâletin gereği gibi ifası için vekilin yaptığı gider..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 510 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

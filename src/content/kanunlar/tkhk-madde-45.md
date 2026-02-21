@@ -2,7 +2,7 @@
 slug: "tkhk-madde-45"
 title: "TKHK Madde 45: MADDE 45- (1) (Değişik: 2/1/2017-KHK-684/8 md.; Aynen kabul: 1/2/2018-7074/8 md...."
 category: "Tüketicinin Korunması Hakkında Kanun"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Tüketicinin Korunması Hakkında Kanun Madde 45 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

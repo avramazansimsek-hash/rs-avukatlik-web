@@ -2,7 +2,7 @@
 slug: "tbk-madde-305"
 title: "TBK Madde 305: MADDE 305- Kiralanan sonradan ayıplı duruma gelirse kiracı, kiraya verenden ayıp..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 305 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "kvkk-madde-14"
 title: "KVKK Madde 14: MADDE 14- (1) Başvurunun reddedilmesi, verilen cevabın yetersiz bulunması veya s..."
 category: "Kişisel Verilerin Korunması Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Kişisel Verilerin Korunması Kanunu Madde 14 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

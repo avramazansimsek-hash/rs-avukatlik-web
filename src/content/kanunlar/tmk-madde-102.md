@@ -2,7 +2,7 @@
 slug: "tmk-madde-102"
 title: "TMK Madde 102: Madde 102- Vakıf kurma iradesi, resmî senetle veya ölüme bağlı tasarrufla açıkla..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 102 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

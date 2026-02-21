@@ -1,8 +1,8 @@
 ---
 slug: "is_kanunu-madde-1"
-title: "IS_KANUNU Madde 1: Madde 1..."
+title: "IS_KANUNU Madde 1: Madde 1 - Bu Kanunun amacı işverenler ile bir iş sözleşmesine dayanarak çalıştır..."
 category: "İş Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İş Kanunu Madde 1 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 
@@ -11,57 +11,15 @@ excerpt: "İş Kanunu Madde 1 tam metni, gerekçesi ve Av. Ramazan Şimşek'in h
 ## Kanun Metni
 
 ```text
-Madde 1
+Madde 1 - Bu Kanunun amacı işverenler ile bir iş sözleşmesine dayanarak çalıştırılan işçilerin çalışma şartları ve çalışma ortamına ilişkin hak ve sorumluluklarını düzenlemektir.
 
+Bu Kanun, 4 üncü Maddedeki istisnalar dışında kalan bütün işyerlerine, bu işyerlerinin işverenleri ile işveren vekillerine ve işçilerine faaliyet konularına bakılmaksızın uygulanır.
 
-
-
-4857 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN
-
-YÜRÜRLÜĞE GİRİŞ TARİHLERİNİ GÖSTERİR TABLO
+İşyerleri, işverenler, işveren vekilleri ve işçiler, 3 üncü maddedeki bildirim gününe bakılmaksızın bu Kanun hükümleri ile bağlı olurlar.
 
  
 
-Değiştiren Kanunun/ KHK’nin veya İptal Eden Anayasa Mahkemesi Kararının Numarası
-
-	
-
-4857 Sayılı Kanunun Değişen veya İptal Edilen Maddeleri
-
-	
-
-Yürürlüğe Giriş Tarihi
-
-
-
-
-6552
-
-	
-
-3, 18, 36, 41, 53, 56, 112
-
-	
-
-11/9/2014
-
-
-
-
-41inci maddesinin onuncu fıkrası, 63
-
-	
-
-1/1/2015
-
-
-
-
-6645
-
-	
-
-41, 46, 55, 63, 69, 71, 104, 112, Ek
+Tanımlar
 ```
 
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-1151"
 title: "TTK Madde 1151: MADDE 1151- (1) Taşıyan, eşyayı güvertede taşıyamaz ve küpeşteye asamaz...."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1151 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

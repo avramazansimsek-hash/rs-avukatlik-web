@@ -2,7 +2,7 @@
 slug: "cmk-madde-109"
 title: "CMK Madde 109: Madde 109 – (1) (Değişik: 2/7/2012-6352/98 md.) Bir suç sebebiyle yürütülen soru..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 109 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

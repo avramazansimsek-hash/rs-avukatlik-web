@@ -2,7 +2,7 @@
 slug: "is_kanunu-madde-50"
 title: "IS_KANUNU Madde 50: Madde 50 - Fazla çalışma karşılığı olarak alınan ücretler, primler, işyerinin te..."
 category: "İş Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İş Kanunu Madde 50 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

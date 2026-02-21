@@ -2,7 +2,7 @@
 slug: "ttk-madde-47"
 title: "TTK Madde 47: MADDE 47- (1) Ticari işletme sahibinin veya bir ortağın ticaret unvanında yer al..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 47 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

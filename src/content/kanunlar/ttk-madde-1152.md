@@ -2,7 +2,7 @@
 slug: "ttk-madde-1152"
 title: "TTK Madde 1152: MADDE 1152- (1) Yüklemenin belli bir günde başlayacağı kararlaştırılmamışsa, taş..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1152 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tbk-madde-151"
 title: "TBK Madde 151: MADDE 151- Süreler hesaplanırken zamanaşımının başladığı gün sayılmaz ve zamanaş..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 151 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

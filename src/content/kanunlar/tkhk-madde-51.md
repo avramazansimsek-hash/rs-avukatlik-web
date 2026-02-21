@@ -2,7 +2,7 @@
 slug: "tkhk-madde-51"
 title: "TKHK Madde 51: MADDE 51- (1) Paket tur sözleşmesi, paket tur düzenleyicileri veya aracıları tar..."
 category: "Tüketicinin Korunması Hakkında Kanun"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Tüketicinin Korunması Hakkında Kanun Madde 51 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

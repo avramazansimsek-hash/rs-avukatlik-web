@@ -2,7 +2,7 @@
 slug: "ttk-madde-791"
 title: "TTK Madde 791: MADDE 791- (1) Hamiline yazılı bir çek üzerine yapılan ciro, cirantayı, başvurma..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 791 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

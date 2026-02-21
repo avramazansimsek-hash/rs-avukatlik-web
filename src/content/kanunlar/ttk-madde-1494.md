@@ -2,7 +2,7 @@
 slug: "ttk-madde-1494"
 title: "TTK Madde 1494: MADDE 1494- (1) Ölüm rizikosuna karşı yapılmış sigortalarda, birden fazla kişi p..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1494 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tck-madde-10"
 title: "TCK Madde 10: Madde 10- (1) Yabancı ülkede Türkiye namına memuriyet veya görev üstlenmiş olup..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 10 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

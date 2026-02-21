@@ -2,7 +2,7 @@
 slug: "tck-madde-183"
 title: "TCK Madde 183: Madde 183- (1) İlgili kanunlarla belirlenen yükümlülüklere aykırı olarak, başka..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 183 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

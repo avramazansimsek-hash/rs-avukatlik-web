@@ -2,7 +2,7 @@
 slug: "tmk-madde-920"
 title: "TMK Madde 920: Madde 920- İpotekli borç senedinden veya irat senedinden doğan alacak, tapu kütü..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 920 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

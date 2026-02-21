@@ -2,7 +2,7 @@
 slug: "tmk-madde-431"
 title: "TMK Madde 431: Madde 431- Vasinin atanması usulüne ilişkin kurallar, kayyım ve yasal danışmanın..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 431 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

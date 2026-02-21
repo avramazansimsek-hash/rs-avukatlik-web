@@ -2,7 +2,7 @@
 slug: "tmk-madde-919"
 title: "TMK Madde 919: Madde 919- İpotekli borç senedi veya irat senedine ilişkin tescil, ancak tarafla..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 919 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

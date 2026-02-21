@@ -2,7 +2,7 @@
 slug: "tbk-madde-36"
 title: "TBK Madde 36: MADDE 36- Taraflardan biri, diğerinin aldatması sonucu bir sözleşme yapmışsa, ya..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 36 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

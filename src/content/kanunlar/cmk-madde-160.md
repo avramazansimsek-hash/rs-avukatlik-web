@@ -2,7 +2,7 @@
 slug: "cmk-madde-160"
 title: "CMK Madde 160: Madde 160 – (1) Cumhuriyet savcısı, ihbar veya başka bir suretle bir suçun işlen..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 160 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

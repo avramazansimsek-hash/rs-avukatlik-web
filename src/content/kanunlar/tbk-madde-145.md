@@ -2,7 +2,7 @@
 slug: "tbk-madde-145"
 title: "TBK Madde 145: MADDE 145- Borçlu, takas hakkından önceden de feragat edebilir...."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 145 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-947"
 title: "TTK Madde 947: MADDE 947- (1) Türk Bayrağı çekme hakkı olmamasına rağmen Türk Bayrağı çeken vey..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 947 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-529"
 title: "TMK Madde 529: Madde 529- Mirastan feragat sözleşmesi belli bir kişi lehine yapılmış olup bu ki..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 529 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

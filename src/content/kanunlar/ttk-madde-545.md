@@ -2,7 +2,7 @@
 slug: "ttk-madde-545"
 title: "TTK Madde 545: MADDE 545- (1) Tasfiyenin sona ermesi üzerine şirkete ait ticaret unvanının sici..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 545 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

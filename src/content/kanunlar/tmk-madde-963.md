@@ -2,7 +2,7 @@
 slug: "tmk-madde-963"
 title: "TMK Madde 963: Madde 963- Özel işletmelere ancak belli süre için izin verilebilir. Sürenin biti..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 963 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

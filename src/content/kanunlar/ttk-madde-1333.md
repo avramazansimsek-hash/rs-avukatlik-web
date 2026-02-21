@@ -2,7 +2,7 @@
 slug: "ttk-madde-1333"
 title: "TTK Madde 1333: MADDE 1333- (1) Sınırlamaya esas olan alacağın, geminin sondaj işlemi için kulla..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1333 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

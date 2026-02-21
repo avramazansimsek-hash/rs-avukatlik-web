@@ -2,7 +2,7 @@
 slug: "tbk-madde-307"
 title: "TBK Madde 307: MADDE 307- Kiracı, kiralananın kullanımını etkileyen ayıpların varlığı hâlinde,..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 307 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

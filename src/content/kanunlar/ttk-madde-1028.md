@@ -2,7 +2,7 @@
 slug: "ttk-madde-1028"
 title: "TTK Madde 1028: MADDE 1028- (1) Sigortacı, 1024 üncü maddenin ikinci, dördüncü ve beşinci fıkral..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1028 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

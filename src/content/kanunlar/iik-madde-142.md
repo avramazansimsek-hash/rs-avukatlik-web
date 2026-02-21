@@ -2,7 +2,7 @@
 slug: "iik-madde-142"
 title: "IIK Madde 142: Madde 142 – (Değişik: 3/7/1940-3890/1 md.)..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 142 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

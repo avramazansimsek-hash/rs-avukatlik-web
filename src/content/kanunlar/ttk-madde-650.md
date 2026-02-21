@@ -2,7 +2,7 @@
 slug: "ttk-madde-650"
 title: "TTK Madde 650: MADDE 650- (1) Nama veya emre yazılı senet, ancak kendisine hak verdiği ve borç..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 650 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "cmk-madde-263"
 title: "CMK Madde 263: Madde 263 – (1) Tutuklu bulunan şüpheli veya sanık, zabıt kâtibine veya tutuklu..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 263 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

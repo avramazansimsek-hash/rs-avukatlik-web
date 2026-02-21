@@ -2,7 +2,7 @@
 slug: "tmk-madde-596"
 title: "TMK Madde 596: Madde 596- Vasiyetname, geçerli olup olmadığına bakılmaksızın tesliminden başlay..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 596 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

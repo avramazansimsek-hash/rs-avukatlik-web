@@ -2,7 +2,7 @@
 slug: "iik-madde-105"
 title: "IIK Madde 105: Madde 105 – Haczi kabil mal bulunmazsa haciz tutanağı 143 üncü maddedeki aciz ve..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 105 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

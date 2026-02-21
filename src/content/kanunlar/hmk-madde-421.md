@@ -2,7 +2,7 @@
 slug: "hmk-madde-421"
 title: "HMK Madde 421: MADDE 421- (1) Hakemlerden birinin görevi herhangi bir sebeple sona ererse, onun..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 421 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

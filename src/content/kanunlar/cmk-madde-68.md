@@ -2,7 +2,7 @@
 slug: "cmk-madde-68"
 title: "CMK Madde 68: Madde 68 – (1) Mahkeme, her zaman bilirkişinin duruşmada dinlenmesine karar vere..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 68 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

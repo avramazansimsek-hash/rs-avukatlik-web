@@ -2,7 +2,7 @@
 slug: "tmk-madde-291"
 title: "TMK Madde 291: Madde 291- (Değişik birinci fıkra:7/11/2024-7531/11 md.) Dava açma süresinin geç..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 291 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

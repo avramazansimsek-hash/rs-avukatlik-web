@@ -2,7 +2,7 @@
 slug: "hmk-madde-306"
 title: "HMK Madde 306: MADDE 306- (1) Tavzih veya tamamlama, dilekçeye tarafların sayısı kadar nüsha ek..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 306 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tck-madde-166"
 title: "TCK Madde 166: Madde 166- (1) Bir hukuki ilişkiye dayalı olarak elde ettiği eşyanın, esasında s..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 166 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

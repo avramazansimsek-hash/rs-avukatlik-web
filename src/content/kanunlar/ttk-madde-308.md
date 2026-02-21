@@ -2,7 +2,7 @@
 slug: "ttk-madde-308"
 title: "TTK Madde 308: MADDE 308- (1) Komandit şirkette ortakların birbirleriyle olan ilişkileri şirket..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 308 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

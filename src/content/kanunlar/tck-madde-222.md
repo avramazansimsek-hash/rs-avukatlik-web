@@ -2,7 +2,7 @@
 slug: "tck-madde-222"
 title: "TCK Madde 222: Madde 222- (Mülga: 2/3/2014-6529/16 md.)..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 222 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

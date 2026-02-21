@@ -2,7 +2,7 @@
 slug: "tbk-madde-635"
 title: "TBK Madde 635: MADDE 635- Ortaklık sıfatının sona erdiği tarihte, ortaklığın malvarlığı, borçla..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 635 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

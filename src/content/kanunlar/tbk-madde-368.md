@@ -2,7 +2,7 @@
 slug: "tbk-madde-368"
 title: "TBK Madde 368: MADDE 368- Belirsiz süreli sözleşmede, fesih bildirim süresi sözleşme veya yerel..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 368 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

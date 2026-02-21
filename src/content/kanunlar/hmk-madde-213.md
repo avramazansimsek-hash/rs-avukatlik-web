@@ -2,7 +2,7 @@
 slug: "hmk-madde-213"
 title: "HMK Madde 213: MADDE 213- (1) Sahtelik iddiası sonunda haksız çıkan taraf kötü niyetli ise bu s..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 213 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

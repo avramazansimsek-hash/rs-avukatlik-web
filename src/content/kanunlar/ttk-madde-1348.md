@@ -2,7 +2,7 @@
 slug: "ttk-madde-1348"
 title: "TTK Madde 1348: MADDE 1348- (1) 1976 ve 1992 tarihli sözleşmeler uyarınca fon kurulması konusund..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1348 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

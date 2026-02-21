@@ -2,7 +2,7 @@
 slug: "tck-madde-340"
 title: "TCK Madde 340: Madde 340- (1) Yabancı devletlerden birinin başkanına karşı bir suç işleyen kişi..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 340 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

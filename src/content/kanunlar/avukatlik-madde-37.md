@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-37"
 title: "AVUKATLIK Madde 37: Madde 37 – Avukat, kendisine teklif olunan işi sebep göstermeden reddedebilir. R..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 37 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "is_kanunu-madde-111"
 title: "IS_KANUNU Madde 111: Madde 111 – (Değişik: 15/5/2008-5763/11 md.)..."
 category: "İş Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İş Kanunu Madde 111 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

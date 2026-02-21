@@ -2,7 +2,7 @@
 slug: "iik-madde-327"
 title: "IIK Madde 327: Madde 327 – 317 nci madde hükümlerine göre tayin olunan müddet içinde borçlunun..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 327 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

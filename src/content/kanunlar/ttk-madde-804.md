@@ -2,7 +2,7 @@
 slug: "ttk-madde-804"
 title: "TTK Madde 804: MADDE 804- (1) Genel olarak çizilen bir çek, muhatap tarafından ancak bir bankay..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 804 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

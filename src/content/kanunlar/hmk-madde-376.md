@@ -2,7 +2,7 @@
 slug: "hmk-madde-376"
 title: "HMK Madde 376: MADDE 376- (1) Davanın taraflarından birisinin alacaklıları veya aleyhine hüküm..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 376 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

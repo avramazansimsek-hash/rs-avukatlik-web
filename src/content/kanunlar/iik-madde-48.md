@@ -2,7 +2,7 @@
 slug: "iik-madde-48"
 title: "IIK Madde 48: Madde 48 – Devletin cezai ve mali kanunları mucibince zabıt ve müsadere edilmiş..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 48 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-1495"
 title: "TTK Madde 1495: MADDE 1495- (1) Lehtarın, sigortacıya karşı, istem hakkını kazanamaması hâlinde,..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1495 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

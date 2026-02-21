@@ -2,7 +2,7 @@
 slug: "tck-madde-292"
 title: "TCK Madde 292: Madde 292- (1) Tutukevinden, ceza infaz kurumundan veya gözetimi altında bulundu..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 292 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

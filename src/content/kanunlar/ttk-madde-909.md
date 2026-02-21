@@ -2,7 +2,7 @@
 slug: "ttk-madde-909"
 title: "TTK Madde 909: MADDE 909- (1) Taşıyıcı, sefer esnasında, tarifede bulunmayan bir yerde durur, s..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 909 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

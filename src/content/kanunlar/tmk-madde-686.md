@@ -2,7 +2,7 @@
 slug: "tmk-madde-686"
 title: "TMK Madde 686: Madde 686- Bir şeye ilişkin tasarruflar, aksi belirtilmedikçe onun eklentisini d..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 686 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

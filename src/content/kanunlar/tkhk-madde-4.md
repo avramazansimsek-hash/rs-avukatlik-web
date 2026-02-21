@@ -2,7 +2,7 @@
 slug: "tkhk-madde-4"
 title: "TKHK Madde 4: MADDE 4- (1) Bu Kanunda yazılı olarak düzenlenmesi öngörülen sözleşmeler ile bil..."
 category: "Tüketicinin Korunması Hakkında Kanun"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Tüketicinin Korunması Hakkında Kanun Madde 4 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

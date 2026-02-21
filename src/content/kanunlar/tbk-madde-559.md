@@ -2,7 +2,7 @@
 slug: "tbk-madde-559"
 title: "TBK Madde 559: MADDE 559- Havale eden, havale alıcısına verdiği yetkiyi her zaman geri alabilir..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 559 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-1056"
 title: "TTK Madde 1056: MADDE 1056- (1) Yapı hâlindeki gemi, yapımın her aşamasında ipoteğin kapsamındad..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1056 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

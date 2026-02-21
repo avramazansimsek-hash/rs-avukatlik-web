@@ -2,7 +2,7 @@
 slug: "tbk-madde-174"
 title: "TBK Madde 174: MADDE 174- Koşul, taraflardan birinin bizzat yerine getirmesi gerekli bir davran..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 174 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

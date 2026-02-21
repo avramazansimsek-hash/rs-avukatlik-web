@@ -2,7 +2,7 @@
 slug: "tbk-madde-66"
 title: "TBK Madde 66: MADDE 66- Adam çalıştıran, çalışanın, kendisine verilen işin yapılması sırasında..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 66 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

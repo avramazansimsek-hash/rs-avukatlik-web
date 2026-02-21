@@ -2,7 +2,7 @@
 slug: "is_kanunu-madde-69"
 title: "IS_KANUNU Madde 69: Madde 69 - Çalışma hayatında \"gece\" en geç saat 20.00'de başlayarak en erken s..."
 category: "İş Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İş Kanunu Madde 69 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

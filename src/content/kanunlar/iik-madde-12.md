@@ -1,8 +1,8 @@
 ---
 slug: "iik-madde-12"
-title: "IIK Madde 12: Madde 12..."
+title: "IIK Madde 12: Madde 12 – (Mülga: 2/7/2012-6352/105 md.)..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 12 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 
@@ -11,20 +11,11 @@ excerpt: "İcra ve İflas Kanunu Madde 12 tam metni, gerekçesi ve Av. Ramazan �
 ## Kanun Metni
 
 ```text
-Madde 12
+Madde 12 – (Mülga: 2/7/2012-6352/105 md.)
 
-	
+ 
 
-9/8/2016
-
-
-
-
-6754
-
-	
-
-Ek
+Gözetim ve denetim:
 ```
 
 

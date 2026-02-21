@@ -2,7 +2,7 @@
 slug: "tmk-madde-17"
 title: "TMK Madde 17: Madde 17- Kan hısımlığının derecesi, hısımları birbirine bağlayan doğum sayısıyl..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 17 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

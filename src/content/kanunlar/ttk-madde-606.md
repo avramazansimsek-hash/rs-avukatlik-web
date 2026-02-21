@@ -2,7 +2,7 @@
 slug: "ttk-madde-606"
 title: "TTK Madde 606: MADDE 606- (1) Şirket sözleşmesiyle, şirketin işletme konusunun gerçekleşmesine..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 606 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-959"
 title: "TMK Madde 959: Madde 959- Faiz veya kâr payı gibi dönemsel gelir getiren alacakların rehnedilmi..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 959 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

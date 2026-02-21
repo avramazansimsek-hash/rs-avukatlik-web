@@ -2,7 +2,7 @@
 slug: "ttk-madde-23"
 title: "TTK Madde 23: MADDE 23- (1) Bu maddedeki özel hükümler saklı kalmak şartıyla, tacirler arasınd..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 23 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

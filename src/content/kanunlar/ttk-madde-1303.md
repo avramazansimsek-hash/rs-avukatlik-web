@@ -2,7 +2,7 @@
 slug: "ttk-madde-1303"
 title: "TTK Madde 1303: MADDE 1303- (1) Kurtaran, tehlike altındaki aracın veya diğer eşyanın malikine k..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1303 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

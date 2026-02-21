@@ -2,7 +2,7 @@
 slug: "tmk-madde-636"
 title: "TMK Madde 636: Madde 636- Mevcudu borçlarını ödemeye yetmeyen terekenin tasfiyesi, sulh mahkeme..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 636 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

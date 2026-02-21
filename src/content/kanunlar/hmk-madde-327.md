@@ -2,7 +2,7 @@
 slug: "hmk-madde-327"
 title: "HMK Madde 327: MADDE 327- (1) Gereksiz yere davanın uzamasına veya gider yapılmasına sebebiyet..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 327 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

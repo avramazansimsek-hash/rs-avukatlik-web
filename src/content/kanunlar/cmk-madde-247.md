@@ -2,7 +2,7 @@
 slug: "cmk-madde-247"
 title: "CMK Madde 247: Madde 247 – (1) Hakkındaki soruşturmanın veya kovuşturmanın sonuçsuz kalmasını s..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 247 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

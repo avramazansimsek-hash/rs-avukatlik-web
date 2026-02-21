@@ -2,7 +2,7 @@
 slug: "cmk-madde-284"
 title: "CMK Madde 284: Madde 284 – (1) Bölge adliye mahkemesi karar ve hükümlerine karşı direnilemez; b..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 284 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

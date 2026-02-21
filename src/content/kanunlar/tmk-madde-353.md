@@ -2,7 +2,7 @@
 slug: "tmk-madde-353"
 title: "TMK Madde 353: Madde 353- Evlilik sona erince velâyet kendisinde kalan eş, hâkime çocuğun malva..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 353 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

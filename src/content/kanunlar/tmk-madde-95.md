@@ -2,7 +2,7 @@
 slug: "tmk-madde-95"
 title: "TMK Madde 95: Madde 95- Her şubede genel kurul ve yönetim kurulu ile denetim kurulu veya denet..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 95 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

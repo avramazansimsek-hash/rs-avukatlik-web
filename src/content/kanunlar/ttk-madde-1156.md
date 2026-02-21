@@ -2,7 +2,7 @@
 slug: "ttk-madde-1156"
 title: "TTK Madde 1156: MADDE 1156- (1) Yükleme süresi takvime göre aralıksız hesaplanır...."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1156 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "cmk-madde-204"
 title: "CMK Madde 204: Madde 204 – (1) Davranışları nedeniyle, hazır bulunmasının duruşmanın düzenli ol..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 204 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

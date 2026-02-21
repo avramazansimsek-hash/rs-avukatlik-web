@@ -2,7 +2,7 @@
 slug: "tmk-madde-695"
 title: "TMK Madde 695: Madde 695- Yararlanma, kullanma ve yönetime ilişkin konularda paydaşların yaptık..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 695 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

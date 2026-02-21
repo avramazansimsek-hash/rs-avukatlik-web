@@ -2,7 +2,7 @@
 slug: "cmk-madde-70"
 title: "CMK Madde 70: Madde 70 – (1) Tanıklıktan çekinmeyi gerektirecek sebepler bilirkişiler hakkında..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 70 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

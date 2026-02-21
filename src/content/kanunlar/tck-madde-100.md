@@ -2,7 +2,7 @@
 slug: "tck-madde-100"
 title: "TCK Madde 100: Madde 100- (1) Gebelik süresi on haftadan fazla olan kadının çocuğunu isteyerek..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 100 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

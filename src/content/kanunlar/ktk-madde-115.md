@@ -2,7 +2,7 @@
 slug: "ktk-madde-115"
 title: "KTK Madde 115: Madde 115 – (Değişik: 3/11/1988 – 3493/49 md.)..."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 115 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

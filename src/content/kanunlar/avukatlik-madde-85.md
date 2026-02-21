@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-85"
 title: "AVUKATLIK Madde 85: Madde 85 – Gerek olağan, gerekse olağanüstü genel kurul toplantılarında ilk iş o..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 85 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

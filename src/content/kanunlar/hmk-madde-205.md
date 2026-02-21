@@ -2,7 +2,7 @@
 slug: "hmk-madde-205"
 title: "HMK Madde 205: MADDE 205- (1) Mahkeme huzurunda ikrar olunan veya mahkemece inkâr edenden sadır..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 205 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

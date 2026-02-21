@@ -2,7 +2,7 @@
 slug: "ttk-madde-200"
 title: "TTK Madde 200: MADDE 200- (1) Hâkim şirketin her pay sahibi genel kurulda, bağlı şirketlerin fi..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 200 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

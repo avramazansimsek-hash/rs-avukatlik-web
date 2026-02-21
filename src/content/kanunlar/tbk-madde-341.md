@@ -2,7 +2,7 @@
 slug: "tbk-madde-341"
 title: "TBK Madde 341: MADDE 341- Kiracı, konut ve çatılı işyeri kiralarında, sözleşmede aksi öngörülme..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 341 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

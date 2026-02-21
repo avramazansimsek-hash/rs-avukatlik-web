@@ -2,7 +2,7 @@
 slug: "tbk-madde-232"
 title: "TBK Madde 232: MADDE 232- Alıcı, satış sözleşmesinde kararlaştırılmış olduğu biçimde satış bede..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 232 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

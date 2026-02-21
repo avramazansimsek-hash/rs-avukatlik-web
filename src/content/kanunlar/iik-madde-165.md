@@ -2,7 +2,7 @@
 slug: "iik-madde-165"
 title: "IIK Madde 165: Madde 165 – İflas hükümle açılır ve bu hükümde açılma anı gösterilir...."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 165 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

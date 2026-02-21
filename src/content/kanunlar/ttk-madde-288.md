@@ -2,7 +2,7 @@
 slug: "ttk-madde-288"
 title: "TTK Madde 288: MADDE 288- (1) Tasfiye memurları tasfiye işlemlerinin güvenliğini sağlamak için..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 288 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

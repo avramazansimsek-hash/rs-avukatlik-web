@@ -2,7 +2,7 @@
 slug: "cmk-madde-52"
 title: "CMK Madde 52: Madde 52 – (1) Her tanık, ayrı ayrı ve sonraki tanıklar yanında bulunmaksızın di..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 52 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

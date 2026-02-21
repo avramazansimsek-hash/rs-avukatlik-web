@@ -2,7 +2,7 @@
 slug: "tmk-madde-512"
 title: "TMK Madde 512: Madde 512- Mirasçılıktan çıkarma, mirasbırakan ancak buna ilişkin tasarrufunda ç..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 512 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-558"
 title: "TMK Madde 558: Madde 558- İptal davası, tasarrufun iptal edilmesinde menfaati bulunan mirasçı v..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 558 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

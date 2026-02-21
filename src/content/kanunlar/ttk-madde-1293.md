@@ -2,7 +2,7 @@
 slug: "ttk-madde-1293"
 title: "TTK Madde 1293: MADDE 1293- (1) Çatma sonucu uğranılan zararın tazmini için açılacak davalar önc..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1293 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

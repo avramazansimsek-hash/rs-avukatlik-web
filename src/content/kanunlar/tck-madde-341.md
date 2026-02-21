@@ -2,7 +2,7 @@
 slug: "tck-madde-341"
 title: "TCK Madde 341: Madde 341- (1) Resmen çekilmiş olan yabancı devlet bayrağını veya diğer egemenli..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 341 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

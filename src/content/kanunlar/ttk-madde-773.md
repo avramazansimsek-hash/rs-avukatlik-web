@@ -2,7 +2,7 @@
 slug: "ttk-madde-773"
 title: "TTK Madde 773: MADDE 773- (1) Muhatap, yerleşim yerli poliçeyi ödeyecek olan üçüncü kişi ve düz..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 773 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

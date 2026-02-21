@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-156"
 title: "AVUKATLIK Madde 156: Madde 156 – (Değişik birinci fıkra: 2/5/2001 - 4667/73 md.) İşten yasaklanma kar..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 156 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

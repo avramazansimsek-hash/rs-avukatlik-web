@@ -2,7 +2,7 @@
 slug: "ttk-madde-552"
 title: "TTK Madde 552: MADDE 552- (Değişik: 26/6/2012-6335/27 md.)..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 552 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

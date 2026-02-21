@@ -2,7 +2,7 @@
 slug: "tbk-madde-492"
 title: "TBK Madde 492: MADDE 492- Yayımcı, eseri hiçbir kısaltma, ekleme ve değişiklik yapmaksızın uygu..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 492 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

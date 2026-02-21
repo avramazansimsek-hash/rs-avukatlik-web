@@ -2,7 +2,7 @@
 slug: "iik-madde-299"
 title: "IIK Madde 299: Madde 299- (Değişik: 28/2/2018-7101/27 md.)..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 299 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

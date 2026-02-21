@@ -2,7 +2,7 @@
 slug: "hmk-madde-125"
 title: "HMK Madde 125: MADDE 125- (1) Davanın açılmasından sonra, davalı taraf, dava konusunu üçüncü bi..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 125 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

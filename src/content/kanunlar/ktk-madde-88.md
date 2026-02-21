@@ -2,7 +2,7 @@
 slug: "ktk-madde-88"
 title: "KTK Madde 88: Madde 88 – Bir motorlu aracın katıldığı bir kazada, bir üçüncü kişinin uğradığı..."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 88 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

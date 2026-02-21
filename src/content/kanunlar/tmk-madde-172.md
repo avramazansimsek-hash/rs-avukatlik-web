@@ -2,7 +2,7 @@
 slug: "tmk-madde-172"
 title: "TMK Madde 172: Madde 172- Süre bitince ayrılık durumu kendiliğinden sona erer...."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 172 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

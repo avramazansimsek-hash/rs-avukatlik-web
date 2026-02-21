@@ -2,7 +2,7 @@
 slug: "tmk-madde-907"
 title: "TMK Madde 907: Madde 907- İrat senedinin borçlusu yüklü taşınmazın malikidir...."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 907 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

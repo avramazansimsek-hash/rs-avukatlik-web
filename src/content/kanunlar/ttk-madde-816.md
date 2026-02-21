@@ -2,7 +2,7 @@
 slug: "ttk-madde-816"
 title: "TTK Madde 816: MADDE 816- (1) Bir çekin ibrazı ve protestosu, ancak bir iş gününde yapılabilir...."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 816 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

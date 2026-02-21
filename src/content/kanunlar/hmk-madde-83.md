@@ -2,7 +2,7 @@
 slug: "hmk-madde-83"
 title: "HMK Madde 83: MADDE 83- (1) Vekil ile takip edilen davada, vekilin azli hâlinde vekâlet veren,..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 83 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

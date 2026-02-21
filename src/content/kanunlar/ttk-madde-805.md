@@ -2,7 +2,7 @@
 slug: "ttk-madde-805"
 title: "TTK Madde 805: MADDE 805- (1) Bir çekin düzenleyeni veya hamili çekin ön yüzüne “hesaba geçiril..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 805 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

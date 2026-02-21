@@ -2,7 +2,7 @@
 slug: "tck-madde-129"
 title: "TCK Madde 129: Madde 129- (1) Hakaret suçunun haksız bir fiile tepki olarak işlenmesi halinde,..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 129 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

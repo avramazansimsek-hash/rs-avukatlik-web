@@ -2,7 +2,7 @@
 slug: "tmk-madde-427"
 title: "TMK Madde 427: Madde 427- Vesayet makamı, yönetimi kimseye ait olmayan mallar için gereken önle..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 427 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

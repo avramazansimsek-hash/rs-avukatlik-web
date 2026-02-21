@@ -2,7 +2,7 @@
 slug: "ttk-madde-1219"
 title: "TTK Madde 1219: MADDE 1219- (1) Eşyanın sadece bir kısmına ilişkin engeller, taraflara fesih hak..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1219 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

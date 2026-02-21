@@ -1,8 +1,8 @@
 ---
 slug: "iyuk-madde-7"
-title: "IYUK Madde 7: Madde 7..."
+title: "IYUK Madde 7: Madde 7 – 1. Dava açma süresi, özel kanunlarında ayrı süre gösterilmeyen hallerd..."
 category: "İdari Yargılama Usulü Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İdari Yargılama Usulü Kanunu Madde 7 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 
@@ -11,78 +11,24 @@ excerpt: "İdari Yargılama Usulü Kanunu Madde 7 tam metni, gerekçesi ve Av. R
 ## Kanun Metni
 
 ```text
-Madde 7
+Madde 7 – 1. Dava açma süresi, özel kanunlarında ayrı süre gösterilmeyen hallerde Danıştayda ve idare mahkemelerinde altmış ve vergi mahkemelerinde otuz gündür.
 
-	
+2. Bu süreler;
 
-30/4/2013
+a) İdari uyuşmazlıklarda; yazılı bildirimin yapıldığı,
 
+b) Vergi, resim ve harçlar ile benzeri mali yükümler ve bunların zam ve cezalarından doğan uyuşmazlıklarda: Tahakkuku tahsile bağlı olan vergilerde tahsilatın; tebliğ yapılan hallerde veya tebliğ yerine geçen işlemlerde tebliğin; tevkif yoluyla alınan vergilerde istihkak sahiplerine ödemenin; tescile bağlı vergilerde tescilin yapıldığı ve idarenin dava açması gereken konularda ise ilgili merci veya komisyon kararının idareye geldiği;
 
+Tarihi izleyen günden başlar.
 
+3. Adresleri belli olmayanlara özel kanunlarındaki hükümlere göre ilan yoluyla bildirim yapılan hallerde, özel kanununda aksine bir hüküm bulunmadıkça süre, son ilan tarihini izleyen günden itibaren onbeş gün sonra işlemeye başlar.
 
-Anayasa Mahkemesinin 18/7/2012 tarihli ve
-
-E.: 2011/113, K.: 2012/108 sayılı Kararı
-
-	
-
-61 inci maddenin birinci fıkrasının birinci cümlesi
-
-	
-
-1/1/2013 tarihinden başlayarak altı ay sonra
-
-(1/7/2013)
+4. İlanı gereken düzenleyici işlemlerde dava süresi, ilan tarihini izleyen günden itibaren başlar. Ancak bu işlemlerin uygulanması üzerine ilgililer, düzenleyici işlem veya uygulanan işlem yahut her ikisi aleyhine birden dava açabilirler. Düzenleyici işlemin iptal edilmemiş olması bu düzenlemeye dayalı işlemin iptaline engel olmaz.
 
 
 
 
-6494
-
-	
-
-61
-
-	
-
-7/7/2013
-
-
-
-
-Anayasa Mahkemesinin 10/7/2013 tarihli ve
-
-E.: 2012/107, K.: 2013/90 sayılı Kararı
-
-	
-
-28
-
-	
-
-22/11/2013
-
-
-
-
-6526
-
-	
-
-27, 28
-
-	
-
-6/3/2014
-
-
-
-
-6545
-
-	
-
-15, 17, 20, 20/A, 45, 46, 48, 47, 49, 50, 51, 52, 54, 55, Ek Madde 1, Geçici
+Sürelerle ilgili genel esaslar
 ```
 
 

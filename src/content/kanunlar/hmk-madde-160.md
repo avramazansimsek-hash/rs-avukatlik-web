@@ -2,7 +2,7 @@
 slug: "hmk-madde-160"
 title: "HMK Madde 160: MADDE 160- (1) Zabıt kâtibi, dosya içindeki her tür belgeyi gösteren bir dizi li..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 160 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

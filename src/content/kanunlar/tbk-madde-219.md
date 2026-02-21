@@ -2,7 +2,7 @@
 slug: "tbk-madde-219"
 title: "TBK Madde 219: MADDE 219- Satıcı, alıcıya karşı herhangi bir surette bildirdiği niteliklerin sa..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 219 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

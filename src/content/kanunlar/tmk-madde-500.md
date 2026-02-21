@@ -2,7 +2,7 @@
 slug: "tmk-madde-500"
 title: "TMK Madde 500: Madde 500- Evlâtlık ve altsoyu, evlât edinene kan hısımı gibi mirasçı olurlar. E..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 500 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

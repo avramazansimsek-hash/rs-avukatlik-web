@@ -2,7 +2,7 @@
 slug: "hmk-madde-390"
 title: "HMK Madde 390: MADDE 390- (1) İhtiyati tedbir, dava açılmadan önce, esas hakkında görevli ve ye..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 390 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

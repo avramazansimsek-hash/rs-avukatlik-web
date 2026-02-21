@@ -2,7 +2,7 @@
 slug: "tbk-madde-87"
 title: "TBK Madde 87: MADDE 87- Seçimlik borçlarda, hukuki ilişkiden ve işin özelliğinden aksi anlaşıl..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 87 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

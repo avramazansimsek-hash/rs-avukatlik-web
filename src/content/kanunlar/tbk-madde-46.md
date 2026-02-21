@@ -2,7 +2,7 @@
 slug: "tbk-madde-46"
 title: "TBK Madde 46: MADDE 46- Bir kimse yetkisi olmadığı hâlde temsilci olarak bir hukuki işlem yapa..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 46 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

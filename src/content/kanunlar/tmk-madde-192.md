@@ -2,7 +2,7 @@
 slug: "tmk-madde-192"
 title: "TMK Madde 192: Madde 192- Eşlerden her biri, meslek veya iş seçiminde diğerinin iznini almak zo..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 192 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

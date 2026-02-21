@@ -2,7 +2,7 @@
 slug: "ttk-madde-687"
 title: "TTK Madde 687: MADDE 687- (1) Poliçeden dolayı kendisine başvurulan kişi, düzenleyen veya öncek..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 687 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

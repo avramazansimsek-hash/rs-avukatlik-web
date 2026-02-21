@@ -2,7 +2,7 @@
 slug: "ttk-madde-453"
 title: "TTK Madde 453: MADDE 453- (1) Genel kurul, esas sözleşmenin değiştirilmesi için toplantıya çağr..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 453 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-1401"
 title: "TTK Madde 1401: MADDE 1401- (1) Sigorta sözleşmesi, sigortacının bir prim karşılığında, kişinin..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1401 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

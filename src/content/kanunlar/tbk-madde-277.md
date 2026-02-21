@@ -2,7 +2,7 @@
 slug: "tbk-madde-277"
 title: "TBK Madde 277: MADDE 277- Taşınmazın açık artırma yoluyla satışında, ihalenin veya reddinin art..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 277 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

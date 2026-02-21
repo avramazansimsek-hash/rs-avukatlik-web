@@ -2,7 +2,7 @@
 slug: "tmk-madde-40"
 title: "TMK Madde 40: Madde 40- Cinsiyetini değiştirmek isteyen kimse, şahsen başvuruda bulunarak mahk..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 40 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

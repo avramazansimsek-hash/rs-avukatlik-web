@@ -2,7 +2,7 @@
 slug: "tkhk-madde-80"
 title: "TKHK Madde 80: MADDE 80- (1) Piramit satış; katılımcılarına bir miktar para veya malvarlığı ort..."
 category: "Tüketicinin Korunması Hakkında Kanun"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Tüketicinin Korunması Hakkında Kanun Madde 80 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

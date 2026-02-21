@@ -2,7 +2,7 @@
 slug: "ttk-madde-506"
 title: "TTK Madde 506: MADDE 506- (1) 504 ve 505 inci madde hükümlerine bağlı borçlanma senetlerinin to..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 506 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

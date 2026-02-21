@@ -2,7 +2,7 @@
 slug: "ktk-madde-31"
 title: "KTK Madde 31: Madde 31 – (Değişik: 8/3/2000 - 4550/1 md.)..."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 31 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

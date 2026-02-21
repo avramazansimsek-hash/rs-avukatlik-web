@@ -2,7 +2,7 @@
 slug: "iik-madde-219"
 title: "IIK Madde 219: Madde 219 – (Değişik birinci fıkra : 9/11/1988-3494/44 md.) Tasfiye adi şekilde..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 219 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

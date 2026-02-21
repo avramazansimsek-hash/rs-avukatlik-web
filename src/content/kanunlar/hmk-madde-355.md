@@ -2,7 +2,7 @@
 slug: "hmk-madde-355"
 title: "HMK Madde 355: MADDE 355- (1) İnceleme, istinaf dilekçesinde belirtilen sebeplerle sınırlı olar..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 355 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

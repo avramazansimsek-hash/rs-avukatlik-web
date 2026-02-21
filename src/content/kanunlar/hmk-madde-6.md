@@ -2,7 +2,7 @@
 slug: "hmk-madde-6"
 title: "HMK Madde 6: MADDE 6- (1) Genel yetkili mahkeme, davalı gerçek veya tüzel kişinin davanın açı..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 6 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

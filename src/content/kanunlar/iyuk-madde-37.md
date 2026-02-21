@@ -2,7 +2,7 @@
 slug: "iyuk-madde-37"
 title: "IYUK Madde 37: Madde 37 – Bu Kanununa göre vergi uyuşmazlıklarında yetkili mahkeme:..."
 category: "İdari Yargılama Usulü Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İdari Yargılama Usulü Kanunu Madde 37 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

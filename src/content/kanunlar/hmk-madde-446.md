@@ -2,7 +2,7 @@
 slug: "hmk-madde-446"
 title: "HMK Madde 446: MADDE 446- (1) Bu Kanun anlamında disiplin para cezasından maksat, yargılamanın..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 446 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tbk-madde-41"
 title: "TBK Madde 41: MADDE 41- Başkası adına ve hesabına temsil kamu hukukundan doğmuşsa, temsil yetk..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 41 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

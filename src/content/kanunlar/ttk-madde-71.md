@@ -2,7 +2,7 @@
 slug: "ttk-madde-71"
 title: "TTK Madde 71: MADDE 71- (1) Finansal tablolar, tacir tarafından tarih atılarak imzalanır...."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 71 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

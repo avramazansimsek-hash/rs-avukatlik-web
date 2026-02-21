@@ -2,7 +2,7 @@
 slug: "ttk-madde-1222"
 title: "TTK Madde 1222: MADDE 1222- (1) Yolculuğun, bu Kanunda öngörülenler dışında bir tabiî olay veya..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1222 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

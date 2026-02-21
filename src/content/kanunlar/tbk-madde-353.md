@@ -2,7 +2,7 @@
 slug: "tbk-madde-353"
 title: "TBK Madde 353: MADDE 353- Kiraya veren, en geç davanın açılması için öngörülen sürede dava açac..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 353 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

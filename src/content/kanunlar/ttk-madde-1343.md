@@ -2,7 +2,7 @@
 slug: "ttk-madde-1343"
 title: "TTK Madde 1343: MADDE 1343- (1) 1976 tarihli Sözleşmenin 4 üncü maddesinin ve 1992 tarihli Sorum..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1343 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

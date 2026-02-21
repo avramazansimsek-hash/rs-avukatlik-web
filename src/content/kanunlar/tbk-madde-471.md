@@ -2,7 +2,7 @@
 slug: "tbk-madde-471"
 title: "TBK Madde 471: MADDE 471- Yüklenici, üstlendiği edimleri işsahibinin haklı menfaatlerini gözete..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 471 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

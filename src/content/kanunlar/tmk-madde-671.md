@@ -2,7 +2,7 @@
 slug: "tmk-madde-671"
 title: "TMK Madde 671: Madde 671- Geri vermekle yükümlü olan mirasçı, dilerse aldığını aynen geri verir..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 671 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

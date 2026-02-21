@@ -2,7 +2,7 @@
 slug: "tck-madde-136"
 title: "TCK Madde 136: Madde 136- (1) Kişisel verileri, hukuka aykırı olarak bir başkasına veren, yayan..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 136 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

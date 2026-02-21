@@ -2,7 +2,7 @@
 slug: "cmk-madde-212"
 title: "CMK Madde 212: Madde 212 – (1) Tanık, bir hususu hatırlayamadığını söylerse önceki ifadesini iç..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 212 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

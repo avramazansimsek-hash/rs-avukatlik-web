@@ -2,7 +2,7 @@
 slug: "iik-madde-87"
 title: "IIK Madde 87: Madde 87 – (Değişik:24/11/2021-7343/6 md.)..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 87 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

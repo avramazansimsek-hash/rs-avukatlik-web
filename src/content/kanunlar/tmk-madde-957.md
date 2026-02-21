@@ -2,7 +2,7 @@
 slug: "tmk-madde-957"
 title: "TMK Madde 957: Madde 957- Emtiayı temsil eden kıymetli evrakın rehnedilmesiyle emtia üzerinde r..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 957 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "iyuk-madde-42"
 title: "IYUK Madde 42: Madde 42 – 1. Bağlantının varlığı yolunda idare ve vergi mahkemelerince veya bu..."
 category: "İdari Yargılama Usulü Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İdari Yargılama Usulü Kanunu Madde 42 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ktk-madde-47"
 title: "KTK Madde 47: Madde 47 – Karayollarından faydalananlar aşağıdaki sıralamaya göre;..."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 47 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

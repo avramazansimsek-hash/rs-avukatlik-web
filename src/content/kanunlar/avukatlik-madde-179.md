@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-179"
 title: "AVUKATLIK Madde 179: Madde 179 – (Değişik: 2/5/2001 - 4667/87 md.)..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 179 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

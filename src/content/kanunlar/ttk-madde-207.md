@@ -2,7 +2,7 @@
 slug: "ttk-madde-207"
 title: "TTK Madde 207: MADDE 207- (1) Denetçi, (…)[37] özel denetçi, riskin erken saptanması ve yönetim..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 207 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

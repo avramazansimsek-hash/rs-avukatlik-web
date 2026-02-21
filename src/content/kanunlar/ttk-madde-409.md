@@ -2,7 +2,7 @@
 slug: "ttk-madde-409"
 title: "TTK Madde 409: MADDE 409- (1) Genel kurullar olağan ve olağanüstü toplanır. Olağan toplantı her..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 409 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

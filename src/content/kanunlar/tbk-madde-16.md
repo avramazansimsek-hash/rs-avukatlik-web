@@ -2,7 +2,7 @@
 slug: "tbk-madde-16"
 title: "TBK Madde 16: MADDE 16- İmza atamayanlar, imza yerine usulüne göre onaylanmış olması koşuluyla..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 16 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

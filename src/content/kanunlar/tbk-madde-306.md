@@ -2,7 +2,7 @@
 slug: "tbk-madde-306"
 title: "TBK Madde 306: MADDE 306- Kiracı, kiraya verenden kiralanandaki ayıbın uygun bir sürede gideril..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 306 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

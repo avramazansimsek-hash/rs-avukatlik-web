@@ -2,7 +2,7 @@
 slug: "ttk-madde-673"
 title: "TTK Madde 673: MADDE 673- (1) Poliçe bizzat düzenleyenin emrine yazılı olabileceği gibi, bizzat..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 673 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "iik-madde-46"
 title: "IIK Madde 46: Madde 46 – Takip diğer bütün hallerde haciz yoliyle yapılır. Borçlu tüccar sıfat..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 46 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

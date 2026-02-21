@@ -2,7 +2,7 @@
 slug: "tmk-madde-329"
 title: "TMK Madde 329: Madde 329- Küçüğe fiilen bakan ana veya baba, diğerine karşı çocuk adına nafaka..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 329 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

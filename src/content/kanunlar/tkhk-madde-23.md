@@ -2,7 +2,7 @@
 slug: "tkhk-madde-23"
 title: "TKHK Madde 23: MADDE 23- (1) Kredi verenin ve varsa kredi aracısının, tüketiciye, teklif ettikl..."
 category: "Tüketicinin Korunması Hakkında Kanun"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Tüketicinin Korunması Hakkında Kanun Madde 23 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tbk-madde-153"
 title: "TBK Madde 153: MADDE 153- Aşağıdaki durumlarda zamanaşımı işlemeye başlamaz, başlamışsa durur:..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 153 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-501"
 title: "TMK Madde 501: Madde 501- Mirasçı bırakmaksızın ölen kimsenin mirası Devlete geçer...."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 501 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

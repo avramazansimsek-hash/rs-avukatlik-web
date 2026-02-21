@@ -2,7 +2,7 @@
 slug: "tbk-madde-455"
 title: "TBK Madde 455: MADDE 455- Pazarlamacı, belirli bir pazarlama alanı veya belirli bir müşteri çev..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 455 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

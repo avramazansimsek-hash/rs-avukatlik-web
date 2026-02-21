@@ -2,7 +2,7 @@
 slug: "tmk-madde-912"
 title: "TMK Madde 912: Madde 912- İpotekli borç senedi ve irat senedi, tapu memuru tarafından düzenleni..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 912 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-99"
 title: "TTK Madde 99: MADDE 99- (1) Sözleşme süreli olup da taraflardan biri bu süre içinde ölür veya..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 99 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

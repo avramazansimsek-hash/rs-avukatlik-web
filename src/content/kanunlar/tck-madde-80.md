@@ -2,7 +2,7 @@
 slug: "tck-madde-80"
 title: "TCK Madde 80: Madde 80- (1) (Değişik: 6/12/2006 – 5560/3 md.) Zorla çalıştırmak, hizmet ettirm..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 80 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

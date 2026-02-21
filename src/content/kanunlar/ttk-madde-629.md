@@ -2,7 +2,7 @@
 slug: "ttk-madde-629"
 title: "TTK Madde 629: MADDE 629- (1) Müdürlerin temsil yetkilerinin kapsamına, yetkinin sınırlandırılm..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 629 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

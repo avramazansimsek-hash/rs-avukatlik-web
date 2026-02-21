@@ -2,7 +2,7 @@
 slug: "ttk-madde-862"
 title: "TTK Madde 862: MADDE 862- (1) Eşyanın niteliği, kararlaştırılan taşıma dikkate alındığında, amb..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 862 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

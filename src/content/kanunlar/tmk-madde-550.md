@@ -2,7 +2,7 @@
 slug: "tmk-madde-550"
 title: "TMK Madde 550: Madde 550- Mirasbırakan, vasiyetnameyle bir veya birden çok vasiyeti yerine geti..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 550 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

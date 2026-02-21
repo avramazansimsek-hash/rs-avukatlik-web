@@ -2,7 +2,7 @@
 slug: "ttk-madde-1335"
 title: "TTK Madde 1335: MADDE 1335- (1) 1976 tarihli Sözleşmenin 10 uncu maddesi uyarınca, fon kurulmada..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1335 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

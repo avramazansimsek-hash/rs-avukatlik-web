@@ -2,7 +2,7 @@
 slug: "ttk-madde-179"
 title: "TTK Madde 179: MADDE 179- (1) Bölünme onaylanınca, yönetim organı bölünmenin tescilini ister...."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 179 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

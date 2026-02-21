@@ -2,7 +2,7 @@
 slug: "hmk-madde-8"
 title: "HMK Madde 8: MADDE 8- (1) Memur, işçi, öğrenci, asker gibi, bir yerde geçici olarak oturanlar..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 8 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

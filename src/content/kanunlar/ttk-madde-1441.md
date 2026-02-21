@@ -2,7 +2,7 @@
 slug: "ttk-madde-1441"
 title: "TTK Madde 1441: MADDE 1441- (1) Cayma hâlinde, sigorta ettiren kasıtlı ise, sigortacı rizikoyu t..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1441 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

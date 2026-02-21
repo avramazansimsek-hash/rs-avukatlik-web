@@ -2,7 +2,7 @@
 slug: "ttk-madde-1093"
 title: "TTK Madde 1093: MADDE 1093- (1) Kaptan, gemi kalkmaya hazır olunca, elverişli ilk fırsatta yola..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1093 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

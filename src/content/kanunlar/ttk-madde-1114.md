@@ -2,7 +2,7 @@
 slug: "ttk-madde-1114"
 title: "TTK Madde 1114: MADDE 1114- (1) 1112 nci maddede yazılı hâller dışında kaptan, ancak yolculuğun..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1114 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

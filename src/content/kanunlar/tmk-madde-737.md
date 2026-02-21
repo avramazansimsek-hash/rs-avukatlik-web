@@ -2,7 +2,7 @@
 slug: "tmk-madde-737"
 title: "TMK Madde 737: Madde 737- Herkes, taşınmaz mülkiyetinden doğan yetkileri kullanırken ve özellik..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 737 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

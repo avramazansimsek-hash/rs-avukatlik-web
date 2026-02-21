@@ -2,7 +2,7 @@
 slug: "tmk-madde-601"
 title: "TMK Madde 601: Madde 601- Kendisine bir intifa hakkı veya bir irat hakkı ya da belli aralıklarl..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 601 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-790"
 title: "TMK Madde 790: Madde 790- İrtifak hakkının kullanılması için gerekli tesislerin bakımı, yararla..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 790 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

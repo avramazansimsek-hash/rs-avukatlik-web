@@ -2,7 +2,7 @@
 slug: "ttk-madde-978"
 title: "TTK Madde 978: MADDE 978- (1) Şerh, bir ihtiyati tedbir kararına yahut şerh sonucunda gemisi ve..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 978 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

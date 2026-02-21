@@ -2,7 +2,7 @@
 slug: "ttk-madde-1321"
 title: "TTK Madde 1321: MADDE 1321- (1) Gemi alacağı, sahibine, gemi ve eklentisi üzerinde kanuni rehin..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1321 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

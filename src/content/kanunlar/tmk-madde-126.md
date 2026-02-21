@@ -2,7 +2,7 @@
 slug: "tmk-madde-126"
 title: "TMK Madde 126: Madde 126- Küçük, yasal temsilcisinin izni olmadıkça evlenemez...."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 126 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

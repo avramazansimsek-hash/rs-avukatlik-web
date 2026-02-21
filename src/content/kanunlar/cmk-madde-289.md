@@ -2,7 +2,7 @@
 slug: "cmk-madde-289"
 title: "CMK Madde 289: Madde 289 – (1) Temyiz dilekçesi veya beyanında gösterilmiş olmasa da aşağıda ya..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 289 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

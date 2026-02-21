@@ -2,7 +2,7 @@
 slug: "hmk-madde-232"
 title: "HMK Madde 232: MADDE 232- (1) Yemin, tarafa teklif olunur ve tarafça eda yahut iade olunur...."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 232 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

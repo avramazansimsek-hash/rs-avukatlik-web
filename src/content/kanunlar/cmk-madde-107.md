@@ -2,7 +2,7 @@
 slug: "cmk-madde-107"
 title: "CMK Madde 107: Madde 107 – (1) Tutuklamadan ve tutuklamanın uzatılmasına ilişkin her karardan t..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 107 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

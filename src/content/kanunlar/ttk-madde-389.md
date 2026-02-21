@@ -2,7 +2,7 @@
 slug: "ttk-madde-389"
 title: "TTK Madde 389: MADDE 389- (1) Şirketin iktisap ettiği kendi payları ile yavru şirket tarafından..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 389 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

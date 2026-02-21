@@ -2,7 +2,7 @@
 slug: "tck-madde-162"
 title: "TCK Madde 162: Madde 162- (1) Tacir olmanın gerekli kıldığı dikkat ve özenin gösterilmemesi dol..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 162 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

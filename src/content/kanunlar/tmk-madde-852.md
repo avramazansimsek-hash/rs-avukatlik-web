@@ -2,7 +2,7 @@
 slug: "tmk-madde-852"
 title: "TMK Madde 852: Madde 852- Sınırlayıcı hükümler saklı kalmak kaydıyla, taraflar faiz oranını dil..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 852 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

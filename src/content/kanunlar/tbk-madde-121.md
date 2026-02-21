@@ -2,7 +2,7 @@
 slug: "tbk-madde-121"
 title: "TBK Madde 121: MADDE 121- Faiz veya irat borcunu ya da bağışladığı bir miktar parayı ödemekte t..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 121 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

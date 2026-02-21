@@ -2,7 +2,7 @@
 slug: "cmk-madde-326"
 title: "CMK Madde 326: Madde 326 – (1) Birden çok suçtan dolayı aleyhinde kovuşturma yapılmış olan kims..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 326 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

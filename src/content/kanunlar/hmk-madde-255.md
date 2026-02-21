@@ -2,7 +2,7 @@
 slug: "hmk-madde-255"
 title: "HMK Madde 255: MADDE 255- (1) Tanığın davada yararı bulunmak gibi tanıklığının doğruluğu konusu..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 255 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

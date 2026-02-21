@@ -2,7 +2,7 @@
 slug: "ttk-madde-245"
 title: "TTK Madde 245: MADDE 245- (1) Haklı sebep, şirketin kuruluşuna yol açan fiili veya kişisel sebe..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 245 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

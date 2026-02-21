@@ -2,7 +2,7 @@
 slug: "iik-madde-312"
 title: "IIK Madde 312: Madde 312 – Hileli müflis itibarının yerine gelmesini Ceza Muhakemeleri Usulü Ka..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 312 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

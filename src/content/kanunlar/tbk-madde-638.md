@@ -2,7 +2,7 @@
 slug: "tbk-madde-638"
 title: "TBK Madde 638: MADDE 638- Ortaklık için edinilen veya ortaklığa devredilen şeyler, alacaklar ve..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 638 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

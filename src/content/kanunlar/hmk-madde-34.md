@@ -2,7 +2,7 @@
 slug: "hmk-madde-34"
 title: "HMK Madde 34: MADDE 34- (1) Hâkim, aşağıdaki hâllerde davaya bakamaz; talep olmasa bile çekinm..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 34 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

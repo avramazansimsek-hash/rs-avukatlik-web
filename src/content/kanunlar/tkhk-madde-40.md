@@ -2,7 +2,7 @@
 slug: "tkhk-madde-40"
 title: "TKHK Madde 40: MADDE 40- (1) Ön ödemeli konut satış sözleşmesi, tüketicinin konut amaçlı bir ta..."
 category: "Tüketicinin Korunması Hakkında Kanun"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Tüketicinin Korunması Hakkında Kanun Madde 40 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

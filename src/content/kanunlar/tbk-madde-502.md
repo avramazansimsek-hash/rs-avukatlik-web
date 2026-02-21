@@ -2,7 +2,7 @@
 slug: "tbk-madde-502"
 title: "TBK Madde 502: MADDE 502- Vekâlet sözleşmesi, vekilin vekâlet verenin bir işini görmeyi veya iş..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 502 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

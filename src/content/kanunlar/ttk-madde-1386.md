@@ -2,7 +2,7 @@
 slug: "ttk-madde-1386"
 title: "TTK Madde 1386: MADDE 1386- (1) Türk ve yabancı bayraklı gemilerde, malik aynı zamanda deniz ala..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1386 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

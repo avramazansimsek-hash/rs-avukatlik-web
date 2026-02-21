@@ -2,7 +2,7 @@
 slug: "ttk-madde-250"
 title: "TTK Madde 250: MADDE 250- (1) Şirketin sona ermesi hâlinde ortaklar sona ermeyi tescil ve ilan..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 250 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

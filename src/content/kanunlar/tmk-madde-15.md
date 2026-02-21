@@ -2,7 +2,7 @@
 slug: "tmk-madde-15"
 title: "TMK Madde 15: Madde 15- Kanunda gösterilen ayrık durumlar saklı kalmak üzere, ayırt etme gücü..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 15 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

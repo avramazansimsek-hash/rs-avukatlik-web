@@ -2,7 +2,7 @@
 slug: "ttk-madde-833"
 title: "TTK Madde 833: MADDE 833- (1) 832 nci maddede yazılı senetleri vermeksizin, yalnız mal ve hubub..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 833 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

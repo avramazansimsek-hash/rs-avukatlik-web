@@ -2,7 +2,7 @@
 slug: "tmk-madde-971"
 title: "TMK Madde 971: Madde 971- Alacaklılar, rehinli tahvillerin öngörülen zamandan önce ödenmesini i..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 971 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

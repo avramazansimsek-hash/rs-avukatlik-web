@@ -2,7 +2,7 @@
 slug: "kvkk-madde-10"
 title: "KVKK Madde 10: MADDE 10- (1) Kişisel verilerin elde edilmesi sırasında veri sorumlusu veya yetk..."
 category: "Kişisel Verilerin Korunması Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Kişisel Verilerin Korunması Kanunu Madde 10 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

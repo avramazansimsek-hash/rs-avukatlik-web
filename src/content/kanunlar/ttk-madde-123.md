@@ -2,7 +2,7 @@
 slug: "ttk-madde-123"
 title: "TTK Madde 123: MADDE 123- (1) Acentenin, işletmesine ilişkin faaliyetlerini, sözleşme ilişkisin..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 123 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

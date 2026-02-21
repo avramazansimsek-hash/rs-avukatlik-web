@@ -2,7 +2,7 @@
 slug: "ttk-madde-466"
 title: "TTK Madde 466: MADDE 466- (1) Şarta bağlı sermaye artırımında, tahvillere ve benzeri borçlanma..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 466 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

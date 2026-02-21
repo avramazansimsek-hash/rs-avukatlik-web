@@ -2,7 +2,7 @@
 slug: "tbk-madde-220"
 title: "TBK Madde 220: MADDE 220- Hayvan satışında satıcı, yazılı olarak üstlenmedikçe veya ağır kusuru..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 220 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

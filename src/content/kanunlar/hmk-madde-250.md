@@ -2,7 +2,7 @@
 slug: "hmk-madde-250"
 title: "HMK Madde 250: MADDE 250- (1) Aşağıdaki hâllerde tanıklıktan çekinilebilir:..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 250 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

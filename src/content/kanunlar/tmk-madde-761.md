@@ -2,7 +2,7 @@
 slug: "tmk-madde-761"
 title: "TMK Madde 761: Madde 761- Evi, arazisi veya işletmesi için gerekli sudan yoksun olup, bunu aşır..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 761 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

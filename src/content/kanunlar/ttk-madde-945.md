@@ -2,7 +2,7 @@
 slug: "ttk-madde-945"
 title: "TTK Madde 945: MADDE 945- (1) Onsekiz gros tonilatodan küçük gemilerle 935 inci maddenin ikinci..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 945 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

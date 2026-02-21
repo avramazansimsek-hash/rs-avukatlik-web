@@ -2,7 +2,7 @@
 slug: "tck-madde-3"
 title: "TCK Madde 3: Madde 3- (1) Suç işleyen kişi hakkında işlenen fiilin ağırlığıyla orantılı ceza..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 3 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

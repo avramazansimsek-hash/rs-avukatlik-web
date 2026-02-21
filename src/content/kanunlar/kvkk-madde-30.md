@@ -2,7 +2,7 @@
 slug: "kvkk-madde-30"
 title: "KVKK Madde 30: MADDE 30- (1) (10/12/2003 tarihli ve 5018 sayılı Kanun ile ilgili olup yerine iş..."
 category: "Kişisel Verilerin Korunması Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Kişisel Verilerin Korunması Kanunu Madde 30 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

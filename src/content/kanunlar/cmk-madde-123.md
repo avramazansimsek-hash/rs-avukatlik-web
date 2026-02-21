@@ -2,7 +2,7 @@
 slug: "cmk-madde-123"
 title: "CMK Madde 123: Madde 123 – (1) İspat aracı olarak yararlı görülen ya da eşya veya kazanç müsade..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 123 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

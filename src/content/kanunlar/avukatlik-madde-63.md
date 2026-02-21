@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-63"
 title: "AVUKATLIK Madde 63: Madde 63 – Baro levhasında yazılı bulunmıyanlar ve işten yasaklanmış olan avukat..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 63 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

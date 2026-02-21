@@ -2,7 +2,7 @@
 slug: "ttk-madde-701"
 title: "TTK Madde 701: MADDE 701- (1) Aval şerhi, poliçe veya alonj üzerine yazılır...."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 701 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

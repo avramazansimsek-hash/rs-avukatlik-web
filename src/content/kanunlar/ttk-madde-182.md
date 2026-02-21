@@ -2,7 +2,7 @@
 slug: "ttk-madde-182"
 title: "TTK Madde 182: MADDE 182 - (1) Bir kollektif şirket bir komandit şirkete;..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 182 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

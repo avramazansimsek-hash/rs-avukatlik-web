@@ -2,7 +2,7 @@
 slug: "tkhk-madde-50"
 title: "TKHK Madde 50: MADDE 50- (1) Devre tatil sözleşmesi, bir yıldan uzun süre için kurulan ve tüket..."
 category: "Tüketicinin Korunması Hakkında Kanun"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Tüketicinin Korunması Hakkında Kanun Madde 50 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

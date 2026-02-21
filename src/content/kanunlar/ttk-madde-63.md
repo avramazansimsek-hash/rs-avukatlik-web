@@ -2,7 +2,7 @@
 slug: "ttk-madde-63"
 title: "TTK Madde 63: MADDE 63- (1) Tüzel kişilerin işlerini görmeleri sırasında bir haksız rekabet fi..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 63 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "iik-madde-136"
 title: "IIK Madde 136: Madde 136 – (Değişik: 14/1/2011-6103/41 md.)..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 136 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

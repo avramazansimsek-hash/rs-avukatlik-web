@@ -2,7 +2,7 @@
 slug: "tbk-madde-553"
 title: "TBK Madde 553: MADDE 553- Bir işletmenin bütün işlerini yöneten veya işletme sahibinin hizmetin..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 553 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

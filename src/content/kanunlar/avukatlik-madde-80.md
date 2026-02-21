@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-80"
 title: "AVUKATLIK Madde 80: Madde 80 – Baro genel kurulu, baronun en yüksek organı olup levhada yazılı bulun..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 80 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

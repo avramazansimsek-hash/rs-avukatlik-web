@@ -2,7 +2,7 @@
 slug: "hmk-madde-124"
 title: "HMK Madde 124: MADDE 124- (1) Bir davada taraf değişikliği, ancak karşı tarafın açık rızası ile..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 124 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

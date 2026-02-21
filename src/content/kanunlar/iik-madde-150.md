@@ -2,7 +2,7 @@
 slug: "iik-madde-150"
 title: "IIK Madde 150: Madde 150 – (Değişik: 18/2/1965-538/71 md.)..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 150 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

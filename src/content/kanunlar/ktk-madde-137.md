@@ -2,7 +2,7 @@
 slug: "ktk-madde-137"
 title: "KTK Madde 137: Madde 137 – Bu Kanunun;..."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 137 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

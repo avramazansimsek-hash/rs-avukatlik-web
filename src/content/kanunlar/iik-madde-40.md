@@ -2,7 +2,7 @@
 slug: "iik-madde-40"
 title: "IIK Madde 40: Madde 40 – (Değişik birinci fıkra: 2/3/2005-5311/7 md.) Bir ilâmın bölge adliye..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 40 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

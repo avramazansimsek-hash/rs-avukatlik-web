@@ -2,7 +2,7 @@
 slug: "ttk-madde-654"
 title: "TTK Madde 654: MADDE 654- (1) Belli bir kişinin adına yazılı olup da onun emrine kaydını içerme..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 654 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

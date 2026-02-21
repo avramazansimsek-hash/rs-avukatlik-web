@@ -2,7 +2,7 @@
 slug: "ttk-madde-1432"
 title: "TTK Madde 1432: MADDE 1432- (1) Sigorta primi, sigorta ettirenin, sözleşmede gösterilen adresind..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1432 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

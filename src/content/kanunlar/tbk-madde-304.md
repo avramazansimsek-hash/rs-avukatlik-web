@@ -2,7 +2,7 @@
 slug: "tbk-madde-304"
 title: "TBK Madde 304: MADDE 304- Kiralananın önemli ayıplarla teslimi hâlinde kiracı, borçlunun temerr..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 304 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

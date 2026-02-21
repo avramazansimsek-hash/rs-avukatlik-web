@@ -2,7 +2,7 @@
 slug: "hmk-madde-170"
 title: "HMK Madde 170: MADDE 170- (1) Tüzel kişiler adına, temsil yetkisine sahip kimseler isticvap olu..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 170 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

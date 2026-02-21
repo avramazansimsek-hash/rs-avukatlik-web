@@ -2,7 +2,7 @@
 slug: "ttk-madde-1419"
 title: "TTK Madde 1419: MADDE 1419- (1) Sigorta sözleşmesi sona erdiği takdirde, Kanunda aksi öngörülmem..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1419 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

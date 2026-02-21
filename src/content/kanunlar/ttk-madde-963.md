@@ -2,7 +2,7 @@
 slug: "ttk-madde-963"
 title: "TTK Madde 963: MADDE 963- (1) Bir geminin kaydında 960 ıncı maddenin birinci fıkrasının (a) ilâ..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 963 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

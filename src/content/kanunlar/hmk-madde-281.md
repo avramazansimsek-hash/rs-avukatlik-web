@@ -2,7 +2,7 @@
 slug: "hmk-madde-281"
 title: "HMK Madde 281: MADDE 281- (1) Taraflar, bilirkişi raporunun, kendilerine tebliği tarihinden iti..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 281 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

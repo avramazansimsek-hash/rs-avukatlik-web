@@ -2,7 +2,7 @@
 slug: "tmk-madde-244"
 title: "TMK Madde 244: Madde 244- Eşlerden her biri, yasal sınırlar içerisinde kendi malvarlığı üzerind..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 244 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

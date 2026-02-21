@@ -2,7 +2,7 @@
 slug: "tmk-madde-691"
 title: "TMK Madde 691: Madde 691- İşletme usulünün veya tarım türünün değiştirilmesi, adî kiraya veya ü..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 691 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

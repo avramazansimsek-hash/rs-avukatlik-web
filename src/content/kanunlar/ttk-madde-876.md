@@ -2,7 +2,7 @@
 slug: "ttk-madde-876"
 title: "TTK Madde 876: MADDE 876- (1) Zıya, hasar ve gecikme, taşıyıcının en yüksek özeni göstermesine..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 876 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

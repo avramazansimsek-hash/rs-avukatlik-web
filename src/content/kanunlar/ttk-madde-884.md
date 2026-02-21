@@ -2,7 +2,7 @@
 slug: "ttk-madde-884"
 title: "TTK Madde 884: MADDE 884- (1) Taşıyıcı, taşıma işinin yapılmasında, sözleşmeden doğan bir yüküm..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 884 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

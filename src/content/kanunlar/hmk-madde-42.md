@@ -2,7 +2,7 @@
 slug: "hmk-madde-42"
 title: "HMK Madde 42: MADDE 42- (1) Hâkimin reddi talebine ilişkin karar, dosya üzerinden inceleme yap..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 42 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

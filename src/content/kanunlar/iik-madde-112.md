@@ -2,7 +2,7 @@
 slug: "iik-madde-112"
 title: "IIK Madde 112: Madde 112 – Taşınır mallar satış talebinden nihayet iki ay içinde satılır.[47]..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 112 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

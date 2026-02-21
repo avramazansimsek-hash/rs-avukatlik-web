@@ -2,7 +2,7 @@
 slug: "ktk-madde-122"
 title: "KTK Madde 122: Madde 122 – Öğrenim kurumları dışında gerçek ve tüzelkişilerin karayolunu kullan..."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 122 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

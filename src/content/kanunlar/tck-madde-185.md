@@ -2,7 +2,7 @@
 slug: "tck-madde-185"
 title: "TCK Madde 185: Madde 185- (1) İçilecek sulara veya yenilecek veya içilecek veya kullanılacak ve..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 185 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

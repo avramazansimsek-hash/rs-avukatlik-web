@@ -2,7 +2,7 @@
 slug: "tmk-madde-543"
 title: "TMK Madde 543: Madde 543- Mirasbırakan, yok etmek suretiyle de vasiyetnameden dönebilir...."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 543 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

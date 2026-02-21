@@ -2,7 +2,7 @@
 slug: "ttk-madde-1423"
 title: "TTK Madde 1423: MADDE 1423- (1) Sigortacı ve acentesi, sigorta sözleşmesinin kurulmasından önce,..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1423 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

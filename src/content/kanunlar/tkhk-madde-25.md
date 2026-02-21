@@ -2,7 +2,7 @@
 slug: "tkhk-madde-25"
 title: "TKHK Madde 25: MADDE 25- (1) Belirli süreli tüketici kredisi sözleşmelerinde faiz oranı sabit o..."
 category: "Tüketicinin Korunması Hakkında Kanun"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Tüketicinin Korunması Hakkında Kanun Madde 25 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

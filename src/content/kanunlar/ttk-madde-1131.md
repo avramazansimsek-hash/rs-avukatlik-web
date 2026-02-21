@@ -2,7 +2,7 @@
 slug: "ttk-madde-1131"
 title: "TTK Madde 1131: MADDE 1131- (1) Zaman çarteri sözleşmesi, tahsis edenin, donatılmış bir geminin..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1131 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

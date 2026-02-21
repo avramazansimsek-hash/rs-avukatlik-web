@@ -2,7 +2,7 @@
 slug: "tmk-madde-477"
 title: "TMK Madde 477: Madde 477- Temsil kayyımlığı, kayyımın yapmakla görevlendirildiği işin bitirilme..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 477 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-515"
 title: "TMK Madde 515: Madde 515- Mirasbırakan, ölüme bağlı tasarruflarını koşullara veya yüklemelere b..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 515 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

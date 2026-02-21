@@ -2,7 +2,7 @@
 slug: "ttk-madde-1422"
 title: "TTK Madde 1422: MADDE 1422- (1) Sigortacının sorumluluğu başlamadan, sigorta ettirenin, sigortal..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1422 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

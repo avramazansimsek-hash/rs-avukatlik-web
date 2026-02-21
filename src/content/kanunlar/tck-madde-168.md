@@ -2,7 +2,7 @@
 slug: "tck-madde-168"
 title: "TCK Madde 168: Madde 168 – (Değişik: 29/6/2005 – 5377/20 md.)..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 168 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-481"
 title: "TMK Madde 481: Madde 481- Vasi, vasiliğe engel bir sebebin ortaya çıkması hâlinde görevinden çe..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 481 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

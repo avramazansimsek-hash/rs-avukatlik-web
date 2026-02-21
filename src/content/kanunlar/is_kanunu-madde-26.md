@@ -2,7 +2,7 @@
 slug: "is_kanunu-madde-26"
 title: "IS_KANUNU Madde 26: Madde 26 - 24 ve 25 inci maddelerde gösterilen ahlak ve iyiniyet kurallarına uym..."
 category: "İş Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İş Kanunu Madde 26 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

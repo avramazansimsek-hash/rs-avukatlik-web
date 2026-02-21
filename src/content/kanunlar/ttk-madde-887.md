@@ -2,7 +2,7 @@
 slug: "ttk-madde-887"
 title: "TTK Madde 887: MADDE 887- (1) Taşıyıcının yardımcılarından birine karşı, eşyanın zıyaı, hasarı..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 887 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

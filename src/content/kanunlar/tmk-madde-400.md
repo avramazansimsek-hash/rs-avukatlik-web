@@ -2,7 +2,7 @@
 slug: "tmk-madde-400"
 title: "TMK Madde 400: Madde 400- Aile meclisi, vesayet altındaki kişinin vasi olmaya ehil, denetim mak..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 400 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

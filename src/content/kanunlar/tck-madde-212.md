@@ -2,7 +2,7 @@
 slug: "tck-madde-212"
 title: "TCK Madde 212: Madde 212- (1) Sahte resmi veya özel belgenin bir başka suçun işlenmesi sırasınd..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 212 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

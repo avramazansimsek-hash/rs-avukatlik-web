@@ -2,7 +2,7 @@
 slug: "cmk-madde-334"
 title: "CMK Madde 334: Madde 334 – (1) Bu Kanun, 1 Haziran 2005 tarihinde yürürlüğe girer.[150]..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 334 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

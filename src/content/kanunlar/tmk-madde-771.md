@@ -2,7 +2,7 @@
 slug: "tmk-madde-771"
 title: "TMK Madde 771: Madde 771- Bulunan şeyin maliki, ilân veya kolluk kuvvetlerine ya da muhtara bil..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 771 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

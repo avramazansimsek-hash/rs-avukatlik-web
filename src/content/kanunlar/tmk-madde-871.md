@@ -2,7 +2,7 @@
 slug: "tmk-madde-871"
 title: "TMK Madde 871: Madde 871- Aynı taşınmaz üzerinde farklı sıralarda kurulmuş bulunan rehin haklar..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 871 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

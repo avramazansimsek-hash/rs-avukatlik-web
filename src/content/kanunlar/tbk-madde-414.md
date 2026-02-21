@@ -2,7 +2,7 @@
 slug: "tbk-madde-414"
 title: "TBK Madde 414: MADDE 414- İşveren, işin görülmesinin gerektirdiği her türlü harcama ile işçiyi..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 414 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

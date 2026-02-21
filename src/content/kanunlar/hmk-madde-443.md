@@ -2,7 +2,7 @@
 slug: "hmk-madde-443"
 title: "HMK Madde 443: MADDE 443- (1) Yargılamanın iadesine ilişkin yukarıdaki Sekizinci Kısmın Üçüncü..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 443 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

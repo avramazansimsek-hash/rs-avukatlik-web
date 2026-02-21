@@ -2,7 +2,7 @@
 slug: "tbk-madde-6"
 title: "TBK Madde 6: MADDE 6- Öneren, kanun veya işin özelliği ya da durumun gereği açık bir kabulü b..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 6 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

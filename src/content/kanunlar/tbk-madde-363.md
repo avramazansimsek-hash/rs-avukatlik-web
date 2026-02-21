@@ -2,7 +2,7 @@
 slug: "tbk-madde-363"
 title: "TBK Madde 363: MADDE 363- Tarımsal bir taşınmazın her zamanki verimi, olağanüstü felaket veya d..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 363 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-1035"
 title: "TTK Madde 1035: MADDE 1035- (1) Alacak, malike karşı muacceliyet kazanır yahut borçlu borcunu öd..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1035 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

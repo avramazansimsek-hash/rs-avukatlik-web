@@ -2,7 +2,7 @@
 slug: "ttk-madde-432"
 title: "TTK Madde 432: MADDE 432- (1) Bir pay, birden çok kişinin ortak mülkiyetindeyse, bunlar içlerin..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 432 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

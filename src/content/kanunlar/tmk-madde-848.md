@@ -2,7 +2,7 @@
 slug: "tmk-madde-848"
 title: "TMK Madde 848: Madde 848- Taşınmaz yükü, alacaklıya yükümlüye karşı hiçbir kişisel alacak hakkı..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 848 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

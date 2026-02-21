@@ -2,7 +2,7 @@
 slug: "tmk-madde-413"
 title: "TMK Madde 413: Madde 413- Vesayet makamı, bu görevi yapabilecek yetenekte olan bir ergini vasi..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 413 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

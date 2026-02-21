@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-59"
 title: "AVUKATLIK Madde 59: Madde 59 – 58 inci maddeye göre yapılan soruşturmaya ait dosya Adalet Bakanlığı..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 59 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

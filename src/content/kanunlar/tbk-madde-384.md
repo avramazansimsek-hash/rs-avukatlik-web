@@ -2,7 +2,7 @@
 slug: "tbk-madde-384"
 title: "TBK Madde 384: MADDE 384- Ödünç konusu, kullanım süresi ve hangi amaçla kullanılacağı belirlenm..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 384 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-1276"
 title: "TTK Madde 1276: MADDE 1276- (1) Geminin 1279 uncu maddeye göre zararın tespiti ve paylaştırılmas..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1276 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tck-madde-228"
 title: "TCK Madde 228: Madde 228- (1) Kumar oynanması için yer ve imkan sağlayan kişi, bir yıldan üç yı..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 228 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

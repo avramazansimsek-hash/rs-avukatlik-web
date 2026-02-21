@@ -2,7 +2,7 @@
 slug: "tbk-madde-286"
 title: "TBK Madde 286: MADDE 286- Fiil ehliyetine sahip olan herkes, eşler arasındaki mal rejiminden ve..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 286 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

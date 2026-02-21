@@ -2,7 +2,7 @@
 slug: "ttk-madde-1051"
 title: "TTK Madde 1051: MADDE 1051- (1) Belli bir süre için kurulan ipotek, bu sürenin dolması ile düşer..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1051 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

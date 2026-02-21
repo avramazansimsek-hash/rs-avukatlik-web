@@ -2,7 +2,7 @@
 slug: "hmk-madde-322"
 title: "HMK Madde 322: MADDE 322- (1) Bu Kanun ve diğer kanunlarda basit yargılama usulü hakkında hüküm..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 322 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

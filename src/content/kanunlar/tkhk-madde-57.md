@@ -2,7 +2,7 @@
 slug: "tkhk-madde-57"
 title: "TKHK Madde 57: MADDE 57- (1) İhtiyari garanti, tüketicinin yasal hakları saklı kalmak kaydıyla..."
 category: "Tüketicinin Korunması Hakkında Kanun"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Tüketicinin Korunması Hakkında Kanun Madde 57 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

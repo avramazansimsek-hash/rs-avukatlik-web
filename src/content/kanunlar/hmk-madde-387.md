@@ -2,7 +2,7 @@
 slug: "hmk-madde-387"
 title: "HMK Madde 387: MADDE 387- (1) Çekişmesiz yargı işlerinde verilen kararlara karşı hukuki yararı..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 387 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

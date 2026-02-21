@@ -2,7 +2,7 @@
 slug: "tmk-madde-836"
 title: "TMK Madde 836: Madde 836- Üst hakkı, bağımsız bir hak olarak en çok yüz yıl için kurulabilir...."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 836 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

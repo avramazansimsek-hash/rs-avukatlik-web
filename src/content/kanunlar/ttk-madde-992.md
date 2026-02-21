@@ -2,7 +2,7 @@
 slug: "ttk-madde-992"
 title: "TTK Madde 992: MADDE 992- (1) Yapının sicildeki kaydı;..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 992 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

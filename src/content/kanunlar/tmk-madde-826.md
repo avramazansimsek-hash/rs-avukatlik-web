@@ -2,7 +2,7 @@
 slug: "tmk-madde-826"
 title: "TMK Madde 826: Madde 826- Bir taşınmaz maliki, üçüncü kişi lehine arazisinin altında veya üstün..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 826 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

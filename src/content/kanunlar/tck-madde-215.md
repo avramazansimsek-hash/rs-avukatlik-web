@@ -2,7 +2,7 @@
 slug: "tck-madde-215"
 title: "TCK Madde 215: Madde 215- (1) İşlenmiş olan bir suçu veya işlemiş olduğu suçtan dolayı bir kişi..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 215 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ktk-madde-59"
 title: "KTK Madde 59: Madde 59 – Yerleşim birimleri dışındaki kara yolunda zorunlu haller dışında taşı..."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 59 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

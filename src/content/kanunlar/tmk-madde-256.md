@@ -2,7 +2,7 @@
 slug: "tmk-madde-256"
 title: "TMK Madde 256: Madde 256- Mal ortaklığı rejimi, ortaklık malları ile eşlerin kişisel mallarını..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 256 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

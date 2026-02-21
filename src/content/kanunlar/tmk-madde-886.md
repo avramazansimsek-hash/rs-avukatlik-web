@@ -2,7 +2,7 @@
 slug: "tmk-madde-886"
 title: "TMK Madde 886: Madde 886- İpotekten kurtarma ihbarına karşı alacaklılar, ihbarın tebliğinden ba..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 886 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

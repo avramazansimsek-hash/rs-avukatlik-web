@@ -2,7 +2,7 @@
 slug: "iik-madde-199"
 title: "IIK Madde 199: Madde 199 – İflasın açılmasından evvel borçluya bir mal satıp teslim eden satıcı..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 199 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

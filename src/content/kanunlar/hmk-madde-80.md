@@ -2,7 +2,7 @@
 slug: "hmk-madde-80"
 title: "HMK Madde 80: MADDE 80- (1) Hâkim, taraflardan birisinin, davasını bizzat takip edecek yeterli..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 80 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

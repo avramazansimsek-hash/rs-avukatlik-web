@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-91"
 title: "AVUKATLIK Madde 91: Madde 91 – (Değişik: 14/11/1984 - 3079/1 md.)..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 91 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

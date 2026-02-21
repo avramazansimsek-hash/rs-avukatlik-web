@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-83"
 title: "AVUKATLIK Madde 83: Madde 83 – Türkiye Barolar Birliği, baro başkanı, yönetim veya denetleme kurulu..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 83 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

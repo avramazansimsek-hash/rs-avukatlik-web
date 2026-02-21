@@ -2,7 +2,7 @@
 slug: "tck-madde-184"
 title: "TCK Madde 184: Madde 184- (1) Yapı ruhsatiyesi alınmadan veya ruhsata aykırı olarak bina yapan..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 184 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-463"
 title: "TMK Madde 463: Madde 463- Aşağıdaki hâllerde vesayet makamının izninden sonra denetim makamının..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 463 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

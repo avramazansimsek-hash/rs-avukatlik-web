@@ -2,7 +2,7 @@
 slug: "tbk-madde-567"
 title: "TBK Madde 567: MADDE 567- Bir şeyi birlikte saklamak üzere alanlar, müteselsilen sorumlu olurla..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 567 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

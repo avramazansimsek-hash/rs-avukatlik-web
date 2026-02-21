@@ -2,7 +2,7 @@
 slug: "tbk-madde-231"
 title: "TBK Madde 231: MADDE 231- Satıcı daha uzun bir süre için üstlenmiş olmadıkça, satılanın ayıbınd..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 231 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

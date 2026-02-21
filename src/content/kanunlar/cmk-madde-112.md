@@ -2,7 +2,7 @@
 slug: "cmk-madde-112"
 title: "CMK Madde 112: Madde 112 – (1) Adlî kontrol hükümlerini isteyerek yerine getirmeyen şüpheli vey..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 112 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

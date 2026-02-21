@@ -2,7 +2,7 @@
 slug: "iik-madde-190"
 title: "IIK Madde 190: Madde 190 – Satıldığı ve gönderildiği halde iflasına hükmolunmazdan evvel müflis..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 190 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

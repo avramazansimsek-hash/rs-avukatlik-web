@@ -2,7 +2,7 @@
 slug: "cmk-madde-237"
 title: "CMK Madde 237: Madde 237 – (1) Mağdur, suçtan zarar gören gerçek ve tüzel kişiler ile malen sor..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 237 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

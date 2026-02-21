@@ -2,7 +2,7 @@
 slug: "tbk-madde-196"
 title: "TBK Madde 196: MADDE 196- Borçlunun yerine yenisinin geçmesi ve borcundan kurtarılması, borcu ü..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 196 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

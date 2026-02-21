@@ -2,7 +2,7 @@
 slug: "tbk-madde-81"
 title: "TBK Madde 81: MADDE 81- Hukuka veya ahlaka aykırı bir sonucun gerçekleşmesi amacıyla verilen ş..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 81 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

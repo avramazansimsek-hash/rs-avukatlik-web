@@ -2,7 +2,7 @@
 slug: "tbk-madde-593"
 title: "TBK Madde 593: MADDE 593- Borçlunun iflası sebebiyle olsa bile, borç muaccel olduğu takdirde ke..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 593 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

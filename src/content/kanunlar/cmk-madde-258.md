@@ -2,7 +2,7 @@
 slug: "cmk-madde-258"
 title: "CMK Madde 258: Madde 258 – (1) 256 ncı maddeye göre verilecek hükümlere karşı Cumhuriyet savcıs..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 258 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tkhk-madde-83"
 title: "TKHK Madde 83: MADDE 83- (1) Bu Kanunda hüküm bulunmayan hâllerde genel hükümler uygulanır...."
 category: "Tüketicinin Korunması Hakkında Kanun"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Tüketicinin Korunması Hakkında Kanun Madde 83 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

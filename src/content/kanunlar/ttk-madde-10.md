@@ -1,8 +1,8 @@
 ---
 slug: "ttk-madde-10"
-title: "TTK Madde 10: Madde 10..."
+title: "TTK Madde 10: MADDE 10- (1) Aksine sözleşme yoksa, ticari bir borcun faizi, vadenin bitiminden..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 10 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 
@@ -11,20 +11,23 @@ excerpt: "Türk Ticaret Kanunu Madde 10 tam metni, gerekçesi ve Av. Ramazan Şi
 ## Kanun Metni
 
 ```text
-Madde 10
+MADDE 10- (1) Aksine sözleşme yoksa, ticari bir borcun faizi, vadenin bitiminden ve belli bir vade yoksa ihtar gününden itibaren işlemeye başlar.
 
-	
+ 
 
-11/9/2014
+BİRİNCİ KİTAP
 
+Ticari İşletme
 
+ 
 
+BİRİNCİ KISIM
 
-6728
+Tacir
 
-	
+A) Ticari işletme
 
-40, 184, 189, 212, 215, 335, 336, 339, 345, 349, 457, 543, 545, 562, 586, 566, 575, 585, 587, 780, 781, Geçici
+1. Bütünlük ilkesi
 ```
 
 

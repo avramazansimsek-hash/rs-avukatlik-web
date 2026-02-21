@@ -2,7 +2,7 @@
 slug: "ttk-madde-793"
 title: "TTK Madde 793: MADDE 793- (1) Protestonun düzenlenmesinden veya aynı nitelikte bir belirlemeden..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 793 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

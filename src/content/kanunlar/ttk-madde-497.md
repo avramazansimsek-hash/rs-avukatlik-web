@@ -2,7 +2,7 @@
 slug: "ttk-madde-497"
 title: "TTK Madde 497: MADDE 497- (1) Borsaya kote nama yazılı paylar borsada iktisap edildikleri takdi..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 497 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

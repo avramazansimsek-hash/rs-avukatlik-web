@@ -2,7 +2,7 @@
 slug: "tck-madde-22"
 title: "TCK Madde 22: Madde 22- (1) Taksirle işlenen fiiller, kanunun açıkça belirttiği hallerde cezal..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 22 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

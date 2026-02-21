@@ -2,7 +2,7 @@
 slug: "ttk-madde-527"
 title: "TTK Madde 527: MADDE 527- (1) 404 üncü madde hükmü saklı kalmak üzere, görevi dolayısıyla incel..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 527 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

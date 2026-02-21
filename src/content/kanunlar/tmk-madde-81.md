@@ -2,7 +2,7 @@
 slug: "tmk-madde-81"
 title: "TMK Madde 81: Madde 81- Genel kurul kararları, toplantıya katılan üyelerin salt çoğunluğuyla a..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 81 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

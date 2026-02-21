@@ -2,7 +2,7 @@
 slug: "ttk-madde-559"
 title: "TTK Madde 559: MADDE 559- (1) Kurucuların, yönetim kurulu üyelerinin, denetçilerin, şirketin ku..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 559 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

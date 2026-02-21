@@ -1,8 +1,8 @@
 ---
 slug: "kvkk-madde-3"
-title: "KVKK Madde 3: Madde 3..."
+title: "KVKK Madde 3: MADDE 3- (1) Bu Kanunun uygulanmasında;..."
 category: "Kişisel Verilerin Korunması Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Kişisel Verilerin Korunması Kanunu Madde 3 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 
@@ -11,32 +11,39 @@ excerpt: "Kişisel Verilerin Korunması Kanunu Madde 3 tam metni, gerekçesi ve 
 ## Kanun Metni
 
 ```text
-Madde 3
+MADDE 3- (1) Bu Kanunun uygulanmasında;
 
-	
+a) Açık rıza: Belirli bir konuya ilişkin, bilgilendirilmeye dayanan ve özgür iradeyle açıklanan rızayı,
 
-1/6/2024
+b) Anonim hâle getirme: Kişisel verilerin, başka verilerle eşleştirilerek dahi hiçbir surette kimliği belirli veya belirlenebilir bir gerçek kişiyle ilişkilendirilemeyecek hâle getirilmesini,
+
+c) Başkan: Kişisel Verileri Koruma Kurumu Başkanını,
+
+ç) İlgili kişi: Kişisel verisi işlenen gerçek kişiyi,
+
+d) Kişisel veri: Kimliği belirli veya belirlenebilir gerçek kişiye ilişkin her türlü bilgiyi,
+
+e) Kişisel verilerin işlenmesi: Kişisel verilerin tamamen veya kısmen otomatik olan ya da herhangi bir veri kayıt sisteminin parçası olmak kaydıyla otomatik olmayan yollarla elde edilmesi, kaydedilmesi, depolanması, muhafaza edilmesi, değiştirilmesi, yeniden düzenlenmesi, açıklanması, aktarılması, devralınması, elde edilebilir hâle getirilmesi, sınıflandırılması ya da kullanılmasının engellenmesi gibi veriler üzerinde gerçekleştirilen her türlü işlemi,
+
+f) Kurul: Kişisel Verileri Koruma Kurulunu,
+
+g) Kurum: Kişisel Verileri Koruma Kurumunu,
+
+ğ) Veri işleyen: Veri sorumlusunun verdiği yetkiye dayanarak onun adına kişisel verileri işleyen gerçek veya tüzel kişiyi,
+
+h) Veri kayıt sistemi: Kişisel verilerin belirli kriterlere göre yapılandırılarak işlendiği kayıt sistemini,
+
+ı) Veri sorumlusu: Kişisel verilerin işleme amaçlarını ve vasıtalarını belirleyen, veri kayıt sisteminin kurulmasından ve yönetilmesinden sorumlu olan gerçek veya tüzel kişiyi,
+
+ifade eder.
 
  
 
+İKİNCİ BÖLÜM
 
+Kişisel Verilerin İşlenmesi
 
-
-[1] 2/3/2024 tarihli ve 7499 sayılı Kanunun 35 inci maddesi ile bu maddeye ikinci fıkradan sonra gelmek üzere fıkra eklenmiş ve diğer fıkra buna göre teselsül ettirilmiştir.
-
-[2] 2/7/2018 tarihli ve 703 sayılı KHK’nin 163 üncü maddesiyle, bu fıkrada yer alan “Başbakanlıkla” ibaresi “Cumhurbaşkanının görevlendireceği bakan ile” şeklinde değiştirilmiştir.
-
-[3] 2/7/2018 tarihli ve 703 sayılı KHK’nin 163 üncü maddesiyle, bu bentte yer alan “ ve Başbakanlığa” ibaresi yürürlükten kaldırılmıştır.
-
-[4] 2/7/2018 tarihli ve 703 sayılı KHK’nin 163 üncü maddesiyle, bu maddenin ikinci fıkrasında yer alan “iki üyesi Cumhurbaşkanı, iki üyesi Bakanlar Kurulu” ibaresi “dört üyesi Cumhurbaşkanı” şeklinde değiştirilmiştir.
-
-[5] 2/7/2018 tarihli ve 703 sayılı KHK’nin 163 üncü maddesiyle, bu fıkrada yer alan “veya Bakanlar Kurulu” ve “veya Bakanlar Kuruluna sunulmak üzere Başbakanlığa” ibareleri madde metninden çıkarılmıştır.
-
-[6] 2/7/2018 tarihli ve 703 sayılı KHK’nin 163 üncü maddesiyle, bu fıkrada yer alan “Başbakan” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
-
-[7] 2/7/2018 tarihli ve 703 sayılı KHK’nin 163 üncü maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu kararıyla” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
-
-[8] 28/11/2017 tarihli ve 7061 sayılı Kanunun 119 uncu maddesiyle bu fıkrada yer alan “diğer kamu görevlileri kurumlarının muvafakati” ibaresinden sonra gelmek üzere “, hâkimler ve savcılar ise kendilerinin muvafakati” ibaresi eklenmiştir.
+Genel ilkeler
 ```
 
 

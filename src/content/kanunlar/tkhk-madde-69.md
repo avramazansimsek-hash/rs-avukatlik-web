@@ -2,7 +2,7 @@
 slug: "tkhk-madde-69"
 title: "TKHK Madde 69: MADDE 69- (1) Tüketici hakem heyetleri uyuşmazlık konusuna ilişkin her türlü bil..."
 category: "Tüketicinin Korunması Hakkında Kanun"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Tüketicinin Korunması Hakkında Kanun Madde 69 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

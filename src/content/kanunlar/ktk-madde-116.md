@@ -2,7 +2,7 @@
 slug: "ktk-madde-116"
 title: "KTK Madde 116: Madde 116 – (Değişik birinci fıkra: 25/6/1988 – KHK – 330/8 md.; Aynen Kabul: 31..."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 116 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

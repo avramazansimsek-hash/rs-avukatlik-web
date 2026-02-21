@@ -2,7 +2,7 @@
 slug: "tmk-madde-229"
 title: "TMK Madde 229: Madde 229- Aşağıda sayılanlar, edinilmiş mallara değer olarak eklenir:..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 229 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

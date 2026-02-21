@@ -2,7 +2,7 @@
 slug: "tck-madde-344"
 title: "TCK Madde 344: Madde 344- (1) Bu Kanunun;..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 344 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

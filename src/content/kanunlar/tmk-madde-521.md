@@ -2,7 +2,7 @@
 slug: "tmk-madde-521"
 title: "TMK Madde 521: Madde 521- Mirasbırakan, ölüme bağlı tasarrufuyla önmirasçı atadığı kişiyi miras..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 521 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

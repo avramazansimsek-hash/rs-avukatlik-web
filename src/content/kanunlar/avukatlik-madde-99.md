@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-99"
 title: "AVUKATLIK Madde 99: Madde 99 – Başkanlık Divanı, kanunla veya yönetim kurulu kararı ile kendisine ve..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 99 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

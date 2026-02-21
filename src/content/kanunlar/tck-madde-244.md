@@ -2,7 +2,7 @@
 slug: "tck-madde-244"
 title: "TCK Madde 244: Madde 244- (1) Bir bilişim sisteminin işleyişini engelleyen veya bozan kişi, bir..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 244 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

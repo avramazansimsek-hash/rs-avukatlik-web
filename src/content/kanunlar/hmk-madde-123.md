@@ -2,7 +2,7 @@
 slug: "hmk-madde-123"
 title: "HMK Madde 123: MADDE 123- (1) Davacı, hüküm kesinleşinceye kadar, ancak davalının açık rızası i..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 123 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

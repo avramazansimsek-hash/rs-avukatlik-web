@@ -2,7 +2,7 @@
 slug: "tbk-madde-53"
 title: "TBK Madde 53: MADDE 53- Ölüm hâlinde uğranılan zararlar özellikle şunlardır:..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 53 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

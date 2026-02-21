@@ -2,7 +2,7 @@
 slug: "tmk-madde-56"
 title: "TMK Madde 56: Madde 56- Dernekler, gerçek veya tüzel en az yedi kişinin kazanç paylaşma dışınd..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 56 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-1295"
 title: "TTK Madde 1295: MADDE 1295- (1) Bir çatmadan sonra her geminin kaptanı, kendi gemisini, gemi ada..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1295 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-1474"
 title: "TTK Madde 1474: MADDE 1474- (1) Sigortalı aleyhine bir istem ileri sürüldüğünde, isteme ilişkin..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1474 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

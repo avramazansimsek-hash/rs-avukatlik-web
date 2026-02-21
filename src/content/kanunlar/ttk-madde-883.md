@@ -2,7 +2,7 @@
 slug: "ttk-madde-883"
 title: "TTK Madde 883: MADDE 883- (1) Taşıyıcı, zıya veya hasardan sorumlu olduğu hâllerde, 880 ilâ 882..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 883 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

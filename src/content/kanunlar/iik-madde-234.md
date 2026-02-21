@@ -2,7 +2,7 @@
 slug: "iik-madde-234"
 title: "IIK Madde 234: Madde 234 – (Değişik birinci fıkra: 6/6/1985-3222/29 md.) İflas idaresi sıra cet..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 234 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

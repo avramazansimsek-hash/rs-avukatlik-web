@@ -2,7 +2,7 @@
 slug: "tck-madde-151"
 title: "TCK Madde 151: Madde 151- (1) Başkasının taşınır veya taşınmaz malını kısmen veya tamamen yıkan..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 151 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

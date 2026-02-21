@@ -2,7 +2,7 @@
 slug: "ttk-madde-1505"
 title: "TTK Madde 1505: MADDE 1505- (1) Sigorta ettiren lehine sigorta sözleşmesinden doğan alacaklar ih..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1505 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

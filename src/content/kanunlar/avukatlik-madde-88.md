@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-88"
 title: "AVUKATLIK Madde 88: Madde 88 – Genel kurul toplantısında, görüşüleceği gündemde belirtilmemiş konula..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 88 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

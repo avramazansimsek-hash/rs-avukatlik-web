@@ -2,7 +2,7 @@
 slug: "ttk-madde-165"
 title: "TTK Madde 165: MADDE 165- (1) Bilanço günüyle, bölünme sözleşmesinin imzası veya bölünme planın..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 165 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

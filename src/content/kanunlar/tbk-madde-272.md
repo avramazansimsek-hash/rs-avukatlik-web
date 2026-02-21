@@ -2,7 +2,7 @@
 slug: "tbk-madde-272"
 title: "TBK Madde 272: MADDE 272- Alıcının tacir sıfatıyla hareket etmesi veya malın bir ticari işletme..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 272 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

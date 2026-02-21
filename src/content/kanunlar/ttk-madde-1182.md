@@ -2,7 +2,7 @@
 slug: "ttk-madde-1182"
 title: "TTK Madde 1182: MADDE 1182- (1) Zararın aşağıdaki sebeplerden ileri gelmesi hâlinde taşıyan ve a..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1182 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

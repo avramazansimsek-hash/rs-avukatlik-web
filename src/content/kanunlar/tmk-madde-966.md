@@ -2,7 +2,7 @@
 slug: "tmk-madde-966"
 title: "TMK Madde 966: Madde 966- Satış bedelinin rehinli alacak miktarından fazla olması hâlinde, arta..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 966 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

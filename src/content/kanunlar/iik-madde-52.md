@@ -2,7 +2,7 @@
 slug: "iik-madde-52"
 title: "IIK Madde 52: Madde 52 – Karısı yahut kocası ve kan ve sıhriyet itibariyle usul veya füruundan..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 52 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

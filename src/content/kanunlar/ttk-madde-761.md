@@ -2,7 +2,7 @@
 slug: "ttk-madde-761"
 title: "TTK Madde 761: MADDE 761- (1) Poliçeyi getirme süresi en az üç ay ve en çok bir yıldır...."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 761 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

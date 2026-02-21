@@ -2,7 +2,7 @@
 slug: "tmk-madde-317"
 title: "TMK Madde 317: Madde 317- Yasal sebep bulunmaksızın rıza alınmamışsa, rızası alınması gereken k..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 317 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

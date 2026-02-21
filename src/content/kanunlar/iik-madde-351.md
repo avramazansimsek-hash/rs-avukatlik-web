@@ -2,7 +2,7 @@
 slug: "iik-madde-351"
 title: "IIK Madde 351: Madde 351 – Şikayetçi dilekçe veya beyanında gösterilmiş olduğu delillerle bağlı..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 351 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-526"
 title: "TMK Madde 526: Madde 526- Mirasbırakan, terekesinin tasarruf edilebilir kısmının tamamını veya..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 526 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-680"
 title: "TTK Madde 680: MADDE 680- (1) Tedavüle çıkarılırken tamamen doldurulmamış bulunan bir poliçe, a..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 680 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

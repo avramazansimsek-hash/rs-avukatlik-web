@@ -2,7 +2,7 @@
 slug: "tmk-madde-302"
 title: "TMK Madde 302: Madde 302- Davalının, çocuğun doğumundan önceki üçyüzüncü gün ile yüzsekseninci..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 302 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

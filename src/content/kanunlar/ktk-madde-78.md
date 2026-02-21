@@ -2,7 +2,7 @@
 slug: "ktk-madde-78"
 title: "KTK Madde 78: Madde 78 – Belirli sürücülerin ve yolcuların, araçların sürülmesi sırasında koru..."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 78 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

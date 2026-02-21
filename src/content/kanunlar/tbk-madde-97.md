@@ -2,7 +2,7 @@
 slug: "tbk-madde-97"
 title: "TBK Madde 97: MADDE 97- Karşılıklı borç yükleyen bir sözleşmenin ifası isteminde bulunan taraf..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 97 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-398"
 title: "TMK Madde 398: Madde 398- Vesayet altındaki kişinin menfaatinin haklı gösterdiği, özellikle bir..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 398 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

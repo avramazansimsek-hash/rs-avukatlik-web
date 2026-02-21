@@ -2,7 +2,7 @@
 slug: "tck-madde-249"
 title: "TCK Madde 249: Madde 249- (1) Zimmet suçunun konusunu oluşturan malın değerinin azlığı nedeniyl..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 249 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

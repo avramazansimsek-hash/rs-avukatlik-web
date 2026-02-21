@@ -2,7 +2,7 @@
 slug: "tck-madde-315"
 title: "TCK Madde 315: Madde 315- (1) Yukarıdaki maddede tanımlanan örgütlerin faaliyetlerinde kullanıl..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 315 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

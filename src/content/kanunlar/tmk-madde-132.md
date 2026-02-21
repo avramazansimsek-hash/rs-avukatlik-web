@@ -2,7 +2,7 @@
 slug: "tmk-madde-132"
 title: "TMK Madde 132: Madde 132- Evlilik sona ermişse, kadın, evliliğin sona ermesinden başlayarak üçy..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 132 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

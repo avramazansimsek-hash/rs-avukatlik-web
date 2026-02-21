@@ -2,7 +2,7 @@
 slug: "tmk-madde-828"
 title: "TMK Madde 828: Madde 828- Üst hakkı sona erince yapılar, arazi malikine kalır ve arazinin bütün..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 828 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

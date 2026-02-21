@@ -2,7 +2,7 @@
 slug: "ktk-madde-121"
 title: "KTK Madde 121: Madde 121 – Para cezalarının tahsilinde ve takibinde uygulanacak esas ve usuller..."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 121 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

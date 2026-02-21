@@ -2,7 +2,7 @@
 slug: "tbk-madde-413"
 title: "TBK Madde 413: MADDE 413- Aksine anlaşma veya yerel âdet yoksa, işveren işçiye bu iş için gerek..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 413 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tbk-madde-565"
 title: "TBK Madde 565: MADDE 565- Saklayan, belirlenmiş olan sürenin sona ermesinden önce saklananı ger..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 565 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

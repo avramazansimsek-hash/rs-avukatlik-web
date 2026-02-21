@@ -2,7 +2,7 @@
 slug: "tmk-madde-57"
 title: "TMK Madde 57: Madde 57- Herkes, önceden izin almaksızın dernek kurma hakkına sahiptir...."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 57 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

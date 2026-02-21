@@ -2,7 +2,7 @@
 slug: "tmk-madde-873"
 title: "TMK Madde 873: Madde 873- Borç ödenmezse alacaklı, alacağını rehinli taşınmazın satış bedelinde..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 873 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

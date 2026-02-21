@@ -2,7 +2,7 @@
 slug: "tmk-madde-149"
 title: "TMK Madde 149: Madde 149- Aşağıdaki durumlarda eşlerden biri evlenmenin iptalini dava edebilir:..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 149 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

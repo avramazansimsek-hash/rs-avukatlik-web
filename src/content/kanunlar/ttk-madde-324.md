@@ -2,7 +2,7 @@
 slug: "ttk-madde-324"
 title: "TTK Madde 324: MADDE 324- (1) Bir komandit şirketin iflası hâlinde, şirket alacaklıları alacakl..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 324 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

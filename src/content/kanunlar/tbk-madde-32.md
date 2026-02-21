@@ -2,7 +2,7 @@
 slug: "tbk-madde-32"
 title: "TBK Madde 32: MADDE 32- Saikte yanılma, esaslı yanılma sayılmaz. Yanılanın, yanıldığı saiki sö..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 32 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

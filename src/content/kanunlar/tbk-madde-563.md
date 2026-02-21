@@ -2,7 +2,7 @@
 slug: "tbk-madde-563"
 title: "TBK Madde 563: MADDE 563- Saklayan, saklatanın izni olmadıkça saklananı kullanamaz...."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 563 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

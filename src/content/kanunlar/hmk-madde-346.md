@@ -2,7 +2,7 @@
 slug: "hmk-madde-346"
 title: "HMK Madde 346: MADDE 346- (1) İstinaf dilekçesi, kanuni süre geçtikten sonra verilir veya kesin..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 346 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-1236"
 title: "TTK Madde 1236: MADDE 1236- (1) Eşya, ancak konişmento nüshasının, eşyanın teslim alındığına ili..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1236 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

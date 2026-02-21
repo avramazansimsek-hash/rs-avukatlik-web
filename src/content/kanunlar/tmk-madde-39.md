@@ -2,7 +2,7 @@
 slug: "tmk-madde-39"
 title: "TMK Madde 39: Madde 39- Mahkeme kararı olmadıkça, kişisel durum sicilinin hiçbir kaydında düze..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 39 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

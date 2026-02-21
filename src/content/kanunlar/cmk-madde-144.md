@@ -2,7 +2,7 @@
 slug: "cmk-madde-144"
 title: "CMK Madde 144: Madde 144 – (1) Kanuna uygun olarak yakalanan, adli kontrol altına alınan veya t..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 144 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

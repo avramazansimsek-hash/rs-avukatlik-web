@@ -2,7 +2,7 @@
 slug: "tmk-madde-389"
 title: "TMK Madde 389: Madde 389- Aile yurdu hâline getirilecek taşınmazda yurt olabilmesi için gerekli..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 389 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

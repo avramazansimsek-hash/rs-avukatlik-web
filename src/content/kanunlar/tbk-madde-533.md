@@ -2,7 +2,7 @@
 slug: "tbk-madde-533"
 title: "TBK Madde 533: MADDE 533- Komisyoncu, yaptığı iş hakkında vekâlet vereni bilgilendirmek ve özel..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 533 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

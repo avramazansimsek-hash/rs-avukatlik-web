@@ -2,7 +2,7 @@
 slug: "tbk-madde-439"
 title: "TBK Madde 439: MADDE 439- İşçi, haklı sebep olmaksızın işe başlamadığı veya aniden işi bıraktığ..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 439 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

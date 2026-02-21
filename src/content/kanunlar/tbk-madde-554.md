@@ -2,7 +2,7 @@
 slug: "tbk-madde-554"
 title: "TBK Madde 554: MADDE 554- İşletme sahibi, ticari temsilcilerin, ticari vekillerin ve diğer taci..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 554 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

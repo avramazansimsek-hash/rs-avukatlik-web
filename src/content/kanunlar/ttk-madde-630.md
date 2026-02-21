@@ -2,7 +2,7 @@
 slug: "ttk-madde-630"
 title: "TTK Madde 630: MADDE 630- (1) Genel kurul, müdürü veya müdürleri görevden alabilir, yönetim hak..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 630 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

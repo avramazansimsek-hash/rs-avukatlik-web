@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-121"
 title: "AVUKATLIK Madde 121: Madde 121 – Birlik yönetim kurulunun görevleri şunlardır:..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 121 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

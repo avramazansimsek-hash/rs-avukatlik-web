@@ -2,7 +2,7 @@
 slug: "ttk-madde-939"
 title: "TTK Madde 939: MADDE 939- (1) Sicile kayıtlı bir geminin bordasının her iki tarafına adı, kıçın..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 939 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

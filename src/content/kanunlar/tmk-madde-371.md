@@ -2,7 +2,7 @@
 slug: "tmk-madde-371"
 title: "TMK Madde 371: Madde 371- Altsoy, bu bedeli borçlunun ölümü hâlinde isteyebilir...."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 371 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-149"
 title: "AVUKATLIK Madde 149: Madde 149 – İstinabe yoluyla verilen talimat, baro merkezinde disiplin kurulu ve..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 149 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-1460"
 title: "TTK Madde 1460: MADDE 1460- (1) Sigorta değeri sigorta olunan menfaatin tam değeridir...."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1460 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-505"
 title: "TMK Madde 505: Madde 505- (Değişik birinci fıkra: 4/5/2007-5650/1 md.) Mirasçı olarak altsoyu,..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 505 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

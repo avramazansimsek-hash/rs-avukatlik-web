@@ -2,7 +2,7 @@
 slug: "tbk-madde-378"
 title: "TBK Madde 378: MADDE 378- Aksine anlaşma veya yerel âdet yoksa, belirsiz bir süre için yapılan..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 378 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

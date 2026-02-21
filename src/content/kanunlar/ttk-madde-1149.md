@@ -2,7 +2,7 @@
 slug: "ttk-madde-1149"
 title: "TTK Madde 1149: MADDE 1149- (1) Taşıyanın veya acentesinin bilgisi 1146 ilâ 1148 inci maddelerde..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1149 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

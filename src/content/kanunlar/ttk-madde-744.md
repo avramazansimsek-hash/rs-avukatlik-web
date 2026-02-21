@@ -2,7 +2,7 @@
 slug: "ttk-madde-744"
 title: "TTK Madde 744: MADDE 744- (1) Poliçe, nüshalarından biri üzerine yapılacak ödemenin diğer nüsha..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 744 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

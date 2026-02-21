@@ -2,7 +2,7 @@
 slug: "tbk-madde-210"
 title: "TBK Madde 210: MADDE 210- Satıcı, satılanın mülkiyetini geçirmek amacıyla, zilyetliğini alıcıya..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 210 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

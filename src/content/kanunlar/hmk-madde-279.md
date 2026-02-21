@@ -2,7 +2,7 @@
 slug: "hmk-madde-279"
 title: "HMK Madde 279: MADDE 279- (1) Mahkeme, bilirkişinin oy ve görüşünü yazılı veya sözlü olarak bil..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 279 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

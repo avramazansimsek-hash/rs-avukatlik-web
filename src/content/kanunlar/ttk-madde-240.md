@@ -2,7 +2,7 @@
 slug: "ttk-madde-240"
 title: "TTK Madde 240: MADDE 240- (1) Şirketin iflası, ortakların iflasını gerektirmez. Ancak, depo kar..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 240 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

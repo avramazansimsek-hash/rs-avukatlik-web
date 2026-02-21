@@ -2,7 +2,7 @@
 slug: "ktk-madde-91"
 title: "KTK Madde 91: Madde 91 – (Değişik: 17/10/1996 – 4149/33 md.)..."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 91 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

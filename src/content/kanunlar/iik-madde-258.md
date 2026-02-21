@@ -2,7 +2,7 @@
 slug: "iik-madde-258"
 title: "IIK Madde 258: Madde 258 – İhtiyati hacze 50 nci maddeye göre yetkili mahkeme tarafından karar..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 258 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-1339"
 title: "TTK Madde 1339: MADDE 1339- (1) 1992 tarihli Fon Sözleşmesinin 7 nci maddesinin dördüncü ve altı..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1339 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

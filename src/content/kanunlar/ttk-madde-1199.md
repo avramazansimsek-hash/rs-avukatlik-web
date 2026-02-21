@@ -2,7 +2,7 @@
 slug: "ttk-madde-1199"
 title: "TTK Madde 1199: MADDE 1199- (1) Boşaltma süresinin sonuna kadar bir kaza sonucunda zıyaa uğrayan..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1199 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

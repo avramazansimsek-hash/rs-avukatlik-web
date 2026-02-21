@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-61"
 title: "AVUKATLIK Madde 61: Madde 61 – (Değişik: 23/1/2008-5728/332 md.)..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 61 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

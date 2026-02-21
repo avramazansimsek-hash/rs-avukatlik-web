@@ -2,7 +2,7 @@
 slug: "ttk-madde-1534"
 title: "TTK Madde 1534: MADDE 1534 - (1) Kenar başlıkları metne dâhil olan bu Kanun 1/7/2012 tarihinde;..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1534 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

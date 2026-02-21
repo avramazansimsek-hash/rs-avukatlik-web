@@ -2,7 +2,7 @@
 slug: "ttk-madde-873"
 title: "TTK Madde 873: MADDE 873- (1) Taşıyıcı, eşyayı, kararlaştırılan sürede, bir süre kararlaştırılm..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 873 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

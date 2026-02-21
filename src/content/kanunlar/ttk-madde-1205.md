@@ -2,7 +2,7 @@
 slug: "ttk-madde-1205"
 title: "TTK Madde 1205: MADDE 1205- (1) Eşyayı gönderilene teslim etmiş olan taşıyan, 1203 üncü maddeye..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1205 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

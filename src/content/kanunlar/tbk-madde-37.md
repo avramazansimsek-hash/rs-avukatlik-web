@@ -2,7 +2,7 @@
 slug: "tbk-madde-37"
 title: "TBK Madde 37: MADDE 37- Taraflardan biri, diğerinin veya üçüncü bir kişinin korkutması sonucu..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 37 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "cmk-madde-97"
 title: "CMK Madde 97: Madde 97 – (1) Yakalama işlemi bir tutanağa bağlanır. Bu tutanağa yakalananın, h..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 97 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-1127"
 title: "TTK Madde 1127: MADDE 1127- (1) Gemi adamlarının çalıştırılmasından doğan bütün borç ve yükümlül..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1127 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

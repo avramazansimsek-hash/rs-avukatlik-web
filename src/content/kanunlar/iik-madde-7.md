@@ -1,8 +1,8 @@
 ---
 slug: "iik-madde-7"
-title: "IIK Madde 7: Madde 7..."
+title: "IIK Madde 7: Madde 7 – Zarar ve ziyan davası, mutazarrır olan tarafın zararı öğrendiği günden..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 7 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 
@@ -11,33 +11,13 @@ excerpt: "İcra ve İflas Kanunu Madde 7 tam metni, gerekçesi ve Av. Ramazan Ş
 ## Kanun Metni
 
 ```text
-Madde 7
+Madde 7 – Zarar ve ziyan davası, mutazarrır olan tarafın zararı öğrendiği günden bir sene ve her halde zarar ve ziyanı mucip fiilin vukuundan on sene geçmesiyle zamanaşımına uğrar.
 
-	
+Şu kadar ki zarar ve ziyan cezayı mucip bir fiilin neticesi olupta ceza kanunları bu fiili daha uzun bir müddetle zamanaşımına tabi tutmakta ise hukuk davasında da ceza zamanaşımı cari olur.
 
-1/4/2005
+ 
 
-
-
-
-5358
-
-	
-
-331, 332, 333, 333/a, 334, 334/a, 336, 336/a, 337, 337/a, 338, 339, 340, 341, 342, 343, 344, 345/a, 345/b, 346, 347, 348, 352/a, 352/b, 353, 354
-
-	
-
-1/6/2005
-
-
-
-
-5582
-
-	
-
-45, 128, 128/a, 134, 149/a, Geçici
+Tutanaklar:
 ```
 
 

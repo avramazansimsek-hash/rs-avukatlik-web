@@ -2,7 +2,7 @@
 slug: "tmk-madde-381"
 title: "TMK Madde 381: Madde 381- Ortaklardan biri feshi bildirir veya iflâs ederse ya da bir ortağın h..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 381 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

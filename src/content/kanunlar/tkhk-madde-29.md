@@ -2,7 +2,7 @@
 slug: "tkhk-madde-29"
 title: "TKHK Madde 29: MADDE 29- (Başlığı ile Birlikte Değişik:24/3/2022-7392/4 md.)..."
 category: "Tüketicinin Korunması Hakkında Kanun"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Tüketicinin Korunması Hakkında Kanun Madde 29 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

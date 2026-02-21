@@ -2,7 +2,7 @@
 slug: "ttk-madde-517"
 title: "TTK Madde 517: MADDE 517- (1) Konsolide finansal tabloları hazırlamakla yükümlü işletmeler ile..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 517 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

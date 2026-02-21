@@ -2,7 +2,7 @@
 slug: "iik-madde-135"
 title: "IIK Madde 135: Madde 135 – Taşınmaz alıcıya ihale edilip bedeli alındıktan sonra alıcı namına t..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 135 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

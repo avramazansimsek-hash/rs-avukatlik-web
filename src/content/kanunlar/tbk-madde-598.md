@@ -2,7 +2,7 @@
 slug: "tbk-madde-598"
 title: "TBK Madde 598: MADDE 598- Hangi sebeple olursa olsun, asıl borç sona erince, kefil de borcundan..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 598 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-98"
 title: "AVUKATLIK Madde 98: Madde 98 – Başkanlık divanı:..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 98 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

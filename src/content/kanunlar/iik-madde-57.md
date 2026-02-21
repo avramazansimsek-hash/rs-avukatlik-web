@@ -2,7 +2,7 @@
 slug: "iik-madde-57"
 title: "IIK Madde 57: Madde 57 – (Değişik: 18/2/1965-538/29 md.)..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 57 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-311"
 title: "TTK Madde 311: MADDE 311- (1) Kollektif ortakların, şirket konusunu oluşturan işlemlerin aynını..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 311 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

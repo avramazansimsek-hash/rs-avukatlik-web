@@ -2,7 +2,7 @@
 slug: "tmk-madde-303"
 title: "TMK Madde 303: Madde 303- Babalık davası, çocuğun doğumundan önce veya sonra açılabilir. Ananın..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 303 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "hmk-madde-199"
 title: "HMK Madde 199: MADDE 199- (1) Uyuşmazlık konusu vakıaları ispata elverişli yazılı veya basılı m..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 199 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "hmk-madde-186"
 title: "HMK Madde 186: MADDE 186- (1) (Değişik:22/7/2020-7251/20 md.) Mahkeme, tahkikatın bittiğini tef..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 186 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

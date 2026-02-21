@@ -2,7 +2,7 @@
 slug: "iik-madde-97"
 title: "IIK Madde 97: Madde 97 – (Değişik: 18/2/1965-538/54 md.)..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 97 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

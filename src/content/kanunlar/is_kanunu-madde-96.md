@@ -2,7 +2,7 @@
 slug: "is_kanunu-madde-96"
 title: "IS_KANUNU Madde 96: Madde 96 - İş denetimi ve teftişine yetkili iş müfettişleri tarafından ifade ve..."
 category: "İş Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İş Kanunu Madde 96 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

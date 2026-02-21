@@ -2,7 +2,7 @@
 slug: "tmk-madde-333"
 title: "TMK Madde 333: Madde 333- Babalık davası ile birlikte nafaka istenir ve hâkim, babalık olasılığ..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 333 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

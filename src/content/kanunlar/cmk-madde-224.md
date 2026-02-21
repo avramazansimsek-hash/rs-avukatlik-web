@@ -2,7 +2,7 @@
 slug: "cmk-madde-224"
 title: "CMK Madde 224: Madde 224 – (1) Mahkemece karar ve hükümler oybirliği veya oyçokluğuyla verilir...."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 224 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

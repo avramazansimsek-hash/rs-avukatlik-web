@@ -2,7 +2,7 @@
 slug: "tbk-madde-148"
 title: "TBK Madde 148: MADDE 148- Bu ayırımda belirlenen zamanaşımı süreleri, sözleşmeyle değiştirileme..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 148 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

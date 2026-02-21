@@ -2,7 +2,7 @@
 slug: "tbk-madde-199"
 title: "TBK Madde 199: MADDE 199- Üstlenilen borca ilişkin savunmaları ileri sürme hakkı, yeni borçluya..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 199 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

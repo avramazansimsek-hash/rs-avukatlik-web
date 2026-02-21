@@ -2,7 +2,7 @@
 slug: "tmk-madde-555"
 title: "TMK Madde 555: Madde 555- Vasiyeti yerine getirme görevlisi, görevinin yerine getirilmesinde su..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 555 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

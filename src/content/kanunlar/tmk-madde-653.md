@@ -2,7 +2,7 @@
 slug: "tmk-madde-653"
 title: "TMK Madde 653: Madde 653- Mirasçılardan birinin karşı çıkması hâlinde, nitelikleri veya özgülen..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 653 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

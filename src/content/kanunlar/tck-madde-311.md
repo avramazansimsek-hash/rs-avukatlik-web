@@ -2,7 +2,7 @@
 slug: "tck-madde-311"
 title: "TCK Madde 311: Madde 311- (1) Cebir ve şiddet kullanarak Türkiye Büyük Millet Meclisini ortadan..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 311 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

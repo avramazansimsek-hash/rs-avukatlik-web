@@ -2,7 +2,7 @@
 slug: "ttk-madde-1448"
 title: "TTK Madde 1448: MADDE 1448- (1) Sigorta ettiren, rizikonun gerçekleştiği veya gerçekleşme ihtima..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1448 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

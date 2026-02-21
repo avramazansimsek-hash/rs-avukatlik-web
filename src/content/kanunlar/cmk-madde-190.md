@@ -2,7 +2,7 @@
 slug: "cmk-madde-190"
 title: "CMK Madde 190: Madde 190 – (1) Duruşmaya, ara verilmeksizin devam edilerek hüküm verilir. Ancak..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 190 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

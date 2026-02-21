@@ -2,7 +2,7 @@
 slug: "iik-madde-25"
 title: "IIK Madde 25: Madde 25 – (Mülga:24/11/2021-7343/32 md.)..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 25 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

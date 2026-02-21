@@ -2,7 +2,7 @@
 slug: "tbk-madde-334"
 title: "TBK Madde 334: MADDE 334- Kiracı kiralananı ne durumda teslim almışsa, kira sözleşmesinin bitim..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 334 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

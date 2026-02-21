@@ -2,7 +2,7 @@
 slug: "ttk-madde-1192"
 title: "TTK Madde 1192: MADDE 1192- (1) 1191 inci maddenin birinci fıkrası hükmüne halel gelmemek kaydıy..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1192 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

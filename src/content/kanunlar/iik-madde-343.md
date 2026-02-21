@@ -2,7 +2,7 @@
 slug: "iik-madde-343"
 title: "IIK Madde 343: Madde 343 – (Değişik: 31/5/2005-5358/14 md.)..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 343 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "iik-madde-177"
 title: "IIK Madde 177: Madde 177 – Aşağıdaki hallerde alacaklı evvelce takibe hacet kalmaksızın iflasa..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 177 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

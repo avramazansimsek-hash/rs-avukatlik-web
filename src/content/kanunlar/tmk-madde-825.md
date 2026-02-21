@@ -2,7 +2,7 @@
 slug: "tmk-madde-825"
 title: "TMK Madde 825: Madde 825- Oturma hakkı, binanın veya bir bölümünün tamamından yararlanma yetkis..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 825 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

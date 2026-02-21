@@ -1,8 +1,8 @@
 ---
 slug: "ttk-madde-9"
-title: "TTK Madde 9: MADDE 9- (Ek: 26/6/2012-6335/38 md.)..."
+title: "TTK Madde 9: MADDE 9- (1) Ticari işlerde; kanuni, anapara ile temerrüt faizi hakkında, ilgili..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 9 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 
@@ -11,13 +11,11 @@ excerpt: "Türk Ticaret Kanunu Madde 9 tam metni, gerekçesi ve Av. Ramazan Şim
 ## Kanun Metni
 
 ```text
-MADDE 9- (Ek: 26/6/2012-6335/38 md.)
-
-(1) Bu Kanunun göreve ilişkin hükümleri, bu Kanunun yürürlüğe girdiği tarihten önce açılmış olan davalarda uygulanmaz. Bu davalar, açıldıkları tarihte yürürlükte bulunan Kanun hükümlerine tabidir.
+MADDE 9- (1) Ticari işlerde; kanuni, anapara ile temerrüt faizi hakkında, ilgili mevzuat hükümleri uygulanır.
 
  
 
-GEÇİCİ
+3. Faizin başlangıcı
 ```
 
 

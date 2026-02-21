@@ -2,7 +2,7 @@
 slug: "tbk-madde-91"
 title: "TBK Madde 91: MADDE 91- Borcun ifası için bir ayın başlangıcı veya sonu belirlenmişse, bundan..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 91 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

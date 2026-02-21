@@ -2,7 +2,7 @@
 slug: "tmk-madde-1014"
 title: "TMK Madde 1014: Madde 1014- Bir tescilin terkin edilmesi veya değiştirilmesi, ancak bu kaydın ke..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 1014 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

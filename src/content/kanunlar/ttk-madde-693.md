@@ -2,7 +2,7 @@
 slug: "ttk-madde-693"
 title: "TTK Madde 693: MADDE 693- (1) Görüldükten belirli bir süre sonra ödenmesi şart kılınan poliçele..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 693 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "cmk-madde-33"
 title: "CMK Madde 33: Madde 33 – (1) Duruşmada verilecek kararlar, Cumhuriyet savcısı, duruşmada hazır..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 33 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

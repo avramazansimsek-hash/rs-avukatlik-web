@@ -2,7 +2,7 @@
 slug: "tmk-madde-678"
 title: "TMK Madde 678: Madde 678- Mirasbırakanın katılması veya izni olmaksızın bir mirasçının henüz aç..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 678 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

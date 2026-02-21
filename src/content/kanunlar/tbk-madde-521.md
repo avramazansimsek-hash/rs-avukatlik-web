@@ -2,7 +2,7 @@
 slug: "tbk-madde-521"
 title: "TBK Madde 521: MADDE 521- Simsar, ancak yaptığı faaliyet sonucunda sözleşme kurulursa ücrete ha..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 521 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

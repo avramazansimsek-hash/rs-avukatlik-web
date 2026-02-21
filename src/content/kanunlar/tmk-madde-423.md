@@ -2,7 +2,7 @@
 slug: "tmk-madde-423"
 title: "TMK Madde 423: Madde 423- Vasiliğe atanan kimse, vasilikten kaçınmış veya atanmasına itiraz edi..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 423 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

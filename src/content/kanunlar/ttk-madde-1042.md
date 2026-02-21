@@ -2,7 +2,7 @@
 slug: "ttk-madde-1042"
 title: "TTK Madde 1042: MADDE 1042- (1) Yeni bir gemi ipoteği kurulurken tescil edilmiş bir gemi ipoteği..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1042 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

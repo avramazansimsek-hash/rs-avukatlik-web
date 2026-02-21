@@ -2,7 +2,7 @@
 slug: "cmk-madde-331"
 title: "CMK Madde 331: Madde 331 – (1) (Değişik: 8/8/2011-KHK-650/27 md.; İptal: Anayasa Mahkemesinin 1..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 331 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

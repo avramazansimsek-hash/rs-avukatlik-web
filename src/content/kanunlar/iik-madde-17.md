@@ -1,8 +1,8 @@
 ---
 slug: "iik-madde-17"
-title: "IIK Madde 17: Madde 17..."
+title: "IIK Madde 17: Madde 17 – Şikayet icra mahkemesince, kabul edilirse şikayet olunan muamele ya b..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 17 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 
@@ -11,20 +11,13 @@ excerpt: "İcra ve İflas Kanunu Madde 17 tam metni, gerekçesi ve Av. Ramazan �
 ## Kanun Metni
 
 ```text
-Madde 17
+Madde 17 – Şikayet icra mahkemesince, kabul edilirse şikayet olunan muamele ya bozulur, yahut düzeltilir.
 
-	
+Memurun sebepsiz yapmadığı veya geciktirdiği işlerin icrası emrolunur.
 
-19/6/2021
+ 
 
-
-
-
-7343
-
-	
-
-1, 3/A, 4, 13, 25, 25/A, 25/B, 36, 87, 88, 97/A, 106, 110, 111, 111/A, 111/B, 114, 115, 118, 124, 126, 127, 128/A, 129, 130, 133, 134, 135, 142/A, 242, 244, 341, Geçici
+Yargılama usulleri:
 ```
 
 

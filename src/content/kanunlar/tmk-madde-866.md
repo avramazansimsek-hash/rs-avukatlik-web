@@ -2,7 +2,7 @@
 slug: "tmk-madde-866"
 title: "TMK Madde 866: Madde 866- Rehinli taşınmazın değerinde düşme meydana gelmişse alacaklı, alacağı..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 866 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

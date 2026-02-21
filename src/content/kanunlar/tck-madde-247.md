@@ -2,7 +2,7 @@
 slug: "tck-madde-247"
 title: "TCK Madde 247: Madde 247- (1) Görevi nedeniyle zilyedliği kendisine devredilmiş olan veya korum..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 247 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

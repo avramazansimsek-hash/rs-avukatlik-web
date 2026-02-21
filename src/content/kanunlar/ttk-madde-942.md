@@ -2,7 +2,7 @@
 slug: "ttk-madde-942"
 title: "TTK Madde 942: MADDE 942- (1) 940 ıncı madde ile 941 inci maddenin ikinci fıkrasında yazılı şar..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 942 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-30"
 title: "TTK Madde 30: MADDE 30- (1) Kanunda aksine hüküm bulunmadıkça, tescili isteme süresi onbeş gün..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 30 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

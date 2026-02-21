@@ -2,7 +2,7 @@
 slug: "hmk-madde-361"
 title: "HMK Madde 361: MADDE 361- (1) Bölge adliye mahkemesi hukuk dairelerinden verilen temyizi kabil..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 361 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-647"
 title: "TTK Madde 647: MADDE 647- (1) Mülkiyet veya sınırlı bir ayni hak kurulması amacıyla kıymetli ev..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 647 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-453"
 title: "TMK Madde 453: Madde 453- Vesayet altındaki kişiye vesayet makamı tarafından bir meslek veya sa..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 453 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

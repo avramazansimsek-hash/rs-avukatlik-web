@@ -2,7 +2,7 @@
 slug: "tbk-madde-631"
 title: "TBK Madde 631: MADDE 631- Yönetim yetkisi olmasa bile, her ortağın, ortaklığın işleyişi hakkınd..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 631 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

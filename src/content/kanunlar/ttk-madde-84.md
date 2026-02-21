@@ -2,7 +2,7 @@
 slug: "ttk-madde-84"
 title: "TTK Madde 84: MADDE 84- (1) Bir hukuki uyuşmazlıkta ticari defterler ibraz edilmişse, defterle..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 84 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

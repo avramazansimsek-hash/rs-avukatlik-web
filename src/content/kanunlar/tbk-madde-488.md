@@ -2,7 +2,7 @@
 slug: "tbk-madde-488"
 title: "TBK Madde 488: MADDE 488- Yayım sözleşmesinin geçerliliği, yazılı şekilde yapılmış olmasına bağ..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 488 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-832"
 title: "TMK Madde 832: Madde 832- Malik, üst hakkının devrini, kendisine geçecek yapılar için uygun bir..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 832 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

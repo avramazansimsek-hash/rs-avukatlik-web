@@ -2,7 +2,7 @@
 slug: "tkhk-madde-15"
 title: "TKHK Madde 15: MADDE 15- (1) Hizmetin ayıplı ifa edildiği durumlarda tüketici, hizmetin yeniden..."
 category: "Tüketicinin Korunması Hakkında Kanun"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Tüketicinin Korunması Hakkında Kanun Madde 15 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

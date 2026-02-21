@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-119"
 title: "AVUKATLIK Madde 119: Madde 119 – (Değişik birinci fıkra: 14/11/1984 - 3079/2 md.) Birlik Yönetim Kuru..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 119 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

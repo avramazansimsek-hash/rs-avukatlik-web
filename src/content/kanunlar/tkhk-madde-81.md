@@ -2,7 +2,7 @@
 slug: "tkhk-madde-81"
 title: "TKHK Madde 81: MADDE 81- (1) Bakanlık, bu Kanunun uygulaması için resmi veya özel kuruluşların..."
 category: "Tüketicinin Korunması Hakkında Kanun"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Tüketicinin Korunması Hakkında Kanun Madde 81 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

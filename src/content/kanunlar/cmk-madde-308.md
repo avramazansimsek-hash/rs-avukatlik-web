@@ -2,7 +2,7 @@
 slug: "cmk-madde-308"
 title: "CMK Madde 308: Madde 308 – (1) Yargıtay ceza dairelerinden birinin kararına karşı Yargıtay Cumh..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 308 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

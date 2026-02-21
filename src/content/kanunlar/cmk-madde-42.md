@@ -2,7 +2,7 @@
 slug: "cmk-madde-42"
 title: "CMK Madde 42: Madde 42 – (1) Süresi içinde usul işlemi yapılsaydı, esasa hangi mahkeme hükmede..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 42 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

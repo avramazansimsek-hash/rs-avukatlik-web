@@ -2,7 +2,7 @@
 slug: "ttk-madde-1249"
 title: "TTK Madde 1249: MADDE 1249- (1) Deniz yoluyla yolcu taşıma sözleşmesine dayanarak veya bu Bölüm..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1249 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

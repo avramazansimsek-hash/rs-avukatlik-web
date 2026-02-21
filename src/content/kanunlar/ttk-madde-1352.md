@@ -2,7 +2,7 @@
 slug: "ttk-madde-1352"
 title: "TTK Madde 1352: MADDE 1352- (1) “Deniz alacağı”; aşağıda sayılan hususların birinden veya birkaç..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1352 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

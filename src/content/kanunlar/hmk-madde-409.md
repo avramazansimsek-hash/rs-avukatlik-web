@@ -2,7 +2,7 @@
 slug: "hmk-madde-409"
 title: "HMK Madde 409: MADDE 409- (1) Tarafların aksini kararlaştırabilecekleri bir hükme veya tahkim s..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 409 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

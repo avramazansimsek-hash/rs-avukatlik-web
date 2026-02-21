@@ -2,7 +2,7 @@
 slug: "hmk-madde-239"
 title: "HMK Madde 239: MADDE 239- (1) Yemin eda edildikten sonra, yalan yere yemin nedeniyle açılan cez..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 239 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

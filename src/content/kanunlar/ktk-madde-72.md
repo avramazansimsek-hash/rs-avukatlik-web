@@ -2,7 +2,7 @@
 slug: "ktk-madde-72"
 title: "KTK Madde 72: Madde 72 – Araçlarda ses, müzik, görüntü ve haberleşme cihazları yönetmelikte gö..."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 72 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-289"
 title: "TTK Madde 289: MADDE 289- (1) Tasfiye sonunda, tasfiye memurları şirket sözleşmesi veya kanun h..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 289 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

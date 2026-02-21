@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-69"
 title: "AVUKATLIK Madde 69: Madde 69 – Nakil isteği ile başvurulan baronun yönetim kurulu, istekte bulunan a..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 69 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

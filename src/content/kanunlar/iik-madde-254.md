@@ -2,7 +2,7 @@
 slug: "iik-madde-254"
 title: "IIK Madde 254: Madde 254 – Paralar dağıtıldıktan sonra idare iflasa hükmeden mahkemeye son bir..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 254 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

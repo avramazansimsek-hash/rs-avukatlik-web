@@ -2,7 +2,7 @@
 slug: "ttk-madde-1486"
 title: "TTK Madde 1486: MADDE 1486- (1) 1453 üncü maddenin ikinci fıkrasının ikinci cümlesi, 1458 inci m..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1486 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

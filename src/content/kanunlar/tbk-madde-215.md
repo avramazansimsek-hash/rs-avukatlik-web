@@ -2,7 +2,7 @@
 slug: "tbk-madde-215"
 title: "TBK Madde 215: MADDE 215- Satılanın elinden alınması tehlikesi ile karşılaşan alıcı, kendisine..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 215 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

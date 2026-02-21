@@ -2,7 +2,7 @@
 slug: "ttk-madde-1274"
 title: "TTK Madde 1274: MADDE 1274- (1) Müşterek avarya garame paylarının kişisel borçluları, garameye g..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1274 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

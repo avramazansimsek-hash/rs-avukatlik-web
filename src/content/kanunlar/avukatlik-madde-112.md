@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-112"
 title: "AVUKATLIK Madde 112: Madde 112 – Türkiye Barolar Birliği Başkanlığı, başkan yardımcılığı, genel sekre..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 112 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

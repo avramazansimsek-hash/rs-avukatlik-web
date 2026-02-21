@@ -2,7 +2,7 @@
 slug: "ttk-madde-1213"
 title: "TTK Madde 1213: MADDE 1213- (1) Denize elverişsiz hâle gelmiş gemi, mahkemenin tespit kararıyla..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1213 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

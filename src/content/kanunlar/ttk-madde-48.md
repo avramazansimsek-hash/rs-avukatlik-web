@@ -2,7 +2,7 @@
 slug: "ttk-madde-48"
 title: "TTK Madde 48: MADDE 48- (1) Her şube, kendi merkezinin ticaret unvanını, şube olduğunu belirte..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 48 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

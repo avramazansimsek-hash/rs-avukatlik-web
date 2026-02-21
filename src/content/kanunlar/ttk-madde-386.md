@@ -2,7 +2,7 @@
 slug: "ttk-madde-386"
 title: "TTK Madde 386: MADDE 386- (1) 384 ve 385 inci maddeler uyarınca elden çıkarılamayan paylar, ser..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 386 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

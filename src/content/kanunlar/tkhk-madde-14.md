@@ -2,7 +2,7 @@
 slug: "tkhk-madde-14"
 title: "TKHK Madde 14: MADDE 14- (1) Sağlayıcı, hizmeti sözleşmeye uygun olarak ifa etmekle yükümlüdür...."
 category: "Tüketicinin Korunması Hakkında Kanun"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Tüketicinin Korunması Hakkında Kanun Madde 14 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

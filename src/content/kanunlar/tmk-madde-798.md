@@ -2,7 +2,7 @@
 slug: "tmk-madde-798"
 title: "TMK Madde 798: Madde 798- Malik, yararlanılamayacak derecede harap olan intifa konusu malı yara..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 798 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-747"
 title: "TMK Madde 747: Madde 747- Taşınmazından genel yola çıkmak için yeterli geçidi bulunmayan malik,..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 747 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

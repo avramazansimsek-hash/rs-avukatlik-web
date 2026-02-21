@@ -2,7 +2,7 @@
 slug: "tbk-madde-590"
 title: "TBK Madde 590: MADDE 590- Borçlunun iflası sebebiyle asıl borç daha önce muaccel olsa bile, bel..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 590 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

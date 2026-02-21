@@ -2,7 +2,7 @@
 slug: "hmk-madde-222"
 title: "HMK Madde 222: MADDE 222 - (1) Mahkeme, ticari davalarda tarafların ticari defterlerinin ibrazı..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 222 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-101"
 title: "AVUKATLIK Madde 101: Madde 101 – Baro genel sekreteri, yönetim kurulu toplantılarına ait tutanakları..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 101 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

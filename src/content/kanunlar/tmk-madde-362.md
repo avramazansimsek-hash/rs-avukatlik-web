@@ -2,7 +2,7 @@
 slug: "tmk-madde-362"
 title: "TMK Madde 362: Madde 362- Ana ve baba, velâyetleri veya yönetim hakları sona erince, çocuğun ma..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 362 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

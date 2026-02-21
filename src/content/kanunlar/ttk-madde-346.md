@@ -2,7 +2,7 @@
 slug: "ttk-madde-346"
 title: "TTK Madde 346: MADDE 346- (1) Esas sözleşmede taahhüt edilmiş olup da taahhüt sahiplerince, şir..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 346 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

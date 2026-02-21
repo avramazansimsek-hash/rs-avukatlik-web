@@ -2,7 +2,7 @@
 slug: "iik-madde-130"
 title: "IIK Madde 130: Madde 130 – (Başlığı ile Birlikte Değişik:24/11/2021-7343/24 md.)..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 130 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

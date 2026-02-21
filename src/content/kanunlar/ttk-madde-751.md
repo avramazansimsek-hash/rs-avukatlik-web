@@ -2,7 +2,7 @@
 slug: "ttk-madde-751"
 title: "TTK Madde 751: MADDE 751- (1) Zamanaşımını kesen işlem, kimin hakkında meydana gelmişse ancak o..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 751 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

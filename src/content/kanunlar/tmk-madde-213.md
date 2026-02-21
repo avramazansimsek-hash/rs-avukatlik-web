@@ -2,7 +2,7 @@
 slug: "tmk-madde-213"
 title: "TMK Madde 213: Madde 213 - Mal rejiminin kurulması, değiştirilmesi veya önceki rejimin tasfiyes..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 213 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

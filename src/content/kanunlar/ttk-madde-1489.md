@@ -2,7 +2,7 @@
 slug: "ttk-madde-1489"
 title: "TTK Madde 1489: MADDE 1489- (1) Sigorta ettiren, sigortacının kendisine cayma hakkını kullanabil..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1489 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

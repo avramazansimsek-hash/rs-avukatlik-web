@@ -2,7 +2,7 @@
 slug: "ttk-madde-1308"
 title: "TTK Madde 1308: MADDE 1308- (1) Kurtarma faaliyetine sebep olan tehlikenin başladığı andan 1303..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1308 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

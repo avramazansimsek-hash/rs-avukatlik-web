@@ -2,7 +2,7 @@
 slug: "tkhk-madde-24"
 title: "TKHK Madde 24: MADDE 24- (1) Tüketici, on dört gün içinde herhangi bir gerekçe göstermeksizin v..."
 category: "Tüketicinin Korunması Hakkında Kanun"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Tüketicinin Korunması Hakkında Kanun Madde 24 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

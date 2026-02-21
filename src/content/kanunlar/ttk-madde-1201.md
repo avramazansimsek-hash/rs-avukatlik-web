@@ -2,7 +2,7 @@
 slug: "ttk-madde-1201"
 title: "TTK Madde 1201: MADDE 1201- (1) Taşıyan, navlun sözleşmesinden doğan bütün alacakları için Türk..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1201 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-498"
 title: "TTK Madde 498: MADDE 498- (1) Şirket, devralanın, pay sahibi olarak tanınması istemini, istemi..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 498 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

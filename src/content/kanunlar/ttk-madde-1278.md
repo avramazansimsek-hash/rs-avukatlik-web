@@ -2,7 +2,7 @@
 slug: "ttk-madde-1278"
 title: "TTK Madde 1278: MADDE 1278- (1) Donatan gecikmeksizin dispeçi yaptırmakla yükümlüdür; bu yükümlü..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1278 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

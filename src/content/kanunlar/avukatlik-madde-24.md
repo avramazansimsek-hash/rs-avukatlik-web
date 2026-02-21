@@ -1,8 +1,8 @@
 ---
 slug: "avukatlik-madde-24"
-title: "AVUKATLIK Madde 24: Madde 24..."
+title: "AVUKATLIK Madde 24: Madde 24 – (Değişik: 30/1/1979 - 2178/5 md.)..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 24 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 
@@ -11,72 +11,17 @@ excerpt: "Avukatlık Kanunu Madde 24 tam metni, gerekçesi ve Av. Ramazan Şimş
 ## Kanun Metni
 
 ```text
-Madde 24
+Madde 24 – (Değişik: 30/1/1979 - 2178/5 md.)
 
-	
+Staj, Adalet Komisyonunun, baronun ve yanında çalışılan avukatın gözetimi altında yapılır.
 
-30/11/2021
+Stajiyer hakkında, yanında staj gördüğü hâkimler, Cumhuriyet savcıları tarafından staj durumu, mesleki ilgisi ve ahlaki durumunu belirten bir belge verilir.
 
+Yanında staj görülen avukat tarafından, ilk üç ayın bitiminde ve staj süresinin sonunda da kesin olarak, staj durumunu ve adayın mesleki ilgisi ile ahlaki durumunu da kapsayan bir rapor verir.
 
+ 
 
-
-7409
-
-	
-
-16, 177, 180
-
-	
-
-11/6/2022
-
-
-
-
-7445
-
-	
-
-43, 65, 180
-
-	
-
-5/4/2023
-
-
-
-
-Anayasa Mahkemesinin 22/6/2023 tarihli ve E.:2022/100; K.:2023/114 sayılı Kararı
-
-	
-
-180
-
-	
-
-Kararın Resmî Gazete’de yayımlanmasından başlayarak dokuz ay sonra (19/6/2024)
-
-
-
-
-7531
-
-	
-
-180
-
-	
-
-14/11/2024
-
-
-
-
-7532
-
-	
-
-16, Geçici
+Staj süresinin uzatılması:
 ```
 
 

@@ -2,7 +2,7 @@
 slug: "hmk-madde-265"
 title: "HMK Madde 265: MADDE 265- (1) Mahkeme tarafından çağrılan tanığa, her yıl Adalet Bakanlığınca h..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 265 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

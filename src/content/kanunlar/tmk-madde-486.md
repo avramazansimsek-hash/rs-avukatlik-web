@@ -2,7 +2,7 @@
 slug: "tmk-madde-486"
 title: "TMK Madde 486: Madde 486- Gecikmesinde tehlike bulunan hâllerde vesayet makamı, vasiye geçici o..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 486 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

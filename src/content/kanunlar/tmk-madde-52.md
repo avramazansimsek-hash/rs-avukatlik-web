@@ -2,7 +2,7 @@
 slug: "tmk-madde-52"
 title: "TMK Madde 52: Madde 52- Sona eren tüzel kişinin kişiliği, ehliyeti tasfiye amacıyla sınırlı ol..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 52 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tbk-madde-362"
 title: "TBK Madde 362: MADDE 362- Kiracı, sözleşmede aksine bir hüküm veya yerel âdet olmadıkça, kira b..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 362 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

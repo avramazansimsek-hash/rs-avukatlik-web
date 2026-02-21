@@ -2,7 +2,7 @@
 slug: "tmk-madde-498"
 title: "TMK Madde 498: Madde 498- Evlilik dışında doğmuş ve soybağı, tanıma veya hâkim hükmüyle kurulmu..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 498 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

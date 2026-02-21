@@ -2,7 +2,7 @@
 slug: "ttk-madde-96"
 title: "TTK Madde 96: MADDE 96- (1) Taraflar, üç aydan aşağı olmamak şartıyla, diledikleri andan başla..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 96 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

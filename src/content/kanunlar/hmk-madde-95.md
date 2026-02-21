@@ -2,7 +2,7 @@
 slug: "hmk-madde-95"
 title: "HMK Madde 95: MADDE 95- (1) Elde olmayan sebeplerle, kanunda belirtilen veya hâkimin kesin ola..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 95 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

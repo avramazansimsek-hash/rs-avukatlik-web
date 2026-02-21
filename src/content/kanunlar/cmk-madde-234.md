@@ -2,7 +2,7 @@
 slug: "cmk-madde-234"
 title: "CMK Madde 234: Madde 234 – (1) Mağdur ile şikâyetçinin hakları şunlardır:..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 234 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "iik-madde-236"
 title: "IIK Madde 236: Madde 236 – Vaktinde deftere kaydettirilmiyen alacaklar iflasın kapanmasına kada..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 236 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

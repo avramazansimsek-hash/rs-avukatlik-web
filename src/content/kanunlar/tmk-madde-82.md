@@ -2,7 +2,7 @@
 slug: "tmk-madde-82"
 title: "TMK Madde 82: Madde 82- Hiçbir dernek üyesi, dernek ile kendisi, eşi, üstsoyu ve altsoyu arası..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 82 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

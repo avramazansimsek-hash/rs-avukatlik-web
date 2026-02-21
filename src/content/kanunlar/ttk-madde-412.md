@@ -2,7 +2,7 @@
 slug: "ttk-madde-412"
 title: "TTK Madde 412: MADDE 412- (1) Pay sahiplerinin çağrı veya gündeme madde konulmasına ilişkin ist..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 412 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

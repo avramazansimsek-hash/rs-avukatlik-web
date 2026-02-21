@@ -2,7 +2,7 @@
 slug: "tmk-madde-272"
 title: "TMK Madde 272: Madde 272 - Eşlerden birine sosyal güvenlik veya sosyal yardım kurumlarınca yapı..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 272 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

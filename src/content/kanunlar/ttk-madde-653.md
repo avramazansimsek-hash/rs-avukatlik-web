@@ -2,7 +2,7 @@
 slug: "ttk-madde-653"
 title: "TTK Madde 653: MADDE 653- (1) Çeşitli kıymetli evraka ilişkin özel hükümler saklıdır...."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 653 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

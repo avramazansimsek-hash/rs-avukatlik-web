@@ -2,7 +2,7 @@
 slug: "tmk-madde-532"
 title: "TMK Madde 532: Madde 532 - Resmî vasiyetname, iki tanığın katılmasıyla resmî memur tarafından d..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 532 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

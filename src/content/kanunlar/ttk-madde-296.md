@@ -2,7 +2,7 @@
 slug: "ttk-madde-296"
 title: "TTK Madde 296: MADDE 296- (1) Tasfiye memurları, tasfiye sırasında elde edilen paraların bin Tü..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 296 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

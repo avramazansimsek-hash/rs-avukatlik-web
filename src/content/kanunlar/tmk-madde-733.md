@@ -2,7 +2,7 @@
 slug: "tmk-madde-733"
 title: "TMK Madde 733: Madde 733- (Değişik birinci fıkra:24/12/2025-7571/35 md.) 8/9/1983 tarihli ve 28..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 733 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "iyuk-madde-61"
 title: "IYUK Madde 61: Madde 61 – 1. (Değişik: 5/4/1990-3622/25 md.) (Değişik birinci cümle: 8/8/2011-K..."
 category: "İdari Yargılama Usulü Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İdari Yargılama Usulü Kanunu Madde 61 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

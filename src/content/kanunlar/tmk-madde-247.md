@@ -2,7 +2,7 @@
 slug: "tmk-madde-247"
 title: "TMK Madde 247: Madde 247- Mal rejimi, eşlerden birinin ölümü veya başka bir mal rejiminin kabul..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 247 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

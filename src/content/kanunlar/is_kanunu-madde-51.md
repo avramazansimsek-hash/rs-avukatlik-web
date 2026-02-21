@@ -2,7 +2,7 @@
 slug: "is_kanunu-madde-51"
 title: "IS_KANUNU Madde 51: Madde 51 - Otel, lokanta, eğlence yerleri ve benzeri yerler ile içki verilen ve..."
 category: "İş Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İş Kanunu Madde 51 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

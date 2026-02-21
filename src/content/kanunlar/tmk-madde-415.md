@@ -2,7 +2,7 @@
 slug: "tmk-madde-415"
 title: "TMK Madde 415: Madde 415- Haklı sebepler engel olmadıkça, vasiliğe, vesayet altına alınacak kiş..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 415 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

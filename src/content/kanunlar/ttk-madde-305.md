@@ -2,7 +2,7 @@
 slug: "ttk-madde-305"
 title: "TTK Madde 305: MADDE 305- (1) Bu Bölümdeki özel hükümler saklı kalmak şartıyla, kollektif şirke..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 305 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

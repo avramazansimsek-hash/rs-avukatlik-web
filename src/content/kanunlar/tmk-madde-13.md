@@ -2,7 +2,7 @@
 slug: "tmk-madde-13"
 title: "TMK Madde 13: Madde 13- Yaşının küçüklüğü yüzünden veya akıl hastalığı, akıl zayıflığı, sarhoş..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 13 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

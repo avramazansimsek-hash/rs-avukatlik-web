@@ -2,7 +2,7 @@
 slug: "tck-madde-155"
 title: "TCK Madde 155: Madde 155- (1) Başkasına ait olup da, muhafaza etmek veya belirli bir şekilde ku..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 155 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

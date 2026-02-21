@@ -2,7 +2,7 @@
 slug: "tmk-madde-269"
 title: "TMK Madde 269: Madde 269- Her eş, diğer bütün borçlardan kendi kişisel mallarıyla ve ortaklık m..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 269 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

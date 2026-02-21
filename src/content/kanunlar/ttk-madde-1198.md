@@ -2,7 +2,7 @@
 slug: "ttk-madde-1198"
 title: "TTK Madde 1198: MADDE 1198- (1) Taşıyan, bozulmuş veya hasarlanmış olup olmadığına bakılmaksızın..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1198 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

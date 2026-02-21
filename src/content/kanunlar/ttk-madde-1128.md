@@ -2,7 +2,7 @@
 slug: "ttk-madde-1128"
 title: "TTK Madde 1128: MADDE 1128- (1) Kira bedeli, sözleşmede kararlaştırılan zamanda, bu hususta anla..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1128 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

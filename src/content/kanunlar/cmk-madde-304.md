@@ -2,7 +2,7 @@
 slug: "cmk-madde-304"
 title: "CMK Madde 304: Madde 304 – (1) (Değişik:20/2/2019-7165/8 md.) Yargıtayca 302 nci maddenin birin..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 304 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

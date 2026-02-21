@@ -2,7 +2,7 @@
 slug: "tmk-madde-48"
 title: "TMK Madde 48: Madde 48- Tüzel kişiler, cins, yaş, hısımlık gibi yaradılış gereği insana özgü n..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 48 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

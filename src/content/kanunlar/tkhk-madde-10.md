@@ -2,7 +2,7 @@
 slug: "tkhk-madde-10"
 title: "TKHK Madde 10: MADDE 10- (1) Teslim tarihinden itibaren altı ay içinde ortaya çıkan ayıpların,..."
 category: "Tüketicinin Korunması Hakkında Kanun"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Tüketicinin Korunması Hakkında Kanun Madde 10 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

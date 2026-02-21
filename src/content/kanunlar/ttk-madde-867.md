@@ -2,7 +2,7 @@
 slug: "ttk-madde-867"
 title: "TTK Madde 867: MADDE 867- (1) Gönderen, eşyayı süresi içinde yüklemezse veya yükleme yükümlülüğ..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 867 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-807"
 title: "TTK Madde 807: MADDE 807- (1) Hesaba geçirilmek üzere düzenlenen bir çekin hamili; muhatabın, ç..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 807 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

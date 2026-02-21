@@ -2,7 +2,7 @@
 slug: "ttk-madde-548"
 title: "TTK Madde 548: MADDE 548- (1) Şirket sürenin dolmasıyla veya genel kurul kararıyla sona ermiş i..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 548 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-74"
 title: "TMK Madde 74: Madde 74- Genel kurul, tüzükte belirtilen zamanda yönetim kurulunun çağrısı üzer..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 74 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

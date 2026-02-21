@@ -2,7 +2,7 @@
 slug: "tmk-madde-469"
 title: "TMK Madde 469: Madde 469- Devletin vesayet dairelerinde görevli kişilere karşı rücu davasına ba..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 469 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

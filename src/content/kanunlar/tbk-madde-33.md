@@ -2,7 +2,7 @@
 slug: "tbk-madde-33"
 title: "TBK Madde 33: MADDE 33- Sözleşmenin kurulmasına yönelik iradenin haberci veya çevirmen gibi bi..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 33 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

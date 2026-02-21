@@ -2,7 +2,7 @@
 slug: "cmk-madde-329"
 title: "CMK Madde 329: Madde 329 – (1) Suç uydurup iftirada bulunduğu sabit olan kimse, bu nedenle yapı..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 329 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

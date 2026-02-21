@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-58"
 title: "AVUKATLIK Madde 58: Madde 58 – (Değişik: 23/1/2008-5728/331 md.)..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 58 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "hmk-madde-126"
 title: "HMK Madde 126: MADDE 126- (1) Davalı, cevap dilekçesini, davanın açılmış olduğu mahkemeye verir..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 126 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

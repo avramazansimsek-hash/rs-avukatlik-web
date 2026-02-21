@@ -2,7 +2,7 @@
 slug: "ttk-madde-812"
 title: "TTK Madde 812: MADDE 812- (1) Sahte veya tahrif edilmiş bir çeki ödemiş olmasından doğan zarar..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 812 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

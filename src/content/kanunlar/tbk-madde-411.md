@@ -2,7 +2,7 @@
 slug: "tbk-madde-411"
 title: "TBK Madde 411: MADDE 411- İşçi, sözleşme gereğince yalnız bir işveren için sadece parça başına..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 411 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

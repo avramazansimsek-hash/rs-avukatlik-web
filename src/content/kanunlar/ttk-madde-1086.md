@@ -2,7 +2,7 @@
 slug: "ttk-madde-1086"
 title: "TTK Madde 1086: MADDE 1086- (1) Donatma iştirakinin feshi yahut geminin devri kararlaştırılmışsa..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1086 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

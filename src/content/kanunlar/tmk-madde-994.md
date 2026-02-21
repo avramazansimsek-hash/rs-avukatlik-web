@@ -2,7 +2,7 @@
 slug: "tmk-madde-994"
 title: "TMK Madde 994: Madde 994- İyiniyetli zilyet, geri vermeyi isteyen kimseden şey için yapmış oldu..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 994 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

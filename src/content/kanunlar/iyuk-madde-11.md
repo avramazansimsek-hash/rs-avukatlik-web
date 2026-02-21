@@ -1,8 +1,8 @@
 ---
 slug: "iyuk-madde-11"
-title: "IYUK Madde 11: Madde 11..."
+title: "IYUK Madde 11: Madde 11 – 1. İlgililer tarafından idari dava açılmadan önce, idari işlemin kald..."
 category: "İdari Yargılama Usulü Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İdari Yargılama Usulü Kanunu Madde 11 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 
@@ -11,20 +11,17 @@ excerpt: "İdari Yargılama Usulü Kanunu Madde 11 tam metni, gerekçesi ve Av. 
 ## Kanun Metni
 
 ```text
-Madde 11
+Madde 11 – 1. İlgililer tarafından idari dava açılmadan önce, idari işlemin kaldırılması, geri alınması, değiştirilmesi veya yeni bir işlem yapılması üst makamdan, üst makam yoksa işlemi yapmış olan makamdan, idari dava açma süresi içinde istenebilir. Bu başvurma, işlemeye başlamış olan idari dava açma süresini durdurur.
 
-	
+2. Otuz gün içinde bir cevap verilmezse istek reddedilmiş sayılır.[8]
 
-9/11/2023
+3. İsteğin reddedilmesi veya reddedilmiş sayılması halinde dava açma süresi yeniden işlemeye başlar ve başvurma tarihine kadar geçmiş süre de hesaba katılır.
 
+4. (Mülga: 10/6/1994-4001/6 md.)
 
+ 
 
-
-Anayasa Mahkemesinin 26/10/2023 tarihli ve E.:2023/81; K.:2023/184 sayılı Kararı
-
-	
-
-45, Ek
+İptal ve tam yargı davaları:
 ```
 
 

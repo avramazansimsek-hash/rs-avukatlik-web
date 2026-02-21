@@ -2,7 +2,7 @@
 slug: "tck-madde-295"
 title: "TCK Madde 295: Madde 295- (1) Gözaltına alınan, tutuklu veya hükümlünün muhafaza veya nakli ile..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 295 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

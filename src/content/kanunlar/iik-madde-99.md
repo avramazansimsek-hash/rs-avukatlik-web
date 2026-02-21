@@ -2,7 +2,7 @@
 slug: "iik-madde-99"
 title: "IIK Madde 99: Madde 99 – (Değişik: 2/7/2012-6352/20 md.)..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 99 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

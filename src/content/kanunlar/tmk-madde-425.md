@@ -2,7 +2,7 @@
 slug: "tmk-madde-425"
 title: "TMK Madde 425: Madde 425- Atama kararı kesinleşince vesayet makamı vasinin göreve başlaması içi..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 425 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

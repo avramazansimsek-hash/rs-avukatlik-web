@@ -2,7 +2,7 @@
 slug: "ttk-madde-135"
 title: "TTK Madde 135: MADDE 135- (1) 134 ilâ 194 üncü maddelerin uygulanmasında; “şirket”, ticaret şir..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 135 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

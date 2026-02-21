@@ -2,7 +2,7 @@
 slug: "tmk-madde-133"
 title: "TMK Madde 133: Madde 133- Akıl hastaları, evlenmelerinde tıbbî sakınca bulunmadığı resmî sağlık..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 133 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

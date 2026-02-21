@@ -2,7 +2,7 @@
 slug: "tbk-madde-505"
 title: "TBK Madde 505: MADDE 505- Vekil, vekâlet verenin açık talimatına uymakla yükümlüdür. Ancak, vek..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 505 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

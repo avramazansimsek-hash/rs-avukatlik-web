@@ -2,7 +2,7 @@
 slug: "ttk-madde-1490"
 title: "TTK Madde 1490: MADDE 1490- (1) Sigorta ettiren, kendisinin veya başkasının hayatını, ölüm veya..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1490 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

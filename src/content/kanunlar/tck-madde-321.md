@@ -2,7 +2,7 @@
 slug: "tck-madde-321"
 title: "TCK Madde 321: Madde 321- (1) Savaş zamanında Devletin yetkili makam ve mercilerinin emir veya..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 321 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

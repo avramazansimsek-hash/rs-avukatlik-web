@@ -2,7 +2,7 @@
 slug: "tck-madde-98"
 title: "TCK Madde 98: Madde 98- (1) Yaşı, hastalığı veya yaralanması dolayısıyla ya da başka herhangi..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 98 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

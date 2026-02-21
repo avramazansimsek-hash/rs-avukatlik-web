@@ -2,7 +2,7 @@
 slug: "tmk-madde-396"
 title: "TMK Madde 396: Madde 396- Vesayet organları, vesayet daireleri ile vasi ve kayyımlardır...."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 396 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

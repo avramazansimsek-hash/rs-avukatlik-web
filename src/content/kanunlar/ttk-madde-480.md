@@ -2,7 +2,7 @@
 slug: "ttk-madde-480"
 title: "TTK Madde 480: MADDE 480- (1) Kanunda öngörülen istisnalar dışında, esas sözleşmeyle pay sahibi..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 480 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

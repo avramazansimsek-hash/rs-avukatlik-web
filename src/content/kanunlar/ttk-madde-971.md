@@ -2,7 +2,7 @@
 slug: "ttk-madde-971"
 title: "TTK Madde 971: MADDE 971- (1) Gemi siciline tescil olunan hususlarda meydana gelecek değişiklik..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 971 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

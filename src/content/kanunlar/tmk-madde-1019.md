@@ -2,7 +2,7 @@
 slug: "tmk-madde-1019"
 title: "TMK Madde 1019: Madde 1019- Tapu memuru, ilgililerin bilgisi dışında yaptığı işlemleri onlara te..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 1019 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

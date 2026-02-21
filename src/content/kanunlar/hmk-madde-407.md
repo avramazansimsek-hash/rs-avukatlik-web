@@ -2,7 +2,7 @@
 slug: "hmk-madde-407"
 title: "HMK Madde 407: MADDE 407- (1) Bu Kısımda yer alan hükümler, 21/6/2001 tarihli ve 4686 sayılı Mi..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 407 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

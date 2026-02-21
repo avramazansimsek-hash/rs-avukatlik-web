@@ -2,7 +2,7 @@
 slug: "iyuk-madde-12"
 title: "IYUK Madde 12: Madde 12 – İlgililer haklarını ihlal eden bir idari işlem dolayısıyla Danıştaya..."
 category: "İdari Yargılama Usulü Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İdari Yargılama Usulü Kanunu Madde 12 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

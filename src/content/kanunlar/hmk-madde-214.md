@@ -2,7 +2,7 @@
 slug: "hmk-madde-214"
 title: "HMK Madde 214: MADDE 214- (1) Belgenin sahte olmadığına dair hukuk mahkemesince verilen karar k..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 214 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

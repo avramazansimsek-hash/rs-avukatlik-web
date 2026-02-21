@@ -2,7 +2,7 @@
 slug: "tmk-madde-993"
 title: "TMK Madde 993: Madde 993- İyiniyetle zilyedi bulunduğu şeyi, karineyle mevcut hakkına uygun şek..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 993 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

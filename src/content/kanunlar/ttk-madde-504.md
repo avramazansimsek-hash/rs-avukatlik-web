@@ -2,7 +2,7 @@
 slug: "ttk-madde-504"
 title: "TTK Madde 504: MADDE 504- (1) Her çeşidi ile tahviller, finansman bonoları, varlığa dayalı sene..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 504 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

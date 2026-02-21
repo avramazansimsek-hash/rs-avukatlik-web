@@ -2,7 +2,7 @@
 slug: "tck-madde-227"
 title: "TCK Madde 227: Madde 227- (1) Çocuğu fuhşa teşvik eden, bunun yolunu kolaylaştıran, bu maksatla..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 227 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

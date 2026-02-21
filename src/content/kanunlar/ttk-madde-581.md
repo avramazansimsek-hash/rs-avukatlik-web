@@ -2,7 +2,7 @@
 slug: "ttk-madde-581"
 title: "TTK Madde 581: MADDE 581- (1) Üzerlerinde sınırlı ayni bir hak, haciz veya tedbir bulunmayan; n..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 581 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

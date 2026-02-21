@@ -2,7 +2,7 @@
 slug: "ttk-madde-934"
 title: "TTK Madde 934: MADDE 934- (1) “Gemi adamları”; kaptan, gemi zabitleri, tayfalar ve gemide çalış..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 934 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-1420"
 title: "TTK Madde 1420: MADDE 1420- (1) Sigorta sözleşmesinden doğan bütün istemler, alacağın muaccel ol..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1420 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

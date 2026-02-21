@@ -2,7 +2,7 @@
 slug: "ttk-madde-897"
 title: "TTK Madde 897: MADDE 897- (1) Gönderen, verdiği zarar sebebiyle taşıyıcıya karşı sadece 864 ünc..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 897 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

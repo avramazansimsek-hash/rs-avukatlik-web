@@ -2,7 +2,7 @@
 slug: "tmk-madde-365"
 title: "TMK Madde 365: Madde 365- Nafaka davası, mirasçılıktaki sıra göz önünde tutularak açılır...."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 365 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

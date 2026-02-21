@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-158"
 title: "AVUKATLIK Madde 158: Madde 158 – Türkiye Barolar Birliği Disiplin Kurulu ve barolar disiplin kurullar..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 158 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

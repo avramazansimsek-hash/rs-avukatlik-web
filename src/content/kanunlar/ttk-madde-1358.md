@@ -2,7 +2,7 @@
 slug: "ttk-madde-1358"
 title: "TTK Madde 1358: MADDE 1358- (1) Yokluğunda ihtiyati haciz kararı verilmiş olan kişilerin itirazl..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1358 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

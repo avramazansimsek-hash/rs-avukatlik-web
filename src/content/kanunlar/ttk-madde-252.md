@@ -2,7 +2,7 @@
 slug: "ttk-madde-252"
 title: "TTK Madde 252: MADDE 252- (1) Bir ortağın kısıtlanması veya iflasına karar verilmesi hâlinde, T..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 252 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

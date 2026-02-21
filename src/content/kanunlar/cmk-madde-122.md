@@ -2,7 +2,7 @@
 slug: "cmk-madde-122"
 title: "CMK Madde 122: Madde 122 – (1) Hakkında arama işlemi uygulanan kimsenin belge veya kâğıtlarını..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 122 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

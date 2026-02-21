@@ -2,7 +2,7 @@
 slug: "tck-madde-261"
 title: "TCK Madde 261: Madde 261- (1) İlgili kanunlarda belirlenen koşullara aykırı olduğunu bilerek, k..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 261 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

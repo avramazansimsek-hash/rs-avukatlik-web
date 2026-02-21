@@ -2,7 +2,7 @@
 slug: "iik-madde-340"
 title: "IIK Madde 340: Madde 340 – (Değişik: 31/5/2005-5358/11 md.)..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 340 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

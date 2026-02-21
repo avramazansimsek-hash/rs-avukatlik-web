@@ -2,7 +2,7 @@
 slug: "is_kanunu-madde-72"
 title: "IS_KANUNU Madde 72: Madde 72 - Maden ocakları ile kablo döşemesi, kanalizasyon ve tünel inşaatı gibi..."
 category: "İş Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İş Kanunu Madde 72 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

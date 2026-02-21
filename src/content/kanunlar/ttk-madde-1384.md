@@ -2,7 +2,7 @@
 slug: "ttk-madde-1384"
 title: "TTK Madde 1384: MADDE 1384- (1) Yabancı bir sicile kayıtlı geminin satışı istenildiğinde, icra m..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1384 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

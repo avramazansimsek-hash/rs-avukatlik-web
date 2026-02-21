@@ -2,7 +2,7 @@
 slug: "ttk-madde-700"
 title: "TTK Madde 700: MADDE 700- (1) Poliçede bedelin ödenmesi, aval suretiyle tamamen veya kısmen tem..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 700 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

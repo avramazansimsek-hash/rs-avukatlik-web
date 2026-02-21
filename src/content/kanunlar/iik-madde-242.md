@@ -2,7 +2,7 @@
 slug: "iik-madde-242"
 title: "IIK Madde 242: Madde 242 – (Değişik birinci fıkra:24/11/2021-7343/30 md.) Artırma ilanı ve hazı..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 242 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

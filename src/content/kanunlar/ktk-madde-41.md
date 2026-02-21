@@ -2,7 +2,7 @@
 slug: "ktk-madde-41"
 title: "KTK Madde 41: Madde 41 – (Değişik: 12/7/2013-6495/17 md.)30..."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 41 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

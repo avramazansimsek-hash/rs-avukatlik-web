@@ -2,7 +2,7 @@
 slug: "tbk-madde-194"
 title: "TBK Madde 194: MADDE 194- Bazı hakların devrine özgü olarak kanunla konulmuş bulunan hükümler s..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 194 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-842"
 title: "TMK Madde 842: Madde 842- Bir para alacağını güvence altına almak amacıyla kurulan taşınmaz yük..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 842 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

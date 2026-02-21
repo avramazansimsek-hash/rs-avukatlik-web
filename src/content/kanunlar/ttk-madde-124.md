@@ -2,7 +2,7 @@
 slug: "ttk-madde-124"
 title: "TTK Madde 124: MADDE 124- (1) Ticaret şirketleri; kollektif, komandit, anonim, limited ve koope..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 124 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

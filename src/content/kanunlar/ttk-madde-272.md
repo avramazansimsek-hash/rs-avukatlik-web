@@ -2,7 +2,7 @@
 slug: "ttk-madde-272"
 title: "TTK Madde 272: MADDE 272- (1) Kollektif şirketin tasfiyesi, iflas dışındaki sona erme hâllerind..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 272 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

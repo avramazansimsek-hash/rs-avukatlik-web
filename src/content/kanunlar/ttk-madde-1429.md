@@ -2,7 +2,7 @@
 slug: "ttk-madde-1429"
 title: "TTK Madde 1429: MADDE 1429- (1) Sigortacı, aksine sözleşme yoksa, sigorta ettirenin, sigortalını..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1429 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "hmk-madde-336"
 title: "HMK Madde 336: MADDE 336- (1) Adli yardım, asıl talep veya işin karara bağlanacağı mahkemeden;..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 336 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

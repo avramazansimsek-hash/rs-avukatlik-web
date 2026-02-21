@@ -2,7 +2,7 @@
 slug: "ttk-madde-1030"
 title: "TTK Madde 1030: MADDE 1030- (1) Gemi veya tesisatının kötüleşmesi sonucu olarak ipoteğin sağladı..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1030 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

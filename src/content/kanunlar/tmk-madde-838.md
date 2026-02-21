@@ -2,7 +2,7 @@
 slug: "tmk-madde-838"
 title: "TMK Madde 838: Madde 838- Malik, taşınmazı üzerinde herhangi bir kişi veya topluluk lehine atış..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 838 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

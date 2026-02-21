@@ -2,7 +2,7 @@
 slug: "tck-madde-272"
 title: "TCK Madde 272: Madde 272- (1) Hukuka aykırı bir fiil nedeniyle başlatılan bir soruşturma kapsam..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 272 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-50"
 title: "TMK Madde 50: Madde 50- Tüzel kişinin iradesi, organları aracılığıyla açıklanır...."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 50 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

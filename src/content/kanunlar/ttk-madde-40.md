@@ -2,7 +2,7 @@
 slug: "ttk-madde-40"
 title: "TTK Madde 40: MADDE 40- (1) Her tacir, ticari işletmenin açıldığı günden itibaren onbeş gün iç..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 40 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

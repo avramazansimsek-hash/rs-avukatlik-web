@@ -2,7 +2,7 @@
 slug: "ttk-madde-903"
 title: "TTK Madde 903: MADDE 903- (1) Zıyaa, hasara veya teslimdeki gecikmeye yol açan olayın, taşımanı..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 903 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

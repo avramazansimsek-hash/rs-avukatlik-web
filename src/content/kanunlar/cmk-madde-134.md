@@ -2,7 +2,7 @@
 slug: "cmk-madde-134"
 title: "CMK Madde 134: Madde 134 – (1) Bir suç dolayısıyla yapılan soruşturmada, somut delillere dayana..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 134 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

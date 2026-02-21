@@ -2,7 +2,7 @@
 slug: "tkhk-madde-52"
 title: "TKHK Madde 52: MADDE 52- (1) Abonelik sözleşmesi, tüketicinin, belirli bir mal veya hizmeti sür..."
 category: "Tüketicinin Korunması Hakkında Kanun"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Tüketicinin Korunması Hakkında Kanun Madde 52 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

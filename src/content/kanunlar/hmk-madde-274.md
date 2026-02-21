@@ -2,7 +2,7 @@
 slug: "hmk-madde-274"
 title: "HMK Madde 274: MADDE 274- (1) Bilirkişi raporunun hazırlanması için verilecek süre üç ayı geçem..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 274 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

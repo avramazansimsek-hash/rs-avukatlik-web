@@ -2,7 +2,7 @@
 slug: "iik-madde-217"
 title: "IIK Madde 217: Madde 217 – Masaya ait hiç bir mal bulunmazsa iflas dairesi tasfiyenin tatiline..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 217 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

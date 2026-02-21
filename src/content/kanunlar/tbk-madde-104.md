@@ -2,7 +2,7 @@
 slug: "tbk-madde-104"
 title: "TBK Madde 104: MADDE 104- Faiz veya kira bedeli gibi dönemsel edimlerden biri için, alacaklı ta..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 104 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

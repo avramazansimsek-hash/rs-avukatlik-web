@@ -2,7 +2,7 @@
 slug: "tmk-madde-875"
 title: "TMK Madde 875: Madde 875- Taşınmaz rehninin alacaklıya sağladığı güvencenin kapsamına şunlar gi..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 875 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

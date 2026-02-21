@@ -2,7 +2,7 @@
 slug: "ttk-madde-20"
 title: "TTK Madde 20: MADDE 20- (1) Tacir olan veya olmayan bir kişiye, ticari işletmesiyle ilgili bir..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 20 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

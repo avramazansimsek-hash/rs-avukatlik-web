@@ -2,7 +2,7 @@
 slug: "cmk-madde-180"
 title: "CMK Madde 180: Madde 180 – (1) Hastalık veya malûllük veya giderilmesi olanağı bulunmayan başka..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 180 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

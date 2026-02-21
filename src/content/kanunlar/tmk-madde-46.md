@@ -2,7 +2,7 @@
 slug: "tmk-madde-46"
 title: "TMK Madde 46: Madde 46- Tescile esas olan bir bildirimin doğru olmadığının tespit edilmesi vey..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 46 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -1,8 +1,8 @@
 ---
 slug: "iik-madde-11"
-title: "IIK Madde 11: Madde 11..."
+title: "IIK Madde 11: Madde 11 – Tetkik vazifesini gören hakimler ve icra ve iflas memur ve müstahdeml..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 11 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 
@@ -11,20 +11,11 @@ excerpt: "İcra ve İflas Kanunu Madde 11 tam metni, gerekçesi ve Av. Ramazan �
 ## Kanun Metni
 
 ```text
-Madde 11
+Madde 11 – Tetkik vazifesini gören hakimler ve icra ve iflas memur ve müstahdemleri, dairelerince takip edilmekte olan bir alacak veya satılmakta bulunan bir şey hakkında kiminle olursa olsun kendileri veya başkaları hesaplarına bir akit yapamazlar. Yaparlarsa hükümsüzdür.
 
-	
+ 
 
-5/1/2013
-
-
-
-
-6518
-
-	
-
-Ek
+İcra dairesine ödeme:
 ```
 
 

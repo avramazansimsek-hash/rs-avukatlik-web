@@ -2,7 +2,7 @@
 slug: "ttk-madde-122"
 title: "TTK Madde 122: MADDE 122- (1) Sözleşme ilişkisinin sona ermesinden sonra;..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 122 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

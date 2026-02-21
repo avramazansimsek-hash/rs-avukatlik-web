@@ -1,8 +1,8 @@
 ---
 slug: "avukatlik-madde-7"
-title: "AVUKATLIK Madde 7: Madde 7..."
+title: "AVUKATLIK Madde 7: Madde 7 – Baro yönetim kurulu, levhaya yazılma istemi hakkında başvurma dilekçes..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 7 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 
@@ -11,20 +11,13 @@ excerpt: "Avukatlık Kanunu Madde 7 tam metni, gerekçesi ve Av. Ramazan Şimşe
 ## Kanun Metni
 
 ```text
-Madde 7
+Madde 7 – Baro yönetim kurulu, levhaya yazılma istemi hakkında başvurma dilekçesinin varış tarihinden itibaren bir ay içinde gerekçeli olarak karar vermekle ödevlidir.
 
-	
+Süresi içinde karar verilmediği takdirde, adayın avukatlığa kabul istemi reddedilmiş sayılır. Bu halde aday bir aylık sürenin bitiminden itibaren onbeş gün içinde Türkiye Barolar Birliğine itiraz edebilir. İtiraz üzerine 8 inci madde hükmü kıyas yolu ile uygulanır.
 
-7/2/1979
+ 
 
-
-
-
-2329
-
-	
-
-Ek Geçici
+Redde veya kovuşturma sonuna kadar beklenmesine dair karara itiraz:
 ```
 
 

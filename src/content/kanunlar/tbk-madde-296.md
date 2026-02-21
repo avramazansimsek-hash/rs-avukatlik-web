@@ -2,7 +2,7 @@
 slug: "tbk-madde-296"
 title: "TBK Madde 296: MADDE 296- Bağışlama sözü veren, aşağıdaki durumlarda sözünü geri alabilir ve on..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 296 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

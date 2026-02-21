@@ -2,7 +2,7 @@
 slug: "tck-madde-11"
 title: "TCK Madde 11: Madde 11- (1) Bir Türk vatandaşı, 13 üncü maddede yazılı suçlar dışında, Türk ka..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 11 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

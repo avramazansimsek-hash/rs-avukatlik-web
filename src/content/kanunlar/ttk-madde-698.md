@@ -2,7 +2,7 @@
 slug: "ttk-madde-698"
 title: "TTK Madde 698: MADDE 698- (1) Muhatap, poliçeyi kabul etmekle bedelini vadede ödemeyi taahhüt e..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 698 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

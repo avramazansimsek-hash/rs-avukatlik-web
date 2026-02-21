@@ -2,7 +2,7 @@
 slug: "tmk-madde-533"
 title: "TMK Madde 533: Madde 533 - Mirasbırakan, arzularını resmî memura bildirir. Bunun üzerine memur,..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 533 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-374"
 title: "TTK Madde 374: MADDE 374- (1) Yönetim kurulu ve kendisine bırakılan alanda yönetim, kanun ve es..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 374 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

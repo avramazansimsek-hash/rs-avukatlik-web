@@ -2,7 +2,7 @@
 slug: "tbk-madde-361"
 title: "TBK Madde 361: MADDE 361- Kiraya veren, kira süresi içinde yapılması zorunlu olan esaslı onarım..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 361 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

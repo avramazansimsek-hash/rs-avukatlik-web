@@ -2,7 +2,7 @@
 slug: "tbk-madde-201"
 title: "TBK Madde 201: MADDE 201- Borca katılma, mevcut bir borca borçlunun yanında yer almak üzere, ka..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 201 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

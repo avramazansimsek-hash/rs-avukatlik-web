@@ -2,7 +2,7 @@
 slug: "ttk-madde-531"
 title: "TTK Madde 531: MADDE 531- (1) Haklı sebeplerin varlığında, sermayenin en az onda birini ve halk..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 531 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-136"
 title: "AVUKATLIK Madde 136: Madde 136 – (Değişik:24/12/2025-7571/7 md.)..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 136 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

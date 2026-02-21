@@ -2,7 +2,7 @@
 slug: "ttk-madde-1197"
 title: "TTK Madde 1197: MADDE 1197- (1) Navlun, eşyanın tesliminin istendiği anda ve her hâlde boşaltma..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1197 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

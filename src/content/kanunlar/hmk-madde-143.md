@@ -2,7 +2,7 @@
 slug: "hmk-madde-143"
 title: "HMK Madde 143: MADDE 143- (1) Tarafların davada ileri sürdükleri bütün iddia ve savunmalar birl..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 143 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

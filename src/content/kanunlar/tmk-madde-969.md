@@ -2,7 +2,7 @@
 slug: "tmk-madde-969"
 title: "TMK Madde 969: Madde 969- Geri alım hakkı tanıyarak satın almayı meslek edinenler hakkında da,..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 969 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

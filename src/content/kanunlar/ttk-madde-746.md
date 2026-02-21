@@ -2,7 +2,7 @@
 slug: "ttk-madde-746"
 title: "TTK Madde 746: MADDE 746- (1) Her poliçe hamilinin, poliçe suretlerini çıkarmaya hakkı vardır...."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 746 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

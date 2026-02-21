@@ -2,7 +2,7 @@
 slug: "ttk-madde-361"
 title: "TTK Madde 361: MADDE 361- (1) Yönetim kurulu üyelerinin, görevlerini yaparken kusurlarıyla şirk..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 361 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

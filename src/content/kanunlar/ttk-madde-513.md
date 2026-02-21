@@ -2,7 +2,7 @@
 slug: "ttk-madde-513"
 title: "TTK Madde 513: MADDE 513- (1) Şirketin iflası hâlinde, yönetim kurulu üyeleri şirket alacaklıla..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 513 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

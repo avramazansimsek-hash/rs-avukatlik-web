@@ -2,7 +2,7 @@
 slug: "tck-madde-258"
 title: "TCK Madde 258: Madde 258- (1) Görevi nedeniyle kendisine verilen veya aynı nedenle bilgi edindi..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 258 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

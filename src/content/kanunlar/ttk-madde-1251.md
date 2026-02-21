@@ -2,7 +2,7 @@
 slug: "ttk-madde-1251"
 title: "TTK Madde 1251: MADDE 1251- (1) Yolcu, kaptanın, gemide düzenin sağlanmasına yönelik tüm talimat..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1251 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

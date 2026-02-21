@@ -2,7 +2,7 @@
 slug: "hmk-madde-312"
 title: "HMK Madde 312: MADDE 312- (1) Feragat veya kabul beyanında bulunan taraf, davada aleyhine hüküm..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 312 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

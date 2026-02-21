@@ -2,7 +2,7 @@
 slug: "tck-madde-101"
 title: "TCK Madde 101: Madde 101- (1) Bir erkek veya kadını rızası olmaksızın kısırlaştıran kimse, üç y..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 101 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

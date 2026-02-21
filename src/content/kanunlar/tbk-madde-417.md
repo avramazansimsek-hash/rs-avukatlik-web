@@ -2,7 +2,7 @@
 slug: "tbk-madde-417"
 title: "TBK Madde 417: MADDE 417- İşveren, hizmet ilişkisinde işçinin kişiliğini korumak ve saygı göste..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 417 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

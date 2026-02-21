@@ -2,7 +2,7 @@
 slug: "tmk-madde-263"
 title: "TMK Madde 263: Madde 263- Olağan yönetim dışında kalan konularda eşler, ancak birlikte veya bir..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 263 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

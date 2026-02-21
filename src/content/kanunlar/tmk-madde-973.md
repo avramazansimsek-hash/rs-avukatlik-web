@@ -2,7 +2,7 @@
 slug: "tmk-madde-973"
 title: "TMK Madde 973: Madde 973- Bir şey üzerinde fiilî hâkimiyeti bulunan kimse onun zilyedidir...."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 973 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

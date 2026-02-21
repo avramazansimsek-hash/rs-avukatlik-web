@@ -2,7 +2,7 @@
 slug: "tkhk-madde-31"
 title: "TKHK Madde 31: MADDE 31- (1) Belirli süreli kredi sözleşmesine ilişkin bir hesap açılması ve bu..."
 category: "Tüketicinin Korunması Hakkında Kanun"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Tüketicinin Korunması Hakkında Kanun Madde 31 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

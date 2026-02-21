@@ -2,7 +2,7 @@
 slug: "tmk-madde-545"
 title: "TMK Madde 545: Madde 545- Miras sözleşmesinin geçerli olması için resmî vasiyetname şeklinde dü..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 545 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

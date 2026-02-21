@@ -2,7 +2,7 @@
 slug: "tck-madde-197"
 title: "TCK Madde 197: Madde 197- (1) Memlekette veya yabancı ülkelerde kanunen tedavülde bulunan paray..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 197 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

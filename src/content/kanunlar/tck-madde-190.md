@@ -2,7 +2,7 @@
 slug: "tck-madde-190"
 title: "TCK Madde 190: Madde 190- (1) Uyuşturucu veya uyarıcı madde kullanılmasını kolaylaştırmak için;..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 190 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

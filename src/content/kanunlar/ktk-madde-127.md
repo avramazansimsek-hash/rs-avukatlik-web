@@ -2,7 +2,7 @@
 slug: "ktk-madde-127"
 title: "KTK Madde 127: Madde 127 – (Mülga: 18/1/1985 – KHK 245/16 md.)..."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 127 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

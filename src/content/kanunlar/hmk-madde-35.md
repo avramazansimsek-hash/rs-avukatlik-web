@@ -2,7 +2,7 @@
 slug: "hmk-madde-35"
 title: "HMK Madde 35: MADDE 35- (1) Çekinme kararına karşı üst mahkemeye başvurulabilir. Yasaklama seb..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 35 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

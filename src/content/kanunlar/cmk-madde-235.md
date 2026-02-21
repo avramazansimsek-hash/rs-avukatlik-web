@@ -2,7 +2,7 @@
 slug: "cmk-madde-235"
 title: "CMK Madde 235: Madde 235 – (1) Mağdur, şikâyetçi veya vekilinin, dilekçelerinde veya tutanağa g..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 235 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

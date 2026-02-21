@@ -2,7 +2,7 @@
 slug: "tmk-madde-928"
 title: "TMK Madde 928: Madde 928 - Borcun tamamını ödeyen borçlu, alacaklıdan senedin iptal edilmemiş o..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 928 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

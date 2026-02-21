@@ -2,7 +2,7 @@
 slug: "tck-madde-267"
 title: "TCK Madde 267: Madde 267- (1) Yetkili makamlara ihbar veya şikayette bulunarak ya da basın ve y..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 267 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

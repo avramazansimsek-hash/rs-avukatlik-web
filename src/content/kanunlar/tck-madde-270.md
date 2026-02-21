@@ -2,7 +2,7 @@
 slug: "tck-madde-270"
 title: "TCK Madde 270: Madde 270- (1) Yetkili makamlara, gerçeğe aykırı olarak, suçu işlediğini veya su..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 270 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

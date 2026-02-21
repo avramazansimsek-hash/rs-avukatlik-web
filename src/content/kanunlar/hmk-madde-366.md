@@ -2,7 +2,7 @@
 slug: "hmk-madde-366"
 title: "HMK Madde 366: MADDE 366- (1) Bu Kanunun istinaf yolu ile ilgili 343 ilâ 349 ve 352 nci maddele..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 366 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-227"
 title: "TMK Madde 227: Madde 227 - Eşlerden biri diğerine ait bir malın edinilmesine, iyileştirilmesine..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 227 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

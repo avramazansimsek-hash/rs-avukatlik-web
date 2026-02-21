@@ -2,7 +2,7 @@
 slug: "ttk-madde-739"
 title: "TTK Madde 739: MADDE 739- (1) Poliçe, yerleşim yerleri ödeme yerinde bulunan kişiler tarafından..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 739 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

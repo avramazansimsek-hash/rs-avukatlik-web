@@ -2,7 +2,7 @@
 slug: "ttk-madde-385"
 title: "TTK Madde 385: MADDE 385- (1) 379 ilâ 381 inci maddelere aykırı bir şekilde iktisap edilen veya..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 385 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

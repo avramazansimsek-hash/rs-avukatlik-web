@@ -1,8 +1,8 @@
 ---
 slug: "iyuk-madde-4"
-title: "IYUK Madde 4: Madde 4..."
+title: "IYUK Madde 4: Madde 4 – Dilekçeler ve savunmalar ile davalara ilişkin her türlü evrak, Danışta..."
 category: "İdari Yargılama Usulü Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İdari Yargılama Usulü Kanunu Madde 4 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 
@@ -11,20 +11,11 @@ excerpt: "İdari Yargılama Usulü Kanunu Madde 4 tam metni, gerekçesi ve Av. R
 ## Kanun Metni
 
 ```text
-Madde 4
+Madde 4 – Dilekçeler ve savunmalar ile davalara ilişkin her türlü evrak, Danıştay veya ait olduğu mahkeme başkanlıklarına veya bunlara gönderilmek üzere idare veya vergi mahkemesi başkanlıklarına, idare veya vergi mahkemesi bulunmayan yerlerde büyükşehir belediyesi sınırları içerisinde kalıp kalmadığına bakılmaksızın asliye hukuk hakimliklerine veya yabancı memleketlerde Türk konsolosluklarına verilebilir.[5]
 
-	
+ 
 
-15/6/2000
-
-
-
-
-4928
-
-	
-
-53, Geçici
+Aynı dilekçe ile dava açılabilecek haller:
 ```
 
 

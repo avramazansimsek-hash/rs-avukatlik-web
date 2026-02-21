@@ -2,7 +2,7 @@
 slug: "ttk-madde-499"
 title: "TTK Madde 499: MADDE 499- (1) Şirket, senede bağlanmamış pay ve nama yazılı pay senedi sahipler..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 499 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

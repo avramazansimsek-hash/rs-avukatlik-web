@@ -2,7 +2,7 @@
 slug: "tmk-madde-355"
 title: "TMK Madde 355: Madde 355- Ana ve baba, çocuk mallarının gelirlerini öncelikle çocuğun bakımı, y..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 355 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

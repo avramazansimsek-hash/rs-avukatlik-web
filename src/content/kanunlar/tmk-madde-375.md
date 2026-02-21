@@ -2,7 +2,7 @@
 slug: "tmk-madde-375"
 title: "TMK Madde 375: Madde 375- Aile malları ortaklığı, belirli veya belirsiz süre için kurulabilir...."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 375 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

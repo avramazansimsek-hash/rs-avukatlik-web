@@ -2,7 +2,7 @@
 slug: "tbk-madde-404"
 title: "TBK Madde 404: MADDE 404- İşçiye belli işlerde aracılık yapması karşılığında işverence bir ücre..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 404 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-1013"
 title: "TTK Madde 1013: MADDE 1013- (1) Tersane sahibi, geminin yapımı ve onarımından doğan alacakları i..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1013 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

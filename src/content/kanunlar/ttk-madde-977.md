@@ -2,7 +2,7 @@
 slug: "ttk-madde-977"
 title: "TTK Madde 977: MADDE 977- (1) Bir gemi veya gemi ipoteği üzerinde bir hakkın kurulmasını veya k..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 977 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

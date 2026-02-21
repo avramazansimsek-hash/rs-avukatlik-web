@@ -2,7 +2,7 @@
 slug: "ttk-madde-491"
 title: "TTK Madde 491: MADDE 491- (1) Bedeli tamamen ödenmemiş nama yazılı paylar, ancak şirketin onayı..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 491 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

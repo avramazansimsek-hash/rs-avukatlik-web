@@ -2,7 +2,7 @@
 slug: "ttk-madde-753"
 title: "TTK Madde 753: MADDE 753- (1) Kanunun bu Kısmında veya poliçede gösterilen süreler hesap edilir..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 753 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

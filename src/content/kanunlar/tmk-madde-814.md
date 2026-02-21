@@ -2,7 +2,7 @@
 slug: "tmk-madde-814"
 title: "TMK Madde 814: Madde 814- Malvarlığı intifaında, intifa hakkı sahibi bu malvarlığındaki borçlar..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 814 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

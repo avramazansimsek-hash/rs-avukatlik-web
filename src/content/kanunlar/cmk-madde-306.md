@@ -2,7 +2,7 @@
 slug: "cmk-madde-306"
 title: "CMK Madde 306: Madde 306 – (1) Hüküm, sanık lehine bozulmuşsa ve bu hususların temyiz isteminde..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 306 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

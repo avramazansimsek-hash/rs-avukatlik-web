@@ -2,7 +2,7 @@
 slug: "tck-madde-121"
 title: "TCK Madde 121: Madde 121- (1) Kişinin belli bir hakkı kullanmak için yetkili kamu makamlarına v..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 121 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

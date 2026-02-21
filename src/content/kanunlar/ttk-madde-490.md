@@ -2,7 +2,7 @@
 slug: "ttk-madde-490"
 title: "TTK Madde 490: MADDE 490- (1) Kanunda veya esas sözleşmede aksi öngörülmedikçe, nama yazılı pay..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 490 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "is_kanunu-madde-43"
 title: "IS_KANUNU Madde 43: Madde 43 - Seferberlik sırasında ve bu süreyi aşmamak şartıyla yurt savunmasının..."
 category: "İş Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İş Kanunu Madde 43 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

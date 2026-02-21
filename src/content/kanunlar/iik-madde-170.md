@@ -2,7 +2,7 @@
 slug: "iik-madde-170"
 title: "IIK Madde 170: Madde 170 – (Değişik: 9/11/1988-3494/33 md.)..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 170 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

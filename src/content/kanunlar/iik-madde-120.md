@@ -2,7 +2,7 @@
 slug: "iik-madde-120"
 title: "IIK Madde 120: Madde 120 – Hacze iştirak eden bütün alacaklılar muvafakat ederlerse borçlunun b..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 120 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

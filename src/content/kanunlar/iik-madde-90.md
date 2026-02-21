@@ -2,7 +2,7 @@
 slug: "iik-madde-90"
 title: "IIK Madde 90: Madde 90 – İcra dairesi haczedilen hakların muhafazasına ve alacaklardan günü ge..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 90 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

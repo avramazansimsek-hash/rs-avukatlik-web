@@ -2,7 +2,7 @@
 slug: "cmk-madde-265"
 title: "CMK Madde 265: Madde 265 – (1) Cumhuriyet savcısı tarafından aleyhine kanun yoluna gidilen kara..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 265 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

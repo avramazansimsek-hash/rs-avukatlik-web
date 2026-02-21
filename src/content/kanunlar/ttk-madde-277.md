@@ -2,7 +2,7 @@
 slug: "ttk-madde-277"
 title: "TTK Madde 277: MADDE 277- (1) 276 ncı madde, mahkeme tarafından atanan tasfiye memurlarının gör..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 277 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

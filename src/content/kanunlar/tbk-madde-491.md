@@ -2,7 +2,7 @@
 slug: "tbk-madde-491"
 title: "TBK Madde 491: MADDE 491- Sözleşmede basım sayısı belirtilmemişse, yayımcının ancak bir basım y..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 491 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

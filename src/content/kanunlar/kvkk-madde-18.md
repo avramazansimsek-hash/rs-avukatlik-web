@@ -2,7 +2,7 @@
 slug: "kvkk-madde-18"
 title: "KVKK Madde 18: MADDE 18- (1) Bu Kanunun;..."
 category: "Kişisel Verilerin Korunması Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Kişisel Verilerin Korunması Kanunu Madde 18 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

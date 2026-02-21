@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-133"
 title: "AVUKATLIK Madde 133: Madde 133 – (Değişik birinci fıkra: 22/1/1986 - 3256/22 md.) Birlik Genel Kurulu..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 133 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

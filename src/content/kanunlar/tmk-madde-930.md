@@ -2,7 +2,7 @@
 slug: "tmk-madde-930"
 title: "TMK Madde 930: Madde 930- Nama veya hamile yazılı tahviller, aşağıdaki hâllerde taşınmaz rehniy..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 930 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

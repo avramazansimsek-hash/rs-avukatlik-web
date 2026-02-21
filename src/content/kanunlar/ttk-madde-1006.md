@@ -2,7 +2,7 @@
 slug: "ttk-madde-1006"
 title: "TTK Madde 1006: MADDE 1006- (1) Sicile kayıtlı gemi payı veya iştirak payı üzerindeki mülkiyetin..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1006 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

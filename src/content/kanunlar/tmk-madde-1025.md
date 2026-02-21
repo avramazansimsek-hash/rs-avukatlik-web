@@ -2,7 +2,7 @@
 slug: "tmk-madde-1025"
 title: "TMK Madde 1025: Madde 1025- Bir aynî hak yolsuz olarak tescil edilmiş veya bir tescil yolsuz ola..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 1025 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

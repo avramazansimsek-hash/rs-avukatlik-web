@@ -2,7 +2,7 @@
 slug: "ttk-madde-223"
 title: "TTK Madde 223: MADDE 223- (1) Şirketin yönetimi kapsamındaki hususlar, şirketin amacını ve konu..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 223 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

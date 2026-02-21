@@ -2,7 +2,7 @@
 slug: "is_kanunu-madde-98"
 title: "IS_KANUNU Madde 98: Madde 98 - (Değişik birinci fıkra: 15/5/2008-5763/8 md.) Bu Kanunun 3 üncü madde..."
 category: "İş Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İş Kanunu Madde 98 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

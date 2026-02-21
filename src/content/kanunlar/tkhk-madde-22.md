@@ -2,7 +2,7 @@
 slug: "tkhk-madde-22"
 title: "TKHK Madde 22: MADDE 22- (1) Tüketici kredisi sözleşmesi, kredi verenin tüketiciye faiz veya be..."
 category: "Tüketicinin Korunması Hakkında Kanun"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Tüketicinin Korunması Hakkında Kanun Madde 22 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

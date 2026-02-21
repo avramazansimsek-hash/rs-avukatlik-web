@@ -2,7 +2,7 @@
 slug: "ttk-madde-937"
 title: "TTK Madde 937: MADDE 937- (1) Bu Kanunda, İcra ve İflas Kanununun taşınmazlara ilişkin hükümler..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 937 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

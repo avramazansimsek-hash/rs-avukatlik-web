@@ -2,7 +2,7 @@
 slug: "tbk-madde-426"
 title: "TBK Madde 426: MADDE 426- İşveren, işçinin isteği üzerine her zaman, işin türünü ve süresini iç..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 426 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

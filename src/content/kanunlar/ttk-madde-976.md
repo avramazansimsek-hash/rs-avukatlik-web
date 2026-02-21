@@ -2,7 +2,7 @@
 slug: "ttk-madde-976"
 title: "TTK Madde 976: MADDE 976- (1) 975 inci maddede yazılı hâllerde gemi siciline, sicil kaydının do..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 976 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

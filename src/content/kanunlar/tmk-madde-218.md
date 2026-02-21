@@ -2,7 +2,7 @@
 slug: "tmk-madde-218"
 title: "TMK Madde 218: Madde 218- Edinilmiş mallara katılma rejimi, edinilmiş mallar ile eşlerden her b..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 218 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-589"
 title: "TMK Madde 589: Madde 589- Mirasbırakanın yerleşim yeri sulh hâkimi, istem üzerine veya re'sen t..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 589 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

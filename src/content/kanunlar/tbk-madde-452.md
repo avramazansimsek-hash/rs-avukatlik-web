@@ -2,7 +2,7 @@
 slug: "tbk-madde-452"
 title: "TBK Madde 452: MADDE 452- Aksine yazılı anlaşma olmadıkça pazarlamacı, sadece işlemlere aracılı..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 452 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-28"
 title: "AVUKATLIK Madde 28: Madde 28 – (Yeniden düzenleme : 2/5/2001 - 4667/17 md.; Mülga: 28/11/2006-5558/1..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 28 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

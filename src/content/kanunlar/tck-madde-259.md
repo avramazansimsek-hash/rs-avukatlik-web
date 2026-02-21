@@ -2,7 +2,7 @@
 slug: "tck-madde-259"
 title: "TCK Madde 259: Madde 259- (1) Yürüttüğü görevin sağladığı nüfuzdan yararlanarak, bir başkasına..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 259 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

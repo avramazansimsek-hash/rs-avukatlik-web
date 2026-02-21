@@ -2,7 +2,7 @@
 slug: "tmk-madde-817"
 title: "TMK Madde 817: Madde 817- İntifa hakkı sahibi, intifa konusu taşınmazın ekonomik özgülenme yönü..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 817 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

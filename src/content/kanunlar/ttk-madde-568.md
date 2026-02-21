@@ -2,7 +2,7 @@
 slug: "ttk-madde-568"
 title: "TTK Madde 568: MADDE 568- (1) Esas sözleşmeyi imzalayanlarla şirkete paradan başka sermaye koya..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 568 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

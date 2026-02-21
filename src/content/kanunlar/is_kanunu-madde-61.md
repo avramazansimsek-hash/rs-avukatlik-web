@@ -2,7 +2,7 @@
 slug: "is_kanunu-madde-61"
 title: "IS_KANUNU Madde 61: Madde 61 - Sigortalılara yıllık ücretli izin süresi için ödenecek ücretler üzeri..."
 category: "İş Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İş Kanunu Madde 61 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

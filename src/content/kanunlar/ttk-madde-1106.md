@@ -2,7 +2,7 @@
 slug: "ttk-madde-1106"
 title: "TTK Madde 1106: MADDE 1106- (1) Kaptanın kanundan doğan temsil yetkisini sınırlandırmış olan don..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1106 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tbk-madde-586"
 title: "TBK Madde 586: MADDE 586- Kefil, müteselsil kefil sıfatıyla veya bu anlama gelen herhangi bir i..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 586 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "cmk-madde-45"
 title: "CMK Madde 45: Madde 45 – (1) Aşağıdaki kimseler tanıklıktan çekinebilir:..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 45 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

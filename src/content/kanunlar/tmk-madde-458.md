@@ -2,7 +2,7 @@
 slug: "tmk-madde-458"
 title: "TMK Madde 458: Madde 458- Bir kimseye kayyım atanması onun fiil ehliyetini etkilemez. Yasal dan..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 458 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

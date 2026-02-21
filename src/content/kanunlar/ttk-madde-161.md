@@ -2,7 +2,7 @@
 slug: "ttk-madde-161"
 title: "TTK Madde 161: MADDE 161- (1) Tam ve kısmi bölünmede şirket payları ve hakları 140 ıncı madde u..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 161 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

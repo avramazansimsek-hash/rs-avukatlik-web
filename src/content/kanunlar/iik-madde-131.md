@@ -2,7 +2,7 @@
 slug: "iik-madde-131"
 title: "IIK Madde 131: Madde 131 – Satış bedelinin ödenmesi için mühlet verilmiş ise para verilinceye k..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 131 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

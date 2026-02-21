@@ -1,8 +1,8 @@
 ---
 slug: "avukatlik-madde-10"
-title: "AVUKATLIK Madde 10: Madde 10 – Ankara Baro Başkanı, bu Kanunun yürürlüğe girdiği tarihten itibaren i..."
+title: "AVUKATLIK Madde 10: Madde 10 – Avukatlık meslekine kabul edilmek için baroya başvuran bir adayın bu..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 10 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 
@@ -11,11 +11,15 @@ excerpt: "Avukatlık Kanunu Madde 10 tam metni, gerekçesi ve Av. Ramazan Şimş
 ## Kanun Metni
 
 ```text
-Madde 10 – Ankara Baro Başkanı, bu Kanunun yürürlüğe girdiği tarihten itibaren iki ay içinde Ankara'da toplanıp Türkiye Barolar Birliği Başkanı ile Birlik Yönetim Kurulu, Birlik Disiplin Kurulu ve Birlik Denetleme Kurulu üyelerini ve yedeklerini seçecek olan ilk genel kurul için delegelerini seçip göndermelerini ve toplantı yer, gün ve saatini, toplantı gününden en az bir ay önce barolara bildirir. Belirtilen günde toplantıyı açarak yerini en yaşlı delegeye bırakır.
+Madde 10 – Avukatlık meslekine kabul edilmek için baroya başvuran bir adayın bu isteminin reddine veya kovuşturma sonuna kadar beklenmesine dair kararlar kesinleşince, ilgili baro, adayın adını diğer barolara ve Türkiye Barolar Birliğine bildirir. Bu halde, ret ve bekleme sebepleri ortadan kalkmadıkça, hiçbir baro o kimseyi levhasına yazamaz.
 
  
 
-Geçici
+ÜÇÜNCÜ KISIM
+
+Yasak Haller
+
+Avukatlıkla birleşemiyen işler:
 ```
 
 

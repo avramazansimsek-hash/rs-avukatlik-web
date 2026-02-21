@@ -2,7 +2,7 @@
 slug: "ttk-madde-70"
 title: "TTK Madde 70: MADDE 70- (1) Yılsonu finansal tabloları Türkçe ve Türk Lirası ile düzenlenir. B..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 70 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-966"
 title: "TTK Madde 966: MADDE 966- (1) Esaslı şartlarından birinin var olmaması sebebiyle tescili caiz o..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 966 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-549"
 title: "TMK Madde 549: Madde 549- Miras sözleşmesi veya vasiyetnameyle yapılan ölüme bağlı kazandırmala..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 549 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

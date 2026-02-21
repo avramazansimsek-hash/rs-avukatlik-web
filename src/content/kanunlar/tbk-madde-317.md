@@ -2,7 +2,7 @@
 slug: "tbk-madde-317"
 title: "TBK Madde 317: MADDE 317- Kiracı, kiralananın olağan kullanımı için gerekli temizlik ve bakım g..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 317 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

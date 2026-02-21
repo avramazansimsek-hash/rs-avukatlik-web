@@ -2,7 +2,7 @@
 slug: "tbk-madde-260"
 title: "TBK Madde 260: MADDE 260- Satıcı, alıcının taksitleri ödemede temerrüde düşmesi sebebiyle satıl..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 260 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

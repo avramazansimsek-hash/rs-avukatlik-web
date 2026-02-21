@@ -2,7 +2,7 @@
 slug: "hmk-madde-440"
 title: "HMK Madde 440: MADDE 440- (1) Taraflarca aksi kararlaştırılmamışsa, hakemlerin ücreti, dava kon..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 440 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

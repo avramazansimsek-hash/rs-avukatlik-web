@@ -2,7 +2,7 @@
 slug: "tbk-madde-7"
 title: "TBK Madde 7: MADDE 7- Ismarlanmamış bir şeyin gönderilmesi öneri sayılmaz. Bu şeyi alan kişi,..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 7 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

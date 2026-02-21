@@ -2,7 +2,7 @@
 slug: "cmk-madde-189"
 title: "CMK Madde 189: Madde 189 – (1) Birden çok Cumhuriyet savcısı ve birden çok avukat aynı zamanda..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 189 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

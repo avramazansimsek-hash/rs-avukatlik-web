@@ -2,7 +2,7 @@
 slug: "tmk-madde-58"
 title: "TMK Madde 58: Madde 58- Her derneğin bir tüzüğü bulunur...."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 58 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

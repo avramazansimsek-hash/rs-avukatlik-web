@@ -2,7 +2,7 @@
 slug: "ttk-madde-956"
 title: "TTK Madde 956: MADDE 956- (1) Gemi siciline, 940 ıncı madde gereğince Türk Bayrağını çekme hakk..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 956 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

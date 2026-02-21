@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-200"
 title: "AVUKATLIK Madde 200: Madde 200 – Bu Kanun yayımı tarihinden üç ay sonra yürürlüğe girer...."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 200 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

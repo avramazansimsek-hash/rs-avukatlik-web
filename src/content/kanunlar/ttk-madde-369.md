@@ -2,7 +2,7 @@
 slug: "ttk-madde-369"
 title: "TTK Madde 369: MADDE 369- (1) Yönetim kurulu üyeleri ve yönetimle görevli üçüncü kişiler, görev..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 369 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

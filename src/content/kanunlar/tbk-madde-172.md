@@ -2,7 +2,7 @@
 slug: "tbk-madde-172"
 title: "TBK Madde 172: MADDE 172- Borcun konusunu oluşturan şey, koşulun gerçekleşmesinden önce kendisi..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 172 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

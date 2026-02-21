@@ -2,7 +2,7 @@
 slug: "tck-madde-19"
 title: "TCK Madde 19: Madde 19- (1) Türkiye'nin egemenlik alanı dışında işlenen suçlar dolayısıyla Tür..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 19 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

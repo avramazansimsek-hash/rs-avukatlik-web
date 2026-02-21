@@ -2,7 +2,7 @@
 slug: "tmk-madde-524"
 title: "TMK Madde 524: Madde 524- Önmirasçı, mirası atanmış mirasçılar gibi kazanır...."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 524 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

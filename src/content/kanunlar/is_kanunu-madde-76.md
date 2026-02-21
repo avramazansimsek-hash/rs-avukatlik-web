@@ -2,7 +2,7 @@
 slug: "is_kanunu-madde-76"
 title: "IS_KANUNU Madde 76: Madde 76 - Nitelikleri gereği günlük ve haftalık çalışma sürelerinin 63 üncü mad..."
 category: "İş Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İş Kanunu Madde 76 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

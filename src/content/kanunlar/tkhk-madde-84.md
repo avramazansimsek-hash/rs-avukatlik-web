@@ -2,7 +2,7 @@
 slug: "tkhk-madde-84"
 title: "TKHK Madde 84: MADDE 84- (1) Bakanlık, bu Kanunun uygulanmasıyla ilgili olarak mevzuat çerçeves..."
 category: "Tüketicinin Korunması Hakkında Kanun"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Tüketicinin Korunması Hakkında Kanun Madde 84 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

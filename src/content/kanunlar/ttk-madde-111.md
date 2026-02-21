@@ -2,7 +2,7 @@
 slug: "ttk-madde-111"
 title: "TTK Madde 111: MADDE 111- (1) Acente, müvekkili hesabına teslim aldığı eşyanın taşınma sırasınd..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 111 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

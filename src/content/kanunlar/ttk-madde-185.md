@@ -2,7 +2,7 @@
 slug: "ttk-madde-185"
 title: "TTK Madde 185: MADDE 185- (1) Yönetim organı bir tür değiştirme planı düzenler. Plan yazılı şek..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 185 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

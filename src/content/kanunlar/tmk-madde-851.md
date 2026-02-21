@@ -2,7 +2,7 @@
 slug: "tmk-madde-851"
 title: "TMK Madde 851: Madde 851- Taşınmaz rehni, miktarı Türk parası ile gösterilen belli bir alacak i..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 851 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

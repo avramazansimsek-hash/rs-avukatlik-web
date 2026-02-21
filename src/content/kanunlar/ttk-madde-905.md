@@ -2,7 +2,7 @@
 slug: "ttk-madde-905"
 title: "TTK Madde 905: MADDE 905- (1) Değişik tür araçlarla taşıma sözleşmesinin konusunu taşınma eşyas..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 905 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

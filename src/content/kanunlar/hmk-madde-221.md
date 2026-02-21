@@ -2,7 +2,7 @@
 slug: "hmk-madde-221"
 title: "HMK Madde 221: MADDE 221- (1) Mahkeme, üçüncü kişi veya kurumun elinde bulunan bir belgenin tar..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 221 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

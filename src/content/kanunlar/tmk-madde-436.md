@@ -2,7 +2,7 @@
 slug: "tmk-madde-436"
 title: "TMK Madde 436: Madde 436- Koruma amacıyla özgürlüğün kısıtlanması, aşağıdaki kurallar saklı kal..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 436 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

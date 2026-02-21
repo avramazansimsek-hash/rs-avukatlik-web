@@ -2,7 +2,7 @@
 slug: "tbk-madde-94"
 title: "TBK Madde 94: MADDE 94- Borç, alışılmış iş saatlerinde ifa ve kabul edilir...."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 94 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

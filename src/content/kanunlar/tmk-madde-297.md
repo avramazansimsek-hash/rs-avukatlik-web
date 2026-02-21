@@ -2,7 +2,7 @@
 slug: "tmk-madde-297"
 title: "TMK Madde 297: Madde 297- Tanıyan, yanılma, aldatma veya korkutma sebebiyle tanımanın iptalini..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 297 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

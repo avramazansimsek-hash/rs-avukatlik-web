@@ -2,7 +2,7 @@
 slug: "ttk-madde-1105"
 title: "TTK Madde 1105: MADDE 1105- (1) Kaptan, ancak gemiyi korumak veya yolculuğu yapmak için zorunlul..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1105 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

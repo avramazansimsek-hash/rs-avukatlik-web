@@ -2,7 +2,7 @@
 slug: "tmk-madde-929"
 title: "TMK Madde 929: Madde 929- Borçlu borcun kısmen ödenmesi veya borç yükünün hafifletilmesi ya da..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 929 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

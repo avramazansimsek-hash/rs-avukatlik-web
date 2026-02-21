@@ -2,7 +2,7 @@
 slug: "ttk-madde-1511"
 title: "TTK Madde 1511: MADDE 1511- (1) Hastalık ve sağlık sigortaları, sigortalı lehine yapılabilir; ha..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1511 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

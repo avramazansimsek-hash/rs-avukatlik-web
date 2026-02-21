@@ -2,7 +2,7 @@
 slug: "tbk-madde-594"
 title: "TBK Madde 594: MADDE 594- Asıl borçlu, anaparanın veya yarım yıllık döneme ait faizin ödenmesin..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 594 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-314"
 title: "TTK Madde 314: MADDE 314- (1) Komanditerler, kanuna ve şirket sözleşmesine göre düzenlenen ve k..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 314 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "hmk-madde-188"
 title: "HMK Madde 188: MADDE 188- (1) Tarafların veya vekillerinin mahkeme önünde ikrar ettikleri vakıa..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 188 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

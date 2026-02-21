@@ -2,7 +2,7 @@
 slug: "tmk-madde-860"
 title: "TMK Madde 860: Madde 860- Birleştirilen taşınmazlardan biri ile güvence altına alınmış olan ala..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 860 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

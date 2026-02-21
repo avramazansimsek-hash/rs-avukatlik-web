@@ -2,7 +2,7 @@
 slug: "iik-madde-357"
 title: "IIK Madde 357: Madde 357 – İcra dairesince kanuna göre yapılan tebliğ ve emirleri derhal yapmağ..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 357 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

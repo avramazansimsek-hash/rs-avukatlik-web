@@ -2,7 +2,7 @@
 slug: "ttk-madde-1484"
 title: "TTK Madde 1484: MADDE 1484- (1) Sigortacı, sigortalıya karşı ifa borcundan tamamen veya kısmen k..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1484 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

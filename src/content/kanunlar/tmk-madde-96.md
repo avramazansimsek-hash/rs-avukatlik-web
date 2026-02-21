@@ -2,7 +2,7 @@
 slug: "tmk-madde-96"
 title: "TMK Madde 96: Madde 96- Federasyonlar, kuruluş amaçları aynı olan en az beş derneğin, amaçları..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 96 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

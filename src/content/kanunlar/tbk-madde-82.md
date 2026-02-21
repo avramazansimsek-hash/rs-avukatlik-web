@@ -2,7 +2,7 @@
 slug: "tbk-madde-82"
 title: "TBK Madde 82: MADDE 82- Sebepsiz zenginleşmeden doğan istem hakkı, hak sahibinin geri isteme h..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 82 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

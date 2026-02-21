@@ -2,7 +2,7 @@
 slug: "cmk-madde-261"
 title: "CMK Madde 261: Madde 261 – (1) Avukat, müdafiliğini veya vekilliğini üstlendiği kişilerin açık..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 261 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

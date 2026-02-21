@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-186"
 title: "AVUKATLIK Madde 186: Madde 186 – (Mülga: 31/5/2006-5510/106 md.)..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 186 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

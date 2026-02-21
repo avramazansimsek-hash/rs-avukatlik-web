@@ -2,7 +2,7 @@
 slug: "ttk-madde-398"
 title: "TTK Madde 398: MADDE 398- (1) Şirketin ve topluluğun finansal tabloları ile yönetim kurulunun y..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 398 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

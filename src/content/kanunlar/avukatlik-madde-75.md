@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-75"
 title: "AVUKATLIK Madde 75: Madde 75 – (Değişik birinci fıkra: 22/1/1986 - 3256/10 md.) Baro yönetim kurulu..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 75 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

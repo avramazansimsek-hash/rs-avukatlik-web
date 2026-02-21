@@ -2,7 +2,7 @@
 slug: "ttk-madde-1253"
 title: "TTK Madde 1253: MADDE 1253- (1) Yolcu, yolculuk başlamadan önce hareket limanında veya yolculuk..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1253 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

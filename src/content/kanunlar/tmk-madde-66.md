@@ -2,7 +2,7 @@
 slug: "tmk-madde-66"
 title: "TMK Madde 66: Madde 66- Hiç kimse, dernekte üye kalmaya zorlanamaz. Her üye (...)[7] yazılı ol..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 66 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

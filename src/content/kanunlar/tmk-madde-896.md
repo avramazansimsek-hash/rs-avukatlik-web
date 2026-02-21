@@ -2,7 +2,7 @@
 slug: "tmk-madde-896"
 title: "TMK Madde 896: Madde 896- Hakları değişik tarihlerde tescil edilmiş olsa bile zanaatkârlar ve y..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 896 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

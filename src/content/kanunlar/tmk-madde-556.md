@@ -2,7 +2,7 @@
 slug: "tmk-madde-556"
 title: "TMK Madde 556: Madde 556- Vasiyeti yerine getirme görevlisi, görevini yerine getirirken özen gö..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 556 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

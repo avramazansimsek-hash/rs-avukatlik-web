@@ -2,7 +2,7 @@
 slug: "tmk-madde-248"
 title: "TMK Madde 248: Madde 248- Her eş, diğer eşte bulunan mallarını geri alır...."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 248 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-1259"
 title: "TTK Madde 1259: MADDE 1259- (1) Onikiden fazla yolcu taşımak için ruhsat almış bir gemi ile yolc..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1259 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

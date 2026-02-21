@@ -2,7 +2,7 @@
 slug: "tmk-madde-677"
 title: "TMK Madde 677: Madde 677- Terekenin tamamı veya bir kısmı üzerinde miras payının devri konusund..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 677 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

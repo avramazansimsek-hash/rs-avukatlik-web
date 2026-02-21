@@ -2,7 +2,7 @@
 slug: "tmk-madde-332"
 title: "TMK Madde 332: Madde 332- Nafaka davası açılınca hâkim, davacının istemi üzerine dava süresince..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 332 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

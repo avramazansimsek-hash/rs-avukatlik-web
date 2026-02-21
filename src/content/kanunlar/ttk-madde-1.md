@@ -1,8 +1,8 @@
 ---
 slug: "ttk-madde-1"
-title: "TTK Madde 1: MADDE 1- (Değişik: 26/6/2012-6335/36 md.)..."
+title: "TTK Madde 1: MADDE 1- (1) Türk Ticaret Kanunu, 22/11/2001 tarihli ve 4721 sayılı Türk Medenî..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 
@@ -11,35 +11,13 @@ excerpt: "Türk Ticaret Kanunu Madde 1 tam metni, gerekçesi ve Av. Ramazan Şim
 ## Kanun Metni
 
 ```text
-MADDE 1- (Değişik: 26/6/2012-6335/36 md.)
+MADDE 1- (1) Türk Ticaret Kanunu, 22/11/2001 tarihli ve 4721 sayılı Türk Medenî Kanununun ayrılmaz bir parçasıdır. Bu Kanundaki hükümlerle, bir ticari işletmeyi ilgilendiren işlem ve fiillere ilişkin diğer kanunlarda yazılı özel hükümler, ticari hükümlerdir.
 
-(1) Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumu tarafından belirlenen Türkiye Muhasebe Standartları;
-
-a) Türkiye Muhasebe Standartları, Türkiye Finansal Raporlama Standartları (TMS/TFRS) ve yorumlarından,
-
-b) Kurum tarafından değişik işletme büyüklükleri, sektörler ve kâr amacı gütmeyen kuruluşlar için belirlenen standartlar ve diğer düzenlemelerden,
-
-oluşur.
-
-(2) Aşağıda sayılanlar TMS/TFRS ve yorumlarını uygulamakla yükümlüdür:
-
-a) 1534 üncü maddenin ikinci fıkrasının (b) ilâ (e) bentlerindeki sermaye şirketleri.
-
-b) TMS/TFRS ve yorumlarını uygulamayı tercih edenler.
-
-(3) Aşağıda sayılanlar birinci fıkranın (b) bendine göre belirlenen standart ve düzenlemeleri uygulamakla yükümlüdür:
-
-a) İkinci fıkranın (a) bendinde belirtilenlerin dışında kalan ve işletme yönetiminde yer almayan işletme sahipleri, işletmeye borç verenler ve kredi derecelendirme kuruluşları gibi dış kullanıcılar için genel amaçlı finansal tablo düzenleyen işletmeler.
-
-b) TMS/TFRS’yi uygulamayı tercih eden KOBİ tanımındaki işletmelerden tekrar KOBİ/TFRS uygulamasına dönmek isteyen işletmeler.
-
-(4) Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumu, değişik işletme büyüklükleri, sektörler ve kâr amacı gütmeyen kuruluşlar itibarıyla Türkiye Muhasebe Standartlarından muaf olacakları tespit etmeye veya bunlar için ayrı düzenlemeler yapmaya yetkilidir.
-
-(5) Türkiye Muhasebe Standartları (TMS/TFRS ve yorumları ile KOBİ/TFRS) ve kavramsal çerçevede belirlenen ilkeler bu Kanunun finansal tablolara ve raporlamaya ilişkin hükümleri ile ilgili diğer hükümlerine de uygulanır.
+(2) Mahkeme, hakkında ticari bir hüküm bulunmayan ticari işlerde, ticari örf ve âdete, bu da yoksa genel hükümlere göre karar verir.
 
  
 
-GEÇİCİ
+II - Ticari örf ve âdet
 ```
 
 

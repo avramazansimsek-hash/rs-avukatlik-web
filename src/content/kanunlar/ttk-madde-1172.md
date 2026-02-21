@@ -2,7 +2,7 @@
 slug: "ttk-madde-1172"
 title: "TTK Madde 1172: MADDE 1172- (1) Boşaltma süresi takvime göre aralıksız hesaplanır...."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1172 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

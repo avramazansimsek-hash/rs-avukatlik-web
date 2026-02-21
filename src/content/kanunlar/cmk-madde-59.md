@@ -2,7 +2,7 @@
 slug: "cmk-madde-59"
 title: "CMK Madde 59: Madde 59 – (1) Tanık, dinlenmeden önce hakkında tanıklık yapacağı olayla ilgili..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 59 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

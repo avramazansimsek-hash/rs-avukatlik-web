@@ -2,7 +2,7 @@
 slug: "iik-madde-128"
 title: "IIK Madde 128: Madde 128 – İcra memuru satışa başlamazdan evvel taşınmaz üzerindeki tapu sicill..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 128 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

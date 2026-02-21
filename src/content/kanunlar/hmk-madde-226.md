@@ -2,7 +2,7 @@
 slug: "hmk-madde-226"
 title: "HMK Madde 226: MADDE 226- (1) Aşağıdaki hususlar yemine konu olamaz:..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 226 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

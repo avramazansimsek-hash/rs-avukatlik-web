@@ -2,7 +2,7 @@
 slug: "is_kanunu-madde-30"
 title: "IS_KANUNU Madde 30: Madde 30 – (Değişik : 15/5/2008-5763/2 md.)..."
 category: "İş Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İş Kanunu Madde 30 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

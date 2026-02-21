@@ -2,7 +2,7 @@
 slug: "cmk-madde-173"
 title: "CMK Madde 173: Madde 173 – (1) Suçtan zarar gören, kovuşturmaya yer olmadığına dair kararın ken..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 173 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

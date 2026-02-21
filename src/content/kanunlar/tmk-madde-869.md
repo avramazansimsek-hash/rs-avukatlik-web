@@ -2,7 +2,7 @@
 slug: "tmk-madde-869"
 title: "TMK Madde 869: Madde 869- Malikin rehinli taşınmaz üzerinde yeni sınırlı aynî haklar kurmayacağ..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 869 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

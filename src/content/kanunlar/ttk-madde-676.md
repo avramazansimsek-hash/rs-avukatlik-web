@@ -2,7 +2,7 @@
 slug: "ttk-madde-676"
 title: "TTK Madde 676: MADDE 676- (1) Poliçe bedeli hem yazı hem de rakamla gösterilip de iki bedel ara..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 676 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

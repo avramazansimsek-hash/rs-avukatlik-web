@@ -2,7 +2,7 @@
 slug: "tbk-madde-269"
 title: "TBK Madde 269: MADDE 269- Ödeme süresi bir yıldan daha uzun veya belirsiz olan sözleşmelerde al..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 269 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

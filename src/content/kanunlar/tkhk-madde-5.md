@@ -2,7 +2,7 @@
 slug: "tkhk-madde-5"
 title: "TKHK Madde 5: MADDE 5- (1) Haksız şart; tüketiciyle müzakere edilmeden sözleşmeye dâhil edilen..."
 category: "Tüketicinin Korunması Hakkında Kanun"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Tüketicinin Korunması Hakkında Kanun Madde 5 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tbk-madde-468"
 title: "TBK Madde 468: MADDE 468- İşçiye deneme amacıyla bir iş verilmişse, aksi kararlaştırılmadıkça,..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 468 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

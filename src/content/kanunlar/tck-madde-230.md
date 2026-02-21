@@ -2,7 +2,7 @@
 slug: "tck-madde-230"
 title: "TCK Madde 230: Madde 230- (1) Evli olmasına rağmen, başkasıyla evlenme işlemi yaptıran kişi, al..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 230 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

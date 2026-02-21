@@ -2,7 +2,7 @@
 slug: "hmk-madde-138"
 title: "HMK Madde 138: MADDE 138- (1) Mahkeme, öncelikle dava şartları ve ilk itirazlar hakkında dosya..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 138 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

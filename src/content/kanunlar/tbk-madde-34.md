@@ -2,7 +2,7 @@
 slug: "tbk-madde-34"
 title: "TBK Madde 34: MADDE 34- Yanılan, yanıldığını dürüstlük kurallarına aykırı olarak ileri süremez..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 34 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

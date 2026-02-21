@@ -2,7 +2,7 @@
 slug: "tmk-madde-989"
 title: "TMK Madde 989: Madde 989- Taşınırı çalınan, kaybolan ya da iradesi dışında başka herhangi bir ş..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 989 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

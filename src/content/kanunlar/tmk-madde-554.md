@@ -2,7 +2,7 @@
 slug: "tmk-madde-554"
 title: "TMK Madde 554: Madde 554- Vasiyeti yerine getirme görevlisinin görevi, ölümü veya atanmasını ge..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 554 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

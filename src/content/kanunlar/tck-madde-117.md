@@ -2,7 +2,7 @@
 slug: "tck-madde-117"
 title: "TCK Madde 117: Madde 117- (1) Cebir veya tehdit kullanarak ya da hukuka aykırı başka bir davran..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 117 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

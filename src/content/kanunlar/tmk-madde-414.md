@@ -2,7 +2,7 @@
 slug: "tmk-madde-414"
 title: "TMK Madde 414: Madde 414- Haklı sebepler engel olmadıkça, vesayet makamı, vesayet altına alınac..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 414 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

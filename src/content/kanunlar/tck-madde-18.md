@@ -2,7 +2,7 @@
 slug: "tck-madde-18"
 title: "TCK Madde 18: Madde 18- (Mülga: 23/4/2016-6706/36 md.)..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 18 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

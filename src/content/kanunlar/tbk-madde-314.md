@@ -2,7 +2,7 @@
 slug: "tbk-madde-314"
 title: "TBK Madde 314: MADDE 314- Kiracı, aksine sözleşme ve yerel âdet olmadıkça, kira bedelini ve ger..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 314 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

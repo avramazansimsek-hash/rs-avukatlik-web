@@ -2,7 +2,7 @@
 slug: "tmk-madde-6"
 title: "TMK Madde 6: Madde 6 - Kanunda aksine bir hüküm bulunmadıkça, taraflardan her biri, hakkını d..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 6 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

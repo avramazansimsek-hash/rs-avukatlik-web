@@ -2,7 +2,7 @@
 slug: "hmk-madde-419"
 title: "HMK Madde 419: MADDE 419- (1) Taraflarca aksi kararlaştırılmamışsa, tahkim yargılamasında görev..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 419 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

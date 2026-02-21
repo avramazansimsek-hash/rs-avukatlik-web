@@ -2,7 +2,7 @@
 slug: "tmk-madde-433"
 title: "TMK Madde 433: Madde 433- Yerleştirme veya alıkoymaya karar verme yetkisi, ilgilinin yerleşim y..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 433 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-683"
 title: "TTK Madde 683: MADDE 683- (1) Cironun poliçe veya poliçeye bağlı olan ve “alonj” denilen bir kâ..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 683 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

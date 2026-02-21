@@ -2,7 +2,7 @@
 slug: "ttk-madde-1214"
 title: "TTK Madde 1214: MADDE 1214- (1) Sözleşmede ferden belirlenen eşyanın tamamının umulmayan bir hâl..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1214 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

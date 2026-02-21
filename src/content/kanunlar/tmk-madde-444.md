@@ -2,7 +2,7 @@
 slug: "tmk-madde-444"
 title: "TMK Madde 444: Madde 444- Taşınmazların satışı, vesayet makamının talimatı uyarınca ve ancak ve..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 444 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

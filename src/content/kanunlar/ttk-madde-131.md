@@ -2,7 +2,7 @@
 slug: "ttk-madde-131"
 title: "TTK Madde 131: MADDE 131- (1) Sermaye olarak konulan ayınlara, bilirkişi tarafından biçilecek d..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 131 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

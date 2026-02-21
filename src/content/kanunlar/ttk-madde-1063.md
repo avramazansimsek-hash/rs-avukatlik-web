@@ -2,7 +2,7 @@
 slug: "ttk-madde-1063"
 title: "TTK Madde 1063: MADDE 1063- (1) Donatan aleyhine, bu sıfatı dolayısıyla, herhangi bir alacaktan..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1063 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tck-madde-201"
 title: "TCK Madde 201: Madde 201- (1) Sahte olarak para veya kıymetli damga üreten, ülkeye sokan, nakle..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 201 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

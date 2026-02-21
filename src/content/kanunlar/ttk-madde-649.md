@@ -2,7 +2,7 @@
 slug: "ttk-madde-649"
 title: "TTK Madde 649: Madde 649- (1) Devredilebilen bütün kıymetli evrakın, senedin içeriğinden veya n..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 649 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

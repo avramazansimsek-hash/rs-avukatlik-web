@@ -2,7 +2,7 @@
 slug: "cmk-madde-20"
 title: "CMK Madde 20: Madde 20 – (1) Yetkili olmayan hâkim veya mahkemece yapılan işlemler, sadece yet..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 20 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

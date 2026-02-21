@@ -2,7 +2,7 @@
 slug: "ttk-madde-1126"
 title: "TTK Madde 1126: MADDE 1126- (1) Kiracı, geminin iadesine kadar doğacak denizcilik ve sorumluluk..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1126 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

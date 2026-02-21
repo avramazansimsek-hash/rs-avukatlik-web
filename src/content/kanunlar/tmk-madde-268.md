@@ -2,7 +2,7 @@
 slug: "tmk-madde-268"
 title: "TMK Madde 268: Madde 268- Eşlerden her biri, aşağıdaki borçlardan kişisel malları ve ortaklık m..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 268 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

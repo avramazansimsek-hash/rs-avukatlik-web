@@ -2,7 +2,7 @@
 slug: "hmk-madde-28"
 title: "HMK Madde 28: MADDE 28- (1) Duruşma ve kararların bildirilmesi alenidir...."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 28 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

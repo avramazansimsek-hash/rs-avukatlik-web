@@ -2,7 +2,7 @@
 slug: "iik-madde-35"
 title: "IIK Madde 35: Madde 35 – Takip, ilamın icra dairesine tevdii ile başlar. İstiyen alacaklıya ka..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 35 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

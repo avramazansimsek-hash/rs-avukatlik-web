@@ -2,7 +2,7 @@
 slug: "hmk-madde-180"
 title: "HMK Madde 180: MADDE 180- (1) Davasını tamamen ıslah ettiğini bildiren taraf, bu bildirimden it..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 180 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

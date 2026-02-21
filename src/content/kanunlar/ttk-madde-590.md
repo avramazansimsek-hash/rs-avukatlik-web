@@ -2,7 +2,7 @@
 slug: "ttk-madde-590"
 title: "TTK Madde 590: MADDE 590- (1) Şirketin kuruluşu hakkındaki hükümlere ve özellikle sermayenin ay..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 590 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

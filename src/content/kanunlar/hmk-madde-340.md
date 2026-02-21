@@ -2,7 +2,7 @@
 slug: "hmk-madde-340"
 title: "HMK Madde 340: MADDE 340- (1) Adli yardımdan yararlanan kişi için mahkemenin talebi üzerine bar..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 340 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

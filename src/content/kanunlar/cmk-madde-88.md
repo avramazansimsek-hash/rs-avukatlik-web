@@ -2,7 +2,7 @@
 slug: "cmk-madde-88"
 title: "CMK Madde 88: Madde 88 – (1) Yeni doğanın cesedi üzerinde adlî muayene veya otopside, doğum sı..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 88 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

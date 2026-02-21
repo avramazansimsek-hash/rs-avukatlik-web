@@ -2,7 +2,7 @@
 slug: "hmk-madde-271"
 title: "HMK Madde 271: MADDE 271- (1) Listelere kaydedilmiş kişiler arasından görevlendirilmiş olan bil..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 271 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

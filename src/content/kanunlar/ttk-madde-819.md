@@ -2,7 +2,7 @@
 slug: "ttk-madde-819"
 title: "TTK Madde 819: MADDE 819- (1) Bir çekin kimin üzerine düzenlenebileceğini, çekin ödeneceği ülke..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 819 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

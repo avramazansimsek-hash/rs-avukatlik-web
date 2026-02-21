@@ -2,7 +2,7 @@
 slug: "ttk-madde-1378"
 title: "TTK Madde 1378: MADDE 1378- (1) Gemi üzerinde, akdî veya kanuni bir rehin hakkı bulunsa bile, al..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1378 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

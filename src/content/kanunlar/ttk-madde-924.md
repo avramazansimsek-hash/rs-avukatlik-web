@@ -2,7 +2,7 @@
 slug: "ttk-madde-924"
 title: "TTK Madde 924: MADDE 924- (1) Taşımaya, taşıyıcıdan başka, bir de taşıma işleri komisyoncusu ka..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 924 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

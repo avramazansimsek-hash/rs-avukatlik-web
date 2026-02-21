@@ -2,7 +2,7 @@
 slug: "tbk-madde-146"
 title: "TBK Madde 146: MADDE 146- Kanunda aksine bir hüküm bulunmadıkça, her alacak on yıllık zamanaşım..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 146 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

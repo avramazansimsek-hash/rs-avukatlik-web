@@ -2,7 +2,7 @@
 slug: "cmk-madde-21"
 title: "CMK Madde 21: Madde 21 – (1) Bir hâkim veya mahkeme, yetkili olmasa bile, gecikmesinde sakınca..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 21 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -1,8 +1,8 @@
 ---
 slug: "ttk-madde-11"
-title: "TTK Madde 11: Madde 11..."
+title: "TTK Madde 11: MADDE 11- (1) Ticari işletme, esnaf işletmesi için öngörülen sınırı aşan düzeyde..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 11 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 
@@ -11,148 +11,19 @@ excerpt: "Türk Ticaret Kanunu Madde 11 tam metni, gerekçesi ve Av. Ramazan Şi
 ## Kanun Metni
 
 ```text
-Madde 11
+MADDE 11- (1) Ticari işletme, esnaf işletmesi için öngörülen sınırı aşan düzeyde gelir sağlamayı hedef tutan faaliyetlerin devamlı ve bağımsız şekilde yürütüldüğü işletmedir.
 
-	
+(2) Ticari işletme ile esnaf işletmesi arasındaki sınır, Cumhurbaşkanı kararıyla belirlenir.[9]
 
-9/8/2016
+(3) Ticari işletme, içerdiği malvarlığı unsurlarının devri için zorunlu tasarruf işlemlerinin ayrı ayrı yapılmasına gerek olmaksızın bir bütün hâlinde devredilebilir ve diğer hukuki işlemlere konu olabilir. Aksi öngörülmemişse, devir sözleşmesinin duran malvarlığını, işletme değerini, kiracılık hakkını, ticaret unvanı ile diğer fikrî mülkiyet haklarını ve sürekli olarak işletmeye özgülenen malvarlığı unsurlarını içerdiği kabul olunur. Bu devir sözleşmesiyle ticari işletmeyi bir bütün hâlinde konu alan diğer sözleşmeler yazılı olarak yapılır, ticaret siciline tescil ve ilan edilir.
 
+ 
 
+B) Tacir
 
+I - Gerçek kişiler
 
-KHK/691
-
-	
-
-399
-
-	
-
-22/6/2017
-
-
-
-
-KHK/694
-
-	
-
-24, 25
-
-	
-
-25/8/2017
-
-
-
-
-KHK/696
-
-	
-
-401, 403
-
-	
-
-24/12/2017
-
-
-
-
-7069
-
-	
-
-399
-
-	
-
-8/3/2018
-
-
-
-
-7078
-
-	
-
-24, 25
-
-	
-
-8/3/2018
-
-
-
-
-7079
-
-	
-
-401, 403
-
-	
-
-8/3/2018
-
-
-
-
-7099
-
-	
-
-40, 64, 428, 430, 431
-
-	
-
-10/3/2018
-
-
-
-
-575, 585, 587
-
-	
-
-15/3/2018
-
-
-
-
-7101
-
-	
-
-4, 377, 634
-
-	
-
-15/3/2018
-
-
-
-
-KHK/700
-
-	
-
-11, 26, 46, 332, 397, 476, 580, 953, 994
-
-	
-
-24/6/2018 tarihinde birlikte yapılan Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimleri sonucunda Cumhurbaşkanının andiçerek göreve başladığı tarihte
-
-(9/7/2018)
-
-
-
-
-7155
-
-	
-
-5/A, Geçici
+1. Genel olarak
 ```
 
 

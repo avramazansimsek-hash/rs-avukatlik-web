@@ -2,7 +2,7 @@
 slug: "tck-madde-256"
 title: "TCK Madde 256: Madde 256- (1) Zor kullanma yetkisine sahip kamu görevlisinin, görevini yaptığı..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 256 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

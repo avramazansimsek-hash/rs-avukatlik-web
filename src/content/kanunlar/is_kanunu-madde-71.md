@@ -2,7 +2,7 @@
 slug: "is_kanunu-madde-71"
 title: "IS_KANUNU Madde 71: Madde 71 – (Değişik birinci fıkra: 4/4/2015-6645/38 md.) On beş yaşını doldurmam..."
 category: "İş Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İş Kanunu Madde 71 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

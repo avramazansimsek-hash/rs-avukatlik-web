@@ -2,7 +2,7 @@
 slug: "tmk-madde-874"
 title: "TMK Madde 874: Madde 874- Rehinli taşınmazın satış bedeli, alacaklılar arasında sıralarına göre..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 874 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

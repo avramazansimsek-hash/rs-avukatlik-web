@@ -2,7 +2,7 @@
 slug: "hmk-madde-341"
 title: "HMK Madde 341: MADDE 341- (1) (Değişik:22/7/2020-7251/34 md.) İlk derece mahkemelerinin aşağıda..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 341 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

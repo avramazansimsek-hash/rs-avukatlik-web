@@ -2,7 +2,7 @@
 slug: "tmk-madde-191"
 title: "TMK Madde 191: Madde 191- Temsil yetkisinin kaldırılmasına veya sınırlanmasına ilişkin karar, k..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 191 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

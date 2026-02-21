@@ -2,7 +2,7 @@
 slug: "ttk-madde-1340"
 title: "TTK Madde 1340: MADDE 1340- (1) 1992 tarihli Sorumluluk Sözleşmesinin I inci maddesinin altıncı..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1340 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-597"
 title: "TMK Madde 597: Madde 597- Mirasta hak sahibi olanların her birine gideri terekeye ait olmak üze..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 597 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

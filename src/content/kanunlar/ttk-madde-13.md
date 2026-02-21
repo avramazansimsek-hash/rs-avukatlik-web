@@ -1,8 +1,8 @@
 ---
 slug: "ttk-madde-13"
-title: "TTK Madde 13: Madde 13..."
+title: "TTK Madde 13: MADDE 13- (1) Küçük ve kısıtlılara ait ticari işletmeyi bunların adına işleten y..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 13 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 
@@ -11,20 +11,11 @@ excerpt: "Türk Ticaret Kanunu Madde 13 tam metni, gerekçesi ve Av. Ramazan Şi
 ## Kanun Metni
 
 ```text
-Madde 13
+MADDE 13- (1) Küçük ve kısıtlılara ait ticari işletmeyi bunların adına işleten yasal temsilci, tacir sayılmaz. Tacir sıfatı, temsil edilene aittir. Ancak, yasal temsilci ceza hükümlerinin uygulanması yönünden tacir gibi sorumlu olur.
 
-	
+ 
 
-1/8/2023
-
-
-
-
-Anayasa Mahkemesinin 22/6/2023 Tarihli ve E: 2023/33, K: 2023/117 Sayılı Kararı
-
-	
-
-Geçici
+3. Ticaret yapmaktan menedilenler
 ```
 
 

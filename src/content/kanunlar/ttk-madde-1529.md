@@ -2,7 +2,7 @@
 slug: "ttk-madde-1529"
 title: "TTK Madde 1529: MADDE 1529- (1) Halka açık anonim şirketlerde kurumsal yönetim ilkeleri, yönetim..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1529 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

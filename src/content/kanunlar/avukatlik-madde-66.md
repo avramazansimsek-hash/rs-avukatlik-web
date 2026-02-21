@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-66"
 title: "AVUKATLIK Madde 66: Madde 66 – Her avukat, bölgesi içinde sürekli olarak avukatlık edeceği yerin bar..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 66 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

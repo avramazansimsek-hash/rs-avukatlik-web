@@ -2,7 +2,7 @@
 slug: "iik-madde-303"
 title: "IIK Madde 303: Madde 303- (Başlığı ile Birlikte Değişik: 28/2/2018-7101/31 md.)..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 303 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

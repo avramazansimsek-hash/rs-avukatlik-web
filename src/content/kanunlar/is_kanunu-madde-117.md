@@ -2,7 +2,7 @@
 slug: "is_kanunu-madde-117"
 title: "IS_KANUNU Madde 117: Madde 117 - (5.5.1983 tarihli ve 2821 sayılı Sendikalar Kanunu ile ilgili olup y..."
 category: "İş Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İş Kanunu Madde 117 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

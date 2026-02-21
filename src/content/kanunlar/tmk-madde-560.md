@@ -2,7 +2,7 @@
 slug: "tmk-madde-560"
 title: "TMK Madde 560: Madde 560- Saklı paylarının karşılığını alamayan mirasçılar, mirasbırakanın tasa..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 560 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

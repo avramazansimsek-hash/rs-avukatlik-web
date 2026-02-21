@@ -2,7 +2,7 @@
 slug: "tbk-madde-324"
 title: "TBK Madde 324: MADDE 324- Kullanıma elverişli bulundurulduğu sürece kiralanan, kiracının kendis..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 324 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "iik-madde-27"
 title: "IIK Madde 27: Madde 27 – Taşınmaz, üçüncü bir şahıs tarafından davadan sonra ve hükümden evvel..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 27 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

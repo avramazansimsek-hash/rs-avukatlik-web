@@ -2,7 +2,7 @@
 slug: "ttk-madde-1007"
 title: "TTK Madde 1007: MADDE 1007- (1) Sicile kayıtlı gemi payının mülkiyeti, malik ile iktisap edenin..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1007 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

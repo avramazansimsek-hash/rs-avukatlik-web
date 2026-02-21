@@ -2,7 +2,7 @@
 slug: "ttk-madde-461"
 title: "TTK Madde 461: MADDE 461- (1) Her pay sahibi, yeni çıkarılan payları, mevcut paylarının sermaye..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 461 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

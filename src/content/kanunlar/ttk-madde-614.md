@@ -2,7 +2,7 @@
 slug: "ttk-madde-614"
 title: "TTK Madde 614: MADDE 614- (1) Her ortak, müdürlerden, şirketin bütün işleri ve hesapları hakkın..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 614 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

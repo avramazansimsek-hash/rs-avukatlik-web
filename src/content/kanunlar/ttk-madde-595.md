@@ -2,7 +2,7 @@
 slug: "ttk-madde-595"
 title: "TTK Madde 595: MADDE 595- (1) Esas sermaye payının devri ve devir borcunu doğuran işlemler yazı..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 595 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

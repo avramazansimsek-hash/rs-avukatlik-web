@@ -1,8 +1,8 @@
 ---
 slug: "hmk-madde-2"
-title: "HMK Madde 2: MADDE 2 – 1086 sayılı Kanuna aşağıdaki geçici madde eklenmiştir...."
+title: "HMK Madde 2: MADDE 2- (1) Dava konusunun değer ve miktarına bakılmaksızın malvarlığı hakların..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 2 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 
@@ -11,9 +11,13 @@ excerpt: "Hukuk Muhakemeleri Kanunu Madde 2 tam metni, gerekçesi ve Av. Ramazan
 ## Kanun Metni
 
 ```text
-MADDE 2 – 1086 sayılı Kanuna aşağıdaki geçici madde eklenmiştir.
+MADDE 2- (1) Dava konusunun değer ve miktarına bakılmaksızın malvarlığı haklarına ilişkin davalarla, şahıs varlığına ilişkin davalarda görevli mahkeme, aksine bir düzenleme bulunmadıkça asliye hukuk mahkemesidir.
 
-GEÇİCİ
+(2) Bu Kanunda ve diğer kanunlarda aksine düzenleme bulunmadıkça, asliye hukuk mahkemesi diğer dava ve işler bakımından da görevlidir.
+
+ 
+
+Ölüm veya vücut bütünlüğünün yitirilmesinden doğan zararların tazmini davalarında görev
 ```
 
 

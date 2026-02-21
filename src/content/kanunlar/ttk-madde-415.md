@@ -2,7 +2,7 @@
 slug: "ttk-madde-415"
 title: "TTK Madde 415: MADDE 415- (1) Genel kurul toplantısına, yönetim kurulu tarafından düzenlenen “h..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 415 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

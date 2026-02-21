@@ -2,7 +2,7 @@
 slug: "tbk-madde-606"
 title: "TBK Madde 606: MADDE 606- Düzenlenmesine kanun veya yetkili makamlarca izin verilmiş olmadıkça,..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 606 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

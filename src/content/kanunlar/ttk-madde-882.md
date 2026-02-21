@@ -2,7 +2,7 @@
 slug: "ttk-madde-882"
 title: "TTK Madde 882: MADDE 882- (1) Gönderinin tamamının zıyaı veya hasarı hâlinde, 880 ve 881 inci m..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 882 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-809"
 title: "TTK Madde 809: MADDE 809- (1) Protesto veya buna denk olan belirleme, ibraz süresinin geçmesind..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 809 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

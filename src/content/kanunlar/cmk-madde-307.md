@@ -2,7 +2,7 @@
 slug: "cmk-madde-307"
 title: "CMK Madde 307: Madde 307 – (1) Yargıtaydan verilen bozma kararı üzerine davaya yeniden bakacak..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 307 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

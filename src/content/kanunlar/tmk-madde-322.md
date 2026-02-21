@@ -2,7 +2,7 @@
 slug: "tmk-madde-322"
 title: "TMK Madde 322: Madde 322- Ana, baba ve çocuk, ailenin huzur ve bütünlüğünün gerektirdiği şekild..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 322 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

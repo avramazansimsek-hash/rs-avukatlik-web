@@ -2,7 +2,7 @@
 slug: "tbk-madde-131"
 title: "TBK Madde 131: MADDE 131- Asıl borç ifa ya da diğer bir sebeple sona erdiği takdirde, rehin, ke..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 131 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tbk-madde-98"
 title: "TBK Madde 98: MADDE 98- Karşılıklı borç yükleyen bir sözleşmede, taraflardan birinin borcunu i..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 98 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

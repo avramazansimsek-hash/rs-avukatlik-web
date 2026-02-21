@@ -2,7 +2,7 @@
 slug: "tmk-madde-239"
 title: "TMK Madde 239: Madde 239- Katılma alacağı ve değer artış payı ayın veya para olarak ödenebilir...."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 239 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

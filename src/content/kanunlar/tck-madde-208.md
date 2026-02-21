@@ -2,7 +2,7 @@
 slug: "tck-madde-208"
 title: "TCK Madde 208: Madde 208 - (1) Gerçek bir özel belgeyi bozan, yok eden veya gizleyen kişi, bir..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 208 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

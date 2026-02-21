@@ -2,7 +2,7 @@
 slug: "tmk-madde-923"
 title: "TMK Madde 923: Madde 923- Nama veya hamile yazılı ipotekli borç senedi veya irat senedindeki al..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 923 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -1,8 +1,8 @@
 ---
 slug: "cmk-madde-7"
-title: "CMK Madde 7: Madde 7..."
+title: "CMK Madde 7: Madde 7 – (1) Yenilenmesi mümkün olmayanlar dışında, görevli olmayan hâkim veya..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 7 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 
@@ -11,20 +11,15 @@ excerpt: "Ceza Muhakemesi Kanunu Madde 7 tam metni, gerekçesi ve Av. Ramazan Ş
 ## Kanun Metni
 
 ```text
-Madde 7
+Madde 7 – (1) Yenilenmesi mümkün olmayanlar dışında, görevli olmayan hâkim veya mahkemece yapılan işlemler hükümsüzdür.
 
-	
+ 
 
-29/5/2025
+ÜÇÜNCÜ BÖLÜM
 
+Bağlantılı Davalar
 
-
-
-7571
-
-	
-
-128/A, 250, 253, 280, Geçici
+Bağlantı kavramı
 ```
 
 

@@ -2,7 +2,7 @@
 slug: "tck-madde-255"
 title: "TCK Madde 255: Madde 255- (Değişik: 2/7/2012-6352/89 md.)..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 255 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

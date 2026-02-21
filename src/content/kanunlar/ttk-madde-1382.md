@@ -2,7 +2,7 @@
 slug: "ttk-madde-1382"
 title: "TTK Madde 1382: MADDE 1382- (1) Türk ve yabancı bayraklı bütün gemilerin kesin haczinde, ihtiyat..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1382 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

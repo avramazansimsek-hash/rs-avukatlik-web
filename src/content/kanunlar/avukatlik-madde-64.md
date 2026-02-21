@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-64"
 title: "AVUKATLIK Madde 64: Madde 64 – Denetleme ve şikâyetle ilgili meselelerde avukat, bu kanunda gösteril..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 64 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "is_kanunu-madde-108"
 title: "IS_KANUNU Madde 108: Madde 108 – (Değişik:10/7/2025-7553/10 md.)..."
 category: "İş Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İş Kanunu Madde 108 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

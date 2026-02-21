@@ -2,7 +2,7 @@
 slug: "ttk-madde-920"
 title: "TTK Madde 920: MADDE 920- (1) Eşyanın, taşıyıcıya veya taşıyana teslimi üzerine, komisyoncunun..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 920 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

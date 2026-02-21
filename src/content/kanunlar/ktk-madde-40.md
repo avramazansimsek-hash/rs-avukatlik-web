@@ -2,7 +2,7 @@
 slug: "ktk-madde-40"
 title: "KTK Madde 40: Madde 40 – (Mülga: 12/7/2013-6495/24 md.)..."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 40 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "iik-madde-307"
 title: "IIK Madde 307: Madde 307- (Başlığı ile Birlikte Değişik: 28/2/2018-7101/35 md.)..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 307 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-414"
 title: "TTK Madde 414: MADDE 414- (1) Genel kurul toplantıya, esas sözleşmede gösterilen şekilde, şirke..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 414 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

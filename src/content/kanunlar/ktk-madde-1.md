@@ -1,8 +1,8 @@
 ---
 slug: "ktk-madde-1"
-title: "KTK Madde 1: Madde 1..."
+title: "KTK Madde 1: Madde 1 – Bu Kanunun amacı, karayollarında, can ve mal güvenliği yönünden trafik..."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 1 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 
@@ -11,55 +11,11 @@ excerpt: "Karayolları Trafik Kanunu Madde 1 tam metni, gerekçesi ve Av. Ramaza
 ## Kanun Metni
 
 ```text
-Madde 1
+Madde 1 – Bu Kanunun amacı, karayollarında, can ve mal güvenliği yönünden trafik düzenini sağlamak ve trafik güvenliğini ilgilendiren tüm konularda alınacak önlemleri belirlemektir.
 
-	
+ 
 
-1/1/2010
-
-
-
-
-20 nci maddenin başlığı, d bendinin dördüncü paragrafı haricindeki kısımları, e bendi
-
-	
-
-1/5/2010
-
-
-
-
-6001
-
-	
-
-5, 7, 8, 13, 15, 16, 50, 65, 121
-
-	
-
-13/7/2010
-
-
-
-
-6014
-
-	
-
-65
-
-	
-
-31/7/2010
-
-
-
-
-6099
-
-	
-
-110, Geçici
+Kapsam:
 ```
 
 

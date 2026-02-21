@@ -2,7 +2,7 @@
 slug: "tmk-madde-934"
 title: "TMK Madde 934: Madde 934- Senetler, sayıları gösterilmek suretiyle tapu kütüğüne tescil olunur;..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 934 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

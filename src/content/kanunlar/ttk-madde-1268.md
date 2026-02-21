@@ -2,7 +2,7 @@
 slug: "ttk-madde-1268"
 title: "TTK Madde 1268: MADDE 1268- (1) Yolcunun ölümünden, yaralanmasından, bagajının zıyaı veya hasarı..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1268 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

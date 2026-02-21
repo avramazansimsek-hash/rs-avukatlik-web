@@ -2,7 +2,7 @@
 slug: "tmk-madde-1029"
 title: "TMK Madde 1029: Madde 1029- Bu Kanun 1 Ocak 2002 tarihinde yürürlüğe girer...."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 1029 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

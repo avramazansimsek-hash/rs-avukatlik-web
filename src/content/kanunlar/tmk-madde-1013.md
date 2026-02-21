@@ -2,7 +2,7 @@
 slug: "tmk-madde-1013"
 title: "TMK Madde 1013: Madde 1013- Tescil, tasarrufa konu olan taşınmaz malikinin yazılı beyanı üzerine..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 1013 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

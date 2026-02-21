@@ -2,7 +2,7 @@
 slug: "tmk-madde-111"
 title: "TMK Madde 111: Madde 111- Vakıfların, vakıf senedindeki hükümleri yerine getirip getirmedikleri..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 111 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tbk-madde-415"
 title: "TBK Madde 415: MADDE 415- İşçi, işin görülmesi için işverenle anlaşarak işverenin veya kendisin..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 415 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

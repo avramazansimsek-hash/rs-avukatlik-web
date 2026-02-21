@@ -2,7 +2,7 @@
 slug: "ttk-madde-315"
 title: "TTK Madde 315: MADDE 315- (1) Komanditer, şirketteki payını başkasına devredebilir. Ancak, devr..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 315 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

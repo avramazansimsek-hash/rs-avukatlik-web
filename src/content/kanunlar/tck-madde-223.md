@@ -2,7 +2,7 @@
 slug: "tck-madde-223"
 title: "TCK Madde 223: Madde 223- (Başlığı ile Birlikte Değişik:24/12/2025-7571/21 md.)..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 223 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

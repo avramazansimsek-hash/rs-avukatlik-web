@@ -2,7 +2,7 @@
 slug: "ttk-madde-1027"
 title: "TTK Madde 1027: MADDE 1027- (1) Sigortacı, sigorta ettirenin veya sigortalının fiili yüzünden, t..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1027 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

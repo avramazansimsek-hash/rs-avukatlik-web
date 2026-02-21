@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-92"
 title: "AVUKATLIK Madde 92: Madde 92 – (Değişik birinci fıkra: 22/1/1986 - 3256/13 md.) Seçim dönemi bitmede..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 92 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

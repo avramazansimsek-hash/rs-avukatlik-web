@@ -2,7 +2,7 @@
 slug: "iyuk-madde-55"
 title: "IYUK Madde 55: Madde 55 – 1. İsteğin ilişkin olduğu konu, diğer bir daire veya mahkemenin görev..."
 category: "İdari Yargılama Usulü Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İdari Yargılama Usulü Kanunu Madde 55 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "cmk-madde-232"
 title: "CMK Madde 232: Madde 232 – (1) Hükmün başına, \"Türk Milleti adına\" verildiği yazılır...."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 232 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

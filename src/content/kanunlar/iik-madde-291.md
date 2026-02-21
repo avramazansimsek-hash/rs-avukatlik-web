@@ -2,7 +2,7 @@
 slug: "iik-madde-291"
 title: "IIK Madde 291: Madde 291- (Değişik: 28/2/2018-7101/19 md.)..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 291 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

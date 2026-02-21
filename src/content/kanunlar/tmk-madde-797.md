@@ -2,7 +2,7 @@
 slug: "tmk-madde-797"
 title: "TMK Madde 797: Madde 797- İntifa hakkı, gerçek kişilerde hak sahibinin ölümü; tüzel kişilerde k..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 797 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

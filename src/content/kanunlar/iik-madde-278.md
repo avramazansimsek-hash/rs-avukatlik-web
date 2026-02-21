@@ -2,7 +2,7 @@
 slug: "iik-madde-278"
 title: "IIK Madde 278: Madde 278 – (Değişik:24/12/2025-7571/2 md.)..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 278 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

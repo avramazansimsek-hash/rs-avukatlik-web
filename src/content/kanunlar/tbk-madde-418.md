@@ -2,7 +2,7 @@
 slug: "tbk-madde-418"
 title: "TBK Madde 418: MADDE 418- İşçi işverenle birlikte ev düzeni içinde yaşıyorsa işveren, yeterli g..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 418 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-273"
 title: "TTK Madde 273: MADDE 273- (1) Tasfiye memurları şirket sözleşmesiyle, şirketin devamı sırasında..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 273 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-612"
 title: "TTK Madde 612: MADDE 612- (1) Şirket kendi esas sermaye paylarını, sadece, bunları alabilmek iç..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 612 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

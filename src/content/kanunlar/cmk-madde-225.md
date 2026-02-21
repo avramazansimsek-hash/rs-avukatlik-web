@@ -2,7 +2,7 @@
 slug: "cmk-madde-225"
 title: "CMK Madde 225: Madde 225 – (1) Hüküm, ancak iddianamede unsurları gösterilen suça ilişkin fiil..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 225 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

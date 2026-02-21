@@ -2,7 +2,7 @@
 slug: "ttk-madde-312"
 title: "TTK Madde 312: MADDE 312- (1) Komanditer, iş yılı sonunda gerçekleşen kâr payını ve şirket sözl..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 312 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

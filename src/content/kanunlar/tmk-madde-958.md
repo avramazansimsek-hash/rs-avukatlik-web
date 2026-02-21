@@ -2,7 +2,7 @@
 slug: "tmk-madde-958"
 title: "TMK Madde 958: Madde 958- Rehinli bir alacak üzerinde sonra gelen bir rehnin kurulması, ancak r..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 958 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-86"
 title: "TTK Madde 86: MADDE 86- (1) Saklanması zorunlu olan belgeleri, sadece görüntü veya başkaca bir..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 86 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

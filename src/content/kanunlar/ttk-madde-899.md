@@ -2,7 +2,7 @@
 slug: "ttk-madde-899"
 title: "TTK Madde 899: MADDE 899- (1) 882 nci maddenin birinci ve ikinci fıkralarındaki düzenlemeden fa..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 899 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

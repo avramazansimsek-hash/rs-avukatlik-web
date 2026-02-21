@@ -2,7 +2,7 @@
 slug: "tbk-madde-101"
 title: "TBK Madde 101: MADDE 101- Birden çok borcu bulunan borçlu, ödeme gününde bu borçlardan hangisin..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 101 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

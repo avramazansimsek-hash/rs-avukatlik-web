@@ -2,7 +2,7 @@
 slug: "ttk-madde-991"
 title: "TTK Madde 991: MADDE 991- (1) Yapı hâlindeki gemilere özgü sicil hakkında Kanunun 954 üncü ve 9..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 991 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

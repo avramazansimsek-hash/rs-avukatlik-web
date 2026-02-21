@@ -1,8 +1,8 @@
 ---
 slug: "avukatlik-madde-3"
-title: "AVUKATLIK Madde 3: Madde 3..."
+title: "AVUKATLIK Madde 3: Madde 3 – (Değişik: 30/1/1979 - 2178/1 md.)..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 3 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 
@@ -11,35 +11,25 @@ excerpt: "Avukatlık Kanunu Madde 3 tam metni, gerekçesi ve Av. Ramazan Şimşe
 ## Kanun Metni
 
 ```text
-Madde 3
+Madde 3 – (Değişik: 30/1/1979 - 2178/1 md.)
 
-	
+Avukatlık mesleğine kabul edilebilmek için:[1]
 
-8/2/2008
+a) Türkiye Cumhuriyeti vatandaşı olmak,
 
+b) Türk hukuk fakültelerinden birinden mezun olmak veya yabancı memleket hukuk fakültesinden mezun olup da Türkiye hukuk fakülteleri programlarına göre noksan kalan derslerden başarılı sınav vermiş bulunmak,
 
+c) Avukatlık stajını tamamlayarak staj bitim belgesi almış bulunmak,
 
+d) (Ek : 2/5/2001 - 4667/3 md.; Mülga: 28/11/2006-5558/1 md.)[2]
 
-5754 sayılı Kanunla değişik 5510
+e) Levhasına yazılmak istenen baro bölgesinde ikametgâhı bulunmak,
 
-	
-
-186 ilâ 188 ve 191
-
-	
+f) Bu Kanuna göre avukatlığa engel bir hali olmamak gerekir.
 
  
 
-1/10/2008
-
-
-
-
-5838
-
-	
-
-65, Geçici
+İstisnalar:
 ```
 
 

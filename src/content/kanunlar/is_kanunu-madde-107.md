@@ -2,7 +2,7 @@
 slug: "is_kanunu-madde-107"
 title: "IS_KANUNU Madde 107: Madde 107 – (Değişik: 23/1/2008-5728/500 md.)..."
 category: "İş Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İş Kanunu Madde 107 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-369"
 title: "TMK Madde 369: Madde 369- Ev başkanı, ev halkından olan küçüğün, kısıtlının, akıl hastalığı vey..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 369 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

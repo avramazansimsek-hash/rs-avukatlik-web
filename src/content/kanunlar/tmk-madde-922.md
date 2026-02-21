@@ -2,7 +2,7 @@
 slug: "tmk-madde-922"
 title: "TMK Madde 922: Madde 922- İpotekli borç senedi veya irat senedi metninde yazılı olanlar tapu kü..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 922 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

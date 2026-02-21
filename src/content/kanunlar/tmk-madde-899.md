@@ -2,7 +2,7 @@
 slug: "tmk-madde-899"
 title: "TMK Madde 899: Madde 899- İpotekli borç senedi yoluyla rehin kurulması için tapu idaresince taş..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 899 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tbk-madde-176"
 title: "TBK Madde 176: MADDE 176- Bir koşul, hukuka veya ahlaka aykırı bir yapma veya yapmama fiilini s..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 176 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

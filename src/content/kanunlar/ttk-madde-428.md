@@ -2,7 +2,7 @@
 slug: "ttk-madde-428"
 title: "TTK Madde 428: MADDE 428- (Mülga: 15/2/2018-7099/23 md.)..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 428 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

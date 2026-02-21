@@ -2,7 +2,7 @@
 slug: "cmk-madde-92"
 title: "CMK Madde 92: Madde 92 – (1) Cumhuriyet başsavcıları veya görevlendirecekleri Cumhuriyet savcı..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 92 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-235"
 title: "TMK Madde 235: Madde 235- Mal rejiminin sona erdiği sırada mevcut olan edinilmiş mallar, tasfiy..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 235 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

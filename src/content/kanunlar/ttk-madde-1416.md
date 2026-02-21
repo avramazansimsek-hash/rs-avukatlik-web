@@ -2,7 +2,7 @@
 slug: "ttk-madde-1416"
 title: "TTK Madde 1416: MADDE 1416- (1) Sigorta ettiren tarafından yapılacak tebliğler ve bildirimler si..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1416 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

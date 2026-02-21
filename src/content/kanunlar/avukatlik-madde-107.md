@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-107"
 title: "AVUKATLIK Madde 107: Madde 107 – Disiplin kurulunun görevi, baro yönetim kurulunun disiplin kovuşturm..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 107 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

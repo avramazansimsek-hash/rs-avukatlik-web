@@ -2,7 +2,7 @@
 slug: "tmk-madde-85"
 title: "TMK Madde 85: Madde 85- Yönetim kurulu, derneğin yürütme ve temsil organıdır; bu görevini kanu..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 85 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

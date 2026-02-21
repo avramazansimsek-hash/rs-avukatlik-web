@@ -2,7 +2,7 @@
 slug: "ttk-madde-1373"
 title: "TTK Madde 1373: MADDE 1373- (1) Geminin serbest bırakılması için teminat verilmesi, sorumluluğun..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1373 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

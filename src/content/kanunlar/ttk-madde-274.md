@@ -2,7 +2,7 @@
 slug: "ttk-madde-274"
 title: "TTK Madde 274: MADDE 274- (1) Tasfiye memurları, şirket sözleşmesiyle veya şirketin sona ermesi..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 274 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

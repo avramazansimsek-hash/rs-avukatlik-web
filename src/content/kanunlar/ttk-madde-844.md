@@ -2,7 +2,7 @@
 slug: "ttk-madde-844"
 title: "TTK Madde 844: MADDE 844- (1) Vade gününde alacağı ödenmemiş varant hamili, poliçe hamili gibi,..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 844 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

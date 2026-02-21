@@ -2,7 +2,7 @@
 slug: "tmk-madde-334"
 title: "TMK Madde 334: Madde 334- Ana ve baba nafaka yükümlülüklerini sürekli olarak ve ısrarla yerine..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 334 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

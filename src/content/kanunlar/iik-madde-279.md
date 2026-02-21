@@ -2,7 +2,7 @@
 slug: "iik-madde-279"
 title: "IIK Madde 279: Madde 279 – Aşağıdaki tasarruflar borcunu ödemiyen bir borçlu tarafından hacizde..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 279 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "cmk-madde-205"
 title: "CMK Madde 205: Madde 205 – (1) Bir kimse, duruşma sırasında bir suç işlerse, mahkeme olayı tesp..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 205 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

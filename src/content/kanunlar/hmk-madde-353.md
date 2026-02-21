@@ -2,7 +2,7 @@
 slug: "hmk-madde-353"
 title: "HMK Madde 353: MADDE 353- (1) Ön inceleme sonunda dosyada eksiklik bulunmadığı anlaşılırsa;..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 353 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

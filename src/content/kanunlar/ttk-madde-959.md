@@ -2,7 +2,7 @@
 slug: "ttk-madde-959"
 title: "TTK Madde 959: MADDE 959- (1) Gemi, ancak malikin veya maliklerinden birinin istemi üzerine gem..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 959 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

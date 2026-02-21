@@ -2,7 +2,7 @@
 slug: "hmk-madde-94"
 title: "HMK Madde 94: MADDE 94- (1) Kanunun belirlediği süreler kesindir...."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 94 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

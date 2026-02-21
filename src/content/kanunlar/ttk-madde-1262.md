@@ -2,7 +2,7 @@
 slug: "ttk-madde-1262"
 title: "TTK Madde 1262: MADDE 1262- (1) Yolcunun ölümü veya yaralanmasından dolayı taşıyanın 1256 ncı ma..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1262 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

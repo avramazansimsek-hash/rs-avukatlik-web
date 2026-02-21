@@ -2,7 +2,7 @@
 slug: "hmk-madde-79"
 title: "HMK Madde 79: MADDE 79- (1) Vekil, duruşma sırasında uygun olmayan tutum ve davranışta bulunur..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 79 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

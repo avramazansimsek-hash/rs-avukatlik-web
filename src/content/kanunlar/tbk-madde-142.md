@@ -2,7 +2,7 @@
 slug: "tbk-madde-142"
 title: "TBK Madde 142: MADDE 142- Borçlunun iflası hâlinde alacaklılar, muaccel olmasalar bile, alacakl..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 142 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

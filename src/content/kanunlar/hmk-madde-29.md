@@ -2,7 +2,7 @@
 slug: "hmk-madde-29"
 title: "HMK Madde 29: MADDE 29- (1) Taraflar, dürüstlük kuralına uygun davranmak zorundadırlar...."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 29 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

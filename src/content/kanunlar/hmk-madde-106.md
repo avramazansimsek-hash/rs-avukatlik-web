@@ -2,7 +2,7 @@
 slug: "hmk-madde-106"
 title: "HMK Madde 106: MADDE 106- (1) Tespit davası yoluyla, mahkemeden, bir hakkın veya hukuki ilişkin..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 106 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

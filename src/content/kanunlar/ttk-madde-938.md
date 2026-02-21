@@ -2,7 +2,7 @@
 slug: "ttk-madde-938"
 title: "TTK Madde 938: MADDE 938- (1) Geminin ilk Türk maliki, gemiye dilediği adı vermekte serbesttir...."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 938 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

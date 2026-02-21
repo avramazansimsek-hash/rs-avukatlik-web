@@ -2,7 +2,7 @@
 slug: "hmk-madde-26"
 title: "HMK Madde 26: MADDE 26- (1) Hâkim, tarafların talep sonuçlarıyla bağlıdır; ondan fazlasına vey..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 26 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

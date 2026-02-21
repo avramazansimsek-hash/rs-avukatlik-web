@@ -2,7 +2,7 @@
 slug: "cmk-madde-195"
 title: "CMK Madde 195: Madde 195 – (1) Suç, yalnız veya birlikte adlî para cezasını veya müsadereyi ger..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 195 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

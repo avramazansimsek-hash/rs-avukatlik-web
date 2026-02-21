@@ -2,7 +2,7 @@
 slug: "tmk-madde-819"
 title: "TMK Madde 819: Madde 819- Tüketilebilen şeylerin mülkiyeti, aksi kararlaştırılmadıkça, intifa h..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 819 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

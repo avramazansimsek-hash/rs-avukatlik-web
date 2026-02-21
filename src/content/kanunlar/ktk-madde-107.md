@@ -2,7 +2,7 @@
 slug: "ktk-madde-107"
 title: "KTK Madde 107: Madde 107 – Bir motorlu aracı çalan veya gasbeden kimse işleten gibi sorumlu tut..."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 107 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

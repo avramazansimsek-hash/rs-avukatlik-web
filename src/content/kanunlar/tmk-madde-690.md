@@ -2,7 +2,7 @@
 slug: "tmk-madde-690"
 title: "TMK Madde 690: Madde 690- Paydaşlardan her biri olağan yönetim işlerini yapmaya, özellikle küçü..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 690 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

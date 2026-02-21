@@ -2,7 +2,7 @@
 slug: "tmk-madde-1001"
 title: "TMK Madde 1001: Madde 1001- Kat mülkiyetine konu olan bağımsız bölümler, ayrıca tutulacak kat mü..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 1001 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

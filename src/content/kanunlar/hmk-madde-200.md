@@ -2,7 +2,7 @@
 slug: "hmk-madde-200"
 title: "HMK Madde 200: MADDE 200- (1) Bir hakkın doğumu, düşürülmesi, devri, değiştirilmesi, yenilenmes..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 200 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

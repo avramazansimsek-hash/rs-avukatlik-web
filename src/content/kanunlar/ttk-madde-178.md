@@ -2,7 +2,7 @@
 slug: "ttk-madde-178"
 title: "TTK Madde 178: MADDE 178- (1) Tam veya kısmi bölünmede, işçilerle yapılan hizmet sözleşmeleri,..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 178 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "hmk-madde-203"
 title: "HMK Madde 203: MADDE 203- (1) Aşağıdaki hâllerde tanık dinlenebilir:..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 203 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

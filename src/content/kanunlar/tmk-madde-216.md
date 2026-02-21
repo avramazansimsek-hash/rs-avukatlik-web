@@ -2,7 +2,7 @@
 slug: "tmk-madde-216"
 title: "TMK Madde 216: Madde 216- Eşlerden her biri, diğerinden her zaman mallarının envanterinin resmî..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 216 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

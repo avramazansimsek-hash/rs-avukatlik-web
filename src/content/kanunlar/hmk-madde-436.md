@@ -2,7 +2,7 @@
 slug: "hmk-madde-436"
 title: "HMK Madde 436: MADDE 436- (1) Hakem kararlarında;..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 436 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

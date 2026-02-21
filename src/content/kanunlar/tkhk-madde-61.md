@@ -2,7 +2,7 @@
 slug: "tkhk-madde-61"
 title: "TKHK Madde 61: MADDE 61- (1) Ticari reklam, ticaret, iş, zanaat veya bir meslekle bağlantılı ol..."
 category: "Tüketicinin Korunması Hakkında Kanun"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Tüketicinin Korunması Hakkında Kanun Madde 61 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

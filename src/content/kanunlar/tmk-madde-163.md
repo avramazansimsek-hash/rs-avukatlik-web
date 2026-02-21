@@ -2,7 +2,7 @@
 slug: "tmk-madde-163"
 title: "TMK Madde 163: Madde 163- Eşlerden biri küçük düşürücü bir suç işler veya haysiyetsiz bir hayat..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 163 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "hmk-madde-157"
 title: "HMK Madde 157: MADDE 157- (1) Mahkemede veya mahkeme dışında hâkim huzuruyla yapılacak bütün iş..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 157 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

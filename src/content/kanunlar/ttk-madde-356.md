@@ -2,7 +2,7 @@
 slug: "ttk-madde-356"
 title: "TTK Madde 356: MADDE 356- (1) Şirketin tescilinden itibaren iki yıl içinde bir işletme veya ayn..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 356 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

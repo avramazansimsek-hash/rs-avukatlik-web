@@ -2,7 +2,7 @@
 slug: "iyuk-madde-39"
 title: "IYUK Madde 39: Madde 39 – 1. Danıştayın dava konusu uyuşmazlığı incelemeye yetkili dairesi, bağ..."
 category: "İdari Yargılama Usulü Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İdari Yargılama Usulü Kanunu Madde 39 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

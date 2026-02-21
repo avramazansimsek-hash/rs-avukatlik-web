@@ -2,7 +2,7 @@
 slug: "ttk-madde-553"
 title: "TTK Madde 553: MADDE 553- (1) Kurucular, yönetim kurulu üyeleri, yöneticiler ve tasfiye memurla..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 553 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

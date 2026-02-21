@@ -2,7 +2,7 @@
 slug: "tmk-madde-363"
 title: "TMK Madde 363: Madde 363- Ana ve baba, çocuk mallarının geri verilmesinde vekil gibi sorumludur..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 363 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

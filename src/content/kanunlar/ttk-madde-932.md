@@ -2,7 +2,7 @@
 slug: "ttk-madde-932"
 title: "TTK Madde 932: MADDE 932- (1) Gövde, genel donatım, makine, kazan gibi esas kısımları bakımında..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 932 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

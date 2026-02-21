@@ -2,7 +2,7 @@
 slug: "ttk-madde-1417"
 title: "TTK Madde 1417: MADDE 1417- (1) Sigorta ettiren, aciz hâline düşen veya hakkında yapılan takip s..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1417 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

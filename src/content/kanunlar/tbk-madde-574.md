@@ -2,7 +2,7 @@
 slug: "tbk-madde-574"
 title: "TBK Madde 574: MADDE 574- Ardiyeci, kararlaştırılmış veya alışılmış olan ardiye ücretini ve sak..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 574 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tck-madde-8"
 title: "TCK Madde 8: Madde 8- (1) Türkiye'de işlenen suçlar hakkında Türk kanunları uygulanır. Fiilin..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 8 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

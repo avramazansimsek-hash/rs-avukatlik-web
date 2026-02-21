@@ -2,7 +2,7 @@
 slug: "iik-madde-98"
 title: "IIK Madde 98: Madde 98 – Çalınmış ve zayi edilmiş şeyler hakkında Kanunu Medeninin 902,903 ve..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 98 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

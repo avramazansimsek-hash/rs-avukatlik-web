@@ -2,7 +2,7 @@
 slug: "tck-madde-86"
 title: "TCK Madde 86: Madde 86- (1) Kasten başkasının vücuduna acı veren veya sağlığının ya da algılam..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 86 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

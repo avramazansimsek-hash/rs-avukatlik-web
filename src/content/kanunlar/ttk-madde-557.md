@@ -2,7 +2,7 @@
 slug: "ttk-madde-557"
 title: "TTK Madde 557: MADDE 557- (1) Birden çok kişinin aynı zararı tazminle yükümlü olmaları hâlinde,..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 557 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

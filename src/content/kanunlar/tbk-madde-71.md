@@ -2,7 +2,7 @@
 slug: "tbk-madde-71"
 title: "TBK Madde 71: MADDE 71- Önemli ölçüde tehlike arzeden bir işletmenin faaliyetinden zarar doğdu..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 71 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

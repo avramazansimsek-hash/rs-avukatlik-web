@@ -2,7 +2,7 @@
 slug: "ttk-madde-1380"
 title: "TTK Madde 1380: MADDE 1380- (1) Gemi alacaklıları ile alacakları gemi üzerinde hapis hakkı ile t..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1380 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

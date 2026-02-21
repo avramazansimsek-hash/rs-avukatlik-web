@@ -2,7 +2,7 @@
 slug: "tmk-madde-5"
 title: "TMK Madde 5: Madde 5 - Bu Kanun ve Borçlar Kanununun genel nitelikli hükümleri, uygun düştüğü..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 5 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

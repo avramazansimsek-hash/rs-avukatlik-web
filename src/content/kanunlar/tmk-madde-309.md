@@ -2,7 +2,7 @@
 slug: "tmk-madde-309"
 title: "TMK Madde 309: Madde 309- Evlât edinme, küçüğün ana ve babasının rızasını gerektirir...."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 309 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

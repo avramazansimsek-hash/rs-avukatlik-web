@@ -2,7 +2,7 @@
 slug: "hmk-madde-210"
 title: "HMK Madde 210: MADDE 210- (1) Güvenli elektronik imzayla oluşturulmuş verinin inkârı hâlinde, h..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 210 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

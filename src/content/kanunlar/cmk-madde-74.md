@@ -2,7 +2,7 @@
 slug: "cmk-madde-74"
 title: "CMK Madde 74: Madde 74 – (1) Fiili işlediği yolunda kuvvetli şüpheler bulunan şüpheli veya san..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 74 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

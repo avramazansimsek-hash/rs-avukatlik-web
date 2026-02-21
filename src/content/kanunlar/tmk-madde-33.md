@@ -2,7 +2,7 @@
 slug: "tmk-madde-33"
 title: "TMK Madde 33: Madde 33- Gaiplik kararının istenebilmesi için, ölüm tehlikesinin üzerinden en a..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 33 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

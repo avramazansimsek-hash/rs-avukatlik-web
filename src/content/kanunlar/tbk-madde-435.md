@@ -2,7 +2,7 @@
 slug: "tbk-madde-435"
 title: "TBK Madde 435: MADDE 435- Taraflardan her biri, haklı sebeplerle sözleşmeyi derhâl feshedebilir..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 435 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

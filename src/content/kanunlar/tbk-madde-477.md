@@ -2,7 +2,7 @@
 slug: "tbk-madde-477"
 title: "TBK Madde 477: MADDE 477- Eserin açıkça veya örtülü olarak kabulünden sonra, yüklenici her türl..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 477 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

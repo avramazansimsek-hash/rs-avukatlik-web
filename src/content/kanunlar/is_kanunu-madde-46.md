@@ -2,7 +2,7 @@
 slug: "is_kanunu-madde-46"
 title: "IS_KANUNU Madde 46: Madde 46 - Bu Kanun kapsamına giren işyerlerinde, işçilere tatil gününden önce 6..."
 category: "İş Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İş Kanunu Madde 46 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

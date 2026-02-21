@@ -2,7 +2,7 @@
 slug: "tmk-madde-571"
 title: "TMK Madde 571: Madde 571- Tenkis davası açma hakkı, mirasçıların saklı paylarının zedelendiğini..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 571 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

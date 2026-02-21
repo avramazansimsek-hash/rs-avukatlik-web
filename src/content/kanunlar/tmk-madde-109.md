@@ -2,7 +2,7 @@
 slug: "tmk-madde-109"
 title: "TMK Madde 109: Madde 109- Vakfın bir yönetim organının bulunması zorunludur. Vakfeden, vakıf se..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 109 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

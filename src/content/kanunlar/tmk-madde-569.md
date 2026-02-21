@@ -2,7 +2,7 @@
 slug: "tmk-madde-569"
 title: "TMK Madde 569: Madde 569- Mirası artmirasçıya geçirme yükümlülüğü ile saklı payı zedelenen mira..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 569 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

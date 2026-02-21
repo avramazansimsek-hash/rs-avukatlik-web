@@ -2,7 +2,7 @@
 slug: "tbk-madde-51"
 title: "TBK Madde 51: MADDE 51- Hâkim, tazminatın kapsamını ve ödenme biçimini, durumun gereğini ve öz..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 51 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

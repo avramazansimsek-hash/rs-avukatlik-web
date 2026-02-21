@@ -2,7 +2,7 @@
 slug: "hmk-madde-178"
 title: "HMK Madde 178: MADDE 178- (1) Islah eden taraf, ıslah sebebiyle geçersiz hâle gelen işlemler iç..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 178 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

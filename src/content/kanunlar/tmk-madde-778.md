@@ -2,7 +2,7 @@
 slug: "tmk-madde-778"
 title: "TMK Madde 778: Madde 778- Taşınır mülkiyeti, malik tarafından terk edilmedikçe veya başkası tar..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 778 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

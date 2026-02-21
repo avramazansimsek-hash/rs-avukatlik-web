@@ -2,7 +2,7 @@
 slug: "iik-madde-243"
 title: "IIK Madde 243: Madde 243 – İflas idaresi tarafından artırma ile satılacak taşınır ve taşınmaz m..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 243 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

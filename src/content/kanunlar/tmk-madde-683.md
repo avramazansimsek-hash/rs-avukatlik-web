@@ -2,7 +2,7 @@
 slug: "tmk-madde-683"
 title: "TMK Madde 683: Madde 683- Bir şeye malik olan kimse, hukuk düzeninin sınırları içinde, o şey üz..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 683 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

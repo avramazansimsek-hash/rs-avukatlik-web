@@ -2,7 +2,7 @@
 slug: "ttk-madde-407"
 title: "TTK Madde 407: MADDE 407- (1) Pay sahipleri şirket işlerine ilişkin haklarını genel kurulda kul..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 407 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

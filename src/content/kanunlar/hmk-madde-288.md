@@ -2,7 +2,7 @@
 slug: "hmk-madde-288"
 title: "HMK Madde 288: MADDE 288- (1) Hâkim, uyuşmazlık konusu hakkında bizzat duyu organları yardımıyl..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 288 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

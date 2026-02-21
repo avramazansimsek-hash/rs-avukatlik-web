@@ -2,7 +2,7 @@
 slug: "tmk-madde-184"
 title: "TMK Madde 184: Madde 184- Boşanmada yargılama, aşağıdaki kurallar saklı kalmak üzere Hukuk Usul..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 184 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

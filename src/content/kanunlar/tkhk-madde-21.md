@@ -2,7 +2,7 @@
 slug: "tkhk-madde-21"
 title: "TKHK Madde 21: MADDE 21- (1) Tüketicinin taşınır bir malın satış bedelini önceden kısım kısım ö..."
 category: "Tüketicinin Korunması Hakkında Kanun"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Tüketicinin Korunması Hakkında Kanun Madde 21 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

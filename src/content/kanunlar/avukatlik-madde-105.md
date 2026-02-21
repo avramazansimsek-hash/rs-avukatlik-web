@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-105"
 title: "AVUKATLIK Madde 105: Madde 105 – (Değişik: 22/1/1986 - 3256/15 md.)..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 105 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

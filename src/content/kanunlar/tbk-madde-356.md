@@ -2,7 +2,7 @@
 slug: "tbk-madde-356"
 title: "TBK Madde 356: MADDE 356- Ölen kiracının ortakları veya bu ortakların aynı meslek ve sanatı yür..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 356 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

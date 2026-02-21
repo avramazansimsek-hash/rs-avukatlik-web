@@ -2,7 +2,7 @@
 slug: "hmk-madde-418"
 title: "HMK Madde 418: MADDE 418- (1) Taraflar, hakemin reddi usulünü serbestçe kararlaştırabilirler...."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 418 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

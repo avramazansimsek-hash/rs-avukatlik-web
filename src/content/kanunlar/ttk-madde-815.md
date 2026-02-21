@@ -2,7 +2,7 @@
 slug: "ttk-madde-815"
 title: "TTK Madde 815: MADDE 815- (1) Bu Kısımda geçen “banka”dan amaç, Bankacılık Kanununa tabi olan k..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 815 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

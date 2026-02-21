@@ -2,7 +2,7 @@
 slug: "ttk-madde-677"
 title: "TTK Madde 677: MADDE 677- (1) Bir poliçe, poliçe ile borçlanmaya ehil olmayan kişilerin imzasın..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 677 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

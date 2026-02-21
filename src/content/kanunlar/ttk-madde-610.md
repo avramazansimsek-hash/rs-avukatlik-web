@@ -2,7 +2,7 @@
 slug: "ttk-madde-610"
 title: "TTK Madde 610: MADDE 610- (1) Anonim şirketlere ilişkin 514 ilâ 527 nci madde hükümleri limited..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 610 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

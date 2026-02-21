@@ -2,7 +2,7 @@
 slug: "ttk-madde-564"
 title: "TTK Madde 564: MADDE 564- (1) Sermayesi paylara bölünmüş komandit şirket, sermayesi paylara böl..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 564 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

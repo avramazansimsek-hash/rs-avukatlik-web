@@ -2,7 +2,7 @@
 slug: "ttk-madde-596"
 title: "TTK Madde 596: MADDE 596- (1) Esas sermaye payının, miras, eşler arasındaki mal rejimine ilişki..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 596 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

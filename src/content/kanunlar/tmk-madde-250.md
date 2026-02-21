@@ -2,7 +2,7 @@
 slug: "tmk-madde-250"
 title: "TMK Madde 250: Madde 250- Eşlerden biri tarafından paylaşmalı mal ayrılığı rejiminin kurulmasın..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 250 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

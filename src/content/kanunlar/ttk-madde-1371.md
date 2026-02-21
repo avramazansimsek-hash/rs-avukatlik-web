@@ -2,7 +2,7 @@
 slug: "ttk-madde-1371"
 title: "TTK Madde 1371: MADDE 1371- (1) Geminin maliki veya borçlu, geminin değerini geçmemek kaydıyla,..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1371 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

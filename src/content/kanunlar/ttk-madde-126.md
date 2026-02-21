@@ -2,7 +2,7 @@
 slug: "ttk-madde-126"
 title: "TTK Madde 126: MADDE 126- (1) Her şirket türüne özgü hükümler saklı kalmak şartıyla, Türk Meden..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 126 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

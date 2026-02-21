@@ -2,7 +2,7 @@
 slug: "tmk-madde-708"
 title: "TMK Madde 708: Madde 708- Birikme, dolma, toprak kayması veya kamuya ait suların yatağında ya d..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 708 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

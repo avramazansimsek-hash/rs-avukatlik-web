@@ -2,7 +2,7 @@
 slug: "ttk-madde-1024"
 title: "TTK Madde 1024: MADDE 1024- (1) İpotekli alacaklı, ipoteği sigortacıya bildirmişse, sigorta prim..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1024 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "hmk-madde-137"
 title: "HMK Madde 137: MADDE 137- (1) Dilekçelerin karşılıklı verilmesinden sonra ön inceleme yapılır...."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 137 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

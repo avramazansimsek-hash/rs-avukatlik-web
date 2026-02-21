@@ -2,7 +2,7 @@
 slug: "ttk-madde-801"
 title: "TTK Madde 801: MADDE 801- (1) Cirosu kabil bir çeki ödeyecek muhatap, cirolar arasında düzenli..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 801 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-192"
 title: "TTK Madde 192: MADDE 192- (1) 134 ilâ 190 ıncı maddelerin ihlali hâlinde, birleşme, bölünme ve..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 192 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

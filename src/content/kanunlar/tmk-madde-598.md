@@ -2,7 +2,7 @@
 slug: "tmk-madde-598"
 title: "TMK Madde 598: Madde 598- Başvurusu üzerine yasal mirasçı oldukları belirlenenlere, sulh mahkem..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 598 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

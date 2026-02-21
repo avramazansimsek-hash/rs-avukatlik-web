@@ -2,7 +2,7 @@
 slug: "ttk-madde-36"
 title: "TTK Madde 36: MADDE 36- (1) Ticaret sicili kayıtları nerede bulunurlarsa bulunsunlar, üçüncü k..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 36 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-1242"
 title: "TTK Madde 1242: MADDE 1242- (1) Taşıyanın taşınacak eşyayı teslim aldığını göstermek üzere düzen..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1242 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

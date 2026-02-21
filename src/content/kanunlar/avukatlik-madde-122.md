@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-122"
 title: "AVUKATLIK Madde 122: Madde 122 – Birlik başkanı, birlik genel kurulu tarafından, kendi üyeleri arasın..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 122 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

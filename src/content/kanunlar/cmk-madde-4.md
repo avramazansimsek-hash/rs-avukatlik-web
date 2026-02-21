@@ -1,8 +1,8 @@
 ---
 slug: "cmk-madde-4"
-title: "CMK Madde 4: Madde 4..."
+title: "CMK Madde 4: Madde 4 – (1) Davaya bakan mahkeme, görevli olup olmadığına kovuşturma evresinin..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 4 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 
@@ -11,20 +11,13 @@ excerpt: "Ceza Muhakemesi Kanunu Madde 4 tam metni, gerekçesi ve Av. Ramazan Ş
 ## Kanun Metni
 
 ```text
-Madde 4
+Madde 4 – (1) Davaya bakan mahkeme, görevli olup olmadığına kovuşturma evresinin her aşamasında re'sen karar verebilir. 6 ncı madde hükmü saklıdır.
 
-	
+(2) Görev konusunda mahkemeler arasında uyuşmazlık çıktığında, görevli mahkemeyi ortak yüksek görevli mahkeme belirler.
 
-28/2/2019
+ 
 
-
-
-
-7188
-
-	
-
-102, 171, 174, 234, 236, 250, 251, 252, 253, 280, 282, 286, 308/A, Geçici
+Görevsizlik kararı verilmesi gereken hâl ve sonucu
 ```
 
 

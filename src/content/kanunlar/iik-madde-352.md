@@ -2,7 +2,7 @@
 slug: "iik-madde-352"
 title: "IIK Madde 352: Madde 352 – İcra mahkemesi iki tarafın ifadelerini ve bütün delillerini ve iddia..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 352 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

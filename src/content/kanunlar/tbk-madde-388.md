@@ -2,7 +2,7 @@
 slug: "tbk-madde-388"
 title: "TBK Madde 388: MADDE 388- Tüketim ödüncü sözleşmesinde faiz oranı belirlenmemişse, kural olarak..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 388 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

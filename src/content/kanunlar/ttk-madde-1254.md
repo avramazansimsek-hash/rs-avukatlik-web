@@ -2,7 +2,7 @@
 slug: "ttk-madde-1254"
 title: "TTK Madde 1254: MADDE 1254- (1) Taşıyan, deniz yoluyla yolcu taşıma sözleşmesinden doğan bütün a..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1254 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

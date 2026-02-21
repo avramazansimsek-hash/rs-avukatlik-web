@@ -2,7 +2,7 @@
 slug: "tmk-madde-665"
 title: "TMK Madde 665: Madde 665- (Mülga: 30/4/2014-6537/9 md.)..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 665 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

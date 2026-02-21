@@ -2,7 +2,7 @@
 slug: "hmk-madde-404"
 title: "HMK Madde 404: MADDE 404- (1) Tespiti istenen vakıanın hangi delille tespit edileceğine karar v..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 404 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

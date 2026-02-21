@@ -2,7 +2,7 @@
 slug: "ttk-madde-283"
 title: "TTK Madde 283: MADDE 283- (1) Tasfiye memurlarının atanmalarına, değiştirilmelerine, görevden a..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 283 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

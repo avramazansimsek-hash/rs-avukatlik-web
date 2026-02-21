@@ -2,7 +2,7 @@
 slug: "ttk-madde-917"
 title: "TTK Madde 917: MADDE 917- (1) Taşıma işleri komisyonculuğu sözleşmesi ile komisyoncu eşya taşıt..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 917 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-1072"
 title: "TTK Madde 1072: MADDE 1072- (1) Gemi müdürünün kanuni temsil yetkisinin sınırlandırılması, donat..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1072 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

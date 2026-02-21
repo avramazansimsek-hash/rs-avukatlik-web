@@ -2,7 +2,7 @@
 slug: "iik-madde-247"
 title: "IIK Madde 247: Madde 247 – Satılan malların bedeli tahsil edilip alacaklıların sıra cetveli kat..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 247 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

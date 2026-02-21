@@ -2,7 +2,7 @@
 slug: "ttk-madde-1217"
 title: "TTK Madde 1217: MADDE 1217- (1) Yolculuk başladıktan sonra eşyanın umulmayan bir hâl yüzünden bi..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1217 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

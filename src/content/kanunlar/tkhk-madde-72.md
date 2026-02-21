@@ -2,7 +2,7 @@
 slug: "tkhk-madde-72"
 title: "TKHK Madde 72: MADDE 72- (1) Tüketici hakem heyetlerinin kurulması, çalışma usul ve esasları, r..."
 category: "Tüketicinin Korunması Hakkında Kanun"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Tüketicinin Korunması Hakkında Kanun Madde 72 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

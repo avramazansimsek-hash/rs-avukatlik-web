@@ -2,7 +2,7 @@
 slug: "tmk-madde-252"
 title: "TMK Madde 252: Madde 252- Zina veya hayata kast nedeniyle boşanma hâlinde hâkim, kusurlu eşin p..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 252 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

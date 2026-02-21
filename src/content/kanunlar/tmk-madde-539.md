@@ -2,7 +2,7 @@
 slug: "tmk-madde-539"
 title: "TMK Madde 539: Madde 539- Mirasbırakan; yakın ölüm tehlikesi, ulaşımın kesilmesi, hastalık, sav..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 539 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

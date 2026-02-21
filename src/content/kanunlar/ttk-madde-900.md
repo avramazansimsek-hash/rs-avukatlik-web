@@ -2,7 +2,7 @@
 slug: "ttk-madde-900"
 title: "TTK Madde 900: MADDE 900- (1) Eşyanın zıyaından veya hasara uğramasından doğan istem hakları, 8..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 900 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

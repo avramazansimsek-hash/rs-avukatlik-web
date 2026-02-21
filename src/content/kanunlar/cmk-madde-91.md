@@ -2,7 +2,7 @@
 slug: "cmk-madde-91"
 title: "CMK Madde 91: Madde 91 – (1) Yukarıdaki maddeye göre yakalanan kişi, Cumhuriyet Savcılığınca b..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 91 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

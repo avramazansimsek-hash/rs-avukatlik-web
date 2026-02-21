@@ -2,7 +2,7 @@
 slug: "tmk-madde-800"
 title: "TMK Madde 800: Madde 800- İntifa hakkı sahibi, zararın kendi kusurundan ileri gelmediğini ispat..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 800 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

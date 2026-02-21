@@ -2,7 +2,7 @@
 slug: "iik-madde-42"
 title: "IIK Madde 42: Madde 42 – Bir paranın ödenmesine veya bir teminatın verilmesine dair olan cebri..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 42 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

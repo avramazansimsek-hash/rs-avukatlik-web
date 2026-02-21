@@ -2,7 +2,7 @@
 slug: "tmk-madde-426"
 title: "TMK Madde 426: Madde 426- Vesayet makamı, aşağıda yazılı olan veya kanunda gösterilen diğer hâl..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 426 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tck-madde-210"
 title: "TCK Madde 210: Madde 210- (1) Özel belgede sahtecilik suçunun konusunun, emre veya hamile yazıl..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 210 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

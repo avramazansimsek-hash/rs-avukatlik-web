@@ -2,7 +2,7 @@
 slug: "tbk-madde-588"
 title: "TBK Madde 588: MADDE 588- Alacaklıya, kefilin borcu için güvence veren kefile kefil, kefil ile..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 588 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

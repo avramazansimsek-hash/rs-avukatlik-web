@@ -2,7 +2,7 @@
 slug: "ttk-madde-1412"
 title: "TTK Madde 1412: MADDE 1412- (1) Kanunda sigorta ettirenin bilgisine ve davranışına hukuki sonuç..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1412 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

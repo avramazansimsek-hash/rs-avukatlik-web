@@ -2,7 +2,7 @@
 slug: "ttk-madde-618"
 title: "TTK Madde 618: MADDE 618- (1) Ortakların oy hakkı esas sermaye paylarının itibarî değerine göre..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 618 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

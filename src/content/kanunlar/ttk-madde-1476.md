@@ -2,7 +2,7 @@
 slug: "ttk-madde-1476"
 title: "TTK Madde 1476: MADDE 1476- (1) Sigortacı, 1475 inci maddeye uygun olarak bildirimde bulunulması..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1476 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

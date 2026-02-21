@@ -2,7 +2,7 @@
 slug: "ttk-madde-779"
 title: "TTK Madde 779: MADDE 779- (1) Bir bonoyu düzenleyen kişi, tıpkı bir poliçeyi kabul eden gibi so..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 779 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

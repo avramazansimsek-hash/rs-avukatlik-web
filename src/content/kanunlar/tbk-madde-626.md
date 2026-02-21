@@ -2,7 +2,7 @@
 slug: "tbk-madde-626"
 title: "TBK Madde 626: MADDE 626- Ortaklar, kendilerinin veya üçüncü kişilerin menfaatine olarak, ortak..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 626 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

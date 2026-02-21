@@ -2,7 +2,7 @@
 slug: "ttk-madde-877"
 title: "TTK Madde 877: MADDE 877- (1) Taşıyıcı, taşıma aracındaki arızaya, taşıtı kiraladığı kişinin on..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 877 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

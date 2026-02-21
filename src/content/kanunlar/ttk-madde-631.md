@@ -2,7 +2,7 @@
 slug: "ttk-madde-631"
 title: "TTK Madde 631: MADDE 631- (1) Şirket sözleşmesinde başka şekilde düzenlenmediği takdirde, ticar..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 631 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

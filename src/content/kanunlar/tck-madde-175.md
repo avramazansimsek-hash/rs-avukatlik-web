@@ -2,7 +2,7 @@
 slug: "tck-madde-175"
 title: "TCK Madde 175: Madde 175- (1) Akıl hastası üzerindeki bakım ve gözetim yükümlülüğünü, başkaları..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 175 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

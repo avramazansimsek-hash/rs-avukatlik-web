@@ -2,7 +2,7 @@
 slug: "ttk-madde-776"
 title: "TTK Madde 776: MADDE 776- (1) Bono veya emre yazılı senet;..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 776 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

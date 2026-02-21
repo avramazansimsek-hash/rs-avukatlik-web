@@ -2,7 +2,7 @@
 slug: "tmk-madde-197"
 title: "TMK Madde 197: Madde 197 - Eşlerden biri, ortak hayat sebebiyle kişiliği, ekonomik güvenliği ve..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 197 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

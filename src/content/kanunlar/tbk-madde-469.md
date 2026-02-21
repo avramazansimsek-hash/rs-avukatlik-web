@@ -2,7 +2,7 @@
 slug: "tbk-madde-469"
 title: "TBK Madde 469: MADDE 469- Pazarlamacılık sözleşmesine ve evde hizmet sözleşmesine ilişkin hüküm..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 469 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

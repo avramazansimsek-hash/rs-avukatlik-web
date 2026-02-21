@@ -2,7 +2,7 @@
 slug: "cmk-madde-330"
 title: "CMK Madde 330: Madde 330 – (1) Kanun yollarından birine başvuran taraf, bu başvurusunu geri alm..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 330 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

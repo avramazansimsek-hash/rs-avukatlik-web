@@ -2,7 +2,7 @@
 slug: "tck-madde-154"
 title: "TCK Madde 154: Madde 154- (1) (Değişik: 25/2/2009-5841/1 md.) Bir hakka dayanmaksızın başkasına..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 154 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

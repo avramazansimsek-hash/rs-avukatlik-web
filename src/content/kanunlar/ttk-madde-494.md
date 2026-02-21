@@ -2,7 +2,7 @@
 slug: "ttk-madde-494"
 title: "TTK Madde 494: MADDE 494- (1) Devir için gerekli olan onay verilmediği sürece, payların mülkiye..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 494 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "iik-madde-77"
 title: "IIK Madde 77: Madde 77 – İcra dairesine vakı olan beyanda malı olmadığını bildirmiş veya borcu..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 77 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

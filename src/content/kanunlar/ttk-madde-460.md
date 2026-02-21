@@ -2,7 +2,7 @@
 slug: "ttk-madde-460"
 title: "TTK Madde 460: MADDE 460- (1) Halka açık olmayan bir anonim şirkette, ilk veya değiştirilmiş es..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 460 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

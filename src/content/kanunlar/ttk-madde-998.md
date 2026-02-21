@@ -2,7 +2,7 @@
 slug: "ttk-madde-998"
 title: "TTK Madde 998: MADDE 998- (1) Sahipsiz bir gemiyi sahiplenme hakkı sadece Devletindir. Sahipsiz..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 998 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

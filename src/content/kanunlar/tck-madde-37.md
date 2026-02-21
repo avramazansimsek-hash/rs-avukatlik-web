@@ -2,7 +2,7 @@
 slug: "tck-madde-37"
 title: "TCK Madde 37: Madde 37- (1) Suçun kanuni tanımında yer alan fiili birlikte gerçekleştiren kişi..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 37 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

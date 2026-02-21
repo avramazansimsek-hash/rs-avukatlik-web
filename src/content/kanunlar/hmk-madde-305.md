@@ -2,7 +2,7 @@
 slug: "hmk-madde-305"
 title: "HMK Madde 305: MADDE 305- (1) Hüküm yeterince açık değilse veya icrasında tereddüt uyandırıyor..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 305 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

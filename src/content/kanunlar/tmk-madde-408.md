@@ -2,7 +2,7 @@
 slug: "tmk-madde-408"
 title: "TMK Madde 408: Madde 408- Yaşlılığı, engelliliği, deneyimsizliği veya ağır hastalığı sebebiyle..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 408 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

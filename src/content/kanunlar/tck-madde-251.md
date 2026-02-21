@@ -2,7 +2,7 @@
 slug: "tck-madde-251"
 title: "TCK Madde 251: Madde 251- (1) Zimmet veya irtikap suçunun işlenmesine kasten göz yuman denetiml..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 251 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

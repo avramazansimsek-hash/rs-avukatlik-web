@@ -2,7 +2,7 @@
 slug: "ttk-madde-1017"
 title: "TTK Madde 1017: MADDE 1017- (1) Gemi üzerindeki ipoteklerin dereceleri, Türk Medenî Kanununun ta..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1017 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

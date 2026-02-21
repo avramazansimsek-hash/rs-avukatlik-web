@@ -2,7 +2,7 @@
 slug: "iik-madde-34"
 title: "IIK Madde 34: Madde 34 – İlamların icrası her icra dairesinden talep olunabilir. Alacaklı yerl..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 34 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

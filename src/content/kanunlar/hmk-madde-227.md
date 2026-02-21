@@ -2,7 +2,7 @@
 slug: "hmk-madde-227"
 title: "HMK Madde 227: MADDE 227- (1) Uyuşmazlık konusu vakıanın ispatı için yeminden başka delili oldu..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 227 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

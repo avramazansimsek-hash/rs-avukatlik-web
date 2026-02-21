@@ -2,7 +2,7 @@
 slug: "ttk-madde-632"
 title: "TTK Madde 632: MADDE 632- (1) Şirketin yönetimi ve temsili ile yetkilendirilen kişinin, şirkete..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 632 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

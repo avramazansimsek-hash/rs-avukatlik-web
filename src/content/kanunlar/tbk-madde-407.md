@@ -2,7 +2,7 @@
 slug: "tbk-madde-407"
 title: "TBK Madde 407: MADDE 407- Çalıştırılan işçilerin ücret, prim, ikramiye ve bu nitelikteki her çe..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 407 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

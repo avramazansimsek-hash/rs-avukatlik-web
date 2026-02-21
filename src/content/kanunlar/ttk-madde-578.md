@@ -2,7 +2,7 @@
 slug: "ttk-madde-578"
 title: "TTK Madde 578: MADDE 578- (1) Ayni sermaye, ayınların veya işletmelerin devralınması ve özel me..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 578 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

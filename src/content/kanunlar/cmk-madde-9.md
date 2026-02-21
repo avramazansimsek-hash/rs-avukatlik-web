@@ -2,7 +2,7 @@
 slug: "cmk-madde-9"
 title: "CMK Madde 9: Madde 9 – (1) Bağlantılı suçlardan her biri değişik mahkemelerin görevine giriyo..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 9 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

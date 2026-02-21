@@ -2,7 +2,7 @@
 slug: "ttk-madde-1266"
 title: "TTK Madde 1266: MADDE 1266- (1) 1262 ve 1263 üncü maddelerde öngörülen sorumluluk sınırları, yol..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1266 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

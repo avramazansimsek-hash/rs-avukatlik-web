@@ -2,7 +2,7 @@
 slug: "ttk-madde-511"
 title: "TTK Madde 511: MADDE 511- (1) Yönetim kurulu üyelerine kazanç payları, sadece net kârdan ve anc..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 511 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

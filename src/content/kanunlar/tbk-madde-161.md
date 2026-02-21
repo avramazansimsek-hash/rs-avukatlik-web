@@ -2,7 +2,7 @@
 slug: "tbk-madde-161"
 title: "TBK Madde 161: MADDE 161- Zamanaşımı ileri sürülmedikçe, hâkim bunu kendiliğinden göz önüne ala..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 161 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

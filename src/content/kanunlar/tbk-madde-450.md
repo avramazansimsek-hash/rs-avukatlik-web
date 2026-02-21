@@ -2,7 +2,7 @@
 slug: "tbk-madde-450"
 title: "TBK Madde 450: MADDE 450- Pazarlamacı, talimata uymamasını zorunlu kılan haklı bir sebep olmadı..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 450 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

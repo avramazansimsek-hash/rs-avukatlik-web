@@ -2,7 +2,7 @@
 slug: "ttk-madde-77"
 title: "TTK Madde 77: MADDE 77- (1) Bono düzenlenmesi ile poliçe ve çek düzenlenmesinden, devrinden, p..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 77 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

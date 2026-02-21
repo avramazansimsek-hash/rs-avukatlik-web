@@ -2,7 +2,7 @@
 slug: "tkhk-madde-73"
 title: "TKHK Madde 73: MADDE 73- (1) Tüketici işlemleri ile tüketiciye yönelik uygulamalardan doğabilec..."
 category: "Tüketicinin Korunması Hakkında Kanun"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Tüketicinin Korunması Hakkında Kanun Madde 73 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

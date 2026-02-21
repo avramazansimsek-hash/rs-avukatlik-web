@@ -2,7 +2,7 @@
 slug: "tmk-madde-579"
 title: "TMK Madde 579: Madde 579- Mirastan yoksunluk, yalnız yoksun olanı etkiler...."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 579 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

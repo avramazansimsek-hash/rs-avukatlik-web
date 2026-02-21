@@ -2,7 +2,7 @@
 slug: "ttk-madde-382"
 title: "TTK Madde 382: MADDE 382- (1) Bir şirket, 379 uncu madde hükümleri ile bağlı olmaksızın;..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 382 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

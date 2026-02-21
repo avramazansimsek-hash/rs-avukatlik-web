@@ -2,7 +2,7 @@
 slug: "tmk-madde-810"
 title: "TMK Madde 810: Madde 810- İntifa hakkı sahibi, kendisine tanınan uygun süre içinde güvence göst..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 810 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

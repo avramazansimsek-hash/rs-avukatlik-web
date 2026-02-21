@@ -2,7 +2,7 @@
 slug: "tmk-madde-204"
 title: "TMK Madde 204: Madde 204- Mal rejimi sözleşmesi, ancak ayırt etme gücüne sahip olanlar tarafınd..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 204 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

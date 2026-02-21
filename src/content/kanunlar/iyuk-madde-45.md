@@ -2,7 +2,7 @@
 slug: "iyuk-madde-45"
 title: "IYUK Madde 45: Madde 45 – (Değişik: 18/6/2014-6545/19 md.)..."
 category: "İdari Yargılama Usulü Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İdari Yargılama Usulü Kanunu Madde 45 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

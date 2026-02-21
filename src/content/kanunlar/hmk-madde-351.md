@@ -2,7 +2,7 @@
 slug: "hmk-madde-351"
 title: "HMK Madde 351: MADDE 351- (1) İstinaf başvurusunun kötüniyetle yapıldığı anlaşılırsa, bölge adl..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 351 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-997"
 title: "TTK Madde 997: MADDE 997- (1) Türk Gemi Siciline kayıtlı bulunmayan Türk gemileri üzerindeki mü..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 997 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

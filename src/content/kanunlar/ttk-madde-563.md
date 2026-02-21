@@ -2,7 +2,7 @@
 slug: "ttk-madde-563"
 title: "TTK Madde 563: MADDE 563- (Mülga: 26/6/2012-6335/43 md.)..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 563 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

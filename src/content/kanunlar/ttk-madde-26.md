@@ -2,7 +2,7 @@
 slug: "ttk-madde-26"
 title: "TTK Madde 26: MADDE 26- (1) Ticaret sicili müdürlüğünün kurulması, sicil defterlerinin tutulma..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 26 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

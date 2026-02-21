@@ -2,7 +2,7 @@
 slug: "tmk-madde-742"
 title: "TMK Madde 742: Madde 742- Taşınmaz maliki, üst taraftaki araziden kendi arazisine doğal olarak..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 742 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

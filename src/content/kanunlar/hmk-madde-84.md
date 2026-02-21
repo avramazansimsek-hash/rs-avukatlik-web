@@ -2,7 +2,7 @@
 slug: "hmk-madde-84"
 title: "HMK Madde 84: MADDE 84- (1) Aşağıdaki hâllerde davalı tarafın muhtemel yargılama giderlerini k..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 84 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

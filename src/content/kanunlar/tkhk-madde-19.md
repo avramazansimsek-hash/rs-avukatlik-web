@@ -2,7 +2,7 @@
 slug: "tkhk-madde-19"
 title: "TKHK Madde 19: MADDE 19- (1) Taksitle satış sözleşmelerinde tüketicinin taksitleri ödemede teme..."
 category: "Tüketicinin Korunması Hakkında Kanun"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Tüketicinin Korunması Hakkında Kanun Madde 19 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

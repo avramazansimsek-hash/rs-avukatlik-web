@@ -2,7 +2,7 @@
 slug: "tmk-madde-792"
 title: "TMK Madde 792: Madde 792- Yararlanan taşınmazın parsellere bölünmesi hâlinde kural, irtifak hak..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 792 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

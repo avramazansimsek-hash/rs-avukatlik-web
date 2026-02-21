@@ -2,7 +2,7 @@
 slug: "tmk-madde-347"
 title: "TMK Madde 347: Madde 347- Çocuğun bedensel ve zihinsel gelişmesi tehlikede bulunur veya çocuk m..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 347 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

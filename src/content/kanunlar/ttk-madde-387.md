@@ -2,7 +2,7 @@
 slug: "ttk-madde-387"
 title: "TTK Madde 387: MADDE 387- (1) Şirketin kendi paylarını iktisap edebileceğine ilişkin diğer kanu..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 387 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

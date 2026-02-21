@@ -2,7 +2,7 @@
 slug: "tbk-madde-202"
 title: "TBK Madde 202: MADDE 202- Bir malvarlığını veya bir işletmeyi aktif ve pasifleri ile birlikte d..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 202 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

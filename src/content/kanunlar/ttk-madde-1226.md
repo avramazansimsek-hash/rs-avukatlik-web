@@ -2,7 +2,7 @@
 slug: "ttk-madde-1226"
 title: "TTK Madde 1226: MADDE 1226- (1) Navlun sözleşmesi yolculuk başladıktan sonra bu Ayırımda öngörül..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1226 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

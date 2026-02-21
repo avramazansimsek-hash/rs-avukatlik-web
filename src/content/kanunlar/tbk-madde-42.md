@@ -2,7 +2,7 @@
 slug: "tbk-madde-42"
 title: "TBK Madde 42: MADDE 42- Temsil olunan, hukuki bir işlemden doğan temsil yetkisini her zaman sı..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 42 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

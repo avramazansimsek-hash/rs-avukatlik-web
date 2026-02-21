@@ -2,7 +2,7 @@
 slug: "cmk-madde-166"
 title: "CMK Madde 166: Madde 166 – (1) Cumhuriyet başsavcıları her yılın sonunda, o yerdeki adlî kolluğ..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 166 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

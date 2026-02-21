@@ -2,7 +2,7 @@
 slug: "tmk-madde-615"
 title: "TMK Madde 615: Madde 615- Önemli sebeplerin varlığı hâlinde sulh hâkimi, yasal ve atanmış miras..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 615 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

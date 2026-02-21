@@ -2,7 +2,7 @@
 slug: "tbk-madde-406"
 title: "TBK Madde 406: MADDE 406- Aksine âdet olmadıkça, işçiye ücreti her ayın sonunda ödenir. Ancak,..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 406 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

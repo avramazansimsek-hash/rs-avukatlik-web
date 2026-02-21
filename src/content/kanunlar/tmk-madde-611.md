@@ -2,7 +2,7 @@
 slug: "tmk-madde-611"
 title: "TMK Madde 611: Madde 611- Yasal mirasçılardan biri mirası reddederse onun payı, miras açıldığı..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 611 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

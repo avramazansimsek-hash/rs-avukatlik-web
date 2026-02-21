@@ -2,7 +2,7 @@
 slug: "ttk-madde-151"
 title: "TTK Madde 151: MADDE 151- (1) Yönetim organı, genel kurula birleşme sözleşmesini sunar. Birleşm..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 151 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

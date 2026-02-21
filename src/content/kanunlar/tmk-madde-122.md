@@ -2,7 +2,7 @@
 slug: "tmk-madde-122"
 title: "TMK Madde 122: Madde 122- Nişanlılık evlenme dışındaki bir sebeple sona ererse, nişanlıların bi..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 122 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

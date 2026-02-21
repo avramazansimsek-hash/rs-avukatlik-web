@@ -2,7 +2,7 @@
 slug: "tck-madde-58"
 title: "TCK Madde 58: Madde 58- (1) Önceden işlenen suçtan dolayı verilen hüküm kesinleştikten sonra y..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 58 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

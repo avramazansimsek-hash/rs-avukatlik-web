@@ -2,7 +2,7 @@
 slug: "tbk-madde-514"
 title: "TBK Madde 514: MADDE 514- Vekilin sözleşmenin sona erdiğini öğrenmeden önce yaptığı işlerden, v..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 514 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tbk-madde-592"
 title: "TBK Madde 592: MADDE 592- Alacaklı, kefalet sırasında var olan veya daha sonra asıl borçludan a..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 592 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

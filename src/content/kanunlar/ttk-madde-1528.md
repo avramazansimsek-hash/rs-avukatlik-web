@@ -2,7 +2,7 @@
 slug: "ttk-madde-1528"
 title: "TTK Madde 1528: MADDE 1528- (1) Elektronik ortamı kullanmak isteyen ortaklar, pay sahipleri ve y..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1528 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

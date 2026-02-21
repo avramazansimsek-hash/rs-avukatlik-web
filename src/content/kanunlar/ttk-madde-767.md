@@ -2,7 +2,7 @@
 slug: "ttk-madde-767"
 title: "TTK Madde 767: MADDE 767- (1) Poliçe ile yapılan borçlanmaların şekli, bu borçlanmaların imzala..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 767 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

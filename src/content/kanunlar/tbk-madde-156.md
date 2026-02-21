@@ -2,7 +2,7 @@
 slug: "tbk-madde-156"
 title: "TBK Madde 156: MADDE 156- Zamanaşımının kesilmesiyle, yeni bir süre işlemeye başlar...."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 156 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-1519"
 title: "TTK Madde 1519: MADDE 1519- (1) Hayat sigortalarına ilişkin hükümler 1497 ve 1504 üncü madde hük..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1519 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

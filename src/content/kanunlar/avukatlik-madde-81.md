@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-81"
 title: "AVUKATLIK Madde 81: Madde 81 – Genel Kurulun görevleri şunlardır:..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 81 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

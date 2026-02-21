@@ -2,7 +2,7 @@
 slug: "tmk-madde-617"
 title: "TMK Madde 617: Madde 617- Malvarlığı borcuna yetmeyen mirasçı, alacaklılarına zarar vermek amac..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 617 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

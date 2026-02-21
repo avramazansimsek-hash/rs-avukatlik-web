@@ -2,7 +2,7 @@
 slug: "ttk-madde-1271"
 title: "TTK Madde 1271: MADDE 1271- (1) Yolcunun ölümü veya yaralanması sonucunu doğuran olaydan veya ba..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1271 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

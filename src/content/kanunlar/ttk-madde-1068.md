@@ -2,7 +2,7 @@
 slug: "ttk-madde-1068"
 title: "TTK Madde 1068: MADDE 1068- (1) Donatma iştirakinin işlerinin görülmesi için oy çoğunluğu ile bi..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1068 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

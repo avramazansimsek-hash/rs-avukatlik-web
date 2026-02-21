@@ -2,7 +2,7 @@
 slug: "is_kanunu-madde-20"
 title: "IS_KANUNU Madde 20: Madde 20 – (Değişik birinci fıkra: 12/10/2017-7036/11 md.) İş sözleşmesi feshedi..."
 category: "İş Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İş Kanunu Madde 20 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-684"
 title: "TTK Madde 684: MADDE 684- (1) Ciro ve zilyetliğin geçirilmesi ile poliçeden doğan bütün haklar..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 684 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-824"
 title: "TTK Madde 824: MADDE 824- (1) Emre yazılı olan veya kanunen böyle sayılan kıymetli evrak, emre..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 824 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

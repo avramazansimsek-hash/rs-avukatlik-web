@@ -2,7 +2,7 @@
 slug: "hmk-madde-182"
 title: "HMK Madde 182: MADDE 182- (1) Islahın davayı uzatmak veya karşı tarafı rahatsız etmek gibi kötü..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 182 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

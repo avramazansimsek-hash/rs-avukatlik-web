@@ -2,7 +2,7 @@
 slug: "tmk-madde-780"
 title: "TMK Madde 780: Madde 780- İrtifak hakkının kurulması için tapu kütüğüne tescil şarttır...."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 780 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

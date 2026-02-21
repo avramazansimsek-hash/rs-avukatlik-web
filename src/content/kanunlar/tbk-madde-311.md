@@ -2,7 +2,7 @@
 slug: "tbk-madde-311"
 title: "TBK Madde 311: MADDE 311- Sözleşmenin kurulmasından sonra üçüncü bir kişi, kiralanan üzerinde k..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 311 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

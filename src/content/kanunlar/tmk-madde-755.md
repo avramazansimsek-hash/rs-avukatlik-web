@@ -2,7 +2,7 @@
 slug: "tmk-madde-755"
 title: "TMK Madde 755: Madde 755- Su yollarını düzeltme, sulama, bataklık yerlerini kurutma, yol açma,..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 755 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

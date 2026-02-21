@@ -2,7 +2,7 @@
 slug: "tmk-madde-510"
 title: "TMK Madde 510: Madde 510- Aşağıdaki durumlarda mirasbırakan, ölüme bağlı bir tasarrufla saklı p..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 510 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

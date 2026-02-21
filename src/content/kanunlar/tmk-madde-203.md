@@ -2,7 +2,7 @@
 slug: "tmk-madde-203"
 title: "TMK Madde 203: Madde 203- Mal rejimi sözleşmesi, evlenmeden önce veya sonra yapılabilir. Tarafl..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 203 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

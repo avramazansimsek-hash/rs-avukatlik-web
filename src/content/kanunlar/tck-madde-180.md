@@ -2,7 +2,7 @@
 slug: "tck-madde-180"
 title: "TCK Madde 180: Madde 180- (1) Deniz, hava veya demiryolu ulaşımında, kişilerin hayatı, sağlığı..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 180 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

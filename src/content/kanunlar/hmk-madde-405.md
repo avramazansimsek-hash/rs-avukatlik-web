@@ -2,7 +2,7 @@
 slug: "hmk-madde-405"
 title: "HMK Madde 405: MADDE 405- (1) Delil tespiti dosyası, asıl dava dosyasının eki sayılır ve onunla..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 405 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tbk-madde-387"
 title: "TBK Madde 387: MADDE 387- Ticari olmayan tüketim ödüncü sözleşmesinde, taraflarca kararlaştırıl..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 387 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-1225"
 title: "TTK Madde 1225: MADDE 1225- (1) Navlun sözleşmesi yolculuk başlamadan önce bu Ayırımda öngörülen..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1225 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

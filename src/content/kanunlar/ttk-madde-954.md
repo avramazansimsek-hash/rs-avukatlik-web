@@ -2,7 +2,7 @@
 slug: "ttk-madde-954"
 title: "TTK Madde 954: MADDE 954- (1) Türk gemileri için, Ulaştırma, Denizcilik ve Haberleşme Bakanlığı..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 954 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

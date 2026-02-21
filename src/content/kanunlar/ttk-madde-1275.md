@@ -2,7 +2,7 @@
 slug: "ttk-madde-1275"
 title: "TTK Madde 1275: MADDE 1275- (1) Alacaklılar, gemi üzerinde gemi alacaklısı hakkına, garameye gir..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1275 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

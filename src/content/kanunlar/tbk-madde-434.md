@@ -2,7 +2,7 @@
 slug: "tbk-madde-434"
 title: "TBK Madde 434: MADDE 434- Hizmet sözleşmesinin fesih hakkının kötüye kullanılarak sona erdirild..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 434 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

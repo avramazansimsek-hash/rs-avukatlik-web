@@ -2,7 +2,7 @@
 slug: "ttk-madde-667"
 title: "TTK Madde 667: MADDE 667- (1) Münferit kuponların zıyaı hâlinde hak sahibinin istemi üzerine, m..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 667 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tbk-madde-557"
 title: "TBK Madde 557: MADDE 557- Havale ödeyicisi, çekince belirtmeksizin havaleyi kabul ettiğini hava..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 557 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

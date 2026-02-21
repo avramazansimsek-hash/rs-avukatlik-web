@@ -2,7 +2,7 @@
 slug: "tmk-madde-619"
 title: "TMK Madde 619: Madde 619- Mirası reddetmeye hakkı olan her mirasçı, terekenin resmî defterinin..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 619 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

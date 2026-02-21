@@ -2,7 +2,7 @@
 slug: "ttk-madde-60"
 title: "TTK Madde 60: MADDE 60- (1) 56 ncı maddede yazılı davalar, davaya hakkı olan tarafın bu haklar..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 60 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

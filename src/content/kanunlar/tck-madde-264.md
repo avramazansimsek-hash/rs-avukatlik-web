@@ -2,7 +2,7 @@
 slug: "tck-madde-264"
 title: "TCK Madde 264: Madde 264- (1) Bir rütbe veya kamu görevinin veya mesleğin, resmi elbisesini yet..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 264 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

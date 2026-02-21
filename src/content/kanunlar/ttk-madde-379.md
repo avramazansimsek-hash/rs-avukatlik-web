@@ -2,7 +2,7 @@
 slug: "ttk-madde-379"
 title: "TTK Madde 379: MADDE 379- (1) Bir şirket kendi paylarını, esas veya çıkarılmış sermayesinin ond..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 379 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

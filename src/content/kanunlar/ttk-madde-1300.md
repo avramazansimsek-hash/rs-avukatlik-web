@@ -2,7 +2,7 @@
 slug: "ttk-madde-1300"
 title: "TTK Madde 1300: MADDE 1300- (1) Kaptan, aracın kurtarılması için malik adına kurtarma sözleşmesi..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1300 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

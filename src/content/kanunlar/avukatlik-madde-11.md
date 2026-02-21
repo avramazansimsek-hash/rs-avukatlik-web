@@ -1,8 +1,8 @@
 ---
 slug: "avukatlik-madde-11"
-title: "AVUKATLIK Madde 11: Madde 11 – 708 sayılı Kanunun ikinci ve 7 nci maddelerinde ve 2573 sayılı Kanunu..."
+title: "AVUKATLIK Madde 11: Madde 11 – Aylık, ücret, gündelik veya kesenek gibi ödemeler karşılığında görüle..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 11 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 
@@ -11,13 +11,11 @@ excerpt: "Avukatlık Kanunu Madde 11 tam metni, gerekçesi ve Av. Ramazan Şimş
 ## Kanun Metni
 
 ```text
-Madde 11 – 708 sayılı Kanunun ikinci ve 7 nci maddelerinde ve 2573 sayılı Kanunun 6 ncı maddesinde yazılı mülazemet süresini 3499 sayılı Avukatlık Kanununun yürürlüğü tarihinde bitirmiş olanlar 3 üncü maddenin (a), (b) ve (c) bentlerinde ve 5 inci maddede gösterilen şartlara sahip oldukları takdirde baro levhasına yazılırlar.
-
-Bu Kanunun uygulanmasında Medresetulkuzat ve Nüvap Mektebi mezunları hukuk mezunu sayılır.
+Madde 11 – Aylık, ücret, gündelik veya kesenek gibi ödemeler karşılığında görülen hiçbir hizmet ve görev, sigorta prodüktörlüğü, tacirlik ve esnaflık veya meslekin onuru ile bağdaşması mümkün olmıyan her türlü iş avukatlıkla birleşemez.
 
  
 
-Geçici
+Avukatlıkla birleşebilen işler:
 ```
 
 

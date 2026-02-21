@@ -2,7 +2,7 @@
 slug: "ttk-madde-662"
 title: "TTK Madde 662: MADDE 662- (1) Dilekçe sahibinin istemi üzerine mahkeme, senedin borçlusunu, aks..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 662 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

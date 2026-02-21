@@ -2,7 +2,7 @@
 slug: "is_kanunu-madde-29"
 title: "IS_KANUNU Madde 29: Madde 29 - İşveren; ekonomik, teknolojik, yapısal ve benzeri işletme, işyeri vey..."
 category: "İş Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İş Kanunu Madde 29 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

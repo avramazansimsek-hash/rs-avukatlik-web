@@ -2,7 +2,7 @@
 slug: "ttk-madde-663"
 title: "TTK Madde 663: MADDE 663- (1) Mahkeme, dilekçe sahibinin, senedin zilyedi bulunmuş ve onu zâyi..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 663 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

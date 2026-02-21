@@ -2,7 +2,7 @@
 slug: "ttk-madde-341"
 title: "TTK Madde 341: MADDE 341- (Mülga: 26/6/2012-6335/43 md.)..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 341 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tbk-madde-322"
 title: "TBK Madde 322: MADDE 322- Kiracı, kiraya verene zarar verecek bir değişikliğe yol açmamak koşul..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 322 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

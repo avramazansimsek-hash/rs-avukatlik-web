@@ -2,7 +2,7 @@
 slug: "ttk-madde-1309"
 title: "TTK Madde 1309: MADDE 1309- (1) Kurtarma ücreti birden çok kurtaran arasında 1305 inci maddedeki..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1309 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-108"
 title: "TMK Madde 108: Madde 108- Vakfedenin mirasçıları ile alacaklılarının, bağışlamaya ve ölüme bağl..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 108 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

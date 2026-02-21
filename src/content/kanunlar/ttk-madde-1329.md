@@ -2,7 +2,7 @@
 slug: "ttk-madde-1329"
 title: "TTK Madde 1329: MADDE 1329- (1) 1328 inci madde, 27/11/2007 tarihli ve 5718 sayılı Milletleraras..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1329 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

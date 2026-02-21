@@ -2,7 +2,7 @@
 slug: "tck-madde-7"
 title: "TCK Madde 7: Madde 7- (1) İşlendiği zaman yürürlükte bulunan kanuna göre suç sayılmayan bir f..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 7 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-436"
 title: "TTK Madde 436: MADDE 436- (1) Pay sahibi kendisi, eşi, alt ve üstsoyu veya bunların ortağı oldu..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 436 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

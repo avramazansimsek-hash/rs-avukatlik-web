@@ -2,7 +2,7 @@
 slug: "tmk-madde-153"
 title: "TMK Madde 153: Madde 153- Küçük veya kısıtlı, yasal temsilcisinin izni olmadan evlenirse, izni..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 153 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

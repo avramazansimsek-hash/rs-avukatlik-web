@@ -2,7 +2,7 @@
 slug: "ttk-madde-1096"
 title: "TTK Madde 1096: MADDE 1096- (1) Her gemide gemi jurnali denilen bir defter tutulur. Bu deftere h..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1096 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

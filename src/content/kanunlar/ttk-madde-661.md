@@ -2,7 +2,7 @@
 slug: "ttk-madde-661"
 title: "TTK Madde 661: MADDE 661- (1) Pay senetleri, tahviller, intifa senetleri, münferit kuponlar har..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 661 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

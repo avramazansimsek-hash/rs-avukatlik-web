@@ -2,7 +2,7 @@
 slug: "ttk-madde-172"
 title: "TTK Madde 172: MADDE 172- (1) Bölünmeye katılan şirketlerin malvarlıklarında meydana gelen deği..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 172 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

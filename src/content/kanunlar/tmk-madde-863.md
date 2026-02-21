@@ -2,7 +2,7 @@
 slug: "tmk-madde-863"
 title: "TMK Madde 863: Madde 863- Kiraya verilmiş taşınmaz üzerindeki rehnin kapsamına, borçluya karşı..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 863 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

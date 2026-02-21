@@ -2,7 +2,7 @@
 slug: "ttk-madde-306"
 title: "TTK Madde 306: MADDE 306- (1) Şirketin komandit olup olmadığı sözleşme hükümlerine göre belirle..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 306 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -1,8 +1,8 @@
 ---
 slug: "ktk-madde-11"
-title: "KTK Madde 11: Madde 11 – (Ek: 17/10/1996-4199/46 md.)..."
+title: "KTK Madde 11: Madde 11 – (Mülga: 18/1/1985 - KHK 245/16 md.; Aynen kabul:28/3/1985-3176/16 md...."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 11 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 
@@ -11,15 +11,11 @@ excerpt: "Karayolları Trafik Kanunu Madde 11 tam metni, gerekçesi ve Av. Ramaz
 ## Kanun Metni
 
 ```text
-Madde 11 – (Ek: 17/10/1996-4199/46 md.)
-
-2918 sayılı Kanunun bu Kanunla değiştirilen hükümlerinde öngörülen yönetmelikler kanunla görev verilen bakanlık veya kuruluşlarca diğer yönetmelikler ilgili bakanlıkların görüşü alınarak İçişleri Bakanlığınca bu Kanunun yayımı tarihinden itibaren 6 ay içerisinde çıkarılır.
-
-Bu Kanunun 108 inci maddesinde sözü edilen yönetmelik bu Kanunun yayımlandığı tarihten itibaren 6 ay içinde yürürlüğe konulur. Bu yönetmelik yürürlüğe girinceye kadar, garanti fonu uygulamasına ilişkin yürürlükte bulunan yönetmelik hükümlerinin uygulanmasına devam olunur.
+Madde 11 – (Mülga: 18/1/1985 - KHK 245/16 md.; Aynen kabul:28/3/1985-3176/16 md.)
 
  
 
-Geçici
+İl ve ilçe trafik komisyonları:
 ```
 
 

@@ -2,7 +2,7 @@
 slug: "tkhk-madde-16"
 title: "TKHK Madde 16: MADDE 16- (1) Kanunlarda veya taraflar arasındaki sözleşmede daha uzun bir süre..."
 category: "Tüketicinin Korunması Hakkında Kanun"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Tüketicinin Korunması Hakkında Kanun Madde 16 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

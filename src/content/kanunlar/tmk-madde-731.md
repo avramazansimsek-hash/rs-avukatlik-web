@@ -2,7 +2,7 @@
 slug: "tmk-madde-731"
 title: "TMK Madde 731: Madde 731-Taşınmaz mülkiyetinin kanundan doğan kısıtlamaları, tapu siciline tesc..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 731 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

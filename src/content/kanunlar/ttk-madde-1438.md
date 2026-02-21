@@ -2,7 +2,7 @@
 slug: "ttk-madde-1438"
 title: "TTK Madde 1438: MADDE 1438- (1) Bildirilmeyen veya yanlış bildirilen bir hususun ya da olgunun g..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1438 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tck-madde-59"
 title: "TCK Madde 59: Madde 59- (Değişik: 31/3/2005 – 5328/1 md.)..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 59 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

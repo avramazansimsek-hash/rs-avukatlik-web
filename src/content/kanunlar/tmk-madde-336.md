@@ -2,7 +2,7 @@
 slug: "tmk-madde-336"
 title: "TMK Madde 336: Madde 336- Evlilik devam ettiği sürece ana ve baba velâyeti birlikte kullanırlar..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 336 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

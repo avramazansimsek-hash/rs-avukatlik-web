@@ -2,7 +2,7 @@
 slug: "hmk-madde-204"
 title: "HMK Madde 204: MADDE 204- (1) İlamlar ile düzenleme şeklindeki noter senetleri, sahteliği ispat..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 204 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

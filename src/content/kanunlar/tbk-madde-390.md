@@ -2,7 +2,7 @@
 slug: "tbk-madde-390"
 title: "TBK Madde 390: MADDE 390- Ödünç alan, ödünç sözleşmesinin kurulmasından sonra ödeme güçsüzlüğün..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 390 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

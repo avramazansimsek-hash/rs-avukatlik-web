@@ -2,7 +2,7 @@
 slug: "tmk-madde-466"
 title: "TMK Madde 466: Madde 466- Vesayet organları ve vesayet işleriyle görevlendirilmiş olan diğer ki..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 466 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

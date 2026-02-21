@@ -2,7 +2,7 @@
 slug: "ttk-madde-671"
 title: "TTK Madde 671: MADDE 671- (1) Poliçe;..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 671 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

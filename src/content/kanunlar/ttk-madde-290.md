@@ -2,7 +2,7 @@
 slug: "ttk-madde-290"
 title: "TTK Madde 290: MADDE 290- (1) Tasfiyenin sonunda belgelerin ve defterlerin saklanması hakkında..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 290 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

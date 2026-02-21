@@ -2,7 +2,7 @@
 slug: "ttk-madde-397"
 title: "TTK Madde 397: MADDE 397- (1) (Değişik: 26/6/2012-6335/18 md.) Dördüncü fıkra uyarınca denetime..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 397 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

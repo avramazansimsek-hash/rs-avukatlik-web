@@ -2,7 +2,7 @@
 slug: "tmk-madde-758"
 title: "TMK Madde 758: Madde 758- Bir taşınmazda oturmak, onu işletmek veya bir yerin içme ya da kullan..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 758 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

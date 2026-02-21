@@ -2,7 +2,7 @@
 slug: "ttk-madde-153"
 title: "TTK Madde 153: MADDE 153- (1) Birleşme, birleşmenin ticaret siciline tescili ile geçerlilik kaz..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 153 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-1002"
 title: "TTK Madde 1002: MADDE 1002- (1) Taraflarca aksi kararlaştırılmış olmadıkça, iktisap eden, gemini..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1002 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

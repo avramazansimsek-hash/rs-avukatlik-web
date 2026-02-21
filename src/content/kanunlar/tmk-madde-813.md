@@ -2,7 +2,7 @@
 slug: "tmk-madde-813"
 title: "TMK Madde 813: Madde 813- İntifa hakkı konusu olan malın olağan bakım ve işletme giderleri, güv..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 813 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-471"
 title: "TMK Madde 471: Madde 471- (Değişik:2/3/2024-7499/8 md.)..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 471 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

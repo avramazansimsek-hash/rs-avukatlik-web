@@ -2,7 +2,7 @@
 slug: "ttk-madde-1315"
 title: "TTK Madde 1315: MADDE 1315- (1) Kurtarma ücreti alacaklarından dolayı kurtaran, kurtarılan gemi..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1315 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

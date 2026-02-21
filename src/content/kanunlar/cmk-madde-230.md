@@ -2,7 +2,7 @@
 slug: "cmk-madde-230"
 title: "CMK Madde 230: Madde 230 – (1) Mahkûmiyet hükmünün gerekçesinde aşağıdaki hususlar gösterilir:..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 230 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

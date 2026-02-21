@@ -2,7 +2,7 @@
 slug: "cmk-madde-85"
 title: "CMK Madde 85: Madde 85 – (Değişik: 25/5/2005 – 5353/6 md.)..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 85 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-493"
 title: "TTK Madde 493: MADDE 493- (1) Şirket, esas sözleşmede öngörülmüş önemli bir sebebi ileri sürere..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 493 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

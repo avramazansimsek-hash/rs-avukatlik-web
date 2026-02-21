@@ -2,7 +2,7 @@
 slug: "ttk-madde-280"
 title: "TTK Madde 280: MADDE 280- (1) Tasfiye hâlinde bulunan şirketi mahkemelerde ve dışarıda tasfiye..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 280 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

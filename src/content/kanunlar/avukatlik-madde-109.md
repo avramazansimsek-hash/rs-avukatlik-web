@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-109"
 title: "AVUKATLIK Madde 109: Madde 109 – (Değişik birinci fıkra: 2/5/2001 - 4667/58 md.) Türkiye Barolar Birl..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 109 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

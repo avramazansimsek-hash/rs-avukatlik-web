@@ -2,7 +2,7 @@
 slug: "hmk-madde-48"
 title: "HMK Madde 48: MADDE 48- (1) Tazminat davası dilekçesinde hangi sorumluluk sebebine dayanıldığı..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 48 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

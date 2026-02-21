@@ -2,7 +2,7 @@
 slug: "is_kanunu-madde-21"
 title: "IS_KANUNU Madde 21: Madde 21 - İşverence geçerli sebep gösterilmediği veya gösterilen sebebin geçerl..."
 category: "İş Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İş Kanunu Madde 21 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-1144"
 title: "TTK Madde 1144: MADDE 1144- (1) Kararlaştırılan eşya yerine, aynı varma limanı için, taşıtan tar..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1144 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

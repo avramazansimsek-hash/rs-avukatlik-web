@@ -2,7 +2,7 @@
 slug: "tmk-madde-983"
 title: "TMK Madde 983: Madde 983- Saldırıda bulunan, şey üzerinde bir hak iddia etse bile; zilyetliği s..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 983 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

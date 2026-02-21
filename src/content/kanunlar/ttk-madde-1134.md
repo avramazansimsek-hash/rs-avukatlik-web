@@ -2,7 +2,7 @@
 slug: "ttk-madde-1134"
 title: "TTK Madde 1134: MADDE 1134- (1) Geminin, ticari yönetimi tahsis olunana aittir...."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1134 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

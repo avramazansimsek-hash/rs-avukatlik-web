@@ -2,7 +2,7 @@
 slug: "iik-madde-345"
 title: "IIK Madde 345: Madde 345 – Bu kanunda yazılı suçlar, hükmi bir şahsın idare veya muamelelerini..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 345 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

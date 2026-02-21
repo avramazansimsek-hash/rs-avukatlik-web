@@ -2,7 +2,7 @@
 slug: "tmk-madde-412"
 title: "TMK Madde 412: Madde 412- Vesayet makamının izni olmadıkça vesayet altındaki kişi yerleşim yeri..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 412 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

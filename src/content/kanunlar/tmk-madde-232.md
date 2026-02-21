@@ -2,7 +2,7 @@
 slug: "tmk-madde-232"
 title: "TMK Madde 232: Madde 232- Mal rejiminin tasfiyesinde malların sürüm değerleri esas alınır...."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 232 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

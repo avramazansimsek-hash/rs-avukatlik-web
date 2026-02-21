@@ -2,7 +2,7 @@
 slug: "iik-madde-229"
 title: "IIK Madde 229: Madde 229 – İflas idaresi, masanın vadesi gelmiş alacaklarını tahsil ve lüzumund..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 229 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

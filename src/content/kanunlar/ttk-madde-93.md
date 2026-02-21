@@ -2,7 +2,7 @@
 slug: "ttk-madde-93"
 title: "TTK Madde 93: MADDE 93- (1) Takas edilemeyen alacaklarla, belirli bir amaca harcanmak veya ayr..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 93 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-854"
 title: "TTK Madde 854: MADDE 854- (1) Kanunun, taşıyıcıya, taşıma işleri komisyoncusuna ve faaliyetleri..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 854 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

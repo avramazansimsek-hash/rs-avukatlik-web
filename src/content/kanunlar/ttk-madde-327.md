@@ -2,7 +2,7 @@
 slug: "ttk-madde-327"
 title: "TTK Madde 327: MADDE 327- (1) Şirketten alacağı olan bir kişinin, sermaye borcunu henüz yerine..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 327 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tck-madde-93"
 title: "TCK Madde 93: Madde 93- (1) Organ veya dokularını satan kişi, resmi makamlar tarafından haber..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 93 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

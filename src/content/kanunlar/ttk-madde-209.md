@@ -2,7 +2,7 @@
 slug: "ttk-madde-209"
 title: "TTK Madde 209: MADDE 209- (1) Hâkim şirket, topluluk itibarının, topluma veya tüketiciye güven..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 209 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

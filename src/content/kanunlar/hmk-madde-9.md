@@ -2,7 +2,7 @@
 slug: "hmk-madde-9"
 title: "HMK Madde 9: MADDE 9- (1) Türkiye’de yerleşim yeri bulunmayanlar hakkında genel yetkili mahke..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 9 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

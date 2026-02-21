@@ -2,7 +2,7 @@
 slug: "tbk-madde-517"
 title: "TBK Madde 517: MADDE 517- Kredi emrini veren, kredi emrinden yararlananın ehliyetsizliğini iler..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 517 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-485"
 title: "TTK Madde 485: MADDE 485- (1) Esas sözleşmede aksi öngörülmemişse, payın türü dönüştürme yolu i..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 485 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-709"
 title: "TMK Madde 709: Madde 709- Arazi kayması sınır değişikliğini gerektirmez...."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 709 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

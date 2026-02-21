@@ -2,7 +2,7 @@
 slug: "ttk-madde-980"
 title: "TTK Madde 980: MADDE 980- (1) Sicile şerh verilmek suretiyle istem hakkı teminat altına alınmış..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 980 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

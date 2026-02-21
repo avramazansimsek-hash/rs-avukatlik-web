@@ -2,7 +2,7 @@
 slug: "iik-madde-163"
 title: "IIK Madde 163: Madde 163 – Takipte bulunan bütün alacaklılar razı olurlarsa yapılan defter ifla..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 163 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

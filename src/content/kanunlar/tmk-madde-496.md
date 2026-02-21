@@ -2,7 +2,7 @@
 slug: "tmk-madde-496"
 title: "TMK Madde 496: Madde 496- Altsoyu bulunmayan mirasbırakanın mirasçıları, ana ve babasıdır. Bunl..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 496 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

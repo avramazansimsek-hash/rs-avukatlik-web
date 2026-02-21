@@ -2,7 +2,7 @@
 slug: "ttk-madde-925"
 title: "TTK Madde 925: MADDE 925- (1) Önceki taşıyıcı veya taşıma işleri komisyoncusunun alacakları, so..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 925 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

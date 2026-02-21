@@ -2,7 +2,7 @@
 slug: "iik-madde-255"
 title: "IIK Madde 255: Madde 255 – İflas kapandıktan sonra tasfiyeden hariç kalmış bir mal bulunduğu ha..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 255 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

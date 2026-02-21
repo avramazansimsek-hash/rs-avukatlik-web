@@ -2,7 +2,7 @@
 slug: "tmk-madde-77"
 title: "TMK Madde 77: Madde 77- Genel kurul, yönetim kurulunca, en az onbeş gün önceden toplantıya çağ..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 77 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

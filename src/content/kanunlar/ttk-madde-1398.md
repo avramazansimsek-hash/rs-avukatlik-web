@@ -2,7 +2,7 @@
 slug: "ttk-madde-1398"
 title: "TTK Madde 1398: MADDE 1398- (1) İcra ve İflas Kanununun 270 ve 271 inci maddeleri, bu Kanun hükü..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1398 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

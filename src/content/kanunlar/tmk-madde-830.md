@@ -2,7 +2,7 @@
 slug: "tmk-madde-830"
 title: "TMK Madde 830: Madde 830- Taşınmaz malikine kalan yapılar için üst hakkı sahibine ödenmesi kara..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 830 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

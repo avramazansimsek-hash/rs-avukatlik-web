@@ -2,7 +2,7 @@
 slug: "tbk-madde-520"
 title: "TBK Madde 520: MADDE 520- Simsarlık sözleşmesi, simsarın taraflar arasında bir sözleşme kurulma..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 520 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

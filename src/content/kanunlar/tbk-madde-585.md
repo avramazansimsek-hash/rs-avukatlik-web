@@ -2,7 +2,7 @@
 slug: "tbk-madde-585"
 title: "TBK Madde 585: MADDE 585- Adi kefalette alacaklı, borçluya başvurmadıkça, kefili takip edemez;..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 585 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

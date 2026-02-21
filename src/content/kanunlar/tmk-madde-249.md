@@ -2,7 +2,7 @@
 slug: "tmk-madde-249"
 title: "TMK Madde 249: Madde 249- Eşlerden biri diğerine ait olup, paylaştırma dışı kalan bir malın edi..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 249 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

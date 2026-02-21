@@ -2,7 +2,7 @@
 slug: "tbk-madde-56"
 title: "TBK Madde 56: MADDE 56- Hâkim, bir kimsenin bedensel bütünlüğünün zedelenmesi durumunda, olayı..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 56 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

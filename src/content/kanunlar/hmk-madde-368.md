@@ -2,7 +2,7 @@
 slug: "hmk-madde-368"
 title: "HMK Madde 368: MADDE 368- (1) Temyiz talebinin kötüniyetle yapıldığı anlaşılırsa Yargıtayca 329..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 368 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

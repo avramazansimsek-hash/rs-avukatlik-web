@@ -2,7 +2,7 @@
 slug: "tmk-madde-980"
 title: "TMK Madde 980: Madde 980- Bir taşıyıcıya veya umumî mağazaya bırakılmış emtiayı temsil eden kıy..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 980 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

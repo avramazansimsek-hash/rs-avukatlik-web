@@ -2,7 +2,7 @@
 slug: "tmk-madde-348"
 title: "TMK Madde 348: Madde 348- Çocuğun korunmasına ilişkin diğer önlemlerden sonuç alınamaz ya da bu..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 348 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

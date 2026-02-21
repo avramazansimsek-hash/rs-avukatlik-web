@@ -2,7 +2,7 @@
 slug: "tbk-madde-405"
 title: "TBK Madde 405: MADDE 405- İşveren, bayram, yılbaşı ve doğum günü gibi belirli günler dolayısıyl..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 405 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

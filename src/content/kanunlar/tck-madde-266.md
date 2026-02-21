@@ -2,7 +2,7 @@
 slug: "tck-madde-266"
 title: "TCK Madde 266: Madde 266- (1) Görevi gereği olarak elinde bulundurduğu araç ve gereçleri bir su..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 266 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

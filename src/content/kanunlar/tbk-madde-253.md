@@ -2,7 +2,7 @@
 slug: "tbk-madde-253"
 title: "TBK Madde 253: MADDE 253- Taksitle satış, satıcının, satılan taşınırı alıcıya satış bedelinin ö..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 253 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

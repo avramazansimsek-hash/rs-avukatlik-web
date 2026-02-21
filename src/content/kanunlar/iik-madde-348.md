@@ -2,7 +2,7 @@
 slug: "iik-madde-348"
 title: "IIK Madde 348: Madde 348 – (Değişik: 31/5/2005-5358/20 md.)..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 348 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

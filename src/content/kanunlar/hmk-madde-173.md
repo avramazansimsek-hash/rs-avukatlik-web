@@ -2,7 +2,7 @@
 slug: "hmk-madde-173"
 title: "HMK Madde 173: MADDE 173- (1) İsticvabına karar verilen kimse bizzat isticvap olunur...."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 173 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

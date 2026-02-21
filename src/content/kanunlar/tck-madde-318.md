@@ -2,7 +2,7 @@
 slug: "tck-madde-318"
 title: "TCK Madde 318: Madde 318- (1) (Değişik: 11/4/2013-6459/13 md.) Askerlik hizmetini yapanları fir..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 318 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

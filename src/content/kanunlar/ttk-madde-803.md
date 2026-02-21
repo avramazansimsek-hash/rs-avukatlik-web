@@ -2,7 +2,7 @@
 slug: "ttk-madde-803"
 title: "TTK Madde 803: MADDE 803- (1) Bir çekin düzenleyeni veya hamili onu, 804 üncü maddede gösterile..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 803 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

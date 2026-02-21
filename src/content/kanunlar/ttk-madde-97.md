@@ -2,7 +2,7 @@
 slug: "ttk-madde-97"
 title: "TTK Madde 97: MADDE 97- (1) Cari hesaba geçirilen alacak ve borç kalemleri ayrılmaz bir bütün..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 97 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

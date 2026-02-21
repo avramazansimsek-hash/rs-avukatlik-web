@@ -2,7 +2,7 @@
 slug: "hmk-madde-32"
 title: "HMK Madde 32: MADDE 32- (1) Yargılamayı, hâkim sevk ve idare eder; yargılama düzeninin bozulma..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 32 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

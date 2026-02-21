@@ -2,7 +2,7 @@
 slug: "tmk-madde-61"
 title: "TMK Madde 61: Madde 61- (Mülga: 4/11/2004-5253/38 md.)..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 61 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

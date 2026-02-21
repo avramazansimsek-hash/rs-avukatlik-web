@@ -2,7 +2,7 @@
 slug: "ttk-madde-857"
 title: "TTK Madde 857: MADDE 857- (1) Taşıma senedi aşağıdaki kayıtları içerir:..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 857 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

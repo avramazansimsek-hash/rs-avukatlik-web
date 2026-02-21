@@ -2,7 +2,7 @@
 slug: "ttk-madde-652"
 title: "TTK Madde 652: MADDE 652- (1) İptal kararı üzerine hak sahibi hakkını senetsiz olarak da ileri..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 652 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

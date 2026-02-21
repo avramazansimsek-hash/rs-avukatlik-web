@@ -2,7 +2,7 @@
 slug: "ttk-madde-238"
 title: "TTK Madde 238: MADDE 238- (1) Yalnız şirket aleyhine alınmış olan mahkeme kararı, şirket hakkın..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 238 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "cmk-madde-316"
 title: "CMK Madde 316: Madde 316 – (1) Bir suç iddiasına dayandırılan yenileme istemi, ancak bu fiilden..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 316 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

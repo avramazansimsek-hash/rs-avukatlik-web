@@ -2,7 +2,7 @@
 slug: "tck-madde-149"
 title: "TCK Madde 149: Madde 149- (1) Yağma suçunun;..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 149 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

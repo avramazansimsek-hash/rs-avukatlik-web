@@ -2,7 +2,7 @@
 slug: "tbk-madde-107"
 title: "TBK Madde 107: MADDE 107- Alacaklının temerrüde düşmesi durumunda borçlu, hasar ve giderleri al..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 107 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

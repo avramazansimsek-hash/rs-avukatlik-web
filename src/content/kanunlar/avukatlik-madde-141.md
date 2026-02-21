@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-141"
 title: "AVUKATLIK Madde 141: Madde 141 – Disiplin kovuşturması, yönetim kurulu tarafından verilen bir kararla..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 141 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

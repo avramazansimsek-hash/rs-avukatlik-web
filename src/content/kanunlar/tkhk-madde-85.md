@@ -2,7 +2,7 @@
 slug: "tkhk-madde-85"
 title: "TKHK Madde 85: MADDE 85- (1) Ekli listede yer alan kadrolar ihdas edilerek 13/12/1983 tarihli v..."
 category: "Tüketicinin Korunması Hakkında Kanun"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Tüketicinin Korunması Hakkında Kanun Madde 85 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

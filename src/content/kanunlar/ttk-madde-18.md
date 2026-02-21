@@ -2,7 +2,7 @@
 slug: "ttk-madde-18"
 title: "TTK Madde 18: MADDE 18- (1) Tacir, her türlü borcu için iflasa tabidir; ayrıca kanuna uygun bi..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 18 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

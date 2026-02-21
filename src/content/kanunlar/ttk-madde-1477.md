@@ -2,7 +2,7 @@
 slug: "ttk-madde-1477"
 title: "TTK Madde 1477: MADDE 1477- (1) Sigortacı, sigortalının, sorumluluk konusu olayı kasten gerçekle..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1477 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

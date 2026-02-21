@@ -2,7 +2,7 @@
 slug: "tkhk-madde-59"
 title: "TKHK Madde 59: MADDE 59- (1) Tüketicinin bilinçlendirilmesi konusunda örgün ve yaygın eğitim ku..."
 category: "Tüketicinin Korunması Hakkında Kanun"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Tüketicinin Korunması Hakkında Kanun Madde 59 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

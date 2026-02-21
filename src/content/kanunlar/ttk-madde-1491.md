@@ -2,7 +2,7 @@
 slug: "ttk-madde-1491"
 title: "TTK Madde 1491: MADDE 1491- (1) Bir kimsenin hayatı bir veya birkaç sigortacı tarafından çeşitli..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1491 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

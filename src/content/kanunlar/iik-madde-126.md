@@ -2,7 +2,7 @@
 slug: "iik-madde-126"
 title: "IIK Madde 126: Madde 126 – (Başlığı ile Birlikte Değişik:24/11/2021-7343/20 md.)..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 126 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

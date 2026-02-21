@@ -2,7 +2,7 @@
 slug: "cmk-madde-126"
 title: "CMK Madde 126: Madde 126 – (1) Şüpheli veya sanık ile 45 ve 46 ncı maddelere göre tanıklıktan ç..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 126 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

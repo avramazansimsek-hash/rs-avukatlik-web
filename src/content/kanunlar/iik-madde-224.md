@@ -2,7 +2,7 @@
 slug: "iik-madde-224"
 title: "IIK Madde 224: Madde 224 – (Değişik birinci fıkra: 28/2/2018-7101/8 md.) Alacaklılar toplanması..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 224 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

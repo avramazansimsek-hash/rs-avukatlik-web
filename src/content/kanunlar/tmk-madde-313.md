@@ -2,7 +2,7 @@
 slug: "tmk-madde-313"
 title: "TMK Madde 313: Madde 313- (Değişik birinci cümle: 3/7/2005-5399/1 md.) Evlât edinenin altsoyunu..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 313 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

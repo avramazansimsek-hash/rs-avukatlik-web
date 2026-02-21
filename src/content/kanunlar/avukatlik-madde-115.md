@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-115"
 title: "AVUKATLIK Madde 115: Madde 115 – (Değişik birinci fıkra:11/7/2020-7249/19 md.) Birlik Genel Kurulu ba..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 115 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

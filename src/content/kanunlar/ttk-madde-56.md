@@ -2,7 +2,7 @@
 slug: "ttk-madde-56"
 title: "TTK Madde 56: MADDE 56- (1) Haksız rekabet sebebiyle müşterileri, kredisi, meslekî itibarı, ti..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 56 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

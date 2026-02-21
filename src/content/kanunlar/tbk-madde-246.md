@@ -2,7 +2,7 @@
 slug: "tbk-madde-246"
 title: "TBK Madde 246: MADDE 246- Taşınır satışına ilişkin kurallar, kıyas yoluyla taşınmaz satışında d..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 246 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

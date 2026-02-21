@@ -2,7 +2,7 @@
 slug: "tmk-madde-659"
 title: "TMK Madde 659: Madde 659- (Mülga: 30/4/2014-6537/9 md.)..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 659 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "is_kanunu-madde-59"
 title: "IS_KANUNU Madde 59: Madde 59 - İş sözleşmesinin, herhangi bir nedenle sona ermesi halinde işçinin ha..."
 category: "İş Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İş Kanunu Madde 59 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

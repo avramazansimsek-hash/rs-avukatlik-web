@@ -2,7 +2,7 @@
 slug: "ttk-madde-575"
 title: "TTK Madde 575: MADDE 575- (1) Şirket sözleşmesinin yazılı şekilde yapılması ve kurucular tarafı..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 575 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

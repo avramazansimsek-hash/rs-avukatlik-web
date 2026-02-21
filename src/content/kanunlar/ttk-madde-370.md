@@ -2,7 +2,7 @@
 slug: "ttk-madde-370"
 title: "TTK Madde 370: MADDE 370- (1) Esas sözleşmede aksi öngörülmemiş veya yönetim kurulu tek kişiden..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 370 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-51"
 title: "AVUKATLIK Madde 51: Madde 51 – Avukatlar, baroda yazılı olan bürolarından başka yerlerde, mahkeme sa..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 51 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

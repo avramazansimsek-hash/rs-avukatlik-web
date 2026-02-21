@@ -2,7 +2,7 @@
 slug: "tmk-madde-820"
 title: "TMK Madde 820: Madde 820- Bir alacak üzerindeki intifa hakkı, onun getirisini edinme yetkisi ve..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 820 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

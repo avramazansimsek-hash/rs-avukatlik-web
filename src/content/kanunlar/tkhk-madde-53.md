@@ -2,7 +2,7 @@
 slug: "tkhk-madde-53"
 title: "TKHK Madde 53: MADDE 53- (1) Süreli yayın kuruluşlarınca düzenlenen ve her ne amaç ve şekilde o..."
 category: "Tüketicinin Korunması Hakkında Kanun"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Tüketicinin Korunması Hakkında Kanun Madde 53 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "iyuk-madde-35"
 title: "IYUK Madde 35: Madde 35 – (Değişik: 5/4/1990-3622/13 md.)..."
 category: "İdari Yargılama Usulü Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İdari Yargılama Usulü Kanunu Madde 35 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

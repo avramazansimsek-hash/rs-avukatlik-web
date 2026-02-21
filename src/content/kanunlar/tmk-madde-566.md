@@ -2,7 +2,7 @@
 slug: "tmk-madde-566"
 title: "TMK Madde 566: Madde 566- Kendisine tenkise tâbi bir kazandırma yapılmış olan kimse iyiniyetli..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 566 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

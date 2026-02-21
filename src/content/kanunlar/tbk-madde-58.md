@@ -2,7 +2,7 @@
 slug: "tbk-madde-58"
 title: "TBK Madde 58: MADDE 58- Kişilik hakkının zedelenmesinden zarar gören, uğradığı manevi zarara k..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 58 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ktk-madde-118"
 title: "KTK Madde 118: Madde 118 – Bu Kanunun suç saydığı bir fiilden dolayı haklarında ceza uygulanan..."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 118 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

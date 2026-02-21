@@ -2,7 +2,7 @@
 slug: "ttk-madde-1250"
 title: "TTK Madde 1250: MADDE 1250- (1) Canlı hayvanlar ve bir navlun sözleşmesine dayanılarak taşınan e..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1250 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

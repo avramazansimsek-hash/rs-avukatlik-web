@@ -2,7 +2,7 @@
 slug: "tck-madde-69"
 title: "TCK Madde 69: Madde 69- (1) Cezaya bağlı olan veya hükümde belirtilen hak yoksunluklarının sür..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 69 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

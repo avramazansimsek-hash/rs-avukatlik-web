@@ -2,7 +2,7 @@
 slug: "hmk-madde-428"
 title: "HMK Madde 428: MADDE 428- (1) Taraflarca kararlaştırılan veya hakem tarafından belirlenecek sür..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 428 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

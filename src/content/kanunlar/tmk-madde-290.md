@@ -2,7 +2,7 @@
 slug: "tmk-madde-290"
 title: "TMK Madde 290: Madde 290- Çocuk evliliğin sona ermesinden başlayarak üçyüz gün içinde doğmuş ve..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 290 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

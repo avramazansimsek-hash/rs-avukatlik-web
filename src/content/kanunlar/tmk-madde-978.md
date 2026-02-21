@@ -2,7 +2,7 @@
 slug: "tmk-madde-978"
 title: "TMK Madde 978: Madde 978- Temsilciye yapılan teslim, temsil edilene yapılmış gibi zilyetliği ge..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 978 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

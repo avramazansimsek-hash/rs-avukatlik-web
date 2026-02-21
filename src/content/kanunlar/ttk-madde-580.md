@@ -2,7 +2,7 @@
 slug: "ttk-madde-580"
 title: "TTK Madde 580: MADDE 580- (1) Limited şirketin esas sermayesi en az onbin Türk Lirasıdır. [83]..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 580 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

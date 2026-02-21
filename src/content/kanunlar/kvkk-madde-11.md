@@ -2,7 +2,7 @@
 slug: "kvkk-madde-11"
 title: "KVKK Madde 11: MADDE 11- (1) Herkes, veri sorumlusuna başvurarak kendisiyle ilgili;..."
 category: "Kişisel Verilerin Korunması Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Kişisel Verilerin Korunması Kanunu Madde 11 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

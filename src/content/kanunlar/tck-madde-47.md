@@ -2,7 +2,7 @@
 slug: "tck-madde-47"
 title: "TCK Madde 47: Madde 47- (1) Ağırlaştırılmış müebbet hapis cezası hükümlünün hayatı boyunca dev..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 47 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

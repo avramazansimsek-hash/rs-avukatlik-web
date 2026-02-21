@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-87"
 title: "AVUKATLIK Madde 87: Madde 87 – Genel kurul, levhada yazılı avukatların  yarıdan bir fazlasının katıl..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 87 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

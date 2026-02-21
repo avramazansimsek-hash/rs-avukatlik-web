@@ -2,7 +2,7 @@
 slug: "tmk-madde-568"
 title: "TMK Madde 568: Madde 568- Mirasbırakan, tahmin edilen devam sürelerine göre sermayeye çevrilmel..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 568 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

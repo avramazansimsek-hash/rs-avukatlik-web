@@ -2,7 +2,7 @@
 slug: "iik-madde-232"
 title: "IIK Madde 232: Madde 232 – (Değişik: 28/2/2018-7101/10 md.)..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 232 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

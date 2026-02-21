@@ -2,7 +2,7 @@
 slug: "tmk-madde-435"
 title: "TMK Madde 435: Madde 435- Kuruma yerleştirilen kişi veya yakınları, verilen karara karşı kendil..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 435 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

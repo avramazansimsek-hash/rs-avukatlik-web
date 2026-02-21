@@ -1,8 +1,8 @@
 ---
 slug: "iyuk-madde-3"
-title: "IYUK Madde 3: Madde 3..."
+title: "IYUK Madde 3: Madde 3 – 1. (Değişik: 10/6/1994-4001/2 md.) İdari davalar, Danıştay, idare mahk..."
 category: "İdari Yargılama Usulü Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İdari Yargılama Usulü Kanunu Madde 3 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 
@@ -11,33 +11,27 @@ excerpt: "İdari Yargılama Usulü Kanunu Madde 3 tam metni, gerekçesi ve Av. R
 ## Kanun Metni
 
 ```text
-Madde 3
+Madde 3 – 1. (Değişik: 10/6/1994-4001/2 md.) İdari davalar, Danıştay, idare mahkemesi ve vergi mahkemesi başkanlıklarına hitaben yazılmış imzalı dilekçelerle açılır.
 
-	
+2. Dilekçelerde;
 
-1/1/2005
+a) Tarafların ve varsa vekillerinin veya temsilcilerinin ad ve soyadları veya unvanları ve adresleri ile gerçek kişilere ait Türkiye Cumhuriyeti kimlik numarası,[4]
 
+b) Davanın konu ve sebepleri ile dayandığı deliller,
 
+c) Davaya konu olan idari işlemin yazılı bildirim tarihi,
 
+d) Vergi, resim, harç, benzeri mali yükümler ve bunların zam ve cezalarına ilişkin davalarla tam yargı davalarında uyuşmazlık konusu miktar,
 
-KHK/650
+e) Vergi davalarında davanın ilgili bulunduğu verginin veya vergi cezasının nevi ve yılı, tebliğ edilen ihbarnamenin tarihi ve numarası ve varsa mükellef hesap numarası,
 
-	
+Gösterilir.
 
-61
+3. Dava konusu kararın ve belgelerin asılları veya örnekleri dava dilekçesine eklenir. Dilekçeler ile bunlara ekli evrakın örnekleri karşı taraf sayısından bir fazla olur.
 
-	
+ 
 
-1/1/2012
-
-
-
-
-6352
-
-	
-
-3, 4, 14, 16, 17, 20, 27, 28, 31, 33, 45, Geçici
+Dilekçelerin verileceği yerler:
 ```
 
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-1318"
 title: "TTK Madde 1318: MADDE 1318- (1) Kurtarılan kişilerin kurtarma ücreti ödeme borcu yoktur...."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1318 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

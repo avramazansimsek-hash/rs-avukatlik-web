@@ -2,7 +2,7 @@
 slug: "ttk-madde-1049"
 title: "TTK Madde 1049: MADDE 1049- (1) İpotekli alacaklı ile gemi malikinin, ipoteğin kaldırılması husu..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1049 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

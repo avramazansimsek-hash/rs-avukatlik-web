@@ -2,7 +2,7 @@
 slug: "tmk-madde-625"
 title: "TMK Madde 625: Madde 625- Resmî defter tutulması devam ettiği sürece mirasbırakanın borçları iç..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 625 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

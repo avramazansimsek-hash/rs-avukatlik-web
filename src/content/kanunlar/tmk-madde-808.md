@@ -2,7 +2,7 @@
 slug: "tmk-madde-808"
 title: "TMK Madde 808: Madde 808- Haklarının tehlikeye düştüğünü ispat eden malik, intifa hakkı sahibin..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 808 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

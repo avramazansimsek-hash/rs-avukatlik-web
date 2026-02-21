@@ -2,7 +2,7 @@
 slug: "tbk-madde-256"
 title: "TBK Madde 256: MADDE 256- Alıcı, peşin satış bedelinin en az onda birini en geç teslim anında p..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 256 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

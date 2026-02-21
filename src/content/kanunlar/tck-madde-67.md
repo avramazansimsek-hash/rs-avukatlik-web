@@ -2,7 +2,7 @@
 slug: "tck-madde-67"
 title: "TCK Madde 67: Madde 67- (1) Soruşturma ve kovuşturma yapılmasının, izin veya karar alınması ve..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 67 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

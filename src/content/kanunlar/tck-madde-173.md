@@ -2,7 +2,7 @@
 slug: "tck-madde-173"
 title: "TCK Madde 173: Madde 173- (1) Atom enerjisini serbest bırakarak bir patlamaya ve bu suretle bir..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 173 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

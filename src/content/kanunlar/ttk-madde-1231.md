@@ -2,7 +2,7 @@
 slug: "ttk-madde-1231"
 title: "TTK Madde 1231: MADDE 1231- (1) Konişmentonun birden çok meşru hamili aynı zamanda başvurursa ka..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1231 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

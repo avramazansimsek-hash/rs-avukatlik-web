@@ -2,7 +2,7 @@
 slug: "ttk-madde-253"
 title: "TTK Madde 253: MADDE 253- (1) Şirket sözleşmesinde şirketin ölen ortağın mirasçılarıyla devam e..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 253 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

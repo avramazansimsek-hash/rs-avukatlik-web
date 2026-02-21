@@ -2,7 +2,7 @@
 slug: "hmk-madde-372"
 title: "HMK Madde 372: MADDE 372- (1) Yargıtayın bozma kararları ile onama kararları mahkeme yazı işler..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 372 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

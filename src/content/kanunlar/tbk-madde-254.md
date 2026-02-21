@@ -2,7 +2,7 @@
 slug: "tbk-madde-254"
 title: "TBK Madde 254: MADDE 254- Ayırt etme gücüne sahip bir küçük veya kısıtlı tarafından yapılmış ol..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 254 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

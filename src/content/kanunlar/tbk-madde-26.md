@@ -2,7 +2,7 @@
 slug: "tbk-madde-26"
 title: "TBK Madde 26: MADDE 26- Taraflar, bir sözleşmenin içeriğini kanunda öngörülen sınırlar içinde..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 26 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

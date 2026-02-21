@@ -2,7 +2,7 @@
 slug: "ttk-madde-586"
 title: "TTK Madde 586: MADDE 586- (1) Şirket sözleşmesinin 575 inci maddede öngörüldüğü şekilde düzenle..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 586 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

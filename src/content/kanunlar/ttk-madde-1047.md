@@ -2,7 +2,7 @@
 slug: "ttk-madde-1047"
 title: "TTK Madde 1047: MADDE 1047- (1) Birlikte gemi ipoteğinde borçlu, 1038 inci maddenin altıncı fıkr..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1047 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

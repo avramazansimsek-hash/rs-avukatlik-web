@@ -2,7 +2,7 @@
 slug: "tmk-madde-528"
 title: "TMK Madde 528: Madde 528 - Mirasbırakan, bir mirasçısı ile karşılıksız veya bir karşılık sağlan..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 528 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

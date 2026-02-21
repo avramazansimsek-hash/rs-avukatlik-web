@@ -2,7 +2,7 @@
 slug: "ktk-madde-66"
 title: "KTK Madde 66: Madde 66 – Bisiklet, elektrikli skuter, motorlu bisiklet ve motosiklet sürücüler..."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 66 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

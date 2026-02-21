@@ -2,7 +2,7 @@
 slug: "cmk-madde-96"
 title: "CMK Madde 96: Madde 96 – (1) Soruşturma ve kovuşturması şikâyete bağlı olan suç hakkında 90 ın..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 96 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

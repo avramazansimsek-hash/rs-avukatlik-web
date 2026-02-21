@@ -2,7 +2,7 @@
 slug: "iik-madde-106"
 title: "IIK Madde 106: Madde 106 – (Başlığı ile Birlikte Değişik:24/11/2021-7343/9 md.)..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 106 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "iik-madde-306"
 title: "IIK Madde 306: Madde 306- (Başlığı ile Birlikte Değişik: 28/2/2018-7101/34 md.)..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 306 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

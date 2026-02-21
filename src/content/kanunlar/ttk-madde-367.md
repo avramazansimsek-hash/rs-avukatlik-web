@@ -2,7 +2,7 @@
 slug: "ttk-madde-367"
 title: "TTK Madde 367: MADDE 367- (1) Yönetim kurulu esas sözleşmeye konulacak bir hükümle, düzenleyece..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 367 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

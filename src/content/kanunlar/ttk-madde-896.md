@@ -2,7 +2,7 @@
 slug: "ttk-madde-896"
 title: "TTK Madde 896: MADDE 896- (1) Gönderen, 856 ve 857 nci maddelerden farklı olarak, taşıma senedi..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 896 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "is_kanunu-madde-121"
 title: "IS_KANUNU Madde 121: Madde 121 - Bu Kanun yayımı tarihinde yürürlüğe girer...."
 category: "İş Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İş Kanunu Madde 121 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

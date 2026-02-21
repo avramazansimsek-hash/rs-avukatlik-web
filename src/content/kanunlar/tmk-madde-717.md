@@ -2,7 +2,7 @@
 slug: "tmk-madde-717"
 title: "TMK Madde 717: Madde 717- Taşınmaz mülkiyeti, terkin veya taşınmazın tamamen yok olmasıyla sona..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 717 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

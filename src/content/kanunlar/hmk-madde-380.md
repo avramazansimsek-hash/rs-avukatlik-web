@@ -2,7 +2,7 @@
 slug: "hmk-madde-380"
 title: "HMK Madde 380: MADDE 380- (1) İnceleme sonunda, dayanılan yargılamanın iadesi sebebi sabit görü..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 380 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

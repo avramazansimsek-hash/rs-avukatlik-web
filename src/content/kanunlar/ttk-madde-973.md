@@ -2,7 +2,7 @@
 slug: "ttk-madde-973"
 title: "TTK Madde 973: MADDE 973- (1) Gemi sicili açıktır. Herkes sicil kayıtlarını inceleyebilir ve gi..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 973 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

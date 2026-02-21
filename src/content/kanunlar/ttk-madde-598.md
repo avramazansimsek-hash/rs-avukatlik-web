@@ -2,7 +2,7 @@
 slug: "ttk-madde-598"
 title: "TTK Madde 598: MADDE 598- (1) Esas sermaye paylarının geçişlerinin tescil edilmesi için, şirket..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 598 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

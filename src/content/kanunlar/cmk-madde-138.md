@@ -2,7 +2,7 @@
 slug: "cmk-madde-138"
 title: "CMK Madde 138: Madde 138 – (1) Arama veya elkoyma koruma tedbirlerinin uygulanması sırasında, y..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 138 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

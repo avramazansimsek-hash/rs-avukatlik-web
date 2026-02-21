@@ -2,7 +2,7 @@
 slug: "hmk-madde-211"
 title: "HMK Madde 211: MADDE 211- (1) Bir belgenin sahteliğinin iddia edilmesi durumunda, bu hususta ka..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 211 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

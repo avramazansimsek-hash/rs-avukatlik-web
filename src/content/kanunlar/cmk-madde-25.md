@@ -2,7 +2,7 @@
 slug: "cmk-madde-25"
 title: "CMK Madde 25: Madde 25 – (1) Tarafsızlığını şüpheye düşürecek sebeplerden dolayı bir hâkimin r..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 25 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

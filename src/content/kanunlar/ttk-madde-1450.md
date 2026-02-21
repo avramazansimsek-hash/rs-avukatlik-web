@@ -2,7 +2,7 @@
 slug: "ttk-madde-1450"
 title: "TTK Madde 1450: MADDE 1450- (1) Sosyal güvenlik kurumları ile yapılan sözleşmeler hakkında, kend..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1450 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

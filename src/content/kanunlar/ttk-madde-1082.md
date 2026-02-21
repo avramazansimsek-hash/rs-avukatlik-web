@@ -2,7 +2,7 @@
 slug: "ttk-madde-1082"
 title: "TTK Madde 1082: MADDE 1082- (1) Donatma iştiraki, çoğunluk kararı ile fesih olunabilir. Geminin..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1082 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

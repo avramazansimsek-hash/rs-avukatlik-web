@@ -2,7 +2,7 @@
 slug: "tkhk-madde-65"
 title: "TKHK Madde 65: MADDE 65- (1) Reklam politikalarının oluşturulması ve uygulanması ile ilgili ola..."
 category: "Tüketicinin Korunması Hakkında Kanun"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Tüketicinin Korunması Hakkında Kanun Madde 65 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

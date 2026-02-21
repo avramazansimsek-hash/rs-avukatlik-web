@@ -2,7 +2,7 @@
 slug: "cmk-madde-154"
 title: "CMK Madde 154: Madde 154 – (1) Şüpheli veya sanık, vekâletname aranmaksızın müdafii ile her zam..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 154 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

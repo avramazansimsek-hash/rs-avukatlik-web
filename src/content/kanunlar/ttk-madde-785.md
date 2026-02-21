@@ -2,7 +2,7 @@
 slug: "ttk-madde-785"
 title: "TTK Madde 785: MADDE 785- (1) Çek;..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 785 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

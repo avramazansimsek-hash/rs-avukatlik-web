@@ -2,7 +2,7 @@
 slug: "cmk-madde-213"
 title: "CMK Madde 213: Madde 213 – (1) Aralarında çelişki bulunması halinde; sanığın, hâkim veya mahkem..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 213 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

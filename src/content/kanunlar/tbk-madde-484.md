@@ -2,7 +2,7 @@
 slug: "tbk-madde-484"
 title: "TBK Madde 484: MADDE 484- İşsahibi, eserin tamamlanmasından önce yapılmış olan kısmın karşılığı..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 484 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

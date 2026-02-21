@@ -2,7 +2,7 @@
 slug: "iik-madde-359"
 title: "IIK Madde 359: Madde 359 – İcra memurları yaptıkları muameleden dolayı her daire ve makam ile d..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 359 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

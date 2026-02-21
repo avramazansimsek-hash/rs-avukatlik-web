@@ -2,7 +2,7 @@
 slug: "ttk-madde-523"
 title: "TTK Madde 523: MADDE 523- (1) Kanuni ve esas sözleşmede öngörülen isteğe bağlı yedek akçeler ay..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 523 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

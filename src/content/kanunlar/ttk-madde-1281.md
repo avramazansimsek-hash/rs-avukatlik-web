@@ -2,7 +2,7 @@
 slug: "ttk-madde-1281"
 title: "TTK Madde 1281: MADDE 1281- (1) Sigortacılar dâhil olmak üzere ilgililer, 1279 uncu maddede yazı..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1281 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-835"
 title: "TMK Madde 835: Madde 835- İpotek, üst hakkı devam ettiği sürece, her zaman tescil edilebilir ve..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 835 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

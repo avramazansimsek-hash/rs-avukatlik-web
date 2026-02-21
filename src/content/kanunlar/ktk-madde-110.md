@@ -2,7 +2,7 @@
 slug: "ktk-madde-110"
 title: "KTK Madde 110: Madde 110 – (Değişik: 11/1/2011-6099/14 md.)..."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 110 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

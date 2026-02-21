@@ -2,7 +2,7 @@
 slug: "tmk-madde-910"
 title: "TMK Madde 910: Madde 910- İpotekli borç senedinin veya irat senedinin düzenlenmesiyle birlikte..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 910 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

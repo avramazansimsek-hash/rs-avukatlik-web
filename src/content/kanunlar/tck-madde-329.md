@@ -2,7 +2,7 @@
 slug: "tck-madde-329"
 title: "TCK Madde 329: Madde 329- (1) Devletin güvenliği veya iç veya dış siyasal yararları bakımından..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 329 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

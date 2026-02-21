@@ -2,7 +2,7 @@
 slug: "ttk-madde-297"
 title: "TTK Madde 297: MADDE 297- (1) Tasfiye hâlinde bulunan bir kollektif şirketin vadesi henüz gelme..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 297 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

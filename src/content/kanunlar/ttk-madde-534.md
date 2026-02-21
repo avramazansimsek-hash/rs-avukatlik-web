@@ -2,7 +2,7 @@
 slug: "ttk-madde-534"
 title: "TTK Madde 534: MADDE 534- (1) İflas hâlinde tasfiye, iflas idaresi tarafından İcra ve İflas Kan..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 534 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

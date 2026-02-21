@@ -2,7 +2,7 @@
 slug: "tmk-madde-201"
 title: "TMK Madde 201: Madde 201 - Evlilik birliğinin korunmasına yönelik önlemler konusunda yetkili ma..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 201 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

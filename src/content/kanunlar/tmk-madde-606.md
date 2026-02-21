@@ -2,7 +2,7 @@
 slug: "tmk-madde-606"
 title: "TMK Madde 606: Madde 606- Miras, üç ay içinde reddolunabilir...."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 606 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

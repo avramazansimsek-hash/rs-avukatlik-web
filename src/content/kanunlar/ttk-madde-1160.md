@@ -2,7 +2,7 @@
 slug: "ttk-madde-1160"
 title: "TTK Madde 1160: MADDE 1160- (1) Yükleme süresi ve kararlaştırılmış ise sürastarya süresi bittikt..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1160 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

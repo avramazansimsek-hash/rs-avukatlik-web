@@ -2,7 +2,7 @@
 slug: "cmk-madde-18"
 title: "CMK Madde 18: Madde 18 – (1) Sanık, yetkisizlik iddiasını, ilk derece mahkemelerinde duruşmada..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 18 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

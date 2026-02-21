@@ -2,7 +2,7 @@
 slug: "cmk-madde-297"
 title: "CMK Madde 297: Madde 297 – (1) 296 ncı maddeye göre hükmü veren bölge adliye mahkemesince redde..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 297 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tbk-madde-4"
 title: "TBK Madde 4: MADDE 4- Kabul için süre belirlenmeksizin hazır olan bir kişiye yapılan öneri he..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 4 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

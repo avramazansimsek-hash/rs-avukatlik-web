@@ -2,7 +2,7 @@
 slug: "ttk-madde-256"
 title: "TTK Madde 256: MADDE 256- (1) Süresiz şirketlerde ortaklardan biri şirketin feshi ihbarında bul..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 256 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

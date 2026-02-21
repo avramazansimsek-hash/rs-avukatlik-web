@@ -2,7 +2,7 @@
 slug: "tmk-madde-632"
 title: "TMK Madde 632: Madde 632- Her mirasçı, mirası ret veya resmî deftere göre kabul edeceği yerde t..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 632 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

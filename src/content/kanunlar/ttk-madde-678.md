@@ -2,7 +2,7 @@
 slug: "ttk-madde-678"
 title: "TTK Madde 678: MADDE 678- (1) Temsile yetkili olmadığı hâlde bir kişinin temsilcisi sıfatıyla b..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 678 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

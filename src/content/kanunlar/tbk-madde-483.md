@@ -2,7 +2,7 @@
 slug: "tbk-madde-483"
 title: "TBK Madde 483: MADDE 483- Eser teslimden önce beklenmedik olay sonucu yok olursa işsahibi, eser..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 483 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

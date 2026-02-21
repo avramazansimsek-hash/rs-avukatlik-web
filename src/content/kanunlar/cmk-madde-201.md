@@ -2,7 +2,7 @@
 slug: "cmk-madde-201"
 title: "CMK Madde 201: Madde 201 – (1) Cumhuriyet savcısı, müdafi veya vekil sıfatıyla duruşmaya katıla..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 201 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

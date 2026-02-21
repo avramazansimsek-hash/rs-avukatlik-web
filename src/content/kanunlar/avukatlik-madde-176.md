@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-176"
 title: "AVUKATLIK Madde 176: Madde 176 – (Değişik: 2/5/2001 - 4667/84 md.)..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 176 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

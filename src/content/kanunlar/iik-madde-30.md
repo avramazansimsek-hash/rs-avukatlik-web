@@ -2,7 +2,7 @@
 slug: "iik-madde-30"
 title: "IIK Madde 30: Madde 30 – Bir işin yapılmasına mütedair ilam icra dairesine verilince icra memu..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 30 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

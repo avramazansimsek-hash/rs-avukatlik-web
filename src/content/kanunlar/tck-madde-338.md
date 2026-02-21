@@ -2,7 +2,7 @@
 slug: "tck-madde-338"
 title: "TCK Madde 338: Madde 338- (1) Bu bölümde tanımlanan suçların işlenmesi, ilgili kişilerin dikkat..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 338 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

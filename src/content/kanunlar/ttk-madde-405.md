@@ -2,7 +2,7 @@
 slug: "ttk-madde-405"
 title: "TTK Madde 405: MADDE 405- (1) Şirket ile denetçi arasında şirketin ve topluluğun yılsonu hesapl..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 405 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

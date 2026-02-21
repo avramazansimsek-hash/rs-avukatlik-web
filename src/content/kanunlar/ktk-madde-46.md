@@ -2,7 +2,7 @@
 slug: "ktk-madde-46"
 title: "KTK Madde 46: Madde 46 – Karayollarında trafik sağdan akar...."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 46 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

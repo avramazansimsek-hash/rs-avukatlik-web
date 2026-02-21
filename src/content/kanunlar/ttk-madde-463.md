@@ -2,7 +2,7 @@
 slug: "ttk-madde-463"
 title: "TTK Madde 463: MADDE 463- (1) Genel kurul, yeni çıkarılan tahviller veya benzeri borçlanma araç..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 463 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

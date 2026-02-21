@@ -2,7 +2,7 @@
 slug: "hmk-madde-243"
 title: "HMK Madde 243: MADDE 243- (1) Tanık davetiye ile çağrılır. Ancak, davetiye gönderilmeden tarafl..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 243 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

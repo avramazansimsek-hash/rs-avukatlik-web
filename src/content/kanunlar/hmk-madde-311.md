@@ -2,7 +2,7 @@
 slug: "hmk-madde-311"
 title: "HMK Madde 311: MADDE 311- (1) Feragat ve kabul, kesin hüküm gibi hukuki sonuç doğurur. İrade bo..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 311 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

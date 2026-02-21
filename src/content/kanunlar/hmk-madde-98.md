@@ -2,7 +2,7 @@
 slug: "hmk-madde-98"
 title: "HMK Madde 98: MADDE 98- (1) Yapılamayan işlem için eski hâle getirme, bu işlem hakkında hangi..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 98 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

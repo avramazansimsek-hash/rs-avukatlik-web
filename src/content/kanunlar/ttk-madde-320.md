@@ -2,7 +2,7 @@
 slug: "ttk-madde-320"
 title: "TTK Madde 320: MADDE 320- (1) Adı şirketin unvanında bulunan komanditer, üçüncü kişilere karşı..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 320 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

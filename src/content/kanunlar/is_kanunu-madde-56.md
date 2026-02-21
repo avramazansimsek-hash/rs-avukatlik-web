@@ -2,7 +2,7 @@
 slug: "is_kanunu-madde-56"
 title: "IS_KANUNU Madde 56: Madde 56 - Yıllık ücretli izin işveren tarafından bölünemez...."
 category: "İş Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İş Kanunu Madde 56 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

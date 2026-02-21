@@ -2,7 +2,7 @@
 slug: "hmk-madde-238"
 title: "HMK Madde 238: MADDE 238- (1) Hâkim, yemin eden kimsenin beyanını dinleyip tutanağa geçirir ve..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 238 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

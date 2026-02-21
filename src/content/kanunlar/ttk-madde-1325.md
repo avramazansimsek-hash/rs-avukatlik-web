@@ -2,7 +2,7 @@
 slug: "ttk-madde-1325"
 title: "TTK Madde 1325: MADDE 1325- (1) Gemi alacağının devri veya intikali ile bu alacağın verdiği kanu..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1325 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

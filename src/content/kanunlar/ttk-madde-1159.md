@@ -2,7 +2,7 @@
 slug: "ttk-madde-1159"
 title: "TTK Madde 1159: MADDE 1159- (1) Yükleme süresi ve kararlaştırılmışsa sürastarya süresi bittiği h..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1159 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

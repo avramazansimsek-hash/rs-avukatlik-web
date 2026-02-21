@@ -2,7 +2,7 @@
 slug: "tmk-madde-833"
 title: "TMK Madde 833: Madde 833- Üst hakkı sahibinin yükümlülüklerine aykırı davranması hâlinde sözleş..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 833 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

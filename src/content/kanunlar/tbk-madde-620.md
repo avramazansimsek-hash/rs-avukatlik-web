@@ -2,7 +2,7 @@
 slug: "tbk-madde-620"
 title: "TBK Madde 620: MADDE 620- Adi ortaklık sözleşmesi, iki ya da daha fazla kişinin emeklerini ve m..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 620 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

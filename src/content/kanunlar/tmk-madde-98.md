@@ -2,7 +2,7 @@
 slug: "tmk-madde-98"
 title: "TMK Madde 98: Madde 98- Dernekler, bağlı oldukları federasyonun; federasyonlar da bağlı oldukl..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 98 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

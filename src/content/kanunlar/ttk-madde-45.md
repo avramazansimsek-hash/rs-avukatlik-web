@@ -2,7 +2,7 @@
 slug: "ttk-madde-45"
 title: "TTK Madde 45: MADDE 45- (1) Bir ticaret unvanına Türkiye’nin herhangi bir sicil dairesinde dah..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 45 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

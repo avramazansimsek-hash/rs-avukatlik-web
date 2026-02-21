@@ -2,7 +2,7 @@
 slug: "ttk-madde-492"
 title: "TTK Madde 492: MADDE 492- (1) Esas sözleşme, nama yazılı payların ancak şirketin onayıyla devre..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 492 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

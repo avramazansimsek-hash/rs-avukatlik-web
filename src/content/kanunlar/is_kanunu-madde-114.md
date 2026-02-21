@@ -2,7 +2,7 @@
 slug: "is_kanunu-madde-114"
 title: "IS_KANUNU Madde 114: Madde 114 - Çalışma barışının ve endüstri ilişkilerinin geliştirilmesinde, çalış..."
 category: "İş Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İş Kanunu Madde 114 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

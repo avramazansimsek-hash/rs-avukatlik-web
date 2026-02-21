@@ -2,7 +2,7 @@
 slug: "is_kanunu-madde-18"
 title: "IS_KANUNU Madde 18: Madde 18 - Otuz veya daha fazla işçi çalıştıran işyerlerinde en az altı aylık kı..."
 category: "İş Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İş Kanunu Madde 18 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

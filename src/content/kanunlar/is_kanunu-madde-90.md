@@ -2,7 +2,7 @@
 slug: "is_kanunu-madde-90"
 title: "IS_KANUNU Madde 90: Madde 90 - İş arayanların elverişli oldukları işlere yerleştirilmeleri ve çeşitl..."
 category: "İş Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İş Kanunu Madde 90 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-119"
 title: "TMK Madde 119: Madde 119- Nişanlılık, evlenmeye zorlamak için dava hakkı vermez...."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 119 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

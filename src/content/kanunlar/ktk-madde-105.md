@@ -2,7 +2,7 @@
 slug: "ktk-madde-105"
 title: "KTK Madde 105: Madde 105 – Yarış düzenleyicileri, yarışa katılanların veya onlara eşlik edenler..."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 105 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

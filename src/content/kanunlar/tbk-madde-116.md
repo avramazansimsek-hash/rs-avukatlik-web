@@ -2,7 +2,7 @@
 slug: "tbk-madde-116"
 title: "TBK Madde 116: MADDE 116- Borçlu, borcun ifasını veya bir borç ilişkisinden doğan hakkın kullan..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 116 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "hmk-madde-60"
 title: "HMK Madde 60: MADDE 60- (1) Mecburi dava arkadaşları, ancak birlikte dava açabilir veya aleyhl..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 60 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

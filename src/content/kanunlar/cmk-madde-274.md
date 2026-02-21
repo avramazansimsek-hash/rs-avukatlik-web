@@ -2,7 +2,7 @@
 slug: "cmk-madde-274"
 title: "CMK Madde 274: Madde 274 – (1) Sanık, yokluğunda aleyhine verilen hükümlere karşı eski hâle get..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 274 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "hmk-madde-113"
 title: "HMK Madde 113: MADDE 113- (1) Dernekler ve diğer tüzel kişiler, statüleri çerçevesinde, üyeleri..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 113 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

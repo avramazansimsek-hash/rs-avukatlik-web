@@ -2,7 +2,7 @@
 slug: "ttk-madde-1488"
 title: "TTK Madde 1488: MADDE 1488- (1) Birden çok kişi tarafından verilen katkı payları ile oluşturulan..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1488 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

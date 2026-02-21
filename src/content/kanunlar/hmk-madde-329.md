@@ -2,7 +2,7 @@
 slug: "hmk-madde-329"
 title: "HMK Madde 329: MADDE 329- (1) Kötüniyetli davalı veya hiçbir hakkı olmadığı hâlde dava açan tar..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 329 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

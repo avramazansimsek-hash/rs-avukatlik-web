@@ -2,7 +2,7 @@
 slug: "tck-madde-12"
 title: "TCK Madde 12: Madde 12- (1) Bir yabancı, 13 üncü maddede yazılı suçlar dışında, Türk kanunları..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 12 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

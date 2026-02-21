@@ -2,7 +2,7 @@
 slug: "tmk-madde-955"
 title: "TMK Madde 955: Madde 955- Senede bağlanmış olan veya olmayan alacakların rehni için rehin sözle..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 955 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

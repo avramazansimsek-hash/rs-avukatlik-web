@@ -2,7 +2,7 @@
 slug: "tmk-madde-187"
 title: "TMK Madde 187: Madde 187- (İptal cümleler: Anayasa Mahkemesi’nin 22/2/2023 Tarihli ve E.: 2022/..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 187 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

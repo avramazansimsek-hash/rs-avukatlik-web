@@ -2,7 +2,7 @@
 slug: "tmk-madde-27"
 title: "TMK Madde 27: Madde 27- Adın değiştirilmesi, ancak haklı sebeplere dayanılarak hâkimden istene..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 27 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

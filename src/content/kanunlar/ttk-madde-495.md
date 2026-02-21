@@ -2,7 +2,7 @@
 slug: "ttk-madde-495"
 title: "TTK Madde 495: MADDE 495- (1) Şirket, borsada kote edilmiş nama yazılı payları iktisap eden bir..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 495 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

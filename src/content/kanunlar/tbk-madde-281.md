@@ -2,7 +2,7 @@
 slug: "tbk-madde-281"
 title: "TBK Madde 281: MADDE 281- Hukuka veya ahlaka aykırı yollara başvurularak ihalenin gerçekleştiri..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 281 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

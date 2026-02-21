@@ -2,7 +2,7 @@
 slug: "tbk-madde-608"
 title: "TBK Madde 608: MADDE 608- Ömür boyu gelir sözleşmesi, yazılı şekilde yapılmadıkça geçerli olmaz..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 608 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-1006"
 title: "TMK Madde 1006: Madde 1006- Tapu idarelerinin kuruluş, işleyiş ve hizmetlerinin yürütülmesi, öze..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 1006 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

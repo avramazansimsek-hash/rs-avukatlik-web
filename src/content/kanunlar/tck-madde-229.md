@@ -2,7 +2,7 @@
 slug: "tck-madde-229"
 title: "TCK Madde 229: Madde 229- (1) Çocukları, beden veya ruh bakımından kendini idare edemeyecek dur..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 229 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

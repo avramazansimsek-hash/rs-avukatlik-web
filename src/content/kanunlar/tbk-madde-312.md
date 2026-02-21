@@ -2,7 +2,7 @@
 slug: "tbk-madde-312"
 title: "TBK Madde 312: MADDE 312- Taşınmaz kiralarında, sözleşmeyle kiracının kiracılık hakkının tapu s..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 312 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

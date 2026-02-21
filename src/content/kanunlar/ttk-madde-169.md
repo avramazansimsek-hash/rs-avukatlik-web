@@ -2,7 +2,7 @@
 slug: "ttk-madde-169"
 title: "TTK Madde 169: MADDE 169- (1) Bölünmeye katılan şirketlerin yönetim organları, bölünme hakkında..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 169 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

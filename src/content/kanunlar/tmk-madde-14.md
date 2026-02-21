@@ -2,7 +2,7 @@
 slug: "tmk-madde-14"
 title: "TMK Madde 14: Madde 14- Ayırt etme gücü bulunmayanların, küçüklerin ve kısıtlıların fiil ehliy..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 14 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

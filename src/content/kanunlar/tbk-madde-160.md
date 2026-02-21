@@ -2,7 +2,7 @@
 slug: "tbk-madde-160"
 title: "TBK Madde 160: MADDE 160- Zamanaşımından önceden feragat edilemez...."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 160 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

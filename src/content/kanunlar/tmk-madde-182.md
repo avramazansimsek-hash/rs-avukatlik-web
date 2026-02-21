@@ -2,7 +2,7 @@
 slug: "tmk-madde-182"
 title: "TMK Madde 182: Madde 182 - Mahkeme boşanma veya ayrılığa karar verirken, olanak bulundukça ana..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 182 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

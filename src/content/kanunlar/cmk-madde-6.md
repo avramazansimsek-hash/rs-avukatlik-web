@@ -1,8 +1,8 @@
 ---
 slug: "cmk-madde-6"
-title: "CMK Madde 6: Madde 6..."
+title: "CMK Madde 6: Madde 6 – (Değişik: 6/12/2006 – 5560/16 md.)..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 6 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 
@@ -11,42 +11,13 @@ excerpt: "Ceza Muhakemesi Kanunu Madde 6 tam metni, gerekçesi ve Av. Ramazan Ş
 ## Kanun Metni
 
 ```text
-Madde 6
+Madde 6 – (Değişik: 6/12/2006 – 5560/16 md.)
 
-	
+(1) Duruşmada suçun hukukî niteliğinin değiştiğinden bahisle görevsizlik kararı verilerek dosya alt dereceli mahkemeye gönderilemez.
 
-12/3/2024
+ 
 
-
-
-
-41, 141, 142, 144, 173, 251, 252, 268, 272, 273, 275, 276, 277, 291, 293, 294, 295, 296, 297, 308, 308/A, 319, 320
-
-	
-
-1/6/2024
-
-
-
-
-7528
-
-	
-
-100
-
-	
-
-18/10/2024
-
-
-
-
-7531
-
-	
-
-253, 254, Geçici
+Görevli olmayan hâkim veya mahkemenin işlemleri
 ```
 
 

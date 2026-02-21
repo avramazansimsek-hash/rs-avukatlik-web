@@ -2,7 +2,7 @@
 slug: "ttk-madde-821"
 title: "TTK Madde 821: MADDE 821- (1) Çekten doğan borçlanmaların sonuçları, bu borçlanmaların yapıldığ..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 821 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

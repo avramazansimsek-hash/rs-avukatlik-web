@@ -2,7 +2,7 @@
 slug: "tmk-madde-492"
 title: "TMK Madde 492: Madde 492- Sorumlu vasi ve kayyıma karşı açılacak tazminat davası kesin hesabın..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 492 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

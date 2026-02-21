@@ -2,7 +2,7 @@
 slug: "iik-madde-231"
 title: "IIK Madde 231: Madde 231 – Tapu siciline yazılı olan alacaklar; kayıt için müracaat edilmemiş o..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 231 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

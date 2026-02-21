@@ -2,7 +2,7 @@
 slug: "iik-madde-96"
 title: "IIK Madde 96: Madde 96 – (Değişik: 18/2/1965-538/53 md.)..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 96 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

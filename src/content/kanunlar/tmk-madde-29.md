@@ -2,7 +2,7 @@
 slug: "tmk-madde-29"
 title: "TMK Madde 29: Madde 29- Bir hakkın kullanılması için bir kimsenin sağ veya ölü olduğunu veya b..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 29 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

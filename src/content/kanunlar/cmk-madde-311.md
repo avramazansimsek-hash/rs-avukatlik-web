@@ -2,7 +2,7 @@
 slug: "cmk-madde-311"
 title: "CMK Madde 311: Madde 311 – (1) Kesinleşen bir hükümle sonuçlanmış bir dava, aşağıda yazılı hâll..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 311 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

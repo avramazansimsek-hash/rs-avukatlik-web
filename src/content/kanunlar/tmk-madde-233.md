@@ -2,7 +2,7 @@
 slug: "tmk-madde-233"
 title: "TMK Madde 233: Madde 233 - Bir eşin malik olarak bizzat işletmeye devam ettiği veya sağ kalan e..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 233 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

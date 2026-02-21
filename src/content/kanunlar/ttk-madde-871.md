@@ -2,7 +2,7 @@
 slug: "ttk-madde-871"
 title: "TTK Madde 871: MADDE 871- (1) Eşyanın teslim yerine varmasından sonra gönderilen, taşıyıcıdan,..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 871 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

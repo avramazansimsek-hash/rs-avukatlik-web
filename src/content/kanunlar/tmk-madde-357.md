@@ -2,7 +2,7 @@
 slug: "tmk-madde-357"
 title: "TMK Madde 357: Madde 357- Ana ve baba, faiz getiren yatırım veya tasarruf hesabı açılmak üzere..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 357 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

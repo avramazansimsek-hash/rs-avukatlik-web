@@ -2,7 +2,7 @@
 slug: "ttk-madde-1168"
 title: "TTK Madde 1168: MADDE 1168- (1) Boşaltmanın belli bir günde başlayacağı kararlaştırılmamışsa, ta..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1168 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

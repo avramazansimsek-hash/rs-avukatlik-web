@@ -2,7 +2,7 @@
 slug: "tmk-madde-996"
 title: "TMK Madde 996: Madde 996- Kazandırıcı zamanaşımından yararlanma hakkına sahip olan zilyet, zily..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 996 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

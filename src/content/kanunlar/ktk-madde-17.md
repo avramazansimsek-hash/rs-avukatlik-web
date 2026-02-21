@@ -1,8 +1,8 @@
 ---
 slug: "ktk-madde-17"
-title: "KTK Madde 17: Madde 17..."
+title: "KTK Madde 17: Madde 17 – Karayollarında her iki taraftan sınır çizgisine elli metre mesafe içi..."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 17 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 
@@ -11,94 +11,17 @@ excerpt: "Karayolları Trafik Kanunu Madde 17 tam metni, gerekçesi ve Av. Ramaz
 ## Kanun Metni
 
 ```text
-Madde 17
+Madde 17 – Karayollarında her iki taraftan sınır çizgisine elli metre mesafe içinde bağlantıyı sağlayacak geçiş yolları yönünden; akaryakıt, servis, dolum ve muayene istasyonları, umuma açık park yeri ve garaj, terminal, fabrika, işhanı, çarşı, pazar yeri, eğlence yerleri, turistik yapı ve tesisler, inşaat malzemesi ocak ve harmanları, maden ve petrol tesisleri, araç bakım, onarım ve satım işyerleri ve benzeri trafik güvenliğini etkileyecek yapı ve tesisler için, o karayolunun yapım ve bakımı ile sorumlu kuruluştan izin alınması zorunludur.
 
-	
+Verilen izinler, ilgili valiliğe bildirilir.
 
-15/1/2003
+İzinsiz yapılan bu gibi tesislerin yapımı ve işletilmesi yetkililerce durdurulacağı gibi, yönetmelikteki şartlar yerine getirilmeden işletme izni verilmez ve bağlantı yolu, her türlü gider sorumlulara ait olmak üzere yolun yapım ve bakımı ile ilgili kuruluşca ortadan kaldırılır.
 
+(Değişik: 21/5/1997-4262/4 md.) Bu madde hükümlerine uymayanlar 72 000 000 lira para cezası ile cezalandırılırlar.
 
+ 
 
-
-4896
-
-	
-
-108
-
-	
-
-24/6/2003
-
-
-
-
-4916
-
-	
-
-116
-
-	
-
-19/7/2003
-
-
-
-
-5217
-
-	
-
-91
-
-	
-
-1/1/2005
-
-
-
-
-5228
-
-	
-
-114, 116
-
-	
-
-31/7/2004
-
-
-
-
-7/j , 8, 34, 35, 115, Geçici Madde 18, İşlenemeyen hüküm
-
-	
-
-1/1/2005
-
-
-
-
-5265
-
-	
-
-91
-
-	
-
-7/12/2004
-
-
-
-
-5335
-
-	
-
-Ek
+Belediye sınırları içinde bulunan karayolu kenarındaki yapı ve tesisler:
 ```
 
 

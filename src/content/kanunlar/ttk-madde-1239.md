@@ -2,7 +2,7 @@
 slug: "ttk-madde-1239"
 title: "TTK Madde 1239: MADDE 1239- (1) Konişmento eşyanın genel olarak cinsi, işaretleri, koli veya par..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1239 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

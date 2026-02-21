@@ -2,7 +2,7 @@
 slug: "tmk-madde-440"
 title: "TMK Madde 440: Madde 440- Vesayet altındaki kişinin menfaati gerektirirse değerli şeylerin dışı..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 440 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

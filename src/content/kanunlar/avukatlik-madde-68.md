@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-68"
 title: "AVUKATLIK Madde 68: Madde 68 – Bir barodan diğer baroya nakil hakkındaki istekler, levhasına yazılma..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 68 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

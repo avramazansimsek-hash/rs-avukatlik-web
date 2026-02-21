@@ -1,8 +1,8 @@
 ---
 slug: "cmk-madde-5"
-title: "CMK Madde 5: Madde 5..."
+title: "CMK Madde 5: Madde 5 – (1) İddianamenin kabulünden sonra; işin, davayı gören mahkemenin görev..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 5 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 
@@ -11,31 +11,13 @@ excerpt: "Ceza Muhakemesi Kanunu Madde 5 tam metni, gerekçesi ve Av. Ramazan Ş
 ## Kanun Metni
 
 ```text
-Madde 5
+Madde 5 – (1) İddianamenin kabulünden sonra; işin, davayı gören mahkemenin görevini aştığı veya dışında kaldığı anlaşılırsa, mahkeme bir kararla işi görevli mahkemeye gönderir.
 
-	
+(2) Adlî yargı içerisindeki mahkemeler bakımından verilen görevsizlik kararlarına karşı itiraz yoluna gidilebilir.
 
-Yayımı tarihi
+ 
 
-
-
-
-Anayasa Mahkemesinin 8/9/2022 tarihli ve E.:2021/118; K.:2022/98 sayılı Kararı
-
-	
-
-193
-
-	
-
-4/10/2022 tarihinden başlayarak altı ay sonra
-
-(4/4/2023)
-
-
-
-
-7413
+Görevsizlik kararı verilemeyecek hâl
 ```
 
 

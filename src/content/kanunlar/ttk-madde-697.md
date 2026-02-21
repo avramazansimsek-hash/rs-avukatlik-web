@@ -2,7 +2,7 @@
 slug: "ttk-madde-697"
 title: "TTK Madde 697: MADDE 697- (1) Düzenleyen, poliçede, ödemenin nezdinde yapılacağı bir üçüncü kiş..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 697 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

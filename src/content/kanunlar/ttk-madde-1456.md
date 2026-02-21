@@ -2,7 +2,7 @@
 slug: "ttk-madde-1456"
 title: "TTK Madde 1456: MADDE 1456- (1) Sınırlı ayni hak ile takyit edilmiş bir mal üzerindeki, malike a..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1456 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

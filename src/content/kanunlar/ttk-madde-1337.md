@@ -2,7 +2,7 @@
 slug: "ttk-madde-1337"
 title: "TTK Madde 1337: MADDE 1337- (1) 1992 tarihli Sorumluluk ve Fon Sözleşmeleri, Milletlerarası Özel..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1337 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

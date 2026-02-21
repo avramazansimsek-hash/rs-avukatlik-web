@@ -2,7 +2,7 @@
 slug: "ttk-madde-1089"
 title: "TTK Madde 1089: MADDE 1089- (1) Kaptan, kusuruyla yol açtığı zararlardan, özellikle bu Kısım ile..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1089 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

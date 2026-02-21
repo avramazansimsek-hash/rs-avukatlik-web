@@ -2,7 +2,7 @@
 slug: "tmk-madde-675"
 title: "TMK Madde 675: Madde 675- Olağan hediyeler ile evlenme sırasında yapılan geleneğe uygun giderle..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 675 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

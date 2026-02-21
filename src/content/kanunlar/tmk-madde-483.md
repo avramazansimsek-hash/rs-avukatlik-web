@@ -2,7 +2,7 @@
 slug: "tmk-madde-483"
 title: "TMK Madde 483: Madde 483- Vasi, görevini ağır surette savsaklar, yetkilerini kötüye kullanır ve..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 483 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

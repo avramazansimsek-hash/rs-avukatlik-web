@@ -2,7 +2,7 @@
 slug: "hmk-madde-164"
 title: "HMK Madde 164: MADDE 164- (1) Hâkim, taraflardan birinin ileri sürdüğü ön sorunu incelemeye değ..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 164 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "hmk-madde-384"
 title: "HMK Madde 384: MADDE 384- (1) Kanunda aksine hüküm bulunmadıkça, çekişmesiz yargı işleri için t..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 384 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-326"
 title: "TMK Madde 326: Madde 326- Kişisel ilişki kurulmasıyla ilgili bütün düzenlemelerde çocuğun oturd..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 326 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

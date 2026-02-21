@@ -2,7 +2,7 @@
 slug: "ttk-madde-1425"
 title: "TTK Madde 1425: MADDE 1425- (1) Sigorta poliçesi, tarafların haklarını, temerrüde ilişkin hüküml..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1425 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

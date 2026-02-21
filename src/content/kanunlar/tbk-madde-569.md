@@ -2,7 +2,7 @@
 slug: "tbk-madde-569"
 title: "TBK Madde 569: MADDE 569- Birden çok kişi, haklarını korumak üzere, hukuki durumu çekişmeli vey..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 569 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

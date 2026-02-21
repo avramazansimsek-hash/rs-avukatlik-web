@@ -2,7 +2,7 @@
 slug: "tmk-madde-134"
 title: "TMK Madde 134: Madde 134- Birbiriyle evlenecek erkek ve kadın, içlerinden birinin oturduğu yer..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 134 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

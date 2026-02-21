@@ -2,7 +2,7 @@
 slug: "tmk-madde-882"
 title: "TMK Madde 882: Madde 882- Miktarı belirli olmayan veya değişebilen alacaklar da, belli rehin de..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 882 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tck-madde-161"
 title: "TCK Madde 161: Madde 161- (1) Malvarlığını eksiltmeye yönelik hileli tasarruflarda bulunan kişi..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 161 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

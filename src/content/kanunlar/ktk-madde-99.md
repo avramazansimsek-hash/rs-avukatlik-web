@@ -2,7 +2,7 @@
 slug: "ktk-madde-99"
 title: "KTK Madde 99: Madde 99 – Sigortacılar, hak sahibinin zorunlu mali sorumluluk sigortası genel ş..."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 99 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

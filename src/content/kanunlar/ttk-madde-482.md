@@ -2,7 +2,7 @@
 slug: "ttk-madde-482"
 title: "TTK Madde 482: MADDE 482- (1) Sermaye koyma borcunu süresi içinde yerine getirmeyen pay sahibi,..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 482 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

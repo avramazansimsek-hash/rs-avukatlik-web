@@ -2,7 +2,7 @@
 slug: "iyuk-madde-20"
 title: "IYUK Madde 20: Madde 20 – 1. (Değişik birinci cümle: 18/6/2014-6545/17 md.) Danıştay, bölge ida..."
 category: "İdari Yargılama Usulü Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İdari Yargılama Usulü Kanunu Madde 20 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

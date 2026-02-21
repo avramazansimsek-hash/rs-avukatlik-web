@@ -2,7 +2,7 @@
 slug: "tbk-madde-436"
 title: "TBK Madde 436: MADDE 436- İşverenin ödeme güçsüzlüğüne düşmesi hâlinde işçi, sözleşmeden doğan..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 436 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

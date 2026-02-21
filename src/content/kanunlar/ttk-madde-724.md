@@ -2,7 +2,7 @@
 slug: "ttk-madde-724"
 title: "TTK Madde 724: MADDE 724- (1) Bir poliçeyi düzenleyen, kabul eden, ciro eden veya o poliçeye av..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 724 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

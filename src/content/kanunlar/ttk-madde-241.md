@@ -2,7 +2,7 @@
 slug: "ttk-madde-241"
 title: "TTK Madde 241: MADDE 241- (1) Şirketin iflası hâlinde ortaklar, koydukları sermaye ve işlemekte..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 241 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

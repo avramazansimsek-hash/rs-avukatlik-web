@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-77"
 title: "AVUKATLIK Madde 77: Madde 77 – (Değişik birinci fıkra: 2/5/2001 - 4667/47 md.) Bölgesi içinde en az..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 77 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

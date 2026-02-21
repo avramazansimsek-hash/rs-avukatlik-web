@@ -2,7 +2,7 @@
 slug: "cmk-madde-236"
 title: "CMK Madde 236: Madde 236 – (1) Mağdurun tanık olarak dinlenmesi halinde, yemin hariç, tanıklığa..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 236 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tck-madde-56"
 title: "TCK Madde 56: Madde 56- (1) Çocuklara özgü güvenlik tedbirlerinin neler olduğu ve ne suretle u..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 56 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

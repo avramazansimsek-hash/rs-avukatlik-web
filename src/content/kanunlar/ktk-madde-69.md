@@ -2,7 +2,7 @@
 slug: "ktk-madde-69"
 title: "KTK Madde 69: Madde 69 – Yerleşim birimleri dışındaki karayolunda, taşıt yolu üzerinde zorunlu..."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 69 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

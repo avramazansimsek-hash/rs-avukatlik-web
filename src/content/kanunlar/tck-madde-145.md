@@ -2,7 +2,7 @@
 slug: "tck-madde-145"
 title: "TCK Madde 145: Madde 145- (1) (Değişik: 29/6/2005 – 5377/16 md.) Hırsızlık suçunun konusunu olu..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 145 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

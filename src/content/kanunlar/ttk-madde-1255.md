@@ -2,7 +2,7 @@
 slug: "ttk-madde-1255"
 title: "TTK Madde 1255: MADDE 1255- (1) Yolcu, yolculuk sırasında ölürse, 915 inci madde hükmü uygulanır..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1255 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

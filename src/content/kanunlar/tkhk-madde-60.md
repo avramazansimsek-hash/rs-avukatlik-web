@@ -2,7 +2,7 @@
 slug: "tkhk-madde-60"
 title: "TKHK Madde 60: MADDE 60- (1) Tüketici ödülleri, tüketicinin korunması ve bilinçlendirilmesi ile..."
 category: "Tüketicinin Korunması Hakkında Kanun"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Tüketicinin Korunması Hakkında Kanun Madde 60 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

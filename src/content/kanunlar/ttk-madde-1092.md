@@ -2,7 +2,7 @@
 slug: "ttk-madde-1092"
 title: "TTK Madde 1092: MADDE 1092- (1) Kaptan, yabancı bir ülkede bulunduğu sırada o ülke devletinin me..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1092 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

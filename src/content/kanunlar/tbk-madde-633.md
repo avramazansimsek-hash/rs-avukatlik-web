@@ -2,7 +2,7 @@
 slug: "tbk-madde-633"
 title: "TBK Madde 633: MADDE 633- Bir ortağın fesih bildiriminde bulunması, kısıtlanması, iflası, tasfi..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 633 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

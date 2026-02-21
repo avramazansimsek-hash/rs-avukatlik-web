@@ -2,7 +2,7 @@
 slug: "tmk-madde-422"
 title: "TMK Madde 422: Madde 422- Vasiliğe atanan kişi, bu durumun kendisine tebliğinden başlayarak on..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 422 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

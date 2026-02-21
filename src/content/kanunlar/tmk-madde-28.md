@@ -2,7 +2,7 @@
 slug: "tmk-madde-28"
 title: "TMK Madde 28: Madde 28- Kişilik, çocuğun sağ olarak tamamıyla doğduğu anda başlar ve ölümle so..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 28 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-514"
 title: "TMK Madde 514: Madde 514- Mirasbırakan, tasarruf özgürlüğünün sınırları içinde, malvarlığının t..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 514 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

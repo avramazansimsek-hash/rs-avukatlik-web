@@ -2,7 +2,7 @@
 slug: "tck-madde-176"
 title: "TCK Madde 176: Madde 176- (1) İnşaat veya yıkım faaliyeti sırasında, insan hayatı veya beden bü..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 176 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

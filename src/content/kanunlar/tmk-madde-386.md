@@ -2,7 +2,7 @@
 slug: "tmk-madde-386"
 title: "TMK Madde 386: Madde 386- Konutlar, tarıma veya sanayiye elverişli taşınmazlar, eklentileriyle..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 386 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

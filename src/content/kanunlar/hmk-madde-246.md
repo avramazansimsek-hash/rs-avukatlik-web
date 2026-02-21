@@ -2,7 +2,7 @@
 slug: "hmk-madde-246"
 title: "HMK Madde 246: MADDE 246- (1) Hâkim gerekli görülen hâllerde, sözlü olarak dinlenmesi yerine, b..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 246 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

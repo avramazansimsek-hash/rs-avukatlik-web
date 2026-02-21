@@ -2,7 +2,7 @@
 slug: "is_kanunu-madde-42"
 title: "IS_KANUNU Madde 42: Madde 42 - Gerek bir arıza sırasında, gerek bir arızanın mümkün görülmesi halind..."
 category: "İş Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İş Kanunu Madde 42 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

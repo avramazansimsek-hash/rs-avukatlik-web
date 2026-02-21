@@ -1,8 +1,8 @@
 ---
 slug: "iyuk-madde-10"
-title: "IYUK Madde 10: Madde 10..."
+title: "IYUK Madde 10: Madde 10 – 1. İlgililer, haklarında idari davaya konu olabilecek bir işlem veya..."
 category: "İdari Yargılama Usulü Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İdari Yargılama Usulü Kanunu Madde 10 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 
@@ -11,78 +11,15 @@ excerpt: "İdari Yargılama Usulü Kanunu Madde 10 tam metni, gerekçesi ve Av. 
 ## Kanun Metni
 
 ```text
-Madde 10
+Madde 10 – 1. İlgililer, haklarında idari davaya konu olabilecek bir işlem veya eylemin yapılması için idari makamlara başvurabilirler.
 
-	
+2. (Değişik: 10/6/1994-4001/5 md.) Otuz gün içinde bir cevap verilmezse istek reddedilmiş sayılır. İlgililer otuz günün bittiği tarihten itibaren dava açma süresi içinde, konusuna göre Danıştaya, idare ve vergi mahkemelerine dava açabilirler. Otuz günlük süre içinde idarece verilen cevap kesin değilse ilgili bu cevabı, isteminin reddi sayarak dava açabileceği gibi, kesin cevabı da bekleyebilir. Bu takdirde dava açma süresi işlemez. Ancak, bekleme süresi başvuru tarihinden itibaren dört ayı geçemez. Dava açılmaması veya davanın süreden reddi hallerinde, otuz günlük sürenin bitmesinden sonra yetkili idari makamlarca cevap verilirse, cevabın tebliğinden itibaren altmış gün içinde dava açabilirler.[7]
 
-14/7/2021
+3. (Mülga: 10/6/1994-4001/5 md.)
 
+ 
 
-
-
-7351
-
-	
-
-27
-
-	
-
-22/1/2022
-
-
-
-
-Anayasa Mahkemesi’nin 1/6/2022 tarihli ve
-
-E.: 2022/14, K.: 2022/70 sayılı Kararı
-
-	
-
-27
-
-	
-
-7/7/2022
-
-
-
-
-Anayasa Mahkemesinin 20/7/2022 tarihli ve
-
-E.: 2022/48, K.: 2022/93 sayılı Kararı
-
-	
-
-45, 48
-
-	
-
-17/8/2022
-
-
-
-
-Anayasa Mahkemesinin 26/7/2023 Tarihli ve E: 2023/36 K: 2023/142 Sayılı Kararı
-
-	
-
-46
-
-	
-
-Kararın Resmî Gazete’de yayımlanmasından başlayarak dokuz ay sonra
-
-(13/7/2024)
-
-
-
-
-7471
-
-	
-
-Geçici
+Üst makamlara başvurma:
 ```
 
 

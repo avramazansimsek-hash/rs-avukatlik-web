@@ -2,7 +2,7 @@
 slug: "tbk-madde-127"
 title: "TBK Madde 127: MADDE 127- Alacaklıya ifada bulunan üçüncü kişi, aşağıdaki hâllerde ifası ölçüsü..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 127 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

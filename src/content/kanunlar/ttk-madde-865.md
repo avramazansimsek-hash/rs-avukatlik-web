@@ -2,7 +2,7 @@
 slug: "ttk-madde-865"
 title: "TTK Madde 865: MADDE 865- (1) Gönderen taşıma sözleşmesini her zaman feshedebilir...."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 865 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

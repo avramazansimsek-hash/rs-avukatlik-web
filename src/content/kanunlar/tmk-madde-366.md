@@ -2,7 +2,7 @@
 slug: "tmk-madde-366"
 title: "TMK Madde 366: Madde 366- Korunmaya muhtaç kişilerin bakımı, bununla yükümlü kurumlar tarafında..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 366 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

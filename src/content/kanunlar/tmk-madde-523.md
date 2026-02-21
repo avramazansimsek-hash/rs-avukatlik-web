@@ -2,7 +2,7 @@
 slug: "tmk-madde-523"
 title: "TMK Madde 523: Madde 523- Önmirasçıya geçen mirasın sulh mahkemesince defteri tutulur...."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 523 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

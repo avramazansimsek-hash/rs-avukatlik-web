@@ -2,7 +2,7 @@
 slug: "ttk-madde-325"
 title: "TTK Madde 325: MADDE 325- (1) Şirketin varlığı şirket alacaklılarına yetmeyecek olursa, bu alac..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 325 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

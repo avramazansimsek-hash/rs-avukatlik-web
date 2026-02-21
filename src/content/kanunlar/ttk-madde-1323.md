@@ -2,7 +2,7 @@
 slug: "ttk-madde-1323"
 title: "TTK Madde 1323: MADDE 1323- (1) 1320 nci maddenin birinci fıkrasının (a) ilâ (e) bentlerinde yaz..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1323 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-1240"
 title: "TTK Madde 1240: MADDE 1240- (1) 1229 uncu maddenin birinci fıkrasının (l) bendi uyarınca navlunu..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1240 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

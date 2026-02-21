@@ -2,7 +2,7 @@
 slug: "iik-madde-188"
 title: "IIK Madde 188: Madde 188 – Sırf bedelini tahsil etmek için yahut tayin edilen ilerdeki bir tedi..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 188 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

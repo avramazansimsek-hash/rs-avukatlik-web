@@ -2,7 +2,7 @@
 slug: "tmk-madde-915"
 title: "TMK Madde 915: Madde 915- İpotekli borç senedi veya irat senedi düzenlenirken, gerekli ödemeler..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 915 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

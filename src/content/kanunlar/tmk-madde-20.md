@@ -2,7 +2,7 @@
 slug: "tmk-madde-20"
 title: "TMK Madde 20: Madde 20- Bir yerleşim yerinin değiştirilmesi yenisinin edinilmesine bağlıdır...."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 20 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

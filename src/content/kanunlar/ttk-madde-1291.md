@@ -2,7 +2,7 @@
 slug: "ttk-madde-1291"
 title: "TTK Madde 1291: MADDE 1291- (1) Gemi, zorunlu danışman kılavuz veya isteğe bağlı kılavuz tarafın..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1291 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

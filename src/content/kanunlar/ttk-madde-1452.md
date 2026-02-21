@@ -2,7 +2,7 @@
 slug: "ttk-madde-1452"
 title: "TTK Madde 1452: MADDE 1452- (1) 1404 ve 1408 inci madde hükümleriyle 1429 uncu maddenin birinci..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1452 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

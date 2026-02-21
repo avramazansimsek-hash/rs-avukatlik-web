@@ -2,7 +2,7 @@
 slug: "tmk-madde-1012"
 title: "TMK Madde 1012: Madde 1012- Bir taşınmazın eklentileri, malikin istemi üzerine kütükteki beyanla..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 1012 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

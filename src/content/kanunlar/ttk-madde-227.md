@@ -2,7 +2,7 @@
 slug: "ttk-madde-227"
 title: "TTK Madde 227: MADDE 227- (1) Yönetici ortaklar, şirketin faaliyet dönemi sonunda, bu Kanunun t..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 227 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

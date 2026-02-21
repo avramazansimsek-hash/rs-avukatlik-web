@@ -2,7 +2,7 @@
 slug: "tbk-madde-75"
 title: "TBK Madde 75: MADDE 75- Bedensel zararın kapsamı, karar verme sırasında tam olarak belirlenemi..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 75 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

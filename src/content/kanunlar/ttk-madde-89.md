@@ -2,7 +2,7 @@
 slug: "ttk-madde-89"
 title: "TTK Madde 89: MADDE 89- (1) İki kişinin herhangi bir hukuki sebep veya ilişkiden doğan alacakl..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 89 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

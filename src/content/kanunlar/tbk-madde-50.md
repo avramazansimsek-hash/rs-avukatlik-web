@@ -2,7 +2,7 @@
 slug: "tbk-madde-50"
 title: "TBK Madde 50: MADDE 50- Zarar gören, zararını ve zarar verenin kusurunu ispat yükü altındadır...."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 50 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

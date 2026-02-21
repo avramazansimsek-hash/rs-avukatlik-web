@@ -2,7 +2,7 @@
 slug: "tmk-madde-509"
 title: "TMK Madde 509: Madde 509- Mirasbırakanın kendi ölümünde ödenmek üzere üçüncü kişi lehine hayat..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 509 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

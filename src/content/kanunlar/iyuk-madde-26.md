@@ -2,7 +2,7 @@
 slug: "iyuk-madde-26"
 title: "IYUK Madde 26: Madde 26 – 1. Dava esnasında ölüm veya herhangi bir sebeple tarafların kişilik v..."
 category: "İdari Yargılama Usulü Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İdari Yargılama Usulü Kanunu Madde 26 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

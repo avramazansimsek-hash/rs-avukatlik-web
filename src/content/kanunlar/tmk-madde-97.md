@@ -2,7 +2,7 @@
 slug: "tmk-madde-97"
 title: "TMK Madde 97: Madde 97- Konfederasyonlar, kuruluş amaçları aynı olan en az üç federasyonun, am..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 97 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

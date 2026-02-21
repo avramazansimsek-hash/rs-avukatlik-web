@@ -2,7 +2,7 @@
 slug: "ttk-madde-402"
 title: "TTK Madde 402: MADDE 402- (1) Denetçi, yapılan denetimin türü, kapsamı, niteliği ve sonuçları h..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 402 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

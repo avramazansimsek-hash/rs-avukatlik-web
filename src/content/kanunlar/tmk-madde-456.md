@@ -2,7 +2,7 @@
 slug: "tmk-madde-456"
 title: "TMK Madde 456: Madde 456- Vasi, kural olarak iki yıl için atanır...."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 456 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

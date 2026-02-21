@@ -2,7 +2,7 @@
 slug: "tbk-madde-366"
 title: "TBK Madde 366: MADDE 366- Kiracı, kiraya verenin rızası olmaksızın kiralananı başkasına kiraya..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 366 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

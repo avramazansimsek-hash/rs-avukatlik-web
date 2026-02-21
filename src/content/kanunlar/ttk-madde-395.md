@@ -2,7 +2,7 @@
 slug: "ttk-madde-395"
 title: "TTK Madde 395: MADDE 395- (1) Yönetim kurulu üyesi, genel kuruldan izin almadan, şirketle kendi..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 395 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

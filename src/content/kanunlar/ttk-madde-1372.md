@@ -2,7 +2,7 @@
 slug: "ttk-madde-1372"
 title: "TTK Madde 1372: MADDE 1372- (1) 1370 ve 1371 inci maddeler uyarınca verilecek teminatın tür ve m..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1372 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

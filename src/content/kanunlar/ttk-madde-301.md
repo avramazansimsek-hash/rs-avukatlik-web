@@ -2,7 +2,7 @@
 slug: "ttk-madde-301"
 title: "TTK Madde 301: MADDE 301- (1) Tasfiye memurları, ortaklara, her zaman tasfiye işlerinin durumu..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 301 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

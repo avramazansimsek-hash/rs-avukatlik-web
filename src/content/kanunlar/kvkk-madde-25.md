@@ -2,7 +2,7 @@
 slug: "kvkk-madde-25"
 title: "KVKK Madde 25: MADDE 25- (1) Başkanlık; Başkan Yardımcısı ve hizmet birimlerinden oluşur. Başka..."
 category: "Kişisel Verilerin Korunması Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Kişisel Verilerin Korunması Kanunu Madde 25 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

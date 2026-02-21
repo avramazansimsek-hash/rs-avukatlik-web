@@ -2,7 +2,7 @@
 slug: "ttk-madde-1184"
 title: "TTK Madde 1184: MADDE 1184- (1) Gönderilen; eşyayı teslim almadan, taşıyan, kaptan veya gönderil..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1184 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

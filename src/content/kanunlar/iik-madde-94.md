@@ -2,7 +2,7 @@
 slug: "iik-madde-94"
 title: "IIK Madde 94: Madde 94 – (Değişik: 18/2/1965-538/52 md.)..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 94 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

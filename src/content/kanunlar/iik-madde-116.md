@@ -2,7 +2,7 @@
 slug: "iik-madde-116"
 title: "IIK Madde 116: Madde 116 – (Mülga: 2/7/2012-6352/105 md.)..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 116 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

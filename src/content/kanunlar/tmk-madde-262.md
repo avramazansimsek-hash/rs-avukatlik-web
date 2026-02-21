@@ -2,7 +2,7 @@
 slug: "tmk-madde-262"
 title: "TMK Madde 262: Madde 262- Eşler, ortaklık mallarını evlilik birliğinin yararına uygun olarak yö..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 262 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

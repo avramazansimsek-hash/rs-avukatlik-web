@@ -2,7 +2,7 @@
 slug: "tmk-madde-214"
 title: "TMK Madde 214: Madde 214 - Eşler veya mirasçılar arasında bir mal rejiminin tasfiyesine ilişkin..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 214 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

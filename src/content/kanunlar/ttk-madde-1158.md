@@ -2,7 +2,7 @@
 slug: "ttk-madde-1158"
 title: "TTK Madde 1158: MADDE 1158- (1) Taşıtan, yolculuk çarteri sözleşmesini, gemi o sözleşme uyarınca..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1158 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

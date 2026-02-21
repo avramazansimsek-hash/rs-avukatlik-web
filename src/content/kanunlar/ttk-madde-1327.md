@@ -2,7 +2,7 @@
 slug: "ttk-madde-1327"
 title: "TTK Madde 1327: MADDE 1327- (1) Bu Kanundaki ve diğer kanunlardaki özel hükümler saklı kalmak ka..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1327 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

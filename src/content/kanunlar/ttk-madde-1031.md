@@ -2,7 +2,7 @@
 slug: "ttk-madde-1031"
 title: "TTK Madde 1031: MADDE 1031- (1) Üçüncü kişinin fiili sebebiyle geminin, ipoteğin sağladığı temin..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1031 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

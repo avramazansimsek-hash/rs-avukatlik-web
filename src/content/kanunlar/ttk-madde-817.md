@@ -2,7 +2,7 @@
 slug: "ttk-madde-817"
 title: "TTK Madde 817: MADDE 817- (1) Kanunun bu Kısmında gösterilen süreler hesap edilirken bunların b..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 817 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

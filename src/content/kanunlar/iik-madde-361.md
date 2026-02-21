@@ -2,7 +2,7 @@
 slug: "iik-madde-361"
 title: "IIK Madde 361: Madde 361 – İcra dairelerince borçludan fazla para tahsil olunarak alacaklıya ve..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 361 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

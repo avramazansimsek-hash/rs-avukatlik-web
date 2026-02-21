@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-114"
 title: "AVUKATLIK Madde 114: Madde 114 – Türkiye Barolar Birliğinin en yüksek organı Genel Kuruldur...."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 114 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

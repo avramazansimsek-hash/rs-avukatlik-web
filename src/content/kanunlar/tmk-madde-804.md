@@ -2,7 +2,7 @@
 slug: "tmk-madde-804"
 title: "TMK Madde 804: Madde 804- İntifa hakkı süresi içinde olgunlaşan doğal ürünler, intifa hakkı sah..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 804 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

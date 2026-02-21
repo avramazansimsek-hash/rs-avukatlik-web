@@ -2,7 +2,7 @@
 slug: "ktk-madde-64"
 title: "KTK Madde 64: Madde 64 – Araçların sürülmesi sırasındaki zorunluluk ve yasaklar aşağıda göster..."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 64 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

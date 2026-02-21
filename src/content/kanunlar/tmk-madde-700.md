@@ -2,7 +2,7 @@
 slug: "tmk-madde-700"
 title: "TMK Madde 700: Madde 700- Bir paydaşın kendi payı üzerinde intifa hakkı kurması hâlinde, diğer..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 700 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

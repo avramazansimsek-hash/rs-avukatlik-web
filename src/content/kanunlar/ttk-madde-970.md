@@ -2,7 +2,7 @@
 slug: "ttk-madde-970"
 title: "TTK Madde 970: MADDE 970- (1) Gemi siciline geçirilen her kayıt gecikmeksizin gemi tasdiknamesi..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 970 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

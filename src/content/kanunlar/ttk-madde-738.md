@@ -2,7 +2,7 @@
 slug: "ttk-madde-738"
 title: "TTK Madde 738: MADDE 738- (1) Hamil, vadede veya vadeden önce başvurma haklarını kullanabileceğ..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 738 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

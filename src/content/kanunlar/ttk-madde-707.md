@@ -2,7 +2,7 @@
 slug: "ttk-madde-707"
 title: "TTK Madde 707: MADDE 707- (1) Belirli bir günde ödenecek bir poliçenin düzenlenme yeri ile ödem..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 707 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

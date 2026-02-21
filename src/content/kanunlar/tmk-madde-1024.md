@@ -2,7 +2,7 @@
 slug: "tmk-madde-1024"
 title: "TMK Madde 1024: Madde 1024- Bir aynî hak yolsuz olarak tescil edilmiş ise, bunu bilen veya bilme..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 1024 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

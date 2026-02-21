@@ -2,7 +2,7 @@
 slug: "tmk-madde-364"
 title: "TMK Madde 364: Madde 364- Herkes, yardım etmediği takdirde yoksulluğa düşecek olan üstsoyu ve a..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 364 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

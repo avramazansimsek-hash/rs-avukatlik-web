@@ -2,7 +2,7 @@
 slug: "ttk-madde-1508"
 title: "TTK Madde 1508: MADDE 1508- (1) Sigortacı, aksi kararlaştırılmamışsa, poliçede yazılı bedelden b..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1508 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

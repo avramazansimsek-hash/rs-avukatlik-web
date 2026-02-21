@@ -2,7 +2,7 @@
 slug: "tmk-madde-951"
 title: "TMK Madde 951: Madde 951- Nitelikleri itibarıyla paraya çevrilmeye elverişli olmayan taşınırlar..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 951 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

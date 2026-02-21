@@ -2,7 +2,7 @@
 slug: "ttk-madde-166"
 title: "TTK Madde 166: MADDE 166- (1) Bir şirket, bölünme yoluyla, malvarlığının bölümlerini var olan ş..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 166 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-946"
 title: "TTK Madde 946: MADDE 946- (1) Bir geminin bağlama limanı o gemiye ait seferlerin yönetildiği ye..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 946 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

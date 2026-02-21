@@ -2,7 +2,7 @@
 slug: "iik-madde-183"
 title: "IIK Madde 183: Madde 183 – Bir tereke 180 inci madde mucibince tasfiye halinde bulunur ve tasfi..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 183 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

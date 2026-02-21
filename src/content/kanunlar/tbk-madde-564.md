@@ -2,7 +2,7 @@
 slug: "tbk-madde-564"
 title: "TBK Madde 564: MADDE 564- Saklama sözleşmesinde bir süre belirlenmiş olsa bile saklayan, saklat..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 564 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

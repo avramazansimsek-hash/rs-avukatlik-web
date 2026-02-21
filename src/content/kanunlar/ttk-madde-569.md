@@ -2,7 +2,7 @@
 slug: "ttk-madde-569"
 title: "TTK Madde 569: MADDE 569- (1) Kuruluşa, anonim şirketlerin kuruluşuna ilişkin hükümler uygulanı..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 569 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

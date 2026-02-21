@@ -2,7 +2,7 @@
 slug: "ttk-madde-261"
 title: "TTK Madde 261: MADDE 261- (1) Çıkarılan veya çıkan ortak, 260 ıncı madde uyarınca hesaplanan pa..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 261 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-168"
 title: "TMK Madde 168: Madde 168- Boşanma veya ayrılık davalarında yetkili mahkeme, eşlerden birinin ye..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 168 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

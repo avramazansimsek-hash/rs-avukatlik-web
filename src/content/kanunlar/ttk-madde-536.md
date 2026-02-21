@@ -2,7 +2,7 @@
 slug: "ttk-madde-536"
 title: "TTK Madde 536: MADDE 536- (1) Esas sözleşme veya genel kurul kararıyla ayrıca tasfiye memuru at..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 536 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

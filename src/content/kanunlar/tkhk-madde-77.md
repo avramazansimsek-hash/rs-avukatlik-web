@@ -2,7 +2,7 @@
 slug: "tkhk-madde-77"
 title: "TKHK Madde 77: MADDE 77- (1) (Değişik:23/5/2024-7511/19 md.) Bu Kanunun;..."
 category: "Tüketicinin Korunması Hakkında Kanun"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Tüketicinin Korunması Hakkında Kanun Madde 77 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-340"
 title: "TTK Madde 340: MADDE 340- (1) Esas sözleşme, bu Kanunun anonim şirketlere ilişkin hükümlerinden..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 340 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

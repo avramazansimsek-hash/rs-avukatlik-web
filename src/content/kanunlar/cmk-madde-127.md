@@ -2,7 +2,7 @@
 slug: "cmk-madde-127"
 title: "CMK Madde 127: Madde 127 – (1) (Değişik: 25/5/2005 – 5353/16 md.) Hâkim kararı üzerine veya gec..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 127 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

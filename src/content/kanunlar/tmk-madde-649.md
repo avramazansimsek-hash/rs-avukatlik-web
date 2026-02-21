@@ -2,7 +2,7 @@
 slug: "tmk-madde-649"
 title: "TMK Madde 649: Madde 649- Kanunda aksine bir hüküm bulunmadıkça mirasçılar, paylaşmada terekeni..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 649 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

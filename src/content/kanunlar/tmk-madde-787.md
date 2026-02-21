@@ -2,7 +2,7 @@
 slug: "tmk-madde-787"
 title: "TMK Madde 787: Madde 787- İrtifaktan doğan yetki ve yükümlülükleri açıkça belirlediği ölçüde te..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 787 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

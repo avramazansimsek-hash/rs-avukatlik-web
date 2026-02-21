@@ -2,7 +2,7 @@
 slug: "ttk-madde-602"
 title: "TTK Madde 602: MADDE 602- (1) Şirket, borç ve yükümlülükleri dolayısıyla sadece malvarlığıyla s..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 602 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

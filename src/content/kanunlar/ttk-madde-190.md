@@ -2,7 +2,7 @@
 slug: "ttk-madde-190"
 title: "TTK Madde 190: MADDE 190- (1) Ortakların kişisel sorumlulukları hakkında 158 inci ve iş sözleşm..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 190 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

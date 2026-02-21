@@ -2,7 +2,7 @@
 slug: "tbk-madde-289"
 title: "TBK Madde 289: MADDE 289- Elden bağışlama, bağışlayanın bir taşınırını bağışlanana teslim etmes..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 289 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

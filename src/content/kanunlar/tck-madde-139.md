@@ -2,7 +2,7 @@
 slug: "tck-madde-139"
 title: "TCK Madde 139: Madde 139- (1) Kişisel verilerin kaydedilmesi, verileri hukuka aykırı olarak ver..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 139 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

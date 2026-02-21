@@ -2,7 +2,7 @@
 slug: "ttk-madde-1021"
 title: "TTK Madde 1021: MADDE 1021- (1) Bir alacak için birden çok gemi veya gemi payı ipotek edilmişse,..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1021 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

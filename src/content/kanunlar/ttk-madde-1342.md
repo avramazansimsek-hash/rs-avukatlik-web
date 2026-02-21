@@ -2,7 +2,7 @@
 slug: "ttk-madde-1342"
 title: "TTK Madde 1342: MADDE 1342- (1) 1976 ve 1992 tarihli sözleşmeler uyarınca sorumluluğunu sınırlam..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1342 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

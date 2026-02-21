@@ -2,7 +2,7 @@
 slug: "cmk-madde-290"
 title: "CMK Madde 290: Madde 290 – (1) Sanığın yararına olan hukuk kurallarına aykırılık, sanık aleyhin..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 290 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

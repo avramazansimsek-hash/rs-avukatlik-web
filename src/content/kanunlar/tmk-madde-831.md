@@ -2,7 +2,7 @@
 slug: "tmk-madde-831"
 title: "TMK Madde 831: Madde 831- Üst hakkı sahibi, bu haktan doğan yetkilerinin sınırını ağır şekilde..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 831 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

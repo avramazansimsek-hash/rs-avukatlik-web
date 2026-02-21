@@ -2,7 +2,7 @@
 slug: "tkhk-madde-70"
 title: "TKHK Madde 70: MADDE 70- (1) (Değişik cümle:24/3/2022-7392/14 md.) Tüketici hakem heyeti kararl..."
 category: "Tüketicinin Korunması Hakkında Kanun"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Tüketicinin Korunması Hakkında Kanun Madde 70 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

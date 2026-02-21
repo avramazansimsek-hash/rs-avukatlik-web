@@ -2,7 +2,7 @@
 slug: "tmk-madde-445"
 title: "TMK Madde 445: Madde 445- Vesayet altındaki kişi küçük ise, vasi onun bakımı ve eğitimi için ge..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 445 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

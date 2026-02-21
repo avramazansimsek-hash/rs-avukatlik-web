@@ -2,7 +2,7 @@
 slug: "hmk-madde-156"
 title: "HMK Madde 156: MADDE 156- (1) Ön inceleme, tahkikat ve yargılama işlemleri, ancak tutanakla isp..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 156 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

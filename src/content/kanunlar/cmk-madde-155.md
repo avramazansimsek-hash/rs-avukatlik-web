@@ -2,7 +2,7 @@
 slug: "cmk-madde-155"
 title: "CMK Madde 155: Madde 155 – (1) Sanığın kanunî temsilcisine duruşma gün ve saati bildirilir ve d..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 155 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

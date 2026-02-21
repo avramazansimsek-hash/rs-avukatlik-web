@@ -2,7 +2,7 @@
 slug: "ttk-madde-1252"
 title: "TTK Madde 1252: MADDE 1252- (1) Yolcu, bagaj olarak gemiye getirdiği eşyanın cins ve niteliği il..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1252 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

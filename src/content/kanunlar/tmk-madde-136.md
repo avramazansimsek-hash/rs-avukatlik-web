@@ -2,7 +2,7 @@
 slug: "tmk-madde-136"
 title: "TMK Madde 136: Madde 136- Erkek ve kadından her biri, nüfus cüzdanı ve nüfus kayıt örneğini, ön..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 136 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

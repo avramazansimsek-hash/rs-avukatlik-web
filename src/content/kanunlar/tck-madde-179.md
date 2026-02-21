@@ -2,7 +2,7 @@
 slug: "tck-madde-179"
 title: "TCK Madde 179: Madde 179- (1) Kara, deniz, hava veya demiryolu ulaşımının güven içinde akışını..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 179 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

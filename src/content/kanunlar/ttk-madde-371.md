@@ -2,7 +2,7 @@
 slug: "ttk-madde-371"
 title: "TTK Madde 371: MADDE 371- (1) Temsile yetkili olanlar şirketin amacına ve işletme konusuna gire..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 371 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-148"
 title: "TMK Madde 148: Madde 148- Evlenme sırasında geçici bir sebeple ayırt etme gücünden yoksun olan..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 148 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -1,8 +1,8 @@
 ---
 slug: "ttk-madde-8"
-title: "TTK Madde 8: MADDE 8- (Ek: 26/6/2012-6335/38 md.)..."
+title: "TTK Madde 8: MADDE 8- (1) Ticari işlerde faiz oranı serbestçe belirlenir...."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 8 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 
@@ -11,13 +11,17 @@ excerpt: "Türk Ticaret Kanunu Madde 8 tam metni, gerekçesi ve Av. Ramazan Şim
 ## Kanun Metni
 
 ```text
-MADDE 8- (Ek: 26/6/2012-6335/38 md.)
+MADDE 8- (1) Ticari işlerde faiz oranı serbestçe belirlenir.
 
-(1) 1524 üncü maddenin yürürlüğe girdiği tarihten önce kurulan denetime tabi sermaye şirketlerinden internet sitesine sahip olanlar söz konusu maddenin yürürlüğünden itibaren üç ay içinde internet sitelerinin belli bir bölümünü 1524 üncü maddedeki içeriklerin yayımlanmasına özgülemek, internet sitesi olmayanlar ise aynı süre içinde internet sitesi açmak ve bu sitenin belli bir bölümünü anılan maddedeki içeriklerin yayımlanmasına özgülemek zorundadır.
+(2) Üç aydan aşağı olmamak üzere, faizin anaparaya eklenerek birlikte tekrar faiz yürütülmesi şartı, yalnız cari hesaplarla her iki taraf bakımından da ticari iş niteliğinde olan ödünç sözleşmelerinde geçerlidir. Şu şartla ki, bu fıkra, sözleşenleri tacir olmayanlara uygulanmaz.
+
+(3) Tüketicinin korunmasına ilişkin hükümler saklıdır.
+
+(4) Bu maddenin ikinci ve üçüncü fıkralarına aykırı olarak işletilen faiz yok hükmündedir.
 
  
 
-GEÇİCİ
+2. Uygulanacak hükümler
 ```
 
 

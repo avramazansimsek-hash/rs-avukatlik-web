@@ -2,7 +2,7 @@
 slug: "tmk-madde-23"
 title: "TMK Madde 23: Madde 23- Kimse, hak ve fiil ehliyetlerinden kısmen de olsa vazgeçemez...."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 23 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

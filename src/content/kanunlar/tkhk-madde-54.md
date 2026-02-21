@@ -2,7 +2,7 @@
 slug: "tkhk-madde-54"
 title: "TKHK Madde 54: MADDE 54- (1) Perakende satışa arz edilen malların veya ambalajlarının yahut kap..."
 category: "Tüketicinin Korunması Hakkında Kanun"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Tüketicinin Korunması Hakkında Kanun Madde 54 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

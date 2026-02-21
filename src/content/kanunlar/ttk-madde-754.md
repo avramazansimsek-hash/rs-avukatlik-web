@@ -2,7 +2,7 @@
 slug: "ttk-madde-754"
 title: "TTK Madde 754: MADDE 754- (1) Poliçelerde kanuni veya yargısal atıfet süreleri geçerli değildir..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 754 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

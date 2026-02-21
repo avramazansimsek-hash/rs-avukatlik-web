@@ -2,7 +2,7 @@
 slug: "tbk-madde-85"
 title: "TBK Madde 85: MADDE 85- Bölünemeyen bir borcun birden çok alacaklısı varsa, alacaklılardan her..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 85 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

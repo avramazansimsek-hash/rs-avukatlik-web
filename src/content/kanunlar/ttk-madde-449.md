@@ -2,7 +2,7 @@
 slug: "ttk-madde-449"
 title: "TTK Madde 449: MADDE 449- (1) Genel kurul kararı aleyhine iptal veya butlan davası açıldığı tak..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 449 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "cmk-madde-86"
 title: "CMK Madde 86: Madde 86 – (1) Engelleyici sebepler olmadıkça ölü muayenesinden veya otopsiden ö..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 86 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

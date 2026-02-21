@@ -2,7 +2,7 @@
 slug: "ttk-madde-907"
 title: "TTK Madde 907: MADDE 907- (1) Sefer, taşıma sözleşmesinin yapılmasından sonra fakat hareketten..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 907 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

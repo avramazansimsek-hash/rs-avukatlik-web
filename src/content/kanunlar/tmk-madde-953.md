@@ -2,7 +2,7 @@
 slug: "tmk-madde-953"
 title: "TMK Madde 953: Madde 953- Borç yerine getirilmez ve yeterli güvence de gösterilmezse alacaklı,..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 953 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

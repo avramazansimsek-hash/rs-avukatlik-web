@@ -2,7 +2,7 @@
 slug: "tmk-madde-960"
 title: "TMK Madde 960: Madde 960- Ortaklık genel kurulunda rehinli pay senetlerini temsil etmek yetkisi..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 960 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

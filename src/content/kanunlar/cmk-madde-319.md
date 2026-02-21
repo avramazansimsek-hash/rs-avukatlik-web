@@ -2,7 +2,7 @@
 slug: "cmk-madde-319"
 title: "CMK Madde 319: Madde 319 – (1) Yargılamanın yenilenmesi istemi, kanunda belirlenen şekilde yapı..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 319 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

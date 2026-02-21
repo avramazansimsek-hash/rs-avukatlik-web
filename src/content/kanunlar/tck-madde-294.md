@@ -2,7 +2,7 @@
 slug: "tck-madde-294"
 title: "TCK Madde 294: Madde 294- (1) Gözaltına alınanın veya tutuklunun kaçmasını sağlayan kişi, bir y..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 294 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

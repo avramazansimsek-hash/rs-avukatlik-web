@@ -2,7 +2,7 @@
 slug: "tbk-madde-427"
 title: "TBK Madde 427: MADDE 427- Hizmet buluşları üzerinde işçinin ve işverenin hakları, bunların kaza..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 427 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

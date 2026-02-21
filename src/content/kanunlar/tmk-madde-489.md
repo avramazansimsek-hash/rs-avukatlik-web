@@ -2,7 +2,7 @@
 slug: "tmk-madde-489"
 title: "TMK Madde 489: Madde 489- Görevi sona eren vasi, yönetimle ilgili son raporu ve kesin hesabı ve..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 489 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

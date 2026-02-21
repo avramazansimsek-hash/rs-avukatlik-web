@@ -2,7 +2,7 @@
 slug: "ktk-madde-87"
 title: "KTK Madde 87: Madde 87 – (Değişik: 17/10/1996-4199/30 md.)..."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 87 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

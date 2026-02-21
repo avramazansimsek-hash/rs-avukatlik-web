@@ -2,7 +2,7 @@
 slug: "tmk-madde-587"
 title: "TMK Madde 587: Madde 587- Gaibin mirasçıları tereke mallarını teslim aldıktan sonra gaibe bir m..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 587 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

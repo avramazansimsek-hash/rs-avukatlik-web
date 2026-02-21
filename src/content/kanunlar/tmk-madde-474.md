@@ -2,7 +2,7 @@
 slug: "tmk-madde-474"
 title: "TMK Madde 474: Madde 474- Akıl hastalığı veya akıl zayıflığı yüzünden kısıtlanmış olan kişi üze..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 474 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

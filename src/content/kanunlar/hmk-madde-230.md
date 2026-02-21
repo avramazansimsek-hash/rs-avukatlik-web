@@ -2,7 +2,7 @@
 slug: "hmk-madde-230"
 title: "HMK Madde 230: MADDE 230- (1)Yeminin konusunu oluşturan vakıa, her iki tarafın değil, yalnızca..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 230 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

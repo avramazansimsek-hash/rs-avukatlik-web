@@ -2,7 +2,7 @@
 slug: "hmk-madde-331"
 title: "HMK Madde 331: MADDE 331- (1) Davanın konusuz kalması sebebiyle davanın esası hakkında bir kara..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 331 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

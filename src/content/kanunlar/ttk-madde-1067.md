@@ -2,7 +2,7 @@
 slug: "ttk-madde-1067"
 title: "TTK Madde 1067: MADDE 1067- (1) İştirakin işleri paydaş donatanların oy çoğunluğu ile verecekler..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1067 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

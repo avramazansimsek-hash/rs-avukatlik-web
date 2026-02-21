@@ -2,7 +2,7 @@
 slug: "is_kanunu-madde-54"
 title: "IS_KANUNU Madde 54: Madde 54 - Yıllık ücretli izine hak kazanmak için gerekli sürenin hesabında işçi..."
 category: "İş Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İş Kanunu Madde 54 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

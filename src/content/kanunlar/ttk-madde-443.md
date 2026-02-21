@@ -2,7 +2,7 @@
 slug: "ttk-madde-443"
 title: "TTK Madde 443: MADDE 443- (1) Yönetim kurulu, raporu ve buna ilişkin değerlendirmeleri, ilk gen..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 443 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

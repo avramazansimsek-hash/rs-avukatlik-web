@@ -2,7 +2,7 @@
 slug: "tbk-madde-577"
 title: "TBK Madde 577: MADDE 577- Kıymetli eşya veya oldukça önemli miktarda para veya kıymetli evrak,..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 577 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

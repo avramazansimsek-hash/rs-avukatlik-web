@@ -2,7 +2,7 @@
 slug: "ttk-madde-475"
 title: "TTK Madde 475: MADDE 475- (1) Sermaye, ancak alacaklılara verilen sürenin sona ermesinden ve be..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 475 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

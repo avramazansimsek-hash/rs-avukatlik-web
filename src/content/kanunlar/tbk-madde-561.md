@@ -2,7 +2,7 @@
 slug: "tbk-madde-561"
 title: "TBK Madde 561: MADDE 561- Saklama sözleşmesi, saklayanın, saklatanın kendisine bıraktığı bir ta..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 561 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

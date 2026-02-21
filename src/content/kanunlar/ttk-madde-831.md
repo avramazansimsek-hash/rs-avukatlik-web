@@ -2,7 +2,7 @@
 slug: "ttk-madde-831"
 title: "TTK Madde 831: MADDE 831- (1) İmza edenin, yer, zaman ve tutar bakımlarından belirli nakdî ödem..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 831 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

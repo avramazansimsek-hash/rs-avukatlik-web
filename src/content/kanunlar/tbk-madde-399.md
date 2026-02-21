@@ -2,7 +2,7 @@
 slug: "tbk-madde-399"
 title: "TBK Madde 399: MADDE 399- İşveren, işin görülmesi ve işçilerin işyerindeki davranışlarıyla ilgi..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 399 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

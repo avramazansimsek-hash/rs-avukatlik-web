@@ -2,7 +2,7 @@
 slug: "tck-madde-55"
 title: "TCK Madde 55: Madde 55- (1) Suçun işlenmesi ile elde edilen veya suçun konusunu oluşturan ya d..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 55 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

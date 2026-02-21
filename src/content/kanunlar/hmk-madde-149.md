@@ -2,7 +2,7 @@
 slug: "hmk-madde-149"
 title: "HMK Madde 149: MADDE 149- (Başlığı ile Birlikte Değişik:22/7/2020-7251/17 md.)..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 149 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

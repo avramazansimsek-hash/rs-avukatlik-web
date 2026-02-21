@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-148"
 title: "AVUKATLIK Madde 148: Madde 148 – Duruşma tutanağı, disiplin kurulu başkanının görevlendireceği bir üy..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 148 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

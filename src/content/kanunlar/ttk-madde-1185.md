@@ -2,7 +2,7 @@
 slug: "ttk-madde-1185"
 title: "TTK Madde 1185: MADDE 1185- (1) Zıya veya hasarın en geç eşyanın gönderilene teslimi sırasında t..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1185 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

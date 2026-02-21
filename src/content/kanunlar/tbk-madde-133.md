@@ -2,7 +2,7 @@
 slug: "tbk-madde-133"
 title: "TBK Madde 133: MADDE 133- Yeni bir borçla mevcut bir borcun sona erdirilmesi, ancak tarafların..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 133 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

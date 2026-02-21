@@ -2,7 +2,7 @@
 slug: "tbk-madde-235"
 title: "TBK Madde 235: MADDE 235- Satılanın, ancak satış bedeli ödendikten sonra veya ödenme anında dev..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 235 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

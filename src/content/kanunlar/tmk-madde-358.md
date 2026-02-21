@@ -2,7 +2,7 @@
 slug: "tmk-madde-358"
 title: "TMK Madde 358: Madde 358- Ölüme bağlı tasarruf yoluyla çocuğun saklı payı ana ve babanın yöneti..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 358 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

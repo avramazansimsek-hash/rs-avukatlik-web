@@ -2,7 +2,7 @@
 slug: "tbk-madde-481"
 title: "TBK Madde 481: MADDE 481- Eserin bedeli önceden belirlenmemiş veya yaklaşık olarak belirlenmişs..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 481 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

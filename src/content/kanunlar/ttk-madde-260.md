@@ -2,7 +2,7 @@
 slug: "ttk-madde-260"
 title: "TTK Madde 260: MADDE 260- (1) Şirketten çıkan veya çıkarılan ortağın payı, şirket sözleşmesinde..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 260 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

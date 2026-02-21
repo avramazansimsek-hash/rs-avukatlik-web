@@ -2,7 +2,7 @@
 slug: "tbk-madde-287"
 title: "TBK Madde 287: MADDE 287- Fiil ehliyeti bulunmayan kişi ayırt etme gücüne sahipse, bağışlamayı..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 287 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

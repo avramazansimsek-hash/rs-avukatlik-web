@@ -2,7 +2,7 @@
 slug: "iik-madde-41"
 title: "IIK Madde 41: Madde 41 – Kanunun bu ikinci babında yazılı hükümlere mugayir olmıyan diğer hükü..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 41 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

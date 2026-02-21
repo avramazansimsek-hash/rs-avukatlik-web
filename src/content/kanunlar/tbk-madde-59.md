@@ -2,7 +2,7 @@
 slug: "tbk-madde-59"
 title: "TBK Madde 59: MADDE 59- Ayırt etme gücünü geçici olarak kaybeden kişi, bu sırada verdiği zarar..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 59 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

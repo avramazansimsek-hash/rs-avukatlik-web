@@ -2,7 +2,7 @@
 slug: "tbk-madde-244"
 title: "TBK Madde 244: MADDE 244- Aksine sözleşme olmadıkça, satılan taşınmaz, satış sözleşmesinde yazı..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 244 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

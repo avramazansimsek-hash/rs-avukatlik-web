@@ -2,7 +2,7 @@
 slug: "ttk-madde-576"
 title: "TTK Madde 576: MADDE 576- (1) Şirket sözleşmesinde aşağıdaki kayıtların açıkça yer alması gerek..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 576 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

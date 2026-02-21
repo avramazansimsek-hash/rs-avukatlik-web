@@ -2,7 +2,7 @@
 slug: "ttk-madde-1307"
 title: "TTK Madde 1307: MADDE 1307- (1) Gönderilen, eşyayı teslim alırken onlar için kurtarma ücreti öde..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1307 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

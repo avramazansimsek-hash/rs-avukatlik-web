@@ -2,7 +2,7 @@
 slug: "tbk-madde-506"
 title: "TBK Madde 506: MADDE 506- Vekil, vekâlet borcunu bizzat ifa etmekle yükümlüdür. Ancak vekile ye..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 506 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

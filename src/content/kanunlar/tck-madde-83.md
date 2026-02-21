@@ -2,7 +2,7 @@
 slug: "tck-madde-83"
 title: "TCK Madde 83: Madde 83- (1) Kişinin yükümlü olduğu belli bir icrai davranışı gerçekleştirmemes..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 83 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

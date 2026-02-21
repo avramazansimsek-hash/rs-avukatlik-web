@@ -2,7 +2,7 @@
 slug: "tmk-madde-300"
 title: "TMK Madde 300: Madde 300- Tanıyanın dava hakkı, iptal sebebinin öğrenildiği veya korkunun etkis..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 300 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

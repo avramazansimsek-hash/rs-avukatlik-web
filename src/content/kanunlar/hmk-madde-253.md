@@ -2,7 +2,7 @@
 slug: "hmk-madde-253"
 title: "HMK Madde 253: MADDE 253- (1) Tanık, kanuni bir sebep göstermeden tanıklıktan çekinir, yemin et..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 253 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

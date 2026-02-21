@@ -2,7 +2,7 @@
 slug: "tmk-madde-93"
 title: "TMK Madde 93: Madde 93- Türkiye'de yerleşme hakkına sahip olan yabancı gerçek kişiler, (...)[1..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 93 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tbk-madde-422"
 title: "TBK Madde 422: MADDE 422- İşveren, en az bir yıl çalışmış olan işçilere yılda en az iki hafta v..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 422 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

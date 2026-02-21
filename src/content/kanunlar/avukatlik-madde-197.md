@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-197"
 title: "AVUKATLIK Madde 197: Madde 197– (Mülga: 26/2/1970 - 1238/6 md.)..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 197 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

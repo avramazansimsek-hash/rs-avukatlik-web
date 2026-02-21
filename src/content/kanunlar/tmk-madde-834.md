@@ -2,7 +2,7 @@
 slug: "tmk-madde-834"
 title: "TMK Madde 834: Madde 834- Malik, üst hakkı karşılığı olarak irat biçiminde borçlanılan edimleri..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 834 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

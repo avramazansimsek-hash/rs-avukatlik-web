@@ -2,7 +2,7 @@
 slug: "ttk-madde-197"
 title: "TTK Madde 197: MADDE 197- (1) Birbirlerinin paylarının en az dörtte birine sahip bulunan sermay..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 197 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

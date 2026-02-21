@@ -2,7 +2,7 @@
 slug: "is_kanunu-madde-39"
 title: "IS_KANUNU Madde 39: Madde 39 - İş sözleşmesi ile çalışan ve bu Kanunun kapsamında olan veya olmayan..."
 category: "İş Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İş Kanunu Madde 39 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

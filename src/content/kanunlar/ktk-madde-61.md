@@ -2,7 +2,7 @@
 slug: "ktk-madde-61"
 title: "KTK Madde 61: Madde 61 – Taşıt yolu üzerinde;..."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 61 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

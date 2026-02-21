@@ -2,7 +2,7 @@
 slug: "ttk-madde-712"
 title: "TTK Madde 712: MADDE 712- (1) Bir poliçe 708 inci maddede öngörülen süre içinde ödeme için ibra..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 712 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "cmk-madde-108"
 title: "CMK Madde 108: Madde 108 – (1) Soruşturma evresinde şüphelinin tutukevinde bulunduğu süre içind..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 108 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

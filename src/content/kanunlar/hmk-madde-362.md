@@ -2,7 +2,7 @@
 slug: "hmk-madde-362"
 title: "HMK Madde 362: MADDE 362- (1) Bölge adliye mahkemelerinin aşağıdaki kararları hakkında temyiz y..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 362 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-967"
 title: "TMK Madde 967: Madde 967- Rehnedilen taşınır, satılıncaya kadar rehin makbuzunun geri verilmesi..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 967 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

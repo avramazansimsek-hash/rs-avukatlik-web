@@ -2,7 +2,7 @@
 slug: "ttk-madde-695"
 title: "TTK Madde 695: MADDE 695- (1) Kabul beyanı poliçe üzerine yazılır ve “kabul edilmiştir” veya bu..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 695 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

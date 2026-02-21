@@ -2,7 +2,7 @@
 slug: "ttk-madde-472"
 title: "TTK Madde 472: MADDE 472- (Değişik: 26/6/2012-6335/24 md.)..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 472 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tbk-madde-106"
 title: "TBK Madde 106: MADDE 106- Yapma veya verme edimi gereği gibi kendisine önerilen alacaklı, haklı..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 106 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

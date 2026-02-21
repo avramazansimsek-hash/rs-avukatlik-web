@@ -2,7 +2,7 @@
 slug: "ttk-madde-908"
 title: "TTK Madde 908: MADDE 908- (1) Hareket, duruma ve şartlara göre yolcudan katlanması istenemeyece..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 908 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-1507"
 title: "TTK Madde 1507: MADDE 1507- (1) Kaza sigortası, belli bir prim karşılığında, sigortalının uğraya..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1507 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

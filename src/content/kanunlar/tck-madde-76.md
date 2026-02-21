@@ -2,7 +2,7 @@
 slug: "tck-madde-76"
 title: "TCK Madde 76: Madde 76- (1) Bir planın icrası suretiyle, milli, etnik, ırki veya dini bir grub..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 76 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

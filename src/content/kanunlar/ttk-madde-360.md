@@ -2,7 +2,7 @@
 slug: "ttk-madde-360"
 title: "TTK Madde 360: MADDE 360- (1) Esas sözleşmede öngörülmek şartı ile, belirli pay gruplarına, öze..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 360 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "kvkk-madde-13"
 title: "KVKK Madde 13: MADDE 13- (1) İlgili kişi, bu Kanunun uygulanmasıyla ilgili taleplerini yazılı o..."
 category: "Kişisel Verilerin Korunması Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Kişisel Verilerin Korunması Kanunu Madde 13 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

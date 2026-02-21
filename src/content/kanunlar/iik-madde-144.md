@@ -2,7 +2,7 @@
 slug: "iik-madde-144"
 title: "IIK Madde 144: Madde 144 – Alacağı tamamen ödenmiş olan alacaklıya ait senet icra dairesince bo..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 144 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

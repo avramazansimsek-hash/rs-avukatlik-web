@@ -2,7 +2,7 @@
 slug: "tbk-madde-379"
 title: "TBK Madde 379: MADDE 379- Kullanım ödüncü sözleşmesi, ödünç verenin bir şeyin karşılıksız olara..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 379 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

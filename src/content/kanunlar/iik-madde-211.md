@@ -2,7 +2,7 @@
 slug: "iik-madde-211"
 title: "IIK Madde 211: Madde 211 – Daire 82 nci maddede sayılan malları deftere kaydetmekle beraber müf..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 211 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

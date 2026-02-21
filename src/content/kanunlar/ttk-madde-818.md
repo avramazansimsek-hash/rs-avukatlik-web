@@ -2,7 +2,7 @@
 slug: "ttk-madde-818"
 title: "TTK Madde 818: MADDE 818- (1) Poliçeye ait aşağıdaki hükümler çek hakkında da uygulanır:..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 818 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-628"
 title: "TMK Madde 628: Madde 628- Resmî deftere göre kabul edilen miras, mirasçıya sadece deftere yazıl..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 628 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tck-madde-237"
 title: "TCK Madde 237: Madde 237- (1) İşçi ücretlerinin veya besin veya malların değerlerinin artıp eks..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 237 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

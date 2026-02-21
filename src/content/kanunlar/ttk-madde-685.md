@@ -2,7 +2,7 @@
 slug: "ttk-madde-685"
 title: "TTK Madde 685: MADDE 685- (1) Aksi şart edilmedikçe, ciranta poliçenin kabul edilmemesinden ve..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 685 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

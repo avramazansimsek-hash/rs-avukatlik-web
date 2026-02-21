@@ -2,7 +2,7 @@
 slug: "tmk-madde-420"
 title: "TMK Madde 420: Madde 420- Vesayet işleri zorunlu kıldığı takdirde vesayet makamı, vasinin atanm..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 420 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

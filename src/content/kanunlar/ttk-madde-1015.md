@@ -2,7 +2,7 @@
 slug: "ttk-madde-1015"
 title: "TTK Madde 1015: MADDE 1015- (1) Gemi ipoteğinin kurulması için geminin maliki ile alacaklının ge..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1015 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

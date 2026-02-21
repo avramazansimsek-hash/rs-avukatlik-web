@@ -2,7 +2,7 @@
 slug: "ttk-madde-567"
 title: "TTK Madde 567: MADDE 567- (1) Esas sözleşme, ikinci fıkrasının (f) bendi hariç olmak üzere 339..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 567 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

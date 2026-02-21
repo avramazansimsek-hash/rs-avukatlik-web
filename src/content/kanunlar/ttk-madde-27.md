@@ -2,7 +2,7 @@
 slug: "ttk-madde-27"
 title: "TTK Madde 27: MADDE 27- (1) Ticaret siciline tescil, kural olarak istem üzerine yapılır. Resen..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 27 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

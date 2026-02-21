@@ -2,7 +2,7 @@
 slug: "ttk-madde-437"
 title: "TTK Madde 437: MADDE 437- (1) Finansal tablolar, konsolide finansal tablolar, yönetim kurulunun..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 437 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

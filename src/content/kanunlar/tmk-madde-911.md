@@ -2,7 +2,7 @@
 slug: "tmk-madde-911"
 title: "TMK Madde 911: Madde 911- İpotekli borç senedi veya irat senedi için tapu kütüğüne yapılacak te..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 911 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

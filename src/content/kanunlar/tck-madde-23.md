@@ -2,7 +2,7 @@
 slug: "tck-madde-23"
 title: "TCK Madde 23: Madde 23- (1) Bir fiilin, kastedilenden daha ağır veya başka bir neticenin oluşu..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 23 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "cmk-madde-101"
 title: "CMK Madde 101: Madde 101 – (1) Soruşturma evresinde şüphelinin tutuklanmasına Cumhuriyet savcıs..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 101 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

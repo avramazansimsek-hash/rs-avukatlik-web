@@ -2,7 +2,7 @@
 slug: "tbk-madde-5"
 title: "TBK Madde 5: MADDE 5- Kabul için süre belirlenmeksizin hazır olmayan bir kişiye yapılan öneri..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 5 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

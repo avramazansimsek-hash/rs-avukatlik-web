@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-193"
 title: "AVUKATLIK Madde 193: Madde 193 – (Bu madde 21/12/1953 tarih ve 6207 sayılı kanunun 1, 4 ve 5 inci mad..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 193 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

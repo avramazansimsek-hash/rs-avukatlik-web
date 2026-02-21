@@ -2,7 +2,7 @@
 slug: "iik-madde-326"
 title: "IIK Madde 326: Madde 326 – (Değişik birinci fıkra: 17/7/2003-4949/87 md.) Mühlet, beşyüzmilyon..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 326 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

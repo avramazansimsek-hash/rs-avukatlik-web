@@ -2,7 +2,7 @@
 slug: "iik-madde-141"
 title: "IIK Madde 141: Madde 141 – Sıra cetvelinin birer sureti icra dairesi tarafından alakadarlara te..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 141 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-990"
 title: "TTK Madde 990: MADDE 990- (1) Yapının maliki veya geminin yapıldığı tersanenin sahibi, tescil e..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 990 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

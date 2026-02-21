@@ -2,7 +2,7 @@
 slug: "ttk-madde-173"
 title: "TTK Madde 173: MADDE 173- (1) 175 inci maddede öngörülen teminatın sağlanmasından sonra, bölünm..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 173 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

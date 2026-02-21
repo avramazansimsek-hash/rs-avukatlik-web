@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-47"
 title: "AVUKATLIK Madde 47: Madde 47 – Avukat el koyduğu işlere ait çekişmeli hakları edinmekten veya bunlar..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 47 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

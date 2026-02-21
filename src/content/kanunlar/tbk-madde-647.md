@@ -2,7 +2,7 @@
 slug: "tbk-madde-647"
 title: "TBK Madde 647: MADDE 647- 22/4/1926 tarihli ve 818 sayılı Borçlar Kanunu yürürlükten kaldırılmı..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 647 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 
@@ -15,7 +15,19 @@ MADDE 647- 22/4/1926 tarihli ve 818 sayılı Borçlar Kanunu yürürlükten kald
 
  
 
-GEÇİCİ
+GEÇİCİ MADDE 1- (Ek:8/6/2022-7409/4 md.)
+
+Konut kiraları bakımından bu maddenin yürürlüğe girdiği tarih ilâ 1/7/2023 (bu tarih dâhil) tarihleri arasında yenilenen kira dönemlerinde uygulanacak kira bedeline ilişkin anlaşmalar, bir önceki kira yılına ait kira bedelinin yüzde yirmi beşini geçmemek koşuluyla geçerlidir. Bir önceki kira yılının tüketici fiyat endeksindeki oniki aylık ortalamalara göre değişim oranının yüzde yirmi beşin altında kalması halinde değişim oranı geçerlidir. Bu kural, bir yıldan daha uzun süreli kira sözleşmelerinde de uygulanır. Bu oranları geçecek şekilde yapılan sözleşmeler, fazla miktar yönünden geçersizdir. Bu fıkra hükmü, 344 üncü maddenin ikinci fıkrası uyarınca hâkim tarafından verilecek kararlar bakımından da uygulanır.
+
+ 
+
+GEÇİCİ MADDE 2- (Ek: 14/7/2023-7456/23 md.)
+
+Konut kiraları bakımından 2/7/2023 ilâ 1/7/2024 (bu tarihler dâhil) tarihleri arasında yenilenen kira dönemlerinde uygulanacak kira bedeline ilişkin anlaşmalar, bir önceki kira yılına ait kira bedelinin yüzde yirmi beşini geçmemek koşuluyla geçerlidir. Bir önceki kira yılının tüketici fiyat endeksindeki oniki aylık ortalamalara göre değişim oranının yüzde yirmi beşin altında kalması halinde değişim oranı geçerlidir. Bu kural, bir yıldan daha uzun süreli kira sözleşmelerinde de uygulanır. Bu oranları geçecek şekilde yapılan sözleşmeler, fazla miktar yönünden geçersizdir. Bu fıkra hükmü, 344 üncü maddenin ikinci fıkrası uyarınca hâkim tarafından verilecek kararlar bakımından da uygulanır.
+
+ 
+
+Yürürlük
 ```
 
 

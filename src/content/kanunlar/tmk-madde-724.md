@@ -2,7 +2,7 @@
 slug: "tmk-madde-724"
 title: "TMK Madde 724: Madde 724- Yapının değeri açıkça arazinin değerinden fazlaysa, iyiniyetli taraf..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 724 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-520"
 title: "TMK Madde 520: Madde 520- Mirasbırakan, atadığı mirasçının kendisinden önce ölmesi veya mirası..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 520 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

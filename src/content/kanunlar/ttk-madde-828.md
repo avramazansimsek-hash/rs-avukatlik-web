@@ -2,7 +2,7 @@
 slug: "ttk-madde-828"
 title: "TTK Madde 828: MADDE 828- (1) Emre yazılı bir havalenin, havale olunan tarafından isteğe bağlı..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 828 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

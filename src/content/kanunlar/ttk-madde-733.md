@@ -2,7 +2,7 @@
 slug: "ttk-madde-733"
 title: "TTK Madde 733: MADDE 733- (1) Düzenleyen hakkında iflasın açılmasıyla beraber, poliçe karşılığı..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 733 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

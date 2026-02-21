@@ -2,7 +2,7 @@
 slug: "iik-madde-137"
 title: "IIK Madde 137: Madde 137 – Aile yurtlarına dair Kanunu Medeni hükümleri mahfuzdur...."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 137 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

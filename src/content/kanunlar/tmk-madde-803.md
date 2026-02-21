@@ -2,7 +2,7 @@
 slug: "tmk-madde-803"
 title: "TMK Madde 803: Madde 803- İntifa hakkı sahibi, hakkın konusu olan malı zilyetliğinde bulundurma..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 803 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

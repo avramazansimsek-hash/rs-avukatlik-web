@@ -2,7 +2,7 @@
 slug: "ttk-madde-29"
 title: "TTK Madde 29: MADDE 29- (1) Tescil istemi dilekçe ile yapılır...."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 29 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

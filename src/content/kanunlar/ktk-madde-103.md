@@ -2,7 +2,7 @@
 slug: "ktk-madde-103"
 title: "KTK Madde 103: Madde 103 – Motorsuz taşıtlar ile motorlu bisiklet sürücülerinin hukuki sorumlul..."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 103 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

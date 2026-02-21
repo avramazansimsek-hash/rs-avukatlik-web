@@ -2,7 +2,7 @@
 slug: "cmk-madde-27"
 title: "CMK Madde 27: Madde 27 – (1) Hâkimin reddi istemine mensup olduğu mahkemece karar verilir. Anc..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 27 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

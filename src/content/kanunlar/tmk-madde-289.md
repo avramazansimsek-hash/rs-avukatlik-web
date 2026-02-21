@@ -2,7 +2,7 @@
 slug: "tmk-madde-289"
 title: "TMK Madde 289: Madde 289- Koca, davayı, doğumu ve baba olmadığını veya ananın gebe kaldığı sıra..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 289 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

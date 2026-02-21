@@ -2,7 +2,7 @@
 slug: "ttk-madde-1084"
 title: "TTK Madde 1084: MADDE 1084- (1) Donatma iştiraki hakkında iflasın açılmasıyla da iştirak sona er..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1084 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

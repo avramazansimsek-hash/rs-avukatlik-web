@@ -2,7 +2,7 @@
 slug: "tck-madde-156"
 title: "TCK Madde 156: Madde 156- (1) Bedelsiz kalmış bir senedi kullanan kimseye, şikayet üzerine, alt..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 156 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

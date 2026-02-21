@@ -2,7 +2,7 @@
 slug: "cmk-madde-181"
 title: "CMK Madde 181: Madde 181 – (1) Tanık veya bilirkişilerin dinlenmesi için belirlenen gün, Cumhur..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 181 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

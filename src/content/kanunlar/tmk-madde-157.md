@@ -2,7 +2,7 @@
 slug: "tmk-madde-157"
 title: "TMK Madde 157: Madde 157- Mahkemece butlanına karar verilen bir evlilikten doğan çocuklar, ana..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 157 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

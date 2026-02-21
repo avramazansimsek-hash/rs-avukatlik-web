@@ -2,7 +2,7 @@
 slug: "cmk-madde-90"
 title: "CMK Madde 90: Madde 90 – (1) Aşağıda belirtilen hâllerde, herkes tarafından geçici olarak yaka..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 90 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

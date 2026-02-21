@@ -2,7 +2,7 @@
 slug: "ttk-madde-987"
 title: "TTK Madde 987: MADDE 987- (1) Yapı, malikinin veya kanuni ipotek hakkını tescil ettirmek isteye..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 987 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

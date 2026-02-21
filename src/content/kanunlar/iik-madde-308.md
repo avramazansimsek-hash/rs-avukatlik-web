@@ -2,7 +2,7 @@
 slug: "iik-madde-308"
 title: "IIK Madde 308: Madde 308- (Başlığı ile Birlikte Değişik: 28/2/2018-7101/36 md.)..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 308 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

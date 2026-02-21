@@ -2,7 +2,7 @@
 slug: "ttk-madde-448"
 title: "TTK Madde 448: MADDE 448- (1) Yönetim kurulu iptal veya butlan davasının açıldığını ve duruşma..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 448 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

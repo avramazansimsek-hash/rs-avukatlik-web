@@ -2,7 +2,7 @@
 slug: "tmk-madde-630"
 title: "TMK Madde 630: Madde 630- Mirasbırakanın kefaletten doğan borçları defterde ayrı bir yere yazıl..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 630 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

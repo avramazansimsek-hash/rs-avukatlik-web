@@ -2,7 +2,7 @@
 slug: "tbk-madde-503"
 title: "TBK Madde 503: MADDE 503- Kendisine bir işin görülmesi önerilen kişi, bu işi görme konusunda re..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 503 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-1367"
 title: "TTK Madde 1367: MADDE 1367- (1) İhtiyati haciz kararı uygulanacağı sırada, gemi fiilen hareket e..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1367 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

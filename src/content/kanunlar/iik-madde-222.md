@@ -2,7 +2,7 @@
 slug: "iik-madde-222"
 title: "IIK Madde 222: Madde 222- (Değişik: 17/7/2003-3939/53 md.)..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 222 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

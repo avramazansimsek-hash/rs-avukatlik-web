@@ -2,7 +2,7 @@
 slug: "ttk-madde-868"
 title: "TTK Madde 868: MADDE 868- (1) Gönderen taşıyıcıya, taşımanın yapılması için emir ve talimât ver..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 868 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

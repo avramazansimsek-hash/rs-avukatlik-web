@@ -2,7 +2,7 @@
 slug: "ttk-madde-307"
 title: "TTK Madde 307: MADDE 307- (1) Bir komandit şirket sözleşmesine 213 üncü maddede gösterilen kayı..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 307 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

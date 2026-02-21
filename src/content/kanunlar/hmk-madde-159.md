@@ -2,7 +2,7 @@
 slug: "hmk-madde-159"
 title: "HMK Madde 159: MADDE 159- (1) Dava ile ilgili mahkemeye sunulan her türlü dilekçe ve belge hâki..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 159 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

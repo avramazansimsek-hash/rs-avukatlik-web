@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-116"
 title: "AVUKATLIK Madde 116: Madde 116 – Birlik Genel Kurulu, üyelerinin en az dörttebiri katılmadıkça toplan..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 116 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

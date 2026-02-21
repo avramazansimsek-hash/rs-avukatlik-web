@@ -2,7 +2,7 @@
 slug: "ttk-madde-1304"
 title: "TTK Madde 1304: MADDE 1304- (1) Faydalı bir sonuç vermiş olan her türlü kurtarma faaliyeti, kurt..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1304 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "hmk-madde-434"
 title: "HMK Madde 434: MADDE 434- (1) Tahkim yargılaması sırasında taraflar uyuşmazlık konusunda sulh o..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 434 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

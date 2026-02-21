@@ -2,7 +2,7 @@
 slug: "ttk-madde-91"
 title: "TTK Madde 91: MADDE 91- (1) 90 ıncı maddede öngörüldüğü şekilde cari hesaba yazılan ancak bede..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 91 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

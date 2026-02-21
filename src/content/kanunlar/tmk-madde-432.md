@@ -2,7 +2,7 @@
 slug: "tmk-madde-432"
 title: "TMK Madde 432: Madde 432- Akıl hastalığı, akıl zayıflığı, alkol veya uyuşturucu madde bağımlılı..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 432 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

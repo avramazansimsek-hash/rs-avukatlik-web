@@ -2,7 +2,7 @@
 slug: "tck-madde-123"
 title: "TCK Madde 123: Madde 123- (1) Sırf huzur ve sükûnunu bozmak maksadıyla bir kimseye ısrarla; tel..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 123 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

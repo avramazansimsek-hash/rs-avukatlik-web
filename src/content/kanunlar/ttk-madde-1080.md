@@ -2,7 +2,7 @@
 slug: "ttk-madde-1080"
 title: "TTK Madde 1080: MADDE 1080- (1) Deniz alacaklarından sorumluluğun sınırlandırılmasıyla ilgili hü..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1080 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

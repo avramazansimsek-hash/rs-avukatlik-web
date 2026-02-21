@@ -2,7 +2,7 @@
 slug: "ttk-madde-836"
 title: "TTK Madde 836: MADDE 836- (1) Makbuz senedi ve varanttan oluşan belgenin dip koçanlı bir defter..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 836 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

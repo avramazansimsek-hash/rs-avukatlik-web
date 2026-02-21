@@ -2,7 +2,7 @@
 slug: "tck-madde-243"
 title: "TCK Madde 243: Madde 243- (1) Bir bilişim sisteminin bütününe veya bir kısmına, hukuka aykırı o..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 243 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

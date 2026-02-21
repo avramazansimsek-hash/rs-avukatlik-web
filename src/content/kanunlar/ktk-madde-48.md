@@ -2,7 +2,7 @@
 slug: "ktk-madde-48"
 title: "KTK Madde 48: Madde 48 – (Değişik: 24/5/2013 - 6487/19 md.)..."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 48 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

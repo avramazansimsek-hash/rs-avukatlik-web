@@ -2,7 +2,7 @@
 slug: "tmk-madde-339"
 title: "TMK Madde 339: Madde 339- Ana ve baba, çocuğun bakım ve eğitimi konusunda onun menfaatini göz ö..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 339 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-755"
 title: "TTK Madde 755: MADDE 755- (1) Poliçeyi kabul veya ödeme için ibraz etmek, protesto çekmek, poli..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 755 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

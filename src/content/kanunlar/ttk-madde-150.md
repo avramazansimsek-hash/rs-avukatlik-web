@@ -2,7 +2,7 @@
 slug: "ttk-madde-150"
 title: "TTK Madde 150: MADDE 150- (1) Birleşmeye katılan şirketlerden birinin aktif veya pasif varlıkla..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 150 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

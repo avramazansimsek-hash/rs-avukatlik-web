@@ -2,7 +2,7 @@
 slug: "tmk-madde-624"
 title: "TMK Madde 624: Madde 624- Defter tutma süresince ancak zorunlu yönetim işleri yapılabilir...."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 624 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

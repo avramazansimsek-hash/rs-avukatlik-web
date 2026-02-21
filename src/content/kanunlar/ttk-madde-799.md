@@ -2,7 +2,7 @@
 slug: "ttk-madde-799"
 title: "TTK Madde 799: MADDE 799- (1) Çekten cayma ancak ibraz süresi geçtikten sonra hüküm ifade eder...."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 799 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

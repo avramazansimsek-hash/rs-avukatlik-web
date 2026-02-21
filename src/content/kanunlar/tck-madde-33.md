@@ -2,7 +2,7 @@
 slug: "tck-madde-33"
 title: "TCK Madde 33: Madde 33- (1) Bu Kanunun, fiili işlediği sırada oniki yaşını doldurmamış olan ço..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 33 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

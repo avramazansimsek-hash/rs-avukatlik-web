@@ -2,7 +2,7 @@
 slug: "tkhk-madde-46"
 title: "TKHK Madde 46: MADDE 46- (1) Sözleşme öncesi bilgilendirme, sözleşmenin zorunlu içeriği, tüketi..."
 category: "Tüketicinin Korunması Hakkında Kanun"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Tüketicinin Korunması Hakkında Kanun Madde 46 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

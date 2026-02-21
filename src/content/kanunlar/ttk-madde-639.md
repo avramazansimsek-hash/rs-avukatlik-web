@@ -2,7 +2,7 @@
 slug: "ttk-madde-639"
 title: "TTK Madde 639: MADDE 639- (1) Ortaklardan biri şirket sözleşmesindeki hükme dayanarak çıkma ist..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 639 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "iik-madde-133"
 title: "IIK Madde 133: Madde 133 – (Değişik: 6/6/1985-3222/16 md.) (Mülga:24/11/2021-7343/32 md.)..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 133 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "iik-madde-256"
 title: "IIK Madde 256: Madde 256 – İflas açıldıktan altı ay içinde tasfiye edilmek lazımdır. Bu müddet..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 256 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

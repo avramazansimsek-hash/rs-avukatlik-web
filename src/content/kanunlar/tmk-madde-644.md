@@ -2,7 +2,7 @@
 slug: "tmk-madde-644"
 title: "TMK Madde 644: Madde 644- Bir mirasçı, terekeye dahil malların tamamı veya bir kısmı üzerindeki..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 644 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-679"
 title: "TTK Madde 679: MADDE 679- (1) Düzenleyen, poliçenin kabul edilmemesinden ve ödenmemesinden soru..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 679 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

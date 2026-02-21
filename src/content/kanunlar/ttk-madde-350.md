@@ -2,7 +2,7 @@
 slug: "ttk-madde-350"
 title: "TTK Madde 350: MADDE 350- (1) 346 ncı madde uyarınca, halka arzedilmek üzere pay taahhüdünde bu..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 350 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

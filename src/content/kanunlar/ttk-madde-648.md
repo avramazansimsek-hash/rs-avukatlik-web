@@ -2,7 +2,7 @@
 slug: "ttk-madde-648"
 title: "TTK Madde 648: MADDE 648- (1) Bütün hâllerde ciro, poliçenin cirosuna ilişkin hükümler uyarınca..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 648 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

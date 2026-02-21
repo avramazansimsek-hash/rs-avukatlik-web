@@ -2,7 +2,7 @@
 slug: "tbk-madde-372"
 title: "TBK Madde 372: MADDE 372- Kira süresinin bitiminde kiracı, kiralananı, tutanağa geçirilmiş olan..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 372 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

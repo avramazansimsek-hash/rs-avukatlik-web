@@ -2,7 +2,7 @@
 slug: "iik-madde-31"
 title: "IIK Madde 31: Madde 31 – (Değişik: 14/1/2012-6103/41 md.)..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 31 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

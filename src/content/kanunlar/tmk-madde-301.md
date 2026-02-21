@@ -2,7 +2,7 @@
 slug: "tmk-madde-301"
 title: "TMK Madde 301: Madde 301- Çocuk ile baba arasındaki soybağının mahkemece belirlenmesini ana ve..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 301 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

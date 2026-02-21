@@ -2,7 +2,7 @@
 slug: "cmk-madde-37"
 title: "CMK Madde 37: Madde 37 – (1) Tebligat, bu Kanunda belirtilen özel hükümler saklı kalmak koşulu..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 37 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

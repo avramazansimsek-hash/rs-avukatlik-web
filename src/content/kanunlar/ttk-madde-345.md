@@ -2,7 +2,7 @@
 slug: "ttk-madde-345"
 title: "TTK Madde 345: MADDE 345- (1) Nakdî ödemeler, 19/10/2005 tarihli ve 5411 sayılı Bankacılık Kanu..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 345 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

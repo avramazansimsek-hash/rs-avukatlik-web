@@ -2,7 +2,7 @@
 slug: "tmk-madde-511"
 title: "TMK Madde 511: Madde 511- Mirasçılıktan çıkarılan kimse, mirastan pay alamayacağı gibi; tenkis..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 511 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

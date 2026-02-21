@@ -2,7 +2,7 @@
 slug: "hmk-madde-360"
 title: "HMK Madde 360: MADDE 360- (1) Bu Bölümde aksine hüküm bulunmayan hâllerde, ilk derece mahkemesi..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 360 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

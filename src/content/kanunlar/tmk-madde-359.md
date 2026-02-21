@@ -2,7 +2,7 @@
 slug: "tmk-madde-359"
 title: "TMK Madde 359: Madde 359- Ana ve baba tarafından bir meslek veya sanat ile uğraşması için çocuğ..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 359 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

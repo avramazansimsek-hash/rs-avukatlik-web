@@ -2,7 +2,7 @@
 slug: "tmk-madde-988"
 title: "TMK Madde 988: Madde 988- Bir taşınırın emin sıfatıyla zilyedinden o şey üzerinde iyiniyetle mü..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 988 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "cmk-madde-248"
 title: "CMK Madde 248: Madde 248 – (1) Kaçağın Cumhuriyet savcısına başvurmasını veya duruşmaya gelmesi..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 248 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "iik-madde-79"
 title: "IIK Madde 79: Madde 79 – İcra dairesi talepten nihayet üç gün içinde haczi yapar...."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 79 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

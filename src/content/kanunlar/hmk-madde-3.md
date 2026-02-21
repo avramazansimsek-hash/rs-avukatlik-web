@@ -1,8 +1,8 @@
 ---
 slug: "hmk-madde-3"
-title: "HMK Madde 3: Madde 3..."
+title: "HMK Madde 3: MADDE 3- (İptal: Anayasa Mahkemesi’nin 16/2/2012 tarihli ve E.: 2011/35, K.: 201..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 3 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 
@@ -11,74 +11,11 @@ excerpt: "Hukuk Muhakemeleri Kanunu Madde 3 tam metni, gerekçesi ve Av. Ramazan
 ## Kanun Metni
 
 ```text
-Madde 3
+MADDE 3- (İptal: Anayasa Mahkemesi’nin 16/2/2012 tarihli ve E.: 2011/35, K.: 2012/23 sayılı Kararı ile. )
 
-	
+ 
 
-28/07/2020
-
-
-
-
-Anayasa Mahkemesi’nin 24/2/2022 tarihli ve E.: 2021/34, K.: 2022/21 sayılı Kararı
-
-	
-
-341
-
-	
-
-15/4/2022
-
-
-
-
-Anayasa Mahkemesi’nin 21/6/2022 tarihli ve E.: 2022/7, K.: 2022/79 sayılı Kararı
-
-	
-
-377
-
-	
-
-1/7/2022
-
-
-
-
-Anayasa Mahkemesinin 26/10/2023 tarihli ve E.: 2020/73; K.: 2023/181 sayılı
-
-Kararı
-
-	
-
-28
-
-	
-
-22/12/2023
-
-
-
-
-7499
-
-	
-
-43, 44, 337, 346, 398
-
-	
-
-1/6/2024
-
-
-
-
-7531
-
-	
-
-Ek
+Sulh hukuk mahkemelerinin görevi
 ```
 
 

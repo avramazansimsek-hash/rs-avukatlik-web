@@ -2,7 +2,7 @@
 slug: "ttk-madde-1122"
 title: "TTK Madde 1122: MADDE 1122- (1) Kiracı, üçüncü kişilerin, geminin işletilmesinden dolayı, kiraya..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1122 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

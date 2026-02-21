@@ -2,7 +2,7 @@
 slug: "tbk-madde-78"
 title: "TBK Madde 78: MADDE 78- Borçlanmadığı edimi kendi isteğiyle yerine getiren kimse, bunu ancak,..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 78 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

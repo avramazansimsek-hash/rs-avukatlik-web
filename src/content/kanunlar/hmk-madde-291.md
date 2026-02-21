@@ -2,7 +2,7 @@
 slug: "hmk-madde-291"
 title: "HMK Madde 291: MADDE 291- (1) Taraflar ve üçüncü kişiler keşif kararının gereğine uymak ve enge..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 291 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

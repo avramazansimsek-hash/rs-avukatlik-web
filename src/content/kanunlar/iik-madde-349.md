@@ -2,7 +2,7 @@
 slug: "iik-madde-349"
 title: "IIK Madde 349: Madde 349 – Şikayet dilekçe ile veya şifahi beyanla yapılır. Dilekçeyi veya dava..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 349 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

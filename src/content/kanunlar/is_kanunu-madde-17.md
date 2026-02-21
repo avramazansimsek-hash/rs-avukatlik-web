@@ -2,7 +2,7 @@
 slug: "is_kanunu-madde-17"
 title: "IS_KANUNU Madde 17: Madde 17 - Belirsiz süreli iş sözleşmelerinin feshinden önce durumun diğer taraf..."
 category: "İş Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İş Kanunu Madde 17 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

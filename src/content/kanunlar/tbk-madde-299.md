@@ -2,7 +2,7 @@
 slug: "tbk-madde-299"
 title: "TBK Madde 299: MADDE 299- Kira sözleşmesi, kiraya verenin bir şeyin kullanılmasını veya kullanm..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 299 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

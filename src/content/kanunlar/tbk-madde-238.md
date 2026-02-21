@@ -2,7 +2,7 @@
 slug: "tbk-madde-238"
 title: "TBK Madde 238: MADDE 238- Önalım, geri alım ve alım hakları en çok on yıllık süre için kararlaş..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 238 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

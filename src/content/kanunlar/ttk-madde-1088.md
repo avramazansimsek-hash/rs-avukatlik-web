@@ -2,7 +2,7 @@
 slug: "ttk-madde-1088"
 title: "TTK Madde 1088: MADDE 1088- (1) Kaptan, bütün işlerinde, özellikle ifası kendisine düşen sözleşm..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1088 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

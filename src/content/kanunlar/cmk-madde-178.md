@@ -2,7 +2,7 @@
 slug: "cmk-madde-178"
 title: "CMK Madde 178: Madde 178 – (1) Mahkeme başkanı veya hâkim, sanığın veya katılanın gösterdiği ta..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 178 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

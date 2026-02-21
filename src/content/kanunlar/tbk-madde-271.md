@@ -2,7 +2,7 @@
 slug: "tbk-madde-271"
 title: "TBK Madde 271: MADDE 271- Alıcı bir veya daha çok ön ödemede temerrüde düşerse satıcı, ancak va..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 271 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

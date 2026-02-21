@@ -2,7 +2,7 @@
 slug: "ttk-madde-1362"
 title: "TTK Madde 1362: MADDE 1362- (1) Alacaklının, alacağının 1352 nci maddede sayılan deniz alacaklar..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1362 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

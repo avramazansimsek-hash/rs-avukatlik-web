@@ -2,7 +2,7 @@
 slug: "tbk-madde-617"
 title: "TBK Madde 617: MADDE 617- Sözleşmeden doğan borçlara aykırı davranılması sebebiyle sözleşmenin..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 617 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

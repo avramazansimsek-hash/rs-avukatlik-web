@@ -2,7 +2,7 @@
 slug: "ktk-madde-53"
 title: "KTK Madde 53: Madde 53 – Sağa ve sola dönecek olan sürücüler aşağıdaki kurallara uyarlar...."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 53 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

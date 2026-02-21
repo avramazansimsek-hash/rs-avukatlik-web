@@ -2,7 +2,7 @@
 slug: "tmk-madde-629"
 title: "TMK Madde 629: Madde 629- Alacaklarını süresi içinde yazdırmayan alacaklılara karşı mirasçı, ke..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 629 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

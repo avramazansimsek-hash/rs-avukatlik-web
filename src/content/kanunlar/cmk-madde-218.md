@@ -2,7 +2,7 @@
 slug: "cmk-madde-218"
 title: "CMK Madde 218: Madde 218 – (1) Yüklenen suçun ispatı, ceza mahkemelerinden başka bir mahkemenin..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 218 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tbk-madde-444"
 title: "TBK Madde 444: MADDE 444- Fiil ehliyetine sahip olan işçi, işverene karşı, sözleşmenin sona erm..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 444 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

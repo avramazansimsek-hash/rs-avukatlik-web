@@ -2,7 +2,7 @@
 slug: "iik-madde-146"
 title: "IIK Madde 146: Madde 146 – (Değişik: 18/2/1965-538/66 md.)..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 146 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

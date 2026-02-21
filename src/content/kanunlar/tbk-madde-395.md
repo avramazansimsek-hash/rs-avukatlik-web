@@ -2,7 +2,7 @@
 slug: "tbk-madde-395"
 title: "TBK Madde 395: MADDE 395- Sözleşmeden veya durumun gereğinden aksi anlaşılmadıkça, işçi yüklend..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 395 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tbk-madde-301"
 title: "TBK Madde 301: MADDE 301- Kiraya veren, kiralananı kararlaştırılan tarihte, sözleşmede amaçlana..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 301 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

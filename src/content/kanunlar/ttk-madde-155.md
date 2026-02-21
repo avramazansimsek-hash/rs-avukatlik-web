@@ -2,7 +2,7 @@
 slug: "ttk-madde-155"
 title: "TTK Madde 155: MADDE 155- (1) a) Devralan sermaye şirketi devrolunan sermaye şirketinin oy hakk..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 155 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

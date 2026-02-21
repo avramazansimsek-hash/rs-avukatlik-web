@@ -2,7 +2,7 @@
 slug: "tbk-madde-188"
 title: "TBK Madde 188: MADDE 188- Borçlu, devri öğrendiği sırada devredene karşı sahip olduğu savunmala..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 188 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

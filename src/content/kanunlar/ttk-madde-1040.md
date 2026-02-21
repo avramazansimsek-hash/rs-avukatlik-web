@@ -2,7 +2,7 @@
 slug: "ttk-madde-1040"
 title: "TTK Madde 1040: MADDE 1040- (1) Birikmiş faizlere, diğer ikincil edimlere, bildirim ve takip gid..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1040 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

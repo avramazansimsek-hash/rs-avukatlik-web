@@ -2,7 +2,7 @@
 slug: "tmk-madde-727"
 title: "TMK Madde 727: Madde 727- Su, gaz, elektrik ve benzerlerinin mecraları, işletmenin bulunduğu ta..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 727 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-155"
 title: "AVUKATLIK Madde 155: Madde 155 – İşten yasaklanmış olanlar bu tarihten itibaren avukatlığa ait yetkil..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 155 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tbk-madde-573"
 title: "TBK Madde 573: MADDE 573- Ardiyeci açıkça yetkili kılınmadıkça, aynı tür ve nitelikteki mislî ş..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 573 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

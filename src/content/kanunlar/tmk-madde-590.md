@@ -2,7 +2,7 @@
 slug: "tmk-madde-590"
 title: "TMK Madde 590: Madde 590- Aşağıdaki sebeplerden birinin gerçekleşmesi hâlinde sulh hâkimi terek..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 590 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

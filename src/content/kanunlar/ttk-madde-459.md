@@ -2,7 +2,7 @@
 slug: "ttk-madde-459"
 title: "TTK Madde 459: MADDE 459- (1) Artırılan sermayeyi temsil eden payların tamamı ya değişik esas s..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 459 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

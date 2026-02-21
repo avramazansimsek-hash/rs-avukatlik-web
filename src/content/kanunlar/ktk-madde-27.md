@@ -2,7 +2,7 @@
 slug: "ktk-madde-27"
 title: "KTK Madde 27: Madde 27 – Esasları yönetmelikte açıklanan ve araçların tanınmasına yarayan, mot..."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 27 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

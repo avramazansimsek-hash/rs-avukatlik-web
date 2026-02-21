@@ -2,7 +2,7 @@
 slug: "tkhk-madde-64"
 title: "TKHK Madde 64: MADDE 64- (1) Tüketici sorunlarının ve ihtiyaçlarının belirlenmesi ile çıkarları..."
 category: "Tüketicinin Korunması Hakkında Kanun"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Tüketicinin Korunması Hakkında Kanun Madde 64 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

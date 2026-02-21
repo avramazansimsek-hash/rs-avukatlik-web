@@ -2,7 +2,7 @@
 slug: "ttk-madde-949"
 title: "TTK Madde 949: MADDE 949- (1) Harp gemileri ile sahil istihkâmları önünde ve Türk limanlarına g..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 949 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

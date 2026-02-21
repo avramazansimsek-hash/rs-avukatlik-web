@@ -2,7 +2,7 @@
 slug: "cmk-madde-105"
 title: "CMK Madde 105: Madde 105 – (Değişik: 25/5/2005 – 5353/13 md.)..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 105 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

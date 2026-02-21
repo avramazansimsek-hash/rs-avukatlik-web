@@ -2,7 +2,7 @@
 slug: "tkhk-madde-30"
 title: "TKHK Madde 30: MADDE 30- (1) Bağlı kredi sözleşmesi; tüketici kredisinin münhasıran belirli bir..."
 category: "Tüketicinin Korunması Hakkında Kanun"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Tüketicinin Korunması Hakkında Kanun Madde 30 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

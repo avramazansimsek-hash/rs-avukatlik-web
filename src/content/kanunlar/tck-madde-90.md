@@ -2,7 +2,7 @@
 slug: "tck-madde-90"
 title: "TCK Madde 90: Madde 90- (1) İnsan üzerinde bilimsel bir deney yapan kişi, bir yıldan üç yıla k..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 90 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

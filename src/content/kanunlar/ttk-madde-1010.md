@@ -2,7 +2,7 @@
 slug: "ttk-madde-1010"
 title: "TTK Madde 1010: MADDE 1010- (1) Yapı hâlindeki gemilere özgü sicile kayıtlı olmayan yapılar ve y..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1010 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-131"
 title: "AVUKATLIK Madde 131: Madde 131 – Birlik Disiplin Kurulu ayda bir defa olağan toplantı yapar. Birlik B..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 131 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

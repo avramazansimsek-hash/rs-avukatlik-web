@@ -2,7 +2,7 @@
 slug: "tmk-madde-719"
 title: "TMK Madde 719: Madde 719- Taşınmazın sınırları, tapu plânları ve arz üzerindeki sınır işaretler..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 719 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

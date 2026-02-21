@@ -2,7 +2,7 @@
 slug: "tck-madde-281"
 title: "TCK Madde 281: Madde 281- (1) Gerçeğin meydana çıkmasını engellemek amacıyla, bir suçun delille..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 281 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

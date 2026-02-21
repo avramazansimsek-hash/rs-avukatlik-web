@@ -2,7 +2,7 @@
 slug: "ttk-madde-1286"
 title: "TTK Madde 1286: MADDE 1286- (1) Bu Bölüm hükümleri, iki veya daha çok geminin çarpışması “çatma”..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1286 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

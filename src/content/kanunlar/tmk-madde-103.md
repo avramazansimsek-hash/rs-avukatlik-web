@@ -2,7 +2,7 @@
 slug: "tmk-madde-103"
 title: "TMK Madde 103: Madde 103- Mahkemenin verdiği karar, tebliğ tarihinden başlayarak bir ay içinde,..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 103 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

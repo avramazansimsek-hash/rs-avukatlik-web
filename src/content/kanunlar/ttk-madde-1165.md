@@ -2,7 +2,7 @@
 slug: "ttk-madde-1165"
 title: "TTK Madde 1165: MADDE 1165- (1) Her türlü navlun sözleşmesinde, taşıtan ve yükleten, eşyanın tes..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1165 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

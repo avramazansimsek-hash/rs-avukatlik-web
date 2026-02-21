@@ -2,7 +2,7 @@
 slug: "tbk-madde-629"
 title: "TBK Madde 629: MADDE 629- Ortaklık sözleşmesiyle ortaklardan birine verilen yönetim yetkisi, ha..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 629 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

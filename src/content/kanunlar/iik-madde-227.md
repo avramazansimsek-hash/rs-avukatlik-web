@@ -2,7 +2,7 @@
 slug: "iik-madde-227"
 title: "IIK Madde 227: Madde 227 – (Değişik: 6/6/1985-3222/28 md.)..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 227 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-1008"
 title: "TMK Madde 1008: Madde 1008- Taşınmaza ilişkin aşağıdaki haklar, tapu kütüğüne tescil edilir:..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 1008 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-1334"
 title: "TTK Madde 1334: MADDE 1334- (1) Ölüm ve yaralanmadan doğan alacakların, 1976 tarihli Sözleşmenin..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1334 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

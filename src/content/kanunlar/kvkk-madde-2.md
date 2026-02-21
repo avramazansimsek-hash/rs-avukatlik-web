@@ -1,8 +1,8 @@
 ---
 slug: "kvkk-madde-2"
-title: "KVKK Madde 2: Madde 2..."
+title: "KVKK Madde 2: MADDE 2- (1) Bu Kanun hükümleri, kişisel verileri işlenen gerçek kişiler ile bu..."
 category: "Kişisel Verilerin Korunması Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Kişisel Verilerin Korunması Kanunu Madde 2 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 
@@ -11,33 +11,11 @@ excerpt: "Kişisel Verilerin Korunması Kanunu Madde 2 tam metni, gerekçesi ve 
 ## Kanun Metni
 
 ```text
-Madde 2
+MADDE 2- (1) Bu Kanun hükümleri, kişisel verileri işlenen gerçek kişiler ile bu verileri tamamen veya kısmen otomatik olan ya da herhangi bir veri kayıt sisteminin parçası olmak kaydıyla otomatik olmayan yollarla işleyen gerçek ve tüzel kişiler hakkında uygulanır.
 
-	
+ 
 
-5/12/2017
-
-
-
-
-KHK/703
-
-	
-
-19, 20, 21, 25
-
-	
-
-24/6/2018 tarihinde birlikte yapılan Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimleri sonucunda Cumhurbaşkanının andiçerek göreve başladığı tarihte (9/7/2018)
-
-
-
-
-7499
-
-	
-
-6, 9, 18, Geçici
+Tanımlar
 ```
 
 

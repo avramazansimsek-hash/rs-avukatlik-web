@@ -2,7 +2,7 @@
 slug: "hmk-madde-285"
 title: "HMK Madde 285: MADDE 285- (1) Bilirkişinin kasten veya ağır ihmal suretiyle düzenlemiş olduğu g..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 285 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

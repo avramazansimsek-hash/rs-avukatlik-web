@@ -2,7 +2,7 @@
 slug: "tmk-madde-165"
 title: "TMK Madde 165: Madde 165- Eşlerden biri akıl hastası olup da bu yüzden ortak hayat diğer eş içi..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 165 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

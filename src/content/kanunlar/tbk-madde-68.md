@@ -2,7 +2,7 @@
 slug: "tbk-madde-68"
 title: "TBK Madde 68: MADDE 68- Bir kişinin hayvanı, başkasının taşınmazı üzerinde bir zarar verdiği t..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 68 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

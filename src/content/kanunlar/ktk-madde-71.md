@@ -2,7 +2,7 @@
 slug: "ktk-madde-71"
 title: "KTK Madde 71: Madde 71 – Geçiş üstünlüğüne sahip araçlar öncelik sırasıyla şunlardır:..."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 71 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

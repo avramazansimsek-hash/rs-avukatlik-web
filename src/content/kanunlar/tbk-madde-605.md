@@ -2,7 +2,7 @@
 slug: "tbk-madde-605"
 title: "TBK Madde 605: MADDE 605- Kumar oynayan veya bahse giren kişi tarafından imzalanmış adi borç ve..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 605 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

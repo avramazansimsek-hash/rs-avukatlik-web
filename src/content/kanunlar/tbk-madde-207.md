@@ -2,7 +2,7 @@
 slug: "tbk-madde-207"
 title: "TBK Madde 207: MADDE 207- Satış sözleşmesi, satıcının, satılanın zilyetlik ve mülkiyetini alıcı..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 207 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

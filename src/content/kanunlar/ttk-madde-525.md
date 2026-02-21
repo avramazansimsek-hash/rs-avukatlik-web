@@ -2,7 +2,7 @@
 slug: "ttk-madde-525"
 title: "TTK Madde 525: MADDE 525- (Mülga: 26/6/2012-6335/43 md.)..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 525 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

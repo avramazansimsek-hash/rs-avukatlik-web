@@ -2,7 +2,7 @@
 slug: "iik-madde-171"
 title: "IIK Madde 171: Madde 171 – (Değişik: 18/2/1965-538/86 md.)..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 171 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

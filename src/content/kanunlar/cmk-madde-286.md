@@ -2,7 +2,7 @@
 slug: "cmk-madde-286"
 title: "CMK Madde 286: Madde 286 – (1) Bölge adliye mahkemesi ceza dairelerinin bozma dışında kalan hük..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 286 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

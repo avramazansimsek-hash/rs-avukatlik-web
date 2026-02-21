@@ -2,7 +2,7 @@
 slug: "tmk-madde-883"
 title: "TMK Madde 883: Madde 883- Alacak sona erince ipotekli taşınmazın maliki, alacaklıdan ipoteği te..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 883 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

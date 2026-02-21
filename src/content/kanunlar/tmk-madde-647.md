@@ -2,7 +2,7 @@
 slug: "tmk-madde-647"
 title: "TMK Madde 647: Madde 647- Mirasbırakan, ölüme bağlı tasarrufuyla paylaşmanın nasıl yapılacağı v..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 647 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-918"
 title: "TMK Madde 918: Madde 918- Alacaklı yoksa veya rehin hakkından feragat ederse borçlu, tapu kütüğ..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 918 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

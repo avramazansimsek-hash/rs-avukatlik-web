@@ -2,7 +2,7 @@
 slug: "tmk-madde-646"
 title: "TMK Madde 646: Madde 646- Yasal mirasçılar, gerek kendi aralarında, gerek atanmış mirasçılarla..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 646 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

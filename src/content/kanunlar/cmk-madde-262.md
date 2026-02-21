@@ -2,7 +2,7 @@
 slug: "cmk-madde-262"
 title: "CMK Madde 262: Madde 262 – (1) Şüpheli veya sanığın yasal temsilcisi ve eşi, şüpheli veya sanığ..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 262 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

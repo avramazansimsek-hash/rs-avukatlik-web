@@ -2,7 +2,7 @@
 slug: "ttk-madde-417"
 title: "TTK Madde 417: MADDE 417- (1) Yönetim kurulu, hamiline yazılı pay sahipleri ile Sermaye Piyasas..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 417 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

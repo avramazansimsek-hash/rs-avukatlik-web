@@ -2,7 +2,7 @@
 slug: "tkhk-madde-71"
 title: "TKHK Madde 71: MADDE 71- (1) Tüketici hakem heyeti başkan ve üyelerine, raportör olarak görevle..."
 category: "Tüketicinin Korunması Hakkında Kanun"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Tüketicinin Korunması Hakkında Kanun Madde 71 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "hmk-madde-218"
 title: "HMK Madde 218: MADDE 218- (1) Mahkemeye getirilmesi zor veya sakıncalı olan belgeler, hâkim vey..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 218 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

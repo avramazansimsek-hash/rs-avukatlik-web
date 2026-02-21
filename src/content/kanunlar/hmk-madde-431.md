@@ -2,7 +2,7 @@
 slug: "hmk-madde-431"
 title: "HMK Madde 431: MADDE 431- (1) Hakem veya hakem kurulu;..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 431 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

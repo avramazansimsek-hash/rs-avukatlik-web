@@ -2,7 +2,7 @@
 slug: "ttk-madde-912"
 title: "TTK Madde 912: MADDE 912- (1) Yolcu, bagajı ile el bagajı için, aksine sözleşme yoksa, ayrı ücr..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 912 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "iik-madde-353"
 title: "IIK Madde 353: Madde 353 – (Değişik: 31/5/2005-5358/21 md.)..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 353 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

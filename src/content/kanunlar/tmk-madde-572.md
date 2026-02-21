@@ -2,7 +2,7 @@
 slug: "tmk-madde-572"
 title: "TMK Madde 572: Madde 572- Mirasbırakan, sağlığında bütün malvarlığını miras sözleşmesiyle atadı..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 572 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

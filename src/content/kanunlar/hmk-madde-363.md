@@ -2,7 +2,7 @@
 slug: "hmk-madde-363"
 title: "HMK Madde 363: MADDE 363- (1) (Değişik: 20/7/2017-7035/33 md.) İlk derece mahkemelerinin kesin..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 363 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

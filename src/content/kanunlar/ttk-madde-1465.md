@@ -2,7 +2,7 @@
 slug: "ttk-madde-1465"
 title: "TTK Madde 1465: MADDE 1465- (1) Aynı menfaatin, aynı rizikolara karşı, aynı süre için, birden ço..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1465 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

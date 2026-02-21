@@ -2,7 +2,7 @@
 slug: "ttk-madde-651"
 title: "TTK Madde 651: MADDE 651- (1) Kıymetli evrak zayi olduğu takdirde mahkeme tarafından iptaline k..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 651 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "hmk-madde-140"
 title: "HMK Madde 140: MADDE 140- (1) Hâkim, ön inceleme duruşmasında, dava şartları ve ilk itirazlar h..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 140 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

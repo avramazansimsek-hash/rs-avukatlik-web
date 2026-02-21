@@ -2,7 +2,7 @@
 slug: "ttk-madde-1500"
 title: "TTK Madde 1500: MADDE 1500- (1) Sigorta ettiren, en az bir yıldan beri yürürlükte bulunan ve bir..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1500 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

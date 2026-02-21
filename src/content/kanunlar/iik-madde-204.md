@@ -2,7 +2,7 @@
 slug: "iik-madde-204"
 title: "IIK Madde 204: Madde 204 – Alacaklı müflisle birlikte borçlu olandan alacağının bir kısmını alm..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 204 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

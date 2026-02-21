@@ -2,7 +2,7 @@
 slug: "tbk-madde-23"
 title: "TBK Madde 23: MADDE 23- Genel işlem koşullarında yer alan bir hüküm, açık ve anlaşılır değilse..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 23 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

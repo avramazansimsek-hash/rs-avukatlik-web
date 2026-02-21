@@ -2,7 +2,7 @@
 slug: "ttk-madde-644"
 title: "TTK Madde 644: MADDE 644- (1) Aşağıda madde numaraları bildirilen anonim şirketlere ilişkin hük..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 644 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

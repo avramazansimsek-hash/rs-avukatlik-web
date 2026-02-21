@@ -2,7 +2,7 @@
 slug: "ttk-madde-1097"
 title: "TTK Madde 1097: MADDE 1097- (1) Gemi jurnaline, engel bulunmadıkça, aşağıdaki hususlar günü günü..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1097 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

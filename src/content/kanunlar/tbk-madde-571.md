@@ -2,7 +2,7 @@
 slug: "tbk-madde-571"
 title: "TBK Madde 571: MADDE 571- Saklamak üzere ticari mal kabul ettiğini açıkça kamuya bildiren ardiy..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 571 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

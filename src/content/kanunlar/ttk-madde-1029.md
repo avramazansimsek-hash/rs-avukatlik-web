@@ -2,7 +2,7 @@
 slug: "ttk-madde-1029"
 title: "TTK Madde 1029: MADDE 1029- (1) Sigortacı, muaccel olan sigorta primlerini ve sigorta sözleşmesi..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1029 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

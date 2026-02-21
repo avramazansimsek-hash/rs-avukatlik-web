@@ -2,7 +2,7 @@
 slug: "hmk-madde-197"
 title: "HMK Madde 197: MADDE 197- (1) Kanunda belirtilen hâller dışında, deliller davaya bakan mahkeme..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 197 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

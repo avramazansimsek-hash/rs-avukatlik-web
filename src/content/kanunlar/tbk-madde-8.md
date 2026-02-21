@@ -2,7 +2,7 @@
 slug: "tbk-madde-8"
 title: "TBK Madde 8: MADDE 8- Öneren, önerisi ile bağlı olmama hakkının saklı olduğunu açıkça belirti..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 8 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

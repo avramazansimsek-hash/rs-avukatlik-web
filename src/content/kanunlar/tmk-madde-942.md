@@ -2,7 +2,7 @@
 slug: "tmk-madde-942"
 title: "TMK Madde 942: Madde 942- Alacaklı, rehinli taşınırı ancak rehnedenin rızasıyla bir başkasına r..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 942 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

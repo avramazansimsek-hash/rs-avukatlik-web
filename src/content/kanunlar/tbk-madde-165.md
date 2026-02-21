@@ -2,7 +2,7 @@
 slug: "tbk-madde-165"
 title: "TBK Madde 165: MADDE 165- Kanun veya sözleşme ile aksi belirlenmedikçe, borçlulardan biri kendi..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 165 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

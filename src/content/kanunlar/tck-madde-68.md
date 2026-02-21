@@ -2,7 +2,7 @@
 slug: "tck-madde-68"
 title: "TCK Madde 68: Madde 68- (1) Bu maddede yazılı cezalar aşağıdaki sürelerin geçmesiyle infaz edi..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 68 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

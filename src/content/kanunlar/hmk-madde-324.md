@@ -2,7 +2,7 @@
 slug: "hmk-madde-324"
 title: "HMK Madde 324: MADDE 324- (1) Taraflardan her biri ikamesini talep ettiği delil için mahkemece..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 324 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

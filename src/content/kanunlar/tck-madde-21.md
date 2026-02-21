@@ -2,7 +2,7 @@
 slug: "tck-madde-21"
 title: "TCK Madde 21: Madde 21- (1) Suçun oluşması kastın varlığına bağlıdır. Kast, suçun kanuni tanım..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 21 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

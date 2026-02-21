@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-173"
 title: "AVUKATLIK Madde 173: Madde 173 – Sözleşmede aksine bir hüküm yoksa, kararlaştırılan avukatlık ücreti..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 173 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

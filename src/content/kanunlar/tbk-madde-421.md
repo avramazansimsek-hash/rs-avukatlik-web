@@ -2,7 +2,7 @@
 slug: "tbk-madde-421"
 title: "TBK Madde 421: MADDE 421- İşveren, işçiye her hafta, kural olarak pazar günü veya durum ve koşu..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 421 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

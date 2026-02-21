@@ -2,7 +2,7 @@
 slug: "ttk-madde-664"
 title: "TTK Madde 664: MADDE 664- (1) Senedin ibrazına ilişkin ilanın 35 inci maddede yazılı gazetede ü..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 664 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

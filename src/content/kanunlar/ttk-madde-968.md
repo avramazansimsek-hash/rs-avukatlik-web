@@ -2,7 +2,7 @@
 slug: "ttk-madde-968"
 title: "TTK Madde 968: MADDE 968- (1) Sicil müdürlüğü, geminin sicile kaydolunduğuna ilişkin bir gemi t..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 968 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

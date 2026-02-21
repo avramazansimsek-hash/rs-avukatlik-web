@@ -2,7 +2,7 @@
 slug: "tmk-madde-584"
 title: "TMK Madde 584: Madde 584- Hakkında gaiplik kararı verilmiş bir kimsenin mirasçıları veya mirası..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 584 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

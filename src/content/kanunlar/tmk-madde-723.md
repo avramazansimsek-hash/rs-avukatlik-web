@@ -2,7 +2,7 @@
 slug: "tmk-madde-723"
 title: "TMK Madde 723: Madde 723- Malzeme sökülüp alınmazsa arazi maliki, malzeme sahibine uygun bir ta..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 723 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

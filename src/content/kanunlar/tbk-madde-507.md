@@ -2,7 +2,7 @@
 slug: "tbk-madde-507"
 title: "TBK Madde 507: MADDE 507- Vekil, yetkisi dışına çıkarak işi başkasına gördürdüğünde, onun fiili..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 507 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

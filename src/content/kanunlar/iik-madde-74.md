@@ -2,7 +2,7 @@
 slug: "iik-madde-74"
 title: "IIK Madde 74: Madde 74 – Mal beyanı, borçlunun gerek kendisinde ve gerek üçüncü şahıslar yedin..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 74 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

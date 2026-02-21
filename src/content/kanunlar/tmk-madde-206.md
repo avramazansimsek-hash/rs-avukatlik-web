@@ -2,7 +2,7 @@
 slug: "tmk-madde-206"
 title: "TMK Madde 206: Madde 206- Haklı bir sebep varsa hâkim, eşlerden birinin istemi üzerine, mevcut..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 206 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

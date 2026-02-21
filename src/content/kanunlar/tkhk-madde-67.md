@@ -2,7 +2,7 @@
 slug: "tkhk-madde-67"
 title: "TKHK Madde 67: MADDE 67- (1) Raportörler il ve ilçe merkezlerinde kurulu bulunan tüketici hakem..."
 category: "Tüketicinin Korunması Hakkında Kanun"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Tüketicinin Korunması Hakkında Kanun Madde 67 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

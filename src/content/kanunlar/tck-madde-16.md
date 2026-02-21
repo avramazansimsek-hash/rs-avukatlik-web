@@ -2,7 +2,7 @@
 slug: "tck-madde-16"
 title: "TCK Madde 16: Madde 16- (1) Nerede işlenmiş olursa olsun bir suçtan dolayı, yabancı ülkede göz..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 16 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

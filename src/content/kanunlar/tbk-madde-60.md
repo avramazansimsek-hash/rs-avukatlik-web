@@ -2,7 +2,7 @@
 slug: "tbk-madde-60"
 title: "TBK Madde 60: MADDE 60- Bir kişinin sorumluluğu, birden çok sebebe dayandırılabiliyorsa hâkim,..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 60 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

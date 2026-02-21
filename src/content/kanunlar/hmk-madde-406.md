@@ -2,7 +2,7 @@
 slug: "hmk-madde-406"
 title: "HMK Madde 406: MADDE 406- (1) Mahkemece, gerekli hâllerde, mal veya haklarla ilgili defter tutu..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 406 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

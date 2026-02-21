@@ -2,7 +2,7 @@
 slug: "ttk-madde-1311"
 title: "TTK Madde 1311: MADDE 1311- (1) Kurtaran, kurtarma faaliyetini kendi kusuruyla zorunlu kılmış ve..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1311 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

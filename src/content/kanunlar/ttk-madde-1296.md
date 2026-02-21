@@ -2,7 +2,7 @@
 slug: "ttk-madde-1296"
 title: "TTK Madde 1296: MADDE 1296- (1) Donatanın sorumluluğunun sınırlandırılmasına ilişkin hükümler sa..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1296 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-1394"
 title: "TTK Madde 1394: MADDE 1394- (1) Sıra cetvelinin beşinci sırasına, takip konusu gemiye ilişkin gü..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1394 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

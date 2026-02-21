@@ -2,7 +2,7 @@
 slug: "ttk-madde-380"
 title: "TTK Madde 380: MADDE 380- (1) Paylarının iktisap edilmesi amacıyla, şirketin başka bir kişiyle..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 380 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

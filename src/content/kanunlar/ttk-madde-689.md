@@ -2,7 +2,7 @@
 slug: "ttk-madde-689"
 title: "TTK Madde 689: MADDE 689- (1) Ciro, “bedeli teminattır”, “bedeli rehindir” ibaresini veya rehne..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 689 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

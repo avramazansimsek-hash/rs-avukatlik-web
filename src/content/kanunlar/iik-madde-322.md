@@ -2,7 +2,7 @@
 slug: "iik-madde-322"
 title: "IIK Madde 322: Madde 322 – Mühlet kararı katileşince icra dairesine tebliğ ve hemen ilan olunur..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 322 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

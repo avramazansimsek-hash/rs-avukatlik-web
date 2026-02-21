@@ -2,7 +2,7 @@
 slug: "iyuk-madde-38"
 title: "IYUK Madde 38: Madde 38 – 1. (Ek: 10/6/1994-4001/18 md.) Aynı maddi veya hukuki sebepten doğan..."
 category: "İdari Yargılama Usulü Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İdari Yargılama Usulü Kanunu Madde 38 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

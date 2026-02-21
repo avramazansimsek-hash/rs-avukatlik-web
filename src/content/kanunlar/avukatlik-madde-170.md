@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-170"
 title: "AVUKATLIK Madde 170: Madde 170 – (Mülga: 22/1/1986 - 3256/29 md.)..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 170 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

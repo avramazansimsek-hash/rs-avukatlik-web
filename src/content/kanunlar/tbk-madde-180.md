@@ -2,7 +2,7 @@
 slug: "tbk-madde-180"
 title: "TBK Madde 180: MADDE 180- Alacaklı hiçbir zarara uğramamış olsa bile, kararlaştırılan cezanın i..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 180 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

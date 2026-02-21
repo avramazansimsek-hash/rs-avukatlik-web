@@ -2,7 +2,7 @@
 slug: "ttk-madde-1191"
 title: "TTK Madde 1191: MADDE 1191- (1) Taşımanın gerçekleştirilmesi, kısmen veya tamamen bir fiilî taşı..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1191 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

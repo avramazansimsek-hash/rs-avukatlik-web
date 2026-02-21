@@ -2,7 +2,7 @@
 slug: "ttk-madde-893"
 title: "TTK Madde 893: MADDE 893- (1) Aynı eşya üzerinde eşyanın taşınması ile bağlantılı birden çok ha..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 893 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

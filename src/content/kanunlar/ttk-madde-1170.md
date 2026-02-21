@@ -2,7 +2,7 @@
 slug: "ttk-madde-1170"
 title: "TTK Madde 1170: MADDE 1170- (1) Sözleşmede kararlaştırılmışsa taşıyan, boşaltma süresinden fazla..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1170 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

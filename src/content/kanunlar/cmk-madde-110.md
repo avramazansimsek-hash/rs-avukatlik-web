@@ -2,7 +2,7 @@
 slug: "cmk-madde-110"
 title: "CMK Madde 110: Madde 110 – (1) Şüpheli, Cumhuriyet savcısının istemi ve sulh ceza hâkiminin kar..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 110 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

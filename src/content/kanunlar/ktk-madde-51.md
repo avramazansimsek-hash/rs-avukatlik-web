@@ -2,7 +2,7 @@
 slug: "ktk-madde-51"
 title: "KTK Madde 51: Madde 51 – Sürücüler, aksine bir karar alınıp işaretlenmemişse yönetmelikte beli..."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 51 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

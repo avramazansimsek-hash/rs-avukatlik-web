@@ -2,7 +2,7 @@
 slug: "ttk-madde-811"
 title: "TTK Madde 811: MADDE 811- (1) Kanunen belirli olan süreler içinde çekin ibrazı veya protesto ed..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 811 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-1336"
 title: "TTK Madde 1336: MADDE 1336- (1) 24/7/2001 tarihli ve 24472 sayılı Resmî Gazetede yayımlanan 27/1..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1336 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

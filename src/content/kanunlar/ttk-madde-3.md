@@ -1,8 +1,8 @@
 ---
 slug: "ttk-madde-3"
-title: "TTK Madde 3: MADDE 3- (Mülga: 26/6/2012-6335/43 md.)..."
+title: "TTK Madde 3: MADDE 3- (1) Bu Kanunda düzenlenen hususlarla bir ticari işletmeyi ilgilendiren..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 3 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 
@@ -11,11 +11,14 @@ excerpt: "Türk Ticaret Kanunu Madde 3 tam metni, gerekçesi ve Av. Ramazan Şim
 ## Kanun Metni
 
 ```text
-MADDE 3- (Mülga: 26/6/2012-6335/43 md.)
+MADDE 3- (1) Bu Kanunda düzenlenen hususlarla bir ticari işletmeyi ilgilendiren bütün işlem ve fiiller ticari işlerdendir.
 
- 
 
-GEÇİCİ
+
+
+IV – Ticari davalar, çekişmesiz yargı işleri ve delilleri[2]
+
+1. Genel olarak
 ```
 
 

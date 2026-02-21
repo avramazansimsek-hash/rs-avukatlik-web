@@ -2,7 +2,7 @@
 slug: "tbk-madde-167"
 title: "TBK Madde 167: MADDE 167- Aksi kararlaştırılmadıkça veya borçlular arasındaki hukuki ilişkinin..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 167 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

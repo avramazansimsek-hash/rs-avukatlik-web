@@ -2,7 +2,7 @@
 slug: "tck-madde-4"
 title: "TCK Madde 4: Madde 4- (1) Ceza kanunlarını bilmemek mazeret sayılmaz...."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 4 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

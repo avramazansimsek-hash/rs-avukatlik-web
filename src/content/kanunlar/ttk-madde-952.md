@@ -2,7 +2,7 @@
 slug: "ttk-madde-952"
 title: "TTK Madde 952: MADDE 952- (1) 947 ve 948 inci maddelerde öngörülen fiiller yabancı bir ülkede v..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 952 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

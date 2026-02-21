@@ -2,7 +2,7 @@
 slug: "is_kanunu-madde-99"
 title: "IS_KANUNU Madde 99: Madde 99 – (Değişik: 6/5/2016-6715/4 md.)..."
 category: "İş Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İş Kanunu Madde 99 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

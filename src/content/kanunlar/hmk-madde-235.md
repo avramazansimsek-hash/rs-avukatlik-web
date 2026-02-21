@@ -2,7 +2,7 @@
 slug: "hmk-madde-235"
 title: "HMK Madde 235: MADDE 235- (1) Yemin edecek kimse, mahkemeye gelemeyecek kadar hasta veya engell..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 235 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

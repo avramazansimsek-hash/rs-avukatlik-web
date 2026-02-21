@@ -2,7 +2,7 @@
 slug: "ttk-madde-1512"
 title: "TTK Madde 1512: MADDE 1512- (1) Sigortacı, hastalık sigortası ile sözleşmede öngörülen hastalıkl..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1512 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

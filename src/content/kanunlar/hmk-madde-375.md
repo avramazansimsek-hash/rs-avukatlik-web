@@ -2,7 +2,7 @@
 slug: "hmk-madde-375"
 title: "HMK Madde 375: MADDE 375- (1) Aşağıdaki sebeplere dayanılarak yargılamanın iadesi talep edilebi..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 375 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

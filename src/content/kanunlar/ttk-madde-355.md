@@ -2,7 +2,7 @@
 slug: "ttk-madde-355"
 title: "TTK Madde 355: MADDE 355- (1) Şirket ticaret siciline tescil ile tüzel kişilik kazanır...."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 355 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-381"
 title: "TTK Madde 381: MADDE 381- (1) Bir şirket, yakın ve ciddi bir kayıptan kaçınmak için gerekli old..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 381 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

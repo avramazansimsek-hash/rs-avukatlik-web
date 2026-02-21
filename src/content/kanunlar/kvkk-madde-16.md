@@ -2,7 +2,7 @@
 slug: "kvkk-madde-16"
 title: "KVKK Madde 16: MADDE 16- (1) Kurulun gözetiminde, Başkanlık tarafından kamuya açık olarak Veri..."
 category: "Kişisel Verilerin Korunması Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Kişisel Verilerin Korunması Kanunu Madde 16 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

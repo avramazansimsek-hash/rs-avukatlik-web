@@ -1,8 +1,8 @@
 ---
 slug: "ktk-madde-12"
-title: "KTK Madde 12: Madde 12 – (Ek: 17/10/1996-4199/46 md.)..."
+title: "KTK Madde 12: Madde 12 – (Değişik: 17/10/1996-4199/7 md.)..."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 12 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 
@@ -11,13 +11,50 @@ excerpt: "Karayolları Trafik Kanunu Madde 12 tam metni, gerekçesi ve Av. Ramaz
 ## Kanun Metni
 
 ```text
-Madde 12 – (Ek: 17/10/1996-4199/46 md.)
+Madde 12 – (Değişik: 17/10/1996-4199/7 md.)
 
-Emniyet Genel Müdürlüğünün teşkilat ve kuruluşu, bu Kanun esaslarına göre yeniden düzenleninceye ve bu düzenleme gereğince genel hükümlere göre yeni kadro tespit ve ihdas edilinceye kadar bu Kanunun yürürlüğe girdiği tarihte uygulanmakta olan mevcut kadroların kullanılmasına devam olunur.
+İl ve İlçe Trafik Komisyonlarının kuruluşu ile görev ve yetkileri:
 
- 
+a) Kuruluş:
 
-Geçici
+İl sınırları içinde mahalli ihtiyaç ve şartlara göre trafik düzeni ve güvenliği bakımından Yönetmelikte gösterilen konular ve esaslar çerçevesinde, illerde vali veya yardımcısının başkanlığında, belediye, emniyet, jandarma, milli eğitim, karayolları ve Türkiye Şoförler ve Otomobilciler Federasyonuna bağlı ilgili odanın temsilcileri; Valilikçe uygun görülen trafikle ilgili üniversite, oda, vakıf ve kamuya yararlı dernek veya kuruluşların birer temsilcisinden oluşan İl Trafik Komisyonu, ilçelerde kaymakamın başkanlığında, aynı kuruluşların yöneticileri veya görevlendirecekleri temsilcilerinin katıldığı İlçe Trafik Komisyonu kurulur.
+
+Kuruldaki üniversite, vakıf ve kamuya yararlı dernek veya kuruluşların temsilcilerinin toplam sayısı 3'ü geçemez.
+
+Kuruluşu bulunan yerler hariç, İlçe Trafik Komisyonlarına karayolları temsilcisinin katılması zorunlu değildir.
+
+Gündem konuları vali veya kaymakamlar tarafından belirlenir.
+
+Bu komisyonlara, oy hakkı olmaksızın görüşleri alınmak üzere, diğer kuruluş temsilcileri de çağrılabilir.
+
+Kararlar oy çokluğu ile alınır. Oyların eşitliği halinde başkanın bulunduğu taraf çoğunluk sayılır.
+
+İl Trafik Komisyonu kararları valinin onayı ile yürürlüğe girer.
+
+İl ve İlçe Trafik Komisyonu kararlarını bütün resmi ve özel kuruluşlar uygulamakla yükümlüdür.
+
+İlçe Trafik Komisyonu kararları, İl Trafik Komisyonunca incelenip vali tarafından onaylandıktan sonra yürürlüğe girer.
+
+b) Görev ve yetkiler:
+
+1. İl sınırları içinde mahalli ihtiyaç ve şartlara göre trafik düzeni ve güvenliğini sağlamak amacıyla gerekli tedbirleri almak,
+
+2. Trafiğin düzenli bir şekilde akımını sağlamak bakımından alt yapı hizmetleri ile ilgili tedbirleri almak, trafikle ilgili sorunları çözümlemek, bütün ülkeyi ilgilendiren Trafik Güvenliği Yüksek Kurulunun müdahalesini gerektiren hususları İçişleri Bakanlığına iletmek.
+
+3. Karayolu taşımacılığına ait mevzuat hükümleri saklı kalmak üzere, trafik düzeni ve güvenliği yönünden belediye sınırları içinde ticari amaçla çalıştırılacak yolcu ve yük taşıtları ile motorsuz taşıtların çalışma şekil ve şartları, çalıştırılabileceği yerler ile güzergahlarını tespit etmek ve sayılarını belirlemek,
+
+4. Gerçek ve tüzelkişiler ile resmi ve özel kurum ve kuruluşlara ait otopark olmaya müsait boş alan, arazi ve arsaları geçici otopark yeri olarak ilan etmek ve bunların sahiplerine veya üçüncü kişilere işletilmesi için izin vermek,
+
+5. Bu Kanunla ve diğer mevzuatla verilen görevleri yapmak.
+
+
+
+
+ÜÇÜNCÜ KISIM
+
+Karayolu Trafik Güvenliği, Trafik İşaretleri, Yapı ve Tesisler
+
+Karayolu trafik güvenliği:
 ```
 
 

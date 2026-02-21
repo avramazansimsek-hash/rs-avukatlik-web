@@ -2,7 +2,7 @@
 slug: "hmk-madde-249"
 title: "HMK Madde 249: MADDE 249- (1) Kanun gereği sır olarak korunması gereken bilgiler hakkında tanık..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 249 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

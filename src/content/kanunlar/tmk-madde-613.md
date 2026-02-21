@@ -2,7 +2,7 @@
 slug: "tmk-madde-613"
 title: "TMK Madde 613: Madde 613- Altsoyun tamamının mirası reddetmesi hâlinde, bunların payı sağ kalan..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 613 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-515"
 title: "TTK Madde 515: MADDE 515- (1) Anonim şirketlerin finansal tabloları, Türkiye Muhasebe Standartl..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 515 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

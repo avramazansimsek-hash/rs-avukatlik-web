@@ -2,7 +2,7 @@
 slug: "tbk-madde-609"
 title: "TBK Madde 609: MADDE 609- Sözleşmede aksi kararlaştırılmamışsa ömür boyu gelir, her altı ayda b..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 609 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

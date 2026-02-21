@@ -2,7 +2,7 @@
 slug: "iik-madde-321"
 title: "IIK Madde 321: Madde 321 – İcra mahkemesi, mühlet kararını vermezden evvel veya verirken defter..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 321 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

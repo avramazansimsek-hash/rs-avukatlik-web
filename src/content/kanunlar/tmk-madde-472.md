@@ -2,7 +2,7 @@
 slug: "tmk-madde-472"
 title: "TMK Madde 472: Madde 472- Diğer kısıtlılar üzerindeki vesayet, yetkili vesayet makamının kararı..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 472 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

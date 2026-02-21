@@ -2,7 +2,7 @@
 slug: "tmk-madde-12"
 title: "TMK Madde 12: Madde 12 - Onbeş yaşını dolduran küçük, kendi isteği ve velisinin rızasıyla mahk..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 12 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

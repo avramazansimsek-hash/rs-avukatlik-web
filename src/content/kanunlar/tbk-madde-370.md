@@ -2,7 +2,7 @@
 slug: "tbk-madde-370"
 title: "TBK Madde 370: MADDE 370- Kiracının iflası hâlinde sözleşme, iflasın açıldığı anda, kendiliğind..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 370 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

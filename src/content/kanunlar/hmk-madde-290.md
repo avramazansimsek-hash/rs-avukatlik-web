@@ -2,7 +2,7 @@
 slug: "hmk-madde-290"
 title: "HMK Madde 290: MADDE 290- (1) Keşfin yeri, kapsamı ve zamanı mahkeme tarafından tespit edilir...."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 290 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

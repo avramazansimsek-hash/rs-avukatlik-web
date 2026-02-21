@@ -1,8 +1,8 @@
 ---
 slug: "iik-madde-10"
-title: "IIK Madde 10: Madde 10..."
+title: "IIK Madde 10: Madde 10 – (Değişik: 18/2/1965-538/6 md.)..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 10 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 
@@ -11,16 +11,31 @@ excerpt: "İcra ve İflas Kanunu Madde 10 tam metni, gerekçesi ve Av. Ramazan �
 ## Kanun Metni
 
 ```text
-Madde 10
+Madde 10 – (Değişik: 18/2/1965-538/6 md.)
 
-	
+İcra ve iflas işlerine bakan memur ve müstahdemler
 
-5/7/2012
+1. Kendisinin,
 
+2. Karı veya kocasının, nişanlısının yahut kan ve sıhri usul ve füruunun veya üçüncü derece dahil olmak üzere bu dereceye kadar olan kan ve sıhri civar hısımlarının,
 
+3. Kanuni mümessili veya vekili yahut müstahdemi bulunduğu bir şahsın,
 
+Menfaati olan işleri göremeyip derhal icra mahkemesine haber vermeye mecburdur. İcra mahkemesi müracaatı yerinde görürse o işi diğer bir memura, bulunmıyan yerlerde katiplerinden birine verir.
 
-8/a, 9, 12,58, 60, 88, 89/7, 106, 112, 114, 115, 116,118, 124, 126, 127, 129, 150/e, 168, 171, 243, Geçici Madde 9, Geçici
+ 
+
+İcra mahkemesi hâkiminin reddi[9]
+
+Madde 10/a – (Ek: 18/2/1965-538/7 md.; Değişik: 2/3/2005-5311/1 md.)
+
+İcra mahkemesi hâkimi reddedildiği takdirde Hukuk Usulü Muhakemeleri Kanunundaki hükümler uygulanır. Ret talebinde bulunan, dilekçesinde ret sebeplerini delilleri ile birlikte bildirmek zorundadır.
+
+Ret talebinin reddi hakkındaki karara karşı istinaf yoluna başvurulması, hâkimin işe bakıp karar vermesine engel değildir. Ret talebinin reddi hakkındaki kararın kaldırılması hâlinde reddedilen hâkimin verdiği karar yerine getirilmez. Bu durumda dosya, bölge adliye mahkemesince icra mahkemesinin başka bir dairesine, o yerde icra mahkemesinin başka bir dairesi yoksa en yakın icra mahkemesine gönderilir. 40 ıncı madde hükümleri kıyas yoluyla uygulanır.
+
+ 
+
+Memnu işler:
 ```
 
 

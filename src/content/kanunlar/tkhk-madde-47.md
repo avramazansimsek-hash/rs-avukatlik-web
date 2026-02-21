@@ -2,7 +2,7 @@
 slug: "tkhk-madde-47"
 title: "TKHK Madde 47: MADDE 47- (1) Satıcı veya sağlayıcı ile tüketici arasında;..."
 category: "Tüketicinin Korunması Hakkında Kanun"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Tüketicinin Korunması Hakkında Kanun Madde 47 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

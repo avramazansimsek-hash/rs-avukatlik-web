@@ -2,7 +2,7 @@
 slug: "tck-madde-164"
 title: "TCK Madde 164: Madde 164- (1) Bir şirket veya kooperatifin kurucu, ortak, idareci, müdür veya t..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 164 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

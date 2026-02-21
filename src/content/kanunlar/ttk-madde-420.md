@@ -2,7 +2,7 @@
 slug: "ttk-madde-420"
 title: "TTK Madde 420: MADDE 420- (1) Finansal tabloların müzakeresi ve buna bağlı konular, sermayenin..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 420 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

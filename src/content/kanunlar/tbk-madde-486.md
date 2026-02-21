@@ -2,7 +2,7 @@
 slug: "tbk-madde-486"
 title: "TBK Madde 486: MADDE 486- Yüklenicinin kişisel özellikleri göz önünde tutularak yapılmış olan s..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 486 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

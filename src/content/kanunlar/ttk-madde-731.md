@@ -2,7 +2,7 @@
 slug: "ttk-madde-731"
 title: "TTK Madde 731: MADDE 731- (1) Kanunen belirli olan süreler içinde poliçenin ibrazı veya protest..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 731 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

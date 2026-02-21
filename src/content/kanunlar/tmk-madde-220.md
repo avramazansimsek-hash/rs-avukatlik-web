@@ -2,7 +2,7 @@
 slug: "tmk-madde-220"
 title: "TMK Madde 220: Madde 220- Aşağıda sayılanlar, kanun gereğince kişisel maldır:..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 220 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

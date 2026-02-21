@@ -2,7 +2,7 @@
 slug: "tkhk-madde-76"
 title: "TKHK Madde 76: MADDE 76- (1) Tüketici ürünü; hizmet sektöründe kullanılanlar dâhil olmak üzere..."
 category: "Tüketicinin Korunması Hakkında Kanun"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Tüketicinin Korunması Hakkında Kanun Madde 76 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

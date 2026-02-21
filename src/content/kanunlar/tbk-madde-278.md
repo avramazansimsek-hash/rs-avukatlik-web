@@ -2,7 +2,7 @@
 slug: "tbk-madde-278"
 title: "TBK Madde 278: MADDE 278- Artırma koşullarında aksi kararlaştırılmamışsa, ihale bedelinin peşin..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 278 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

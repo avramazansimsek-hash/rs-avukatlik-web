@@ -2,7 +2,7 @@
 slug: "is_kanunu-madde-64"
 title: "IS_KANUNU Madde 64: Madde 64 - Zorunlu nedenlerle işin durması, ulusal bayram ve genel tatillerden ö..."
 category: "İş Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İş Kanunu Madde 64 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

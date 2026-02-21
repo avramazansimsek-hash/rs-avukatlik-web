@@ -2,7 +2,7 @@
 slug: "ttk-madde-1111"
 title: "TTK Madde 1111: MADDE 1111- (1) Kaptan, donatanın muvafakati olmaksızın kendi hesabına gemiye eş..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1111 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

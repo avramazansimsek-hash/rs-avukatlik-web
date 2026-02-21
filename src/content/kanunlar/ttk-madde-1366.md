@@ -2,7 +2,7 @@
 slug: "ttk-madde-1366"
 title: "TTK Madde 1366: MADDE 1366- (1) İhtiyati haczine karar verilen bütün gemiler, bayrağı ve hangi s..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1366 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

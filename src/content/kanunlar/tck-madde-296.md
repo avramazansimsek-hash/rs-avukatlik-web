@@ -2,7 +2,7 @@
 slug: "tck-madde-296"
 title: "TCK Madde 296: Madde 296- (1) Hükümlü veya tutukluların toplu olarak ayaklanması halinde, her b..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 296 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

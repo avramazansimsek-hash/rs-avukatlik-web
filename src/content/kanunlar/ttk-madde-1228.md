@@ -2,7 +2,7 @@
 slug: "ttk-madde-1228"
 title: "TTK Madde 1228: MADDE 1228- (1) Konişmento, bir taşıma sözleşmesinin yapıldığını ispatlayan, eşy..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1228 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

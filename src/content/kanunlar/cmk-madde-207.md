@@ -2,7 +2,7 @@
 slug: "cmk-madde-207"
 title: "CMK Madde 207: Madde 207 – (1) Delilin ortaya konulması istemi, bunun veya ispat edilmek istene..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 207 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

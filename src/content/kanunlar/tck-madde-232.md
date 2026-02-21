@@ -2,7 +2,7 @@
 slug: "tck-madde-232"
 title: "TCK Madde 232: Madde 232- (1) Aynı konutta birlikte yaşadığı kişilerden birine karşı kötü muame..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 232 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

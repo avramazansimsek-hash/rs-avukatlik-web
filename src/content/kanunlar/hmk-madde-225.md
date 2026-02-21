@@ -2,7 +2,7 @@
 slug: "hmk-madde-225"
 title: "HMK Madde 225: MADDE 225- (1) Yeminin konusu, davanın çözümü bakımından önem taşıyan, çekişmeli..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 225 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

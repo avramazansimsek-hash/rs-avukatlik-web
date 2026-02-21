@@ -2,7 +2,7 @@
 slug: "tbk-madde-134"
 title: "TBK Madde 134: MADDE 134- Çeşitli kalemlerin bir cari hesaba sadece kaydedilmiş olması, borcun..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 134 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

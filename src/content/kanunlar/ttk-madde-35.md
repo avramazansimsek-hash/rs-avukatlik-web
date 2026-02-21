@@ -2,7 +2,7 @@
 slug: "ttk-madde-35"
 title: "TTK Madde 35: MADDE 35- (1) Tescil işleminin dayanakları olan dilekçe, beyanname, senetler, be..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 35 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

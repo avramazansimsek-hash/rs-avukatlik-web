@@ -2,7 +2,7 @@
 slug: "ttk-madde-879"
 title: "TTK Madde 879: MADDE 879- (1) Taşıyıcı;..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 879 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

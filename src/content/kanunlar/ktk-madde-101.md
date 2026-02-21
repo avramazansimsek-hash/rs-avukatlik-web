@@ -2,7 +2,7 @@
 slug: "ktk-madde-101"
 title: "KTK Madde 101: Madde 101 – Bu Kanunda öngörülen zorunlu mali sorumluluk sigortası Türkiye’de ka..."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 101 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

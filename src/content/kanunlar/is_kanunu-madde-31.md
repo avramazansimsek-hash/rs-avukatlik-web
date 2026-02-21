@@ -2,7 +2,7 @@
 slug: "is_kanunu-madde-31"
 title: "IS_KANUNU Madde 31: Madde 31 - Muvazzaf askerlik ödevi dışında manevra veya herhangi bir sebeple sil..."
 category: "İş Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İş Kanunu Madde 31 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

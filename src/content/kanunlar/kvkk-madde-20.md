@@ -2,7 +2,7 @@
 slug: "kvkk-madde-20"
 title: "KVKK Madde 20: MADDE 20- (1) Kurumun görevleri şunlardır:..."
 category: "Kişisel Verilerin Korunması Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Kişisel Verilerin Korunması Kanunu Madde 20 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

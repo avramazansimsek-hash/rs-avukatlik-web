@@ -2,7 +2,7 @@
 slug: "is_kanunu-madde-80"
 title: "IS_KANUNU Madde 80: Madde 80 - (Mülga: 20/6/2012-6331/37 md.)..."
 category: "İş Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İş Kanunu Madde 80 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tbk-madde-54"
 title: "TBK Madde 54: MADDE 54- Bedensel zararlar özellikle şunlardır:..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 54 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

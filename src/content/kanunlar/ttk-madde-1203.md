@@ -2,7 +2,7 @@
 slug: "ttk-madde-1203"
 title: "TTK Madde 1203: MADDE 1203- (1) Eşya, taşıtandan başka bir kişiye teslim edilecekse, bu kişi, na..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1203 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

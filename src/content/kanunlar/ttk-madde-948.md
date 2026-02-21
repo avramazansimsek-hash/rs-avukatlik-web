@@ -2,7 +2,7 @@
 slug: "ttk-madde-948"
 title: "TTK Madde 948: MADDE 948- (1) 945 inci maddede yazılı gemiler hariç, gemi tasdiknamesini veya o..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 948 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

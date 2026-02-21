@@ -2,7 +2,7 @@
 slug: "iyuk-madde-59"
 title: "IYUK Madde 59: Madde 59 – 1. Danıştay meslek mensupları ile Danıştayda görevli idari yargı haki..."
 category: "İdari Yargılama Usulü Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İdari Yargılama Usulü Kanunu Madde 59 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

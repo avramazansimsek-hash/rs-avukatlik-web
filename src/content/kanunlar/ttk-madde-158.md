@@ -2,7 +2,7 @@
 slug: "ttk-madde-158"
 title: "TTK Madde 158: MADDE 158- (1) Devrolunan şirketin borçlarından birleşmeden önce sorumlu olan or..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 158 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

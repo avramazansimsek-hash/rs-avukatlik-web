@@ -2,7 +2,7 @@
 slug: "is_kanunu-madde-73"
 title: "IS_KANUNU Madde 73: Madde 73 - Sanayie ait işlerde onsekiz yaşını doldurmamış çocuk ve genç işçileri..."
 category: "İş Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İş Kanunu Madde 73 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

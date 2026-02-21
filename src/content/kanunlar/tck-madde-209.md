@@ -2,7 +2,7 @@
 slug: "tck-madde-209"
 title: "TCK Madde 209: Madde 209- (1) Belirli bir tarzda doldurulup kullanılmak üzere kendisine teslim..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 209 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

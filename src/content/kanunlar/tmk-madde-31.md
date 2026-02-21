@@ -2,7 +2,7 @@
 slug: "tmk-madde-31"
 title: "TMK Madde 31: Madde 31- Bir kimse, ölümüne kesin gözle bakılmayı gerektiren durumlar içinde ka..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 31 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -1,8 +1,8 @@
 ---
 slug: "ttk-madde-6"
-title: "TTK Madde 6: Madde 6..."
+title: "TTK Madde 6: MADDE 6- (1) Ticari hükümler koyan kanunlarda öngörülen zamanaşımı süreleri, Kan..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 6 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 
@@ -11,68 +11,11 @@ excerpt: "Türk Ticaret Kanunu Madde 6 tam metni, gerekçesi ve Av. Ramazan Şim
 ## Kanun Metni
 
 ```text
-Madde 6
+MADDE 6- (1) Ticari hükümler koyan kanunlarda öngörülen zamanaşımı süreleri, Kanunda aksine düzenleme yoksa, sözleşme ile değiştirilemez.
 
-	
+ 
 
-12/7/2012
-
-
-
-
-6455
-
-	
-
-64
-
-	
-
-1/1/2013 tarihinden geçerli olmak üzere 11/4/2013
-
-
-
-
-359, 397, 400, 635
-
-	
-
-11/4/2013
-
-
-
-
-6462
-
-	
-
-1507
-
-	
-
-3/5/2013
-
-
-
-
-6495
-
-	
-
-621
-
-	
-
-2/8/2013
-
-
-
-
-6552
-
-	
-
-371,629, Geçici Madde 7, Geçici
+II - Teselsül karinesi
 ```
 
 

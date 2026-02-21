@@ -2,7 +2,7 @@
 slug: "ttk-madde-1171"
 title: "TTK Madde 1171: MADDE 1171- (1) Sürastarya süresi için taşıyana “sürastarya parası” ödenir...."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1171 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

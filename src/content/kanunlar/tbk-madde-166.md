@@ -2,7 +2,7 @@
 slug: "tbk-madde-166"
 title: "TBK Madde 166: MADDE 166- Borçlulardan biri, ifa veya takasla borcun tamamını veya bir kısmını..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 166 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

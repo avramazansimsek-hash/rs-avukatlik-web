@@ -2,7 +2,7 @@
 slug: "is_kanunu-madde-110"
 title: "IS_KANUNU Madde 110: Madde 110 - Konut kapıcılarının hizmetlerinin kapsam ve niteliği ile çalışma sür..."
 category: "İş Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İş Kanunu Madde 110 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-175"
 title: "AVUKATLIK Madde 175: Madde 175 – İş sahibinin verdiği vekâletnamede yazılı adrese avukat tarafından y..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 175 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

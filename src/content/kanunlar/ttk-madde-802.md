@@ -2,7 +2,7 @@
 slug: "ttk-madde-802"
 title: "TTK Madde 802: MADDE 802- (1) Çekin ödeme yerinde rayici olmayan bir para ile ödenmesi şart koş..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 802 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

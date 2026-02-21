@@ -2,7 +2,7 @@
 slug: "tmk-madde-236"
 title: "TMK Madde 236: Madde 236- Her eş veya mirasçıları, diğer eşe ait artık değerin yarısı üzerinde..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 236 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

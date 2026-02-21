@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-166"
 title: "AVUKATLIK Madde 166: Madde 166 – Avukat, müvekkili tarafından verilen veya onun namına aldığı malları..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 166 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

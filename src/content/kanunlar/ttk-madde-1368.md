@@ -2,7 +2,7 @@
 slug: "ttk-madde-1368"
 title: "TTK Madde 1368: MADDE 1368- (1) Bir geminin ihtiyati haczi, borçlunun o geminin işletilmesinden..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1368 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

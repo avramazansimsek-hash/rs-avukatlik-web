@@ -2,7 +2,7 @@
 slug: "tbk-madde-316"
 title: "TBK Madde 316: MADDE 316- Kiracı, kiralananı, sözleşmeye uygun olarak özenle kullanmak ve kiral..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 316 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

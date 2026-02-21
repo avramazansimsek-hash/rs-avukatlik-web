@@ -2,7 +2,7 @@
 slug: "hmk-madde-27"
 title: "HMK Madde 27: MADDE 27- (1) Davanın tarafları, müdahiller ve yargılamanın diğer ilgilileri, ke..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 27 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

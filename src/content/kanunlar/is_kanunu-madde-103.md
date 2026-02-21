@@ -2,7 +2,7 @@
 slug: "is_kanunu-madde-103"
 title: "IS_KANUNU Madde 103: Madde 103 - Yıllık ücretli izni bu Kanunun 56 ncı maddesine aykırı olarak bölen..."
 category: "İş Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İş Kanunu Madde 103 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-393"
 title: "TTK Madde 393: MADDE 393- (1) Yönetim kurulu üyesi, kendisinin şirket dışı kişisel menfaatiyle..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 393 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

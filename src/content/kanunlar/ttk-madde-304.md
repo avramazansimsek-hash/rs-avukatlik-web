@@ -2,7 +2,7 @@
 slug: "ttk-madde-304"
 title: "TTK Madde 304: MADDE 304- (1) Ticari bir işletmeyi bir ticaret unvanı altında işletmek amacıyla..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 304 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

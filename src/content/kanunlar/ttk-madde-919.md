@@ -2,7 +2,7 @@
 slug: "ttk-madde-919"
 title: "TTK Madde 919: MADDE 919- (1) Gönderen, gerektiğinde eşyayı ambalajlamak ve işaretlemekle ve ge..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 919 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

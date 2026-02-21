@@ -2,7 +2,7 @@
 slug: "ttk-madde-790"
 title: "TTK Madde 790: MADDE 790- (1) Cirosu kabil bir çeki elinde bulunduran kişi, son ciro beyaz ciro..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 790 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

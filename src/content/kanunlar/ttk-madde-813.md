@@ -2,7 +2,7 @@
 slug: "ttk-madde-813"
 title: "TTK Madde 813: MADDE 813- (1) Hamiline yazılı çekler hariç olmak üzere; bir ülkede düzenlenip d..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 813 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tbk-madde-570"
 title: "TBK Madde 570: MADDE 570- Saklayanın kendisine bırakılan parayı aynen geri vermek zorunda olmak..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 570 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

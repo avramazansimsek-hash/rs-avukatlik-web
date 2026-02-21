@@ -2,7 +2,7 @@
 slug: "cmk-madde-84"
 title: "CMK Madde 84: Madde 84 – (1) Keşif yapılması sırasında şüpheli, sanık, mağdur ve bunların müda..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 84 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-384"
 title: "TMK Madde 384: Madde 384- Ortaklar, aralarında yapacakları sözleşmeyle, yıllık kazançtan kendil..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 384 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

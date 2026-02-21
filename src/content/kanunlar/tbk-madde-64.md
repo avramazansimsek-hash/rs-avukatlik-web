@@ -2,7 +2,7 @@
 slug: "tbk-madde-64"
 title: "TBK Madde 64: MADDE 64- Haklı savunmada bulunan, saldıranın şahsına veya mallarına verdiği zar..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 64 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tbk-madde-543"
 title: "TBK Madde 543: MADDE 543- Borsada kayıtlı veya piyasa fiyatı bulunan kambiyo senetleri veya diğ..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 543 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

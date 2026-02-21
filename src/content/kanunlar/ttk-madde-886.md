@@ -2,7 +2,7 @@
 slug: "ttk-madde-886"
 title: "TTK Madde 886: MADDE 886- (1) Zarara, kasten veya pervasızca bir davranışla ve böyle bir zararı..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 886 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

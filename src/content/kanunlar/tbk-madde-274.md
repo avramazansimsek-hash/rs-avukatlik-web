@@ -2,7 +2,7 @@
 slug: "tbk-madde-274"
 title: "TBK Madde 274: MADDE 274- Açık artırma yoluyla satış; yeri, zamanı ve koşulları önceden belirle..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 274 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

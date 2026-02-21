@@ -2,7 +2,7 @@
 slug: "ttk-madde-1044"
 title: "TTK Madde 1044: MADDE 1044- (1) Alacağın sona ermesi ile ipotek de düşer. Kanundaki istisnalar s..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1044 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

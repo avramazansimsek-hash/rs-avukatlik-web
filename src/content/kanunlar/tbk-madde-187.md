@@ -2,7 +2,7 @@
 slug: "tbk-madde-187"
 title: "TBK Madde 187: MADDE 187- Kime ait olduğu çekişmeli bulunan bir alacağın borçlusu, ifadan kaçın..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 187 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

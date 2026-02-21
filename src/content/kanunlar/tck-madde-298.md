@@ -2,7 +2,7 @@
 slug: "tck-madde-298"
 title: "TCK Madde 298: Madde 298- (1) Ceza infaz kurumları ve tutukevlerinde bulunan hükümlü ve tutuklu..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 298 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

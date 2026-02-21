@@ -2,7 +2,7 @@
 slug: "iik-madde-218"
 title: "IIK Madde 218: Madde 218 – İflas dairesince defteri tutulan mallar bedelinin tasfiye masrafları..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 218 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

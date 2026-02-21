@@ -2,7 +2,7 @@
 slug: "tmk-madde-160"
 title: "TMK Madde 160: Madde 160- Evlenmenin butlanı davasında, yetki ve yargılama usulü bakımından boş..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 160 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

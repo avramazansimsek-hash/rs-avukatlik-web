@@ -2,7 +2,7 @@
 slug: "tck-madde-191"
 title: "TCK Madde 191: Madde 191- (Değişik: 18/6/2014 – 6545/68 md.)..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 191 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

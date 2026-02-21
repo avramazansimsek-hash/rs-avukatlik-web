@@ -2,7 +2,7 @@
 slug: "tck-madde-323"
 title: "TCK Madde 323: Madde 323- (1) Savaş sırasında kamunun endişe ve heyecan duymasına neden olacak..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 323 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

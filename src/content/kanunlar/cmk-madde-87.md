@@ -2,7 +2,7 @@
 slug: "cmk-madde-87"
 title: "CMK Madde 87: Madde 87 – (1) Otopsi, Cumhuriyet savcısının huzurunda biri adlî tıp, diğeri pat..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 87 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

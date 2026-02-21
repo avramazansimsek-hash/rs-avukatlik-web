@@ -2,7 +2,7 @@
 slug: "ttk-madde-1023"
 title: "TTK Madde 1023: MADDE 1023- (1) Sigortacı, geminin önceki durumuna getirilmesi veya gemi alacakl..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1023 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

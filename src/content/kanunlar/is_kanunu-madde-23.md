@@ -2,7 +2,7 @@
 slug: "is_kanunu-madde-23"
 title: "IS_KANUNU Madde 23: Madde 23 - Süresi belirli olan veya olmayan sürekli iş sözleşmesi ile bir işvere..."
 category: "İş Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İş Kanunu Madde 23 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-372"
 title: "TTK Madde 372: MADDE 372- (1) Şirket adına imza yetkisini haiz kişiler şirketin unvanı altında..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 372 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

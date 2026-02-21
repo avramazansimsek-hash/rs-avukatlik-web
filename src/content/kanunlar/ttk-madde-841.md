@@ -2,7 +2,7 @@
 slug: "ttk-madde-841"
 title: "TTK Madde 841: MADDE 841- (1) Varant ile makbuz senedinin zıyaından, mirastan veya iflastan kay..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 841 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

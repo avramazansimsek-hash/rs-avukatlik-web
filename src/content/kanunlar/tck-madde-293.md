@@ -2,7 +2,7 @@
 slug: "tck-madde-293"
 title: "TCK Madde 293: Madde 293- (1) (...)[112] tutuklu veya hükümlünün, kaçtıktan sonra etkin pişmanl..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 293 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

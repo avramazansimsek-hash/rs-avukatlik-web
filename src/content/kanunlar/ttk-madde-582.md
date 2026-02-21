@@ -2,7 +2,7 @@
 slug: "ttk-madde-582"
 title: "TTK Madde 582: MADDE 582- (1) Kurucular tarafından, kurulmakta bulunan şirketle ilgili olarak,..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 582 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

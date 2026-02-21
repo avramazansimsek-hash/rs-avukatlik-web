@@ -2,7 +2,7 @@
 slug: "tmk-madde-138"
 title: "TMK Madde 138: Madde 138- Evleneceklerden her biri evlendirme memurunun ret kararına karşı mahk..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 138 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

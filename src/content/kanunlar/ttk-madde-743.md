@@ -2,7 +2,7 @@
 slug: "ttk-madde-743"
 title: "TTK Madde 743: MADDE 743- (1) Poliçe birbirinin aynı olmak üzere birden fazla nüsha olarak düze..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 743 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

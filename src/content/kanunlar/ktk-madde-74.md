@@ -2,7 +2,7 @@
 slug: "ktk-madde-74"
 title: "KTK Madde 74: Madde 74 – (Başlığı ile Birlikte Değişik: 18/10/2018-7148/25 md.)..."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 74 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

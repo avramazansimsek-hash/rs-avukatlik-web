@@ -2,7 +2,7 @@
 slug: "iik-madde-285"
 title: "IIK Madde 285: Madde 285 – (Değişik: 28/2/2018-7101/13 md.)..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 285 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

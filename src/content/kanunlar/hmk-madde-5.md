@@ -2,7 +2,7 @@
 slug: "hmk-madde-5"
 title: "HMK Madde 5: MADDE 5- (1) Mahkemelerin yetkisi, diğer kanunlarda yer alan yetkiye ilişkin hük..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 5 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

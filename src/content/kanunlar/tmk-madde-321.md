@@ -2,7 +2,7 @@
 slug: "tmk-madde-321"
 title: "TMK Madde 321: Madde 321- Çocuk, ana ve baba evli ise ailenin; (…)[23] soyadını taşır. Ancak, a..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 321 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

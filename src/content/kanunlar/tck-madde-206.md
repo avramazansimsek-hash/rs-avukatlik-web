@@ -2,7 +2,7 @@
 slug: "tck-madde-206"
 title: "TCK Madde 206: Madde 206- (1) Bir resmi belgeyi düzenlemek yetkisine sahip olan kamu görevlisin..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 206 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

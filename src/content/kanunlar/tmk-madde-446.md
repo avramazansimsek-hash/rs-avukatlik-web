@@ -2,7 +2,7 @@
 slug: "tmk-madde-446"
 title: "TMK Madde 446: Madde 446- Küçüklerin koruma amacıyla bir kuruma yerleştirilmesine vasinin başvu..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 446 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

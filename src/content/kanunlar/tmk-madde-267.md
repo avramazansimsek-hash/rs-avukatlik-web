@@ -2,7 +2,7 @@
 slug: "tmk-madde-267"
 title: "TMK Madde 267: Madde 267- Eşlerden her biri, yasal sınırlar içerisinde kendi kişisel mallarını..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 267 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

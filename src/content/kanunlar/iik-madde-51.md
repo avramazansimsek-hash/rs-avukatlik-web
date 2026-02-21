@@ -2,7 +2,7 @@
 slug: "iik-madde-51"
 title: "IIK Madde 51: Madde 51 – (Değişik: 18/2/1965-538/24 md.)..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 51 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

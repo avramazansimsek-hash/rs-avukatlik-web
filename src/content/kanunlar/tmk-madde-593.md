@@ -2,7 +2,7 @@
 slug: "tmk-madde-593"
 title: "TMK Madde 593: Madde 593- Terekeyi resmen yöneten sulh hâkimi veya onun yönetimle görevlendirdi..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 593 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

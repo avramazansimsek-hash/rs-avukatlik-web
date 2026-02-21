@@ -2,7 +2,7 @@
 slug: "hmk-madde-179"
 title: "HMK Madde 179: MADDE 179- (1) Islah, bunu yapan tarafın teşmil edeceği noktadan itibaren, bütün..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 179 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

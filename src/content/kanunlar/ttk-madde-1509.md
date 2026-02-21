@@ -2,7 +2,7 @@
 slug: "ttk-madde-1509"
 title: "TTK Madde 1509: MADDE 1509- (1) Kazaya karşı sigorta, sigorta ettirenin veya başkasının uğrayabi..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1509 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

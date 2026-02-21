@@ -2,7 +2,7 @@
 slug: "hmk-madde-307"
 title: "HMK Madde 307: MADDE 307- (1) Feragat, davacının, talep sonucundan kısmen veya tamamen vazgeçme..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 307 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

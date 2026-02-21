@@ -2,7 +2,7 @@
 slug: "tbk-madde-61"
 title: "TBK Madde 61: MADDE 61- Birden çok kişi birlikte bir zarara sebebiyet verdikleri veya aynı zar..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 61 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

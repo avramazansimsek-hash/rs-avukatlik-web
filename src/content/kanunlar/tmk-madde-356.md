@@ -2,7 +2,7 @@
 slug: "tmk-madde-356"
 title: "TMK Madde 356: Madde 356- Olağan ihtiyaçlar gerektirdiği ölçüde sermaye biçiminde ödemeler, taz..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 356 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-846"
 title: "TMK Madde 846: Madde 846- Gerçek değerinin daha düşük olduğunu ispat etme hakkı saklı kalmak ka..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 846 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

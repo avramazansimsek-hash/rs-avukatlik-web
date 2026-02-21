@@ -1,8 +1,8 @@
 ---
 slug: "iyuk-madde-2"
-title: "IYUK Madde 2: Madde 2 – (İptal: Ana. Mah.nin 21/9/1995 gün ve E.1995/46, K.1995/49 sayılı Kara..."
+title: "IYUK Madde 2: Madde 2 – 1. (Değişik: 10/6/1994-4001/1 md.) İdari dava türleri şunlardır:..."
 category: "İdari Yargılama Usulü Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İdari Yargılama Usulü Kanunu Madde 2 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 
@@ -11,43 +11,21 @@ excerpt: "İdari Yargılama Usulü Kanunu Madde 2 tam metni, gerekçesi ve Av. R
 ## Kanun Metni
 
 ```text
-Madde 2 – (İptal: Ana. Mah.nin 21/9/1995 gün ve E.1995/46, K.1995/49 sayılı Kararı ile.)
+Madde 2 – 1. (Değişik: 10/6/1994-4001/1 md.) İdari dava türleri şunlardır:
 
+a) (İptal: Anayasa Mahkemesinin 21/9/1995 tarihli ve E:1995/27, K:1995/47 sayılı kararı ile; Yeniden Düzenleme: 8/6/2000-4577/5 md.) İdarî işlemler hakkında yetki, şekil, sebep, konu ve maksat yönlerinden biri ile hukuka aykırı olduklarından dolayı iptalleri için menfaatleri ihlâl edilenler tarafından açılan iptal davaları,
 
+b) İdari eylem ve işlemlerden dolayı kişisel hakları doğrudan muhtel olanlar tarafından açılan tam yargı davaları,
 
+c) (Değişik: 18/12/1999-4492/6 md.) Tahkim yolu öngörülen imtiyaz şartlaşma ve sözleşmelerinden doğan uyuşmazlıklar hariç, kamu hizmetlerinden birinin yürütülmesi için yapılan her türlü idari sözleşmelerden dolayı taraflar arasında çıkan uyuşmazlıklara ilişkin davalar.
 
-2577 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN MEVZUATIN VEYA
+2. İdari yargı yetkisi, idari eylem ve işlemlerin hukuka uygunluğunun denetimi ile sınırlıdır. İdari mahkemeler; yerindelik denetimi yapamazlar, yürütme görevinin kanunlarda ve Cumhurbaşkanlığı Kararnamelerinde gösterilen şekil ve esaslara uygun olarak yerine getirilmesini kısıtlayacak, idari eylem ve işlem niteliğinde veya idarenin takdir yetkisini kaldıracak biçimde yargı kararı veremezler.[3]
 
-ANAYASA MAHKEMESİ KARARLARININ YÜRÜRLÜĞE GİRİŞ
-
-TARİHLERİNİ GÖSTERİR TABLO
+3. (Mülga: 2/7/2018 - KHK-703/185 md.)
 
  
 
-Değiştiren Kanunun/
-
-KHK’nin veya İptal Eden
-
-Anayasa Mahkemesi
-
-Kararının Numarası
-
-	
-
-2577 Sayılı Kanunun Değişen veya İptal Edilen Maddeleri
-
-	
-
-Yürürlüğe Giriş Tarihi
-
-
-
-
-3622
-
-	
-
-9, 14, 15, 17, 20, 26, 31, 33, 35, 39, 43, 48, 51, 52, 53, 60, 61, Ek Madde 1, Ek Madde 2, Ek
+İdari davaların açılması:
 ```
 
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-696"
 title: "TMK Madde 696: Madde 696- Kendi tutum ve davranışlarıyla veya malın kullanılmasını bıraktığı ya..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 696 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

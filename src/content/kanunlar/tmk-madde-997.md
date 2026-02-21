@@ -2,7 +2,7 @@
 slug: "tmk-madde-997"
 title: "TMK Madde 997: Madde 997- Taşınmazlar üzerindeki hakları göstermek üzere tapu sicili tutulur...."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 997 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

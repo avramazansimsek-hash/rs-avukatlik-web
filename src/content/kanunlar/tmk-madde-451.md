@@ -2,7 +2,7 @@
 slug: "tmk-madde-451"
 title: "TMK Madde 451: Madde 451- Ayırt etme gücüne sahip olan vesayet altındaki kişi, vasinin açık vey..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 451 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

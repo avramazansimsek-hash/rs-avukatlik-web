@@ -2,7 +2,7 @@
 slug: "iik-madde-314"
 title: "IIK Madde 314: Madde 314 – Adi müflis masaya kabul edilmiş bütün alacaklıların alacaklarını itf..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 314 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "iyuk-madde-44"
 title: "IYUK Madde 44: Madde 44 – 1. Yetkili mahkemenin bir davaya bakmasına fiili veya hukuki bir enge..."
 category: "İdari Yargılama Usulü Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İdari Yargılama Usulü Kanunu Madde 44 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-711"
 title: "TMK Madde 711: Madde 711- Sınır, arazi kayması sebebiyle gerçeği yansıtmıyorsa; ilgili taşınmaz..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 711 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

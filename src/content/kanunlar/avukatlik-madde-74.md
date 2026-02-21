@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-74"
 title: "AVUKATLIK Madde 74: Madde 74 – Cezai veya disipline ilişkin bir karar sonunda meslekten çıkarılanlar..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 74 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

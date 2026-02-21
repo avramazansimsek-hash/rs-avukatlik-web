@@ -2,7 +2,7 @@
 slug: "tmk-madde-650"
 title: "TMK Madde 650: Madde 650- Mirasçılar, tereke mallarından mirasçı veya ortak kök sayısınca pay o..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 650 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

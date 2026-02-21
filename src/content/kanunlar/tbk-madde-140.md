@@ -2,7 +2,7 @@
 slug: "tbk-madde-140"
 title: "TBK Madde 140: MADDE 140- Asıl borçlunun takası ileri sürme hakkı bulundukça, kefili de alacakl..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 140 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

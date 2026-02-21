@@ -2,7 +2,7 @@
 slug: "tmk-madde-318"
 title: "TMK Madde 318: Madde 318- Evlât edinme esasa ilişkin diğer noksanlıklardan biriyle sakatsa, Cum..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 318 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

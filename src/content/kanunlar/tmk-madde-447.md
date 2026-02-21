@@ -2,7 +2,7 @@
 slug: "tmk-madde-447"
 title: "TMK Madde 447: Madde 447- Vasi, kısıtlıyı korumak ve bütün kişisel işlerinde ona yardım etmekle..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 447 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

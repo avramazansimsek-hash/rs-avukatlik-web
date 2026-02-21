@@ -2,7 +2,7 @@
 slug: "is_kanunu-madde-47"
 title: "IS_KANUNU Madde 47: Madde 47 - Bu Kanun kapsamına giren işyerlerinde çalışan işçilere, kanunlarda ul..."
 category: "İş Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İş Kanunu Madde 47 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

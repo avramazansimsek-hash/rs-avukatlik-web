@@ -2,7 +2,7 @@
 slug: "tbk-madde-340"
 title: "TBK Madde 340: MADDE 340- Konut ve çatılı işyeri kiralarında sözleşmenin kurulması ya da sürdür..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 340 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

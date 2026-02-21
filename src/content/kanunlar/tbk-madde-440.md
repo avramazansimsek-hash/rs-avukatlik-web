@@ -2,7 +2,7 @@
 slug: "tbk-madde-440"
 title: "TBK Madde 440: MADDE 440- Sözleşme, işçinin ölümüyle kendiliğinden sona erer. İşveren, işçinin..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 440 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

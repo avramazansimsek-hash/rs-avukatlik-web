@@ -2,7 +2,7 @@
 slug: "ttk-madde-258"
 title: "TTK Madde 258: MADDE 258- (1) İki kişiden oluşan bir şirkette, ortaklardan birinin kişisel alac..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 258 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

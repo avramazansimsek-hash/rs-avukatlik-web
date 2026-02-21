@@ -2,7 +2,7 @@
 slug: "tbk-madde-562"
 title: "TBK Madde 562: MADDE 562- Saklatan, sözleşmenin ifasının zorunlu kıldığı bütün masrafları ödeme..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 562 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

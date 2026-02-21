@@ -2,7 +2,7 @@
 slug: "tck-madde-70"
 title: "TCK Madde 70: Madde 70- (1) Müsadereye ilişkin hüküm, kesinleşmeden itibaren yirmi yıl geçtikt..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 70 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

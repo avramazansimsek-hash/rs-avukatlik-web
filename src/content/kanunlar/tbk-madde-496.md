@@ -2,7 +2,7 @@
 slug: "tbk-madde-496"
 title: "TBK Madde 496: MADDE 496- Sözleşmede aksi kararlaştırılmış olmadıkça yayımlatan, bedel ödenmesi..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 496 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

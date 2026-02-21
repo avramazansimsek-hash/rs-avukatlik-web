@@ -2,7 +2,7 @@
 slug: "cmk-madde-260"
 title: "CMK Madde 260: Madde 260 – (1) Hâkim ve mahkeme kararlarına karşı Cumhuriyet savcısı, şüpheli,..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 260 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

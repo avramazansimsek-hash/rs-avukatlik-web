@@ -2,7 +2,7 @@
 slug: "tbk-madde-627"
 title: "TBK Madde 627: MADDE 627- Ortaklardan birinin ortaklık işleri için yaptığı giderlerden veya üst..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 627 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

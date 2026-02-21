@@ -2,7 +2,7 @@
 slug: "tmk-madde-941"
 title: "TMK Madde 941: Madde 941- Rehnedilen taşınırın maliki, onun üzerinde bir art rehin kurabilir. B..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 941 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "iyuk-madde-64"
 title: "IYUK Madde 64: Madde 64 – Bu Kanun yayımı tarihinde yürürlüğe girer...."
 category: "İdari Yargılama Usulü Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İdari Yargılama Usulü Kanunu Madde 64 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

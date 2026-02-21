@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-167"
 title: "AVUKATLIK Madde 167: Madde 167 – (Değişik : 2/5/2001 - 4667/80 md. ; İptal: Anayasa Mahkemesi’nin 3/3..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 167 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

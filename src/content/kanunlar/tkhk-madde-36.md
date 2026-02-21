@@ -2,7 +2,7 @@
 slug: "tkhk-madde-36"
 title: "TKHK Madde 36: MADDE 36- (1) Kredilerde geri ödeme tutarlarının, finansal kiralama işlemlerinde..."
 category: "Tüketicinin Korunması Hakkında Kanun"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Tüketicinin Korunması Hakkında Kanun Madde 36 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

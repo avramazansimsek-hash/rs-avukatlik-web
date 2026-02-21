@@ -2,7 +2,7 @@
 slug: "ttk-madde-176"
 title: "TTK Madde 176: MADDE 176- (1) Bölünme sözleşmesi veya bölünme planıyla kendisine borç tahsis ed..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 176 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "iyuk-madde-57"
 title: "IYUK Madde 57: Madde 57 – 1. Tek hakimle görülen davalarda hakimin reddi istemi, reddedilen hak..."
 category: "İdari Yargılama Usulü Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İdari Yargılama Usulü Kanunu Madde 57 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tbk-madde-49"
 title: "TBK Madde 49: MADDE 49- Kusurlu ve hukuka aykırı bir fiille başkasına zarar veren, bu zararı g..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 49 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

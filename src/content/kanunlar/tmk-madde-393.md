@@ -2,7 +2,7 @@
 slug: "tmk-madde-393"
 title: "TMK Madde 393: Madde 393- Malik borçlarını ödemede acze düşerse, aile yurdunu yönetmek üzere ma..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 393 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

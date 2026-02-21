@@ -2,7 +2,7 @@
 slug: "ktk-madde-102"
 title: "KTK Madde 102: Madde 102 – Bir römorkun veya yarı römorkun veya çekilen bir aracın sebep olduğu..."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 102 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

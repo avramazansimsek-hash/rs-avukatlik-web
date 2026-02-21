@@ -2,7 +2,7 @@
 slug: "tmk-madde-905"
 title: "TMK Madde 905: Madde 905- Değer biçilmesinde gereken özenin gösterilmemesinden Devlet sorumludu..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 905 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

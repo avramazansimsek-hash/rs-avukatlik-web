@@ -2,7 +2,7 @@
 slug: "iik-madde-180"
 title: "IIK Madde 180: Madde 180 – Reddolunan mirasların tasfiyesi sekizinci bap hükümlerine göre ait o..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 180 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

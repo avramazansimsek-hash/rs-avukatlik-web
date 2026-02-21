@@ -2,7 +2,7 @@
 slug: "iik-madde-200"
 title: "IIK Madde 200: Madde 200 – Alacaklı alacağını müflisin kendinde olan alacağı ile takas edebilir..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 200 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

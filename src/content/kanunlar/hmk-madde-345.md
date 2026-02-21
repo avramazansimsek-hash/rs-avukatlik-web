@@ -2,7 +2,7 @@
 slug: "hmk-madde-345"
 title: "HMK Madde 345: MADDE 345- (1) İstinaf yoluna başvuru süresi iki haftadır. Bu süre, ilamın usule..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 345 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

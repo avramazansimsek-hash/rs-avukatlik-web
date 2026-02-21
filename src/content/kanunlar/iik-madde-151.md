@@ -2,7 +2,7 @@
 slug: "iik-madde-151"
 title: "IIK Madde 151: Madde 151 – Rehin bedelinden masrafların çıkarılmasında ve artanın alacaklılar a..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 151 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

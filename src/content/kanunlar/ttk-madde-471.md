@@ -2,7 +2,7 @@
 slug: "ttk-madde-471"
 title: "TTK Madde 471: MADDE 471- (1) Yönetim kurulu, hesap döneminin kapanmasından itibaren en geç üç..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 471 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

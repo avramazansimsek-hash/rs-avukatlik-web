@@ -2,7 +2,7 @@
 slug: "tkhk-madde-27"
 title: "TKHK Madde 27: MADDE 27- (1) Tüketici, vadesi gelmemiş bir veya birden çok taksit ödemesinde bu..."
 category: "Tüketicinin Korunması Hakkında Kanun"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Tüketicinin Korunması Hakkında Kanun Madde 27 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

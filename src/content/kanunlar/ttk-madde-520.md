@@ -2,7 +2,7 @@
 slug: "ttk-madde-520"
 title: "TTK Madde 520: MADDE 520- (1) Şirket, iktisap ettiği kendi payları için iktisap değerlerini kar..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 520 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

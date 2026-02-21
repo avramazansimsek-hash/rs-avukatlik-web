@@ -2,7 +2,7 @@
 slug: "tck-madde-203"
 title: "TCK Madde 203: Madde 203- (1) Kanun veya yetkili makamların emri uyarınca bir şeyin saklanmasın..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 203 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

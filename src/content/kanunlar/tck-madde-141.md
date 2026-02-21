@@ -2,7 +2,7 @@
 slug: "tck-madde-141"
 title: "TCK Madde 141: Madde 141- (1) Zilyedinin rızası olmadan başkasına ait taşınır bir malı, kendisi..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 141 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

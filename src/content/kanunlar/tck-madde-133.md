@@ -2,7 +2,7 @@
 slug: "tck-madde-133"
 title: "TCK Madde 133: Madde 133- (1) Kişiler arasındaki aleni olmayan konuşmaları, taraflardan herhang..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 133 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

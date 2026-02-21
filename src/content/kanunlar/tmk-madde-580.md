@@ -2,7 +2,7 @@
 slug: "tmk-madde-580"
 title: "TMK Madde 580: Madde 580- Mirasçı olabilmek için mirasbırakanın ölümü anında mirasa ehil olarak..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 580 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

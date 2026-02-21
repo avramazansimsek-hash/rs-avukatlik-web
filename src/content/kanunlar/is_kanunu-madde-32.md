@@ -2,7 +2,7 @@
 slug: "is_kanunu-madde-32"
 title: "IS_KANUNU Madde 32: Madde 32 - Genel anlamda ücret bir kimseye bir iş karşılığında işveren veya üçün..."
 category: "İş Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İş Kanunu Madde 32 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

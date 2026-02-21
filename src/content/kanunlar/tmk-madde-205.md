@@ -2,7 +2,7 @@
 slug: "tmk-madde-205"
 title: "TMK Madde 205: Madde 205- Mal rejimi sözleşmesi, noterde düzenleme veya onaylama şeklinde yapıl..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 205 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

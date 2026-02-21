@@ -2,7 +2,7 @@
 slug: "ttk-madde-696"
 title: "TTK Madde 696: MADDE 696- (1) Kabul, kayıtsız şartsız olmalıdır; fakat muhatap kabulü poliçe be..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 696 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

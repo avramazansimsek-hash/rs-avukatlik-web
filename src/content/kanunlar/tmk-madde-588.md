@@ -2,7 +2,7 @@
 slug: "tmk-madde-588"
 title: "TMK Madde 588: Madde 588- Sağ olup olmadığı bilinmeyen bir kimsenin malvarlığı veya ona düşen m..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 588 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-487"
 title: "TTK Madde 487: MADDE 487- (1) Pay senetlerinin; şirketin unvanını, sermaye tutarını, kuruluş ta..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 487 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

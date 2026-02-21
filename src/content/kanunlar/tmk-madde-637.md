@@ -2,7 +2,7 @@
 slug: "tmk-madde-637"
 title: "TMK Madde 637: Madde 637- Yasal veya atanmış mirasçı, terekeyi veya bazı tereke mallarını elind..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 637 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

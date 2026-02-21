@@ -2,7 +2,7 @@
 slug: "tmk-madde-972"
 title: "TMK Madde 972: Madde 972- Tahvil çıkaracaklar ile tahvil çıkarmaya ilişkin koşullar ve çıkarma..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 972 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-1502"
 title: "TTK Madde 1502: MADDE 1502- (1) En az bir yıldan beri yürürlükte bulunan ve bir yıllık primi öde..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1502 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

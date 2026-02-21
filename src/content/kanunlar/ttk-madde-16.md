@@ -2,7 +2,7 @@
 slug: "ttk-madde-16"
 title: "TTK Madde 16: MADDE 16- (1) Ticaret şirketleriyle, amacına varmak için ticari bir işletme işle..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 16 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

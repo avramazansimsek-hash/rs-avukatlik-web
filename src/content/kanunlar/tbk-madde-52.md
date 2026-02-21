@@ -2,7 +2,7 @@
 slug: "tbk-madde-52"
 title: "TBK Madde 52: MADDE 52- Zarar gören, zararı doğuran fiile razı olmuş veya zararın doğmasında y..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 52 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

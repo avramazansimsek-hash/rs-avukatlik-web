@@ -1,8 +1,8 @@
 ---
 slug: "is_kanunu-madde-11"
-title: "IS_KANUNU Madde 11: Madde 11..."
+title: "IS_KANUNU Madde 11: Madde 11 - İş ilişkisinin bir süreye bağlı olarak yapılmadığı halde sözleşme bel..."
 category: "İş Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İş Kanunu Madde 11 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 
@@ -11,46 +11,15 @@ excerpt: "İş Kanunu Madde 11 tam metni, gerekçesi ve Av. Ramazan Şimşek'in 
 ## Kanun Metni
 
 ```text
-Madde 11
+Madde 11 - İş ilişkisinin bir süreye bağlı olarak yapılmadığı halde sözleşme belirsiz süreli sayılır. Belirli süreli işlerde veya belli bir işin tamamlanması veya belirli bir olgunun ortaya çıkması gibi objektif koşullara bağlı olarak işveren ile işçi arasında yazılı şekilde yapılan iş sözleşmesi belirli süreli iş sözleşmesidir.
 
-	
+Belirli süreli iş sözleşmesi, esaslı bir neden olmadıkça, birden fazla üst üste (zincirleme) yapılamaz. Aksi halde iş sözleşmesi başlangıçtan itibaren belirsiz süreli kabul edilir.
 
-23/1/2024
+Esaslı nedene dayalı zincirleme iş sözleşmeleri, belirli süreli olma özelliğini korurlar.
 
+ 
 
-
-
-7553
-
-	
-
-46, 108
-
-	
-
-14/7/2025
-
-
-
-
-7555
-
-	
-
-109
-
-	
-
-24/7/2025
-
-
-
-
-7573
-
-	
-
-Geçici
+Belirli ve belirsiz süreli iş sözleşmesi ayırımın sınırları
 ```
 
 

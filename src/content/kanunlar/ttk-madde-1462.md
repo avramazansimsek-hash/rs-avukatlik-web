@@ -2,7 +2,7 @@
 slug: "ttk-madde-1462"
 title: "TTK Madde 1462: MADDE 1462- (1) Sigorta bedeli, sigorta değerinden az olduğu takdirde, sigorta e..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1462 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

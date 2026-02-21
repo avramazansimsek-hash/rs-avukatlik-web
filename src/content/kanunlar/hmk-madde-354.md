@@ -2,7 +2,7 @@
 slug: "hmk-madde-354"
 title: "HMK Madde 354: MADDE 354- (1) Bölge adliye mahkemesi hukuk dairesince inceleme, davanın özelliğ..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 354 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

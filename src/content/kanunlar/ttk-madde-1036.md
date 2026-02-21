@@ -2,7 +2,7 @@
 slug: "ttk-madde-1036"
 title: "TTK Madde 1036: MADDE 1036- (1) Malik aynı zamanda borçlu değilse, alacaklının hakkını yerine ge..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1036 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

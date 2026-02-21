@@ -2,7 +2,7 @@
 slug: "tmk-madde-286"
 title: "TMK Madde 286: Madde 286 – (Değişik:7/11/2024-7531/9 md.)..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 286 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

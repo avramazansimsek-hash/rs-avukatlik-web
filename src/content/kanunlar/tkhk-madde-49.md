@@ -2,7 +2,7 @@
 slug: "tkhk-madde-49"
 title: "TKHK Madde 49: MADDE 49- (1) Finansal hizmetler, her türlü banka hizmeti, kredi, sigorta, birey..."
 category: "Tüketicinin Korunması Hakkında Kanun"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Tüketicinin Korunması Hakkında Kanun Madde 49 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-38"
 title: "TMK Madde 38: Madde 38- Kişisel durum sicilinin tutulmasından doğan zararlar, kusurlu memura r..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 38 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

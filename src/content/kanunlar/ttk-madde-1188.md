@@ -2,7 +2,7 @@
 slug: "ttk-madde-1188"
 title: "TTK Madde 1188: MADDE 1188- (1) Eşyanın zıyaı veya hasarı ile geç tesliminden dolayı taşıyana ka..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1188 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

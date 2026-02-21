@@ -2,7 +2,7 @@
 slug: "tmk-madde-858"
 title: "TMK Madde 858: Madde 858- Taşınmaz rehni, tescilin terkini veya taşınmazın tamamen yok olmasıyl..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 858 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

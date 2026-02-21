@@ -2,7 +2,7 @@
 slug: "ttk-madde-604"
 title: "TTK Madde 604: MADDE 604- (1) Şirket, ortağın şirketten ayrılmasının tescil edildiği tarihten i..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 604 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

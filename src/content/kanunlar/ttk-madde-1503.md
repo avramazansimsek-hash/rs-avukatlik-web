@@ -2,7 +2,7 @@
 slug: "ttk-madde-1503"
 title: "TTK Madde 1503: MADDE 1503- (1) Sigortalı, yenilemeler de dâhil olmak üzere, en az üç yıldan ber..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1503 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

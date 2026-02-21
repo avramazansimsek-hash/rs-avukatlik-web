@@ -2,7 +2,7 @@
 slug: "tbk-madde-475"
 title: "TBK Madde 475: MADDE 475- Eserdeki ayıp sebebiyle yüklenicinin sorumlu olduğu hâllerde işsahibi..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 475 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

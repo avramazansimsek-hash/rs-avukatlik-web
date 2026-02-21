@@ -2,7 +2,7 @@
 slug: "tbk-madde-419"
 title: "TBK Madde 419: MADDE 419- İşveren, işçiye ait kişisel verileri, ancak işçinin işe yatkınlığıyla..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 419 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

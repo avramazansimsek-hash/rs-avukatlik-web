@@ -2,7 +2,7 @@
 slug: "ttk-madde-38"
 title: "TTK Madde 38: MADDE 38- (1) (Değişik birinci cümle: 26/6/2012-6335/5 md.) Tescil ve kayıt için..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 38 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

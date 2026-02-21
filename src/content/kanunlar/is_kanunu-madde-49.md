@@ -2,7 +2,7 @@
 slug: "is_kanunu-madde-49"
 title: "IS_KANUNU Madde 49: Madde 49 - İşçinin tatil günü ücreti çalıştığı günlere göre bir güne düşen ücret..."
 category: "İş Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İş Kanunu Madde 49 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

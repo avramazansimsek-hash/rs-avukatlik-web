@@ -2,7 +2,7 @@
 slug: "ttk-madde-1355"
 title: "TTK Madde 1355: MADDE 1355- (1) Türkiye’de yabancı bayraklı gemiler hakkında ihtiyati haciz kara..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1355 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

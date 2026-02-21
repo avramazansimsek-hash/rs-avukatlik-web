@@ -2,7 +2,7 @@
 slug: "cmk-madde-188"
 title: "CMK Madde 188: Madde 188 – (1) Duruşmada, hükme katılacak hâkimler ve Cumhuriyet savcısı ile za..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 188 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "kvkk-madde-33"
 title: "KVKK Madde 33: MADDE 33- (1) Bu Kanun hükümlerini Bakanlar Kurulu yürütür...."
 category: "Kişisel Verilerin Korunması Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Kişisel Verilerin Korunması Kanunu Madde 33 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 
@@ -545,7 +545,58 @@ Yürürlüğe Giriş Tarihi
 
 	
 
-27, Geçici
+27, Geçici Madde 2
+
+	
+
+5/12/2017
+
+
+
+
+KHK/703
+
+	
+
+19, 20, 21, 25
+
+	
+
+24/6/2018 tarihinde birlikte yapılan Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimleri sonucunda Cumhurbaşkanının andiçerek göreve başladığı tarihte (9/7/2018)
+
+
+
+
+7499
+
+	
+
+6, 9, 18, Geçici Madde 3
+
+	
+
+1/6/2024
+
+ 
+
+
+
+
+[1] 2/3/2024 tarihli ve 7499 sayılı Kanunun 35 inci maddesi ile bu maddeye ikinci fıkradan sonra gelmek üzere fıkra eklenmiş ve diğer fıkra buna göre teselsül ettirilmiştir.
+
+[2] 2/7/2018 tarihli ve 703 sayılı KHK’nin 163 üncü maddesiyle, bu fıkrada yer alan “Başbakanlıkla” ibaresi “Cumhurbaşkanının görevlendireceği bakan ile” şeklinde değiştirilmiştir.
+
+[3] 2/7/2018 tarihli ve 703 sayılı KHK’nin 163 üncü maddesiyle, bu bentte yer alan “ ve Başbakanlığa” ibaresi yürürlükten kaldırılmıştır.
+
+[4] 2/7/2018 tarihli ve 703 sayılı KHK’nin 163 üncü maddesiyle, bu maddenin ikinci fıkrasında yer alan “iki üyesi Cumhurbaşkanı, iki üyesi Bakanlar Kurulu” ibaresi “dört üyesi Cumhurbaşkanı” şeklinde değiştirilmiştir.
+
+[5] 2/7/2018 tarihli ve 703 sayılı KHK’nin 163 üncü maddesiyle, bu fıkrada yer alan “veya Bakanlar Kurulu” ve “veya Bakanlar Kuruluna sunulmak üzere Başbakanlığa” ibareleri madde metninden çıkarılmıştır.
+
+[6] 2/7/2018 tarihli ve 703 sayılı KHK’nin 163 üncü maddesiyle, bu fıkrada yer alan “Başbakan” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
+
+[7] 2/7/2018 tarihli ve 703 sayılı KHK’nin 163 üncü maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu kararıyla” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
+
+[8] 28/11/2017 tarihli ve 7061 sayılı Kanunun 119 uncu maddesiyle bu fıkrada yer alan “diğer kamu görevlileri kurumlarının muvafakati” ibaresinden sonra gelmek üzere “, hâkimler ve savcılar ise kendilerinin muvafakati” ibaresi eklenmiştir.
 ```
 
 

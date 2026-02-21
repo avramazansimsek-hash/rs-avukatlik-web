@@ -2,7 +2,7 @@
 slug: "tbk-madde-309"
 title: "TBK Madde 309: MADDE 309- Bir üçüncü kişinin kiralananda kiracının hakkıyla bağdaşmayan bir hak..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 309 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

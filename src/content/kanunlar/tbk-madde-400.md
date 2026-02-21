@@ -2,7 +2,7 @@
 slug: "tbk-madde-400"
 title: "TBK Madde 400: MADDE 400- İşçi, işverene kusuruyla verdiği her türlü zarardan sorumludur...."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 400 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

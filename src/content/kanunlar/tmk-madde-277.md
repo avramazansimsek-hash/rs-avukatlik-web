@@ -2,7 +2,7 @@
 slug: "tmk-madde-277"
 title: "TMK Madde 277: Madde 277- Boşanma veya evliliğin iptali sebebiyle ya da kanun veya mahkeme kara..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 277 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

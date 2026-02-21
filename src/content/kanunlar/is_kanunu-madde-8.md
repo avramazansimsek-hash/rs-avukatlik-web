@@ -1,8 +1,8 @@
 ---
 slug: "is_kanunu-madde-8"
-title: "IS_KANUNU Madde 8: Madde 8..."
+title: "IS_KANUNU Madde 8: Madde 8 - İş sözleşmesi, bir tarafın (işçi) bağımlı olarak iş görmeyi, diğer tar..."
 category: "İş Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İş Kanunu Madde 8 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 
@@ -11,42 +11,15 @@ excerpt: "İş Kanunu Madde 8 tam metni, gerekçesi ve Av. Ramazan Şimşek'in h
 ## Kanun Metni
 
 ```text
-Madde 8
+Madde 8 - İş sözleşmesi, bir tarafın (işçi) bağımlı olarak iş görmeyi, diğer tarafın (işveren) da ücret ödemeyi üstlenmesinden oluşan sözleşmedir. İş sözleşmesi, Kanunda aksi belirtilmedikçe, özel bir şekle tâbi değildir.
 
-	
+Süresi bir yıl ve daha fazla olan iş sözleşmelerinin yazılı şekilde yapılması zorunludur. Bu belgeler damga vergisi ve her çeşit resim ve harçtan muaftır.
 
-25/10/2017
+Yazılı sözleşme yapılmayan hallerde işveren işçiye en geç iki ay içinde genel ve özel çalışma koşullarını, günlük ya da haftalık çalışma süresini, temel ücreti ve varsa ücret eklerini, ücret ödeme dönemini, süresi belirli ise sözleşmenin süresini, fesih halinde tarafların uymak zorunda oldukları hükümleri gösteren yazılı bir belge vermekle yükümlüdür. Süresi bir ayı geçmeyen belirli süreli iş sözleşmelerinde bu fıkra hükmü uygulanmaz. İş sözleşmesi iki aylık süre dolmadan sona ermiş ise, bu bilgilerin en geç sona erme tarihinde işçiye yazılı olarak verilmesi zorunludur.
 
+ 
 
-
-
-20, 21
-
-	
-
-1/1/2018
-
-
-
-
-KHK/700
-
-	
-
-2, 36, 39, 43, 54, 55, 92
-
-	
-
-24/6/2018 tarihinde birlikte yapılan Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimleri sonucunda Cumhurbaşkanının andiçerek göreve başladığı tarihte (9/7/2018)
-
-
-
-
-7166
-
-	
-
-112, Geçici
+Türü ve çalışma biçimlerini belirleme serbestisi
 ```
 
 

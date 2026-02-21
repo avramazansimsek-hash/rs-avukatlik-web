@@ -2,7 +2,7 @@
 slug: "ttk-madde-218"
 title: "TTK Madde 218: MADDE 218- (1) Ortaklardan her biri, ayrı ayrı şirketi yönetme hakkını ve görevi..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 218 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

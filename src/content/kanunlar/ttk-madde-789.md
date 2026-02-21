@@ -2,7 +2,7 @@
 slug: "ttk-madde-789"
 title: "TTK Madde 789: MADDE 789- (1) Cironun kayıtsız ve şartsız olması gereklidir. Ciro, şartlara tab..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 789 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

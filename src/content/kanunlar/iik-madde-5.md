@@ -1,8 +1,8 @@
 ---
 slug: "iik-madde-5"
-title: "IIK Madde 5: Madde 5..."
+title: "IIK Madde 5: Madde 5 – (Değişik: 6/6/1985-3222/1 md.)..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 5 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 
@@ -11,22 +11,13 @@ excerpt: "İcra ve İflas Kanunu Madde 5 tam metni, gerekçesi ve Av. Ramazan Ş
 ## Kanun Metni
 
 ```text
-Madde 5
+Madde 5 – (Değişik: 6/6/1985-3222/1 md.)
 
-	
+İcra ve İflas Dairesi görevlilerinin kusurlarından doğan tazminat davaları, ancak idare aleyhine açılabilir. Devletin, zararın meydana gelmesinde kusuru bulunan görevlilere rücu hakkı saklıdır. Bu davalara adliye mahkemelerinde bakılır.
 
-30/7/2003[147]
+ 
 
-
-
-
-5092
-
-	
-
-114, 128/a, 166, 179/b, 288, 302, 309/b, 309/m-309/ü,
-
-Geçici Madde 5, Geçici
+Zimmet:
 ```
 
 

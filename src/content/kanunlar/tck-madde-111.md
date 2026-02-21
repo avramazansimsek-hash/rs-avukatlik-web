@@ -2,7 +2,7 @@
 slug: "tck-madde-111"
 title: "TCK Madde 111: Madde 111- (1) Tehdit, şantaj, cebir veya kişiyi hürriyetinden yoksun kılma suçl..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 111 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

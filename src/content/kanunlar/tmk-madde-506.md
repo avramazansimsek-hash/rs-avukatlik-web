@@ -2,7 +2,7 @@
 slug: "tmk-madde-506"
 title: "TMK Madde 506: Madde 506- Saklı pay aşağıdaki oranlardan ibarettir:..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 506 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

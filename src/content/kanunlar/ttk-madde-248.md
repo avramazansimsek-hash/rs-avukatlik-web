@@ -2,7 +2,7 @@
 slug: "ttk-madde-248"
 title: "TTK Madde 248: MADDE 248- (1) Ortaklarca alınan şirketin süresinin uzatılmasına ilişkin karara,..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 248 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

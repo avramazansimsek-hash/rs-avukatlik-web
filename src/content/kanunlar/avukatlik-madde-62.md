@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-62"
 title: "AVUKATLIK Madde 62: Madde 62 – (Değişik: 23/1/2008-5728/333 md.)..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 62 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "iik-madde-108"
 title: "IIK Madde 108: Madde 108 – Haczi muvakkat olan alacaklı satış talebinde bulunamaz ve hakkında 1..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 108 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

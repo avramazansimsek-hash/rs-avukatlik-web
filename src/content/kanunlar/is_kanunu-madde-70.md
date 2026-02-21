@@ -2,7 +2,7 @@
 slug: "is_kanunu-madde-70"
 title: "IS_KANUNU Madde 70: Madde 70 - Genel olarak bir işyerinde belirli çalışma saatlerinden önce veya son..."
 category: "İş Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İş Kanunu Madde 70 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

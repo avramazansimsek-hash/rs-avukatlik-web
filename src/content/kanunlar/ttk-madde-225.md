@@ -2,7 +2,7 @@
 slug: "ttk-madde-225"
 title: "TTK Madde 225: MADDE 225- (1) Bir ortak yönetim hakkını ve görevini haiz olmasa da şirket işler..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 225 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-259"
 title: "TTK Madde 259: MADDE 259- (1) Bir ortağın şirketten çıkması veya çıkarılması hâlinde, diğer ort..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 259 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

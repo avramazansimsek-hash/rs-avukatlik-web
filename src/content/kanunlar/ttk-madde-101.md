@@ -2,7 +2,7 @@
 slug: "ttk-madde-101"
 title: "TTK Madde 101: MADDE 101- (1) Cari hesabın tasfiyesine, kabul edilen veya mahkeme kararıyla sap..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 101 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

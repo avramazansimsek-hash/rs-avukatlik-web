@@ -2,7 +2,7 @@
 slug: "tmk-madde-467"
 title: "TMK Madde 467: Madde 467- Vasi, görevini yerine getirirken kusurlu davranışıyla vesayet altında..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 467 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

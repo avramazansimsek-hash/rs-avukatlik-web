@@ -2,7 +2,7 @@
 slug: "tmk-madde-741"
 title: "TMK Madde 741: Madde 741- Komşu taşınmaz maliklerinin bitki dikerken uymak zorunda oldukları ku..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 741 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

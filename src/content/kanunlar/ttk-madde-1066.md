@@ -2,7 +2,7 @@
 slug: "ttk-madde-1066"
 title: "TTK Madde 1066: MADDE 1066- (1) Paydaş donatanlar arasındaki hukuki ilişkiler ile donatma iştira..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1066 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

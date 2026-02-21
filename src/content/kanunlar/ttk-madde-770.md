@@ -2,7 +2,7 @@
 slug: "ttk-madde-770"
 title: "TTK Madde 770: MADDE 770- (1) Bir poliçeyi kabul eden kişinin borçlanmalarından doğan sonuçlar,..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 770 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

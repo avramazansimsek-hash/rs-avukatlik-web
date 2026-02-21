@@ -2,7 +2,7 @@
 slug: "iyuk-madde-48"
 title: "IYUK Madde 48: Madde 48 – (Değişik: 5/4/1990-3622/17 md.)..."
 category: "İdari Yargılama Usulü Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İdari Yargılama Usulü Kanunu Madde 48 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

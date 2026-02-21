@@ -2,7 +2,7 @@
 slug: "tmk-madde-547"
 title: "TMK Madde 547: Madde 547- Miras sözleşmesi gereğince sağlararası edimleri isteme hakkı bulunan..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 547 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

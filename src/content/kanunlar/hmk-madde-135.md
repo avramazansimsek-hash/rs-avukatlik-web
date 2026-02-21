@@ -2,7 +2,7 @@
 slug: "hmk-madde-135"
 title: "HMK Madde 135: MADDE 135- (1) Bu Kanunun dava ile ilgili hükümleri, aksine özel düzenleme bulun..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 135 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

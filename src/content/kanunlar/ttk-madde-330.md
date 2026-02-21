@@ -2,7 +2,7 @@
 slug: "ttk-madde-330"
 title: "TTK Madde 330: MADDE 330- (1) Özel kanunlara tabi anonim şirketlere, özel hükümler dışında bu k..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 330 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tbk-madde-303"
 title: "TBK Madde 303: MADDE 303- Kiraya veren, kiralananın kullanımıyla ilgili olmak üzere, kendisi ve..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 303 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

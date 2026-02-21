@@ -2,7 +2,7 @@
 slug: "tmk-madde-450"
 title: "TMK Madde 450: Madde 450- Vesayet altındaki kişi görüşlerini oluşturma ve açıklama yeteneğine s..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 450 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-211"
 title: "TMK Madde 211: Madde 211- Alacaklı tatmin edildiği takdirde eşlerden birinin istemi üzerine hâk..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 211 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

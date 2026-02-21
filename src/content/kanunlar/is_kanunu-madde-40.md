@@ -2,7 +2,7 @@
 slug: "is_kanunu-madde-40"
 title: "IS_KANUNU Madde 40: Madde 40 - 24 ve 25 inci maddelerin (III) numaralı bentlerinde gösterilen zorlay..."
 category: "İş Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İş Kanunu Madde 40 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

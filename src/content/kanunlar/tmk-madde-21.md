@@ -2,7 +2,7 @@
 slug: "tmk-madde-21"
 title: "TMK Madde 21: Madde 21- Velâyet altında bulunan çocuğun yerleşim yeri, ana ve babasının; ana v..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 21 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

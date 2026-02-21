@@ -2,7 +2,7 @@
 slug: "tck-madde-20"
 title: "TCK Madde 20: Madde 20- (1) Ceza sorumluluğu şahsidir. Kimse başkasının fiilinden dolayı sorum..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 20 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "iik-madde-89"
 title: "IIK Madde 89: Madde 89 – (Değişik: 18/2/1965-538/49 md.)..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 89 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

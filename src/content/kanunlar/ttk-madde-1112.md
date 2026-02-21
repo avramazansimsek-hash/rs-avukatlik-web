@@ -2,7 +2,7 @@
 slug: "ttk-madde-1112"
 title: "TTK Madde 1112: MADDE 1112- (1) Kaptan, yolculuk esnasında yükle ilgili olanların menfaati gereğ..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1112 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

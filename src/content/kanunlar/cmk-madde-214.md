@@ -2,7 +2,7 @@
 slug: "cmk-madde-214"
 title: "CMK Madde 214: Madde 214 – (1) Bir açıklamayı ve görüşü içeren resmî belge ve diğer yazılar ve..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 214 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

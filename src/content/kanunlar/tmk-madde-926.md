@@ -2,7 +2,7 @@
 slug: "tmk-madde-926"
 title: "TMK Madde 926: Madde 926- İpotekli borç senedi veya irat senedinin alacaklısının kim olduğu on..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 926 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

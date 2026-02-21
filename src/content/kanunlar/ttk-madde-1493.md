@@ -2,7 +2,7 @@
 slug: "ttk-madde-1493"
 title: "TTK Madde 1493: MADDE 1493- (1) Sigorta ettiren, 1490 ıncı maddenin ikinci ve üçüncü fıkraları s..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1493 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

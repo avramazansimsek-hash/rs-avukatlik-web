@@ -2,7 +2,7 @@
 slug: "hmk-madde-416"
 title: "HMK Madde 416: MADDE 416- (1) Taraflar, hakem veya hakemlerin seçim usulünü kararlaştırmakta se..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 416 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

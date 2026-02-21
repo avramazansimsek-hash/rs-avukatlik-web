@@ -2,7 +2,7 @@
 slug: "ttk-madde-1189"
 title: "TTK Madde 1189: MADDE 1189- (1) Tazminat isteminin muhatabı, zarar göreni dava açma süresini kaç..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1189 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

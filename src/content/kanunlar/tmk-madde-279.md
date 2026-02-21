@@ -2,7 +2,7 @@
 slug: "tmk-madde-279"
 title: "TMK Madde 279: Madde 279- Eşlerin birlikte yaşadıkları konut veya ev eşyası ortaklık mallarına..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 279 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

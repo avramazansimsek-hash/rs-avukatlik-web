@@ -2,7 +2,7 @@
 slug: "cmk-madde-168"
 title: "CMK Madde 168: Madde 168 – (1) Olay yerinde görevine ait işlemlere başlayan adlî kolluk görevli..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 168 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

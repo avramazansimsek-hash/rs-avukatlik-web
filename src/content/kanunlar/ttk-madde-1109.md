@@ -2,7 +2,7 @@
 slug: "ttk-madde-1109"
 title: "TTK Madde 1109: MADDE 1109- (1) Donatan, kaptanın onun adına hareket ettiğini bildirerek veya bi..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1109 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "hmk-madde-97"
 title: "HMK Madde 97: MADDE 97- (1) Eski hâle getirme, dilekçeyle talep edilir. Dilekçede, talebin day..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 97 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

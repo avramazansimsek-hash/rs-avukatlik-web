@@ -2,7 +2,7 @@
 slug: "hmk-madde-304"
 title: "HMK Madde 304: MADDE 304- (1) Hükümdeki yazı ve hesap hataları ile diğer benzeri açık hatalar,..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 304 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

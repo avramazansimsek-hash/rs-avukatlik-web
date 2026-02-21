@@ -2,7 +2,7 @@
 slug: "iik-madde-286"
 title: "IIK Madde 286: Madde 286- (Değişik: 28/2/2018-7101/14 md.)..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 286 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

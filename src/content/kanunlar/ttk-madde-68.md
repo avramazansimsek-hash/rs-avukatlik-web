@@ -2,7 +2,7 @@
 slug: "ttk-madde-68"
 title: "TTK Madde 68: MADDE 68- (1) Tacir, ticari faaliyetinin başında ve her faaliyet döneminin sonun..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 68 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

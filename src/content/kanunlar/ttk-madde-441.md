@@ -2,7 +2,7 @@
 slug: "ttk-madde-441"
 title: "TTK Madde 441: MADDE 441- (1) Özel denetim, amaca yararlı bir süre içinde ve şirket işleri gere..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 441 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

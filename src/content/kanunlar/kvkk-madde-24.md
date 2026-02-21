@@ -2,7 +2,7 @@
 slug: "kvkk-madde-24"
 title: "KVKK Madde 24: MADDE 24- (1) Başkan, Kurul ve Kurumun başkanı sıfatıyla Kurumun en üst amiri ol..."
 category: "Kişisel Verilerin Korunması Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Kişisel Verilerin Korunması Kanunu Madde 24 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

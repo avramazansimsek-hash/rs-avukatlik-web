@@ -2,7 +2,7 @@
 slug: "tbk-madde-478"
 title: "TBK Madde 478: MADDE 478- Yüklenici ayıplı bir eser meydana getirmişse, bu sebeple açılacak dav..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 478 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

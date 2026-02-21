@@ -2,7 +2,7 @@
 slug: "tbk-madde-539"
 title: "TBK Madde 539: MADDE 539- Komisyoncu, ücretinin ödenmesini kendisine verilen işi yapınca isteye..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 539 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

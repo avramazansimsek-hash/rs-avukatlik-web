@@ -2,7 +2,7 @@
 slug: "tmk-madde-867"
 title: "TMK Madde 867: Madde 867- Değer düşmesi malikin kusuru olmadan meydana gelmişse alacaklı, ancak..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 867 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

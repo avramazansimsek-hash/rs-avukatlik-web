@@ -2,7 +2,7 @@
 slug: "tbk-madde-31"
 title: "TBK Madde 31: MADDE 31- Özellikle aşağıda sayılan yanılma hâlleri esaslıdır:..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 31 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

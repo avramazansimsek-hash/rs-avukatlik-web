@@ -2,7 +2,7 @@
 slug: "tbk-madde-501"
 title: "TBK Madde 501: MADDE 501- Bir veya birkaç kişi, yayımcının belirlediği plana göre bir eser meyd..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 501 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

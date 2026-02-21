@@ -2,7 +2,7 @@
 slug: "ttk-madde-444"
 title: "TTK Madde 444: MADDE 444- (1) Mahkeme, özel denetçi atanmasını kabul etmişse, şirketçe ödenmesi..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 444 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tbk-madde-320"
 title: "TBK Madde 320: MADDE 320- Kiraya veren, kiralananda, kira sözleşmesinin feshini gerektirmeyen v..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 320 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

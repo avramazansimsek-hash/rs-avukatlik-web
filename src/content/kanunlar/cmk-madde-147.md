@@ -2,7 +2,7 @@
 slug: "cmk-madde-147"
 title: "CMK Madde 147: Madde 147 – (1) Şüphelinin veya sanığın ifadesinin alınmasında veya sorguya çeki..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 147 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ktk-madde-123"
 title: "KTK Madde 123: Madde 123 – (Değişik: 18/1/1985 – KHK 245/14 md.; değiştirilerek kabul: 28/3/198..."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 123 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

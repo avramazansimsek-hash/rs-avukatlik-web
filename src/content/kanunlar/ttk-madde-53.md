@@ -2,7 +2,7 @@
 slug: "ttk-madde-53"
 title: "TTK Madde 53: MADDE 53- (1) İşletme sahibi ile ilgili olmaksızın doğrudan doğruya işletmeyi ta..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 53 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

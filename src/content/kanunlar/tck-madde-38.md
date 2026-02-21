@@ -2,7 +2,7 @@
 slug: "tck-madde-38"
 title: "TCK Madde 38: Madde 38- (1) Başkasını suç işlemeye azmettiren kişi, işlenen suçun cezası ile c..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 38 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-1234"
 title: "TTK Madde 1234: MADDE 1234- (1) Eşya, kaptan veya taşıyanın diğer bir temsilcisi tarafından taşı..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1234 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

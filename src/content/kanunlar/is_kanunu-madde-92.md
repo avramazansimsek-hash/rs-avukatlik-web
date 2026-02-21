@@ -2,7 +2,7 @@
 slug: "is_kanunu-madde-92"
 title: "IS_KANUNU Madde 92: Madde 92 - 91 inci madde hükmünün uygulanması için iş hayatının izlenmesi, denet..."
 category: "İş Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İş Kanunu Madde 92 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

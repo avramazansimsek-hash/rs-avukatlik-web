@@ -2,7 +2,7 @@
 slug: "ktk-madde-104"
 title: "KTK Madde 104: Madde 104 – Motorlu araçlarla ilgili mesleki faaliyette bulunan teşebbüslerin sa..."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 104 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "iik-madde-208"
 title: "IIK Madde 208: Madde 208 – İflasın açılması kendisine tebliğ olunur olunmaz iflas dairesi müfli..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 208 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

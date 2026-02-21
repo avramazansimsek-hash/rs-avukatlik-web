@@ -2,7 +2,7 @@
 slug: "tmk-madde-346"
 title: "TMK Madde 346: Madde 346- Çocuğun menfaati ve gelişmesi tehlikeye düştüğü takdirde, ana ve baba..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 346 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

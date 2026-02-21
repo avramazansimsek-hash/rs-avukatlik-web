@@ -2,7 +2,7 @@
 slug: "tkhk-madde-75"
 title: "TKHK Madde 75: MADDE 75- (1) Bu Kanunun uygulanmasında, Bakanlık müfettişleri, gümrük ve ticare..."
 category: "Tüketicinin Korunması Hakkında Kanun"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Tüketicinin Korunması Hakkında Kanun Madde 75 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

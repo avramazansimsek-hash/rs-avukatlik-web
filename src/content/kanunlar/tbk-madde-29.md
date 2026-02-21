@@ -2,7 +2,7 @@
 slug: "tbk-madde-29"
 title: "TBK Madde 29: MADDE 29- Bir sözleşmenin ileride kurulmasına ilişkin sözleşmeler geçerlidir...."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 29 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

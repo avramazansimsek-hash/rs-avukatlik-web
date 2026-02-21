@@ -2,7 +2,7 @@
 slug: "ttk-madde-850"
 title: "TTK Madde 850: MADDE 850- (1) Taşıyıcı, taşıma sözleşmesiyle eşya veya yolcu taşıma işini veya..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 850 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

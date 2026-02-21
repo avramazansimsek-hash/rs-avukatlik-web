@@ -2,7 +2,7 @@
 slug: "ttk-madde-353"
 title: "TTK Madde 353: MADDE 353- (1) Anonim şirketin butlanına veya yokluğuna karar verilemez. Ancak,..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 353 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

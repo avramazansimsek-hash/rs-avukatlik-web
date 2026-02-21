@@ -2,7 +2,7 @@
 slug: "tmk-madde-373"
 title: "TMK Madde 373: Madde 373- Hısımlar, kendilerine geçen mirasın tamamı veya bir bölümüyle ya da o..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 373 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

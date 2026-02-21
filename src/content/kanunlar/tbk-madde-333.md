@@ -2,7 +2,7 @@
 slug: "tbk-madde-333"
 title: "TBK Madde 333: MADDE 333- Kiracının ölmesi durumunda mirasçıları, yasal fesih bildirim süresine..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 333 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

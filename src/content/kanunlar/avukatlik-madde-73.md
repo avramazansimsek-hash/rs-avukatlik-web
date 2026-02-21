@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-73"
 title: "AVUKATLIK Madde 73: Madde 73 – 72 nci maddeye göre levhadan silinmeyi gerektiren hallerin sona erdiğ..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 73 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

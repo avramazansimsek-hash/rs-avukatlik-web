@@ -2,7 +2,7 @@
 slug: "ttk-madde-869"
 title: "TTK Madde 869: MADDE 869- (1) Eşyanın teslim edilmesi gereken yere ulaşmasından önce, taşımanın..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 869 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tck-madde-297"
 title: "TCK Madde 297: Madde 297- (1) İnfaz kurumuna veya tutukevine silah, uyuşturucu veya uyarıcı mad..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 297 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tbk-madde-241"
 title: "TBK Madde 241: MADDE 241- Satıcı veya alıcı, satış sözleşmesinin yapıldığını ve içeriğini önalı..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 241 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

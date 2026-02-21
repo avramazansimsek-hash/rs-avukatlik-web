@@ -2,7 +2,7 @@
 slug: "cmk-madde-77"
 title: "CMK Madde 77: Madde 77 – (1) Kadının muayenesi, istemi halinde ve olanaklar elverdiğinde bir k..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 77 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

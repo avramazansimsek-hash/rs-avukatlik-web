@@ -2,7 +2,7 @@
 slug: "ktk-madde-94"
 title: "KTK Madde 94: Madde 94 – (Birinci fıkra mülga: 25/6/1988 – KHK – 330/5 md.; Aynen kabul; 31/10..."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 94 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

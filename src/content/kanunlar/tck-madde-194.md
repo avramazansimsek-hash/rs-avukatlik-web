@@ -2,7 +2,7 @@
 slug: "tck-madde-194"
 title: "TCK Madde 194: Madde 194- (1) Sağlık için tehlike oluşturabilecek maddeleri çocuklara, akıl has..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 194 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

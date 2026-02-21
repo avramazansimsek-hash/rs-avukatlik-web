@@ -2,7 +2,7 @@
 slug: "hmk-madde-78"
 title: "HMK Madde 78: MADDE 78- (1) Kendisinin de hazır olduğu duruşmada, vekili tarafından yapılan aç..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 78 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-1523"
 title: "TTK Madde 1523: MADDE 1523- (1) Bu Kanunun 1522 nci maddesine istinaden belirlenen küçük ve orta..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1523 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

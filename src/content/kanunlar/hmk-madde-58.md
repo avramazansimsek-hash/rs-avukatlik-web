@@ -2,7 +2,7 @@
 slug: "hmk-madde-58"
 title: "HMK Madde 58: MADDE 58- (1) İhtiyari dava arkadaşlığında, davalar birbirinden bağımsızdır. Dav..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 58 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

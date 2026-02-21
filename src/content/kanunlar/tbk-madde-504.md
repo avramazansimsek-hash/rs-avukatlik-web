@@ -2,7 +2,7 @@
 slug: "tbk-madde-504"
 title: "TBK Madde 504: MADDE 504- Vekâletin kapsamı, sözleşmede açıkça gösterilmemişse, görülecek işin..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 504 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

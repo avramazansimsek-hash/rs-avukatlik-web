@@ -2,7 +2,7 @@
 slug: "hmk-madde-294"
 title: "HMK Madde 294: MADDE 294- (1) Mahkeme, usule veya esasa ilişkin bir nihai kararla davayı sona e..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 294 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

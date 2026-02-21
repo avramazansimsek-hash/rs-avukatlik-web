@@ -2,7 +2,7 @@
 slug: "tmk-madde-69"
 title: "TMK Madde 69: Madde 69- Her üyenin genel kurulda bir oy hakkı vardır; üye, oyunu şahsen kullan..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 69 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

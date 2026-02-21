@@ -2,7 +2,7 @@
 slug: "tmk-madde-385"
 title: "TMK Madde 385: Madde 385- İşletme ve temsili üzerine alan ortak, malları gereği gibi işletmediğ..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 385 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

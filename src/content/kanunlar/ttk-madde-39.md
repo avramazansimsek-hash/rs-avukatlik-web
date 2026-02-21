@@ -2,7 +2,7 @@
 slug: "ttk-madde-39"
 title: "TTK Madde 39: MADDE 39- (1) Her tacir, ticari işletmesine ilişkin işlemleri, ticaret unvanıyla..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 39 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

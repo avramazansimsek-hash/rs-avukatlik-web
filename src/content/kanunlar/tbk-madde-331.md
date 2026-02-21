@@ -2,7 +2,7 @@
 slug: "tbk-madde-331"
 title: "TBK Madde 331: MADDE 331- Taraflardan her biri, kira ilişkisinin devamını kendisi için çekilmez..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 331 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

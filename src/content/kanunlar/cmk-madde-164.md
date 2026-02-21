@@ -2,7 +2,7 @@
 slug: "cmk-madde-164"
 title: "CMK Madde 164: Madde 164 – (1) Adlî kolluk; 4.6.1937 tarihli ve 3201 sayılı Emniyet Teşkilatı K..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 164 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

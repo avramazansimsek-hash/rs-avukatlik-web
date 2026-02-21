@@ -2,7 +2,7 @@
 slug: "iyuk-madde-15"
 title: "IYUK Madde 15: Madde 15 – 1. (Değişik: 5/4/1990-3622/6 md.) Danıştay veya idare ve vergi mahkem..."
 category: "İdari Yargılama Usulü Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İdari Yargılama Usulü Kanunu Madde 15 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

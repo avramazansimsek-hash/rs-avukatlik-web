@@ -2,7 +2,7 @@
 slug: "hmk-madde-92"
 title: "HMK Madde 92: MADDE 92- (1) Süreler gün olarak belirlenmiş ise tebliğ veya tefhim edildiği gün..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 92 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

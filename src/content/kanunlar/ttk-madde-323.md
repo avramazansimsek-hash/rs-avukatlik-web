@@ -2,7 +2,7 @@
 slug: "ttk-madde-323"
 title: "TTK Madde 323: MADDE 323- (1) Bir komanditer sermayesini, 313 ve 314 üncü madde hükümleri saklı..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 323 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

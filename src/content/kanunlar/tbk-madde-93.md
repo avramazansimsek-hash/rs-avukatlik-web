@@ -2,7 +2,7 @@
 slug: "tbk-madde-93"
 title: "TBK Madde 93: MADDE 93- İfa zamanı veya sürenin son günü, kanunlarda tatil olarak kabul edilen..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 93 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "iyuk-madde-60"
 title: "IYUK Madde 60: Madde 60 – (Değişik: 5/4/1990-3622/24 md.)..."
 category: "İdari Yargılama Usulü Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İdari Yargılama Usulü Kanunu Madde 60 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

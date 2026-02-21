@@ -2,7 +2,7 @@
 slug: "ttk-madde-1246"
 title: "TTK Madde 1246: MADDE 1246- (1) 1188 inci madde hükmü saklı kalmak kaydıyla, gemi kira sözleşmel..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1246 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

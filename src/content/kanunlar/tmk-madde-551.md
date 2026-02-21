@@ -2,7 +2,7 @@
 slug: "tmk-madde-551"
 title: "TMK Madde 551: Madde 551- Birden çok vasiyeti yerine getirme görevlisinin atanmış olması hâlind..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 551 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

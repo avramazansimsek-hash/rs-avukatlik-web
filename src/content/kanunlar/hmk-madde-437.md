@@ -2,7 +2,7 @@
 slug: "hmk-madde-437"
 title: "HMK Madde 437: MADDE 437- (1) Evvelce daha farklı bir süre öngörülmemişse, taraflardan her biri..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 437 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

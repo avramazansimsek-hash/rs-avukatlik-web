@@ -2,7 +2,7 @@
 slug: "tck-madde-64"
 title: "TCK Madde 64: Madde 64- (1) Sanığın ölümü halinde kamu davasının düşürülmesine karar verilir...."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 64 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

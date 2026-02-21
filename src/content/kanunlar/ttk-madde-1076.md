@@ -2,7 +2,7 @@
 slug: "ttk-madde-1076"
 title: "TTK Madde 1076: MADDE 1076- (1) İştirakin kazancı ve zararı, paydaş donatanlara gemideki payları..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1076 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

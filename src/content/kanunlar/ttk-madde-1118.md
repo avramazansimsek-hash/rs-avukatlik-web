@@ -2,7 +2,7 @@
 slug: "ttk-madde-1118"
 title: "TTK Madde 1118: MADDE 1118- (1) Kaptanın, 1112, 1114, 1115 ve 1117 nci maddelere göre yaptığı hu..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1118 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

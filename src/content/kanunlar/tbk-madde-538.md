@@ -2,7 +2,7 @@
 slug: "tbk-madde-538"
 title: "TBK Madde 538: MADDE 538- Komisyoncu, vekâlet verenin yararı için yaptığı bütün giderleri ve öd..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 538 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

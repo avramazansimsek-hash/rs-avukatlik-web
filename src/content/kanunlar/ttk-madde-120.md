@@ -2,7 +2,7 @@
 slug: "ttk-madde-120"
 title: "TTK Madde 120: MADDE 120- (1) Müvekkil, acenteye;..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 120 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

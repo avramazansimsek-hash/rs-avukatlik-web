@@ -2,7 +2,7 @@
 slug: "tkhk-madde-87"
 title: "TKHK Madde 87: MADDE 87- (1) Bu Kanun yayımı tarihinden itibaren altı ay sonra yürürlüğe girer...."
 category: "Tüketicinin Korunması Hakkında Kanun"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Tüketicinin Korunması Hakkında Kanun Madde 87 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

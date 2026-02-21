@@ -2,7 +2,7 @@
 slug: "ttk-madde-778"
 title: "TTK Madde 778: MADDE 778- (1) Bononun niteliğine aykırı düşmedikçe;..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 778 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

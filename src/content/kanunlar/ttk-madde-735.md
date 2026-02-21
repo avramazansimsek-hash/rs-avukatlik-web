@@ -2,7 +2,7 @@
 slug: "ttk-madde-735"
 title: "TTK Madde 735: MADDE 735- (1) Vadenin gelmesinden önce, hamilin başvurma hakkını kullanabileceğ..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 735 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

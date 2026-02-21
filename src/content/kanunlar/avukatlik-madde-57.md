@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-57"
 title: "AVUKATLIK Madde 57: Madde 57 – Görev Sırasında veya yaptığı görevden dolayı avukata karşı işlenen su..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 57 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

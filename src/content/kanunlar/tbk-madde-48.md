@@ -2,7 +2,7 @@
 slug: "tbk-madde-48"
 title: "TBK Madde 48: MADDE 48- Ortaklık temsilcileri ile organlarının ve ticari vekillerin yetkisine..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 48 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

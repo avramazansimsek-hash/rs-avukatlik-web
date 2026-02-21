@@ -2,7 +2,7 @@
 slug: "tmk-madde-284"
 title: "TMK Madde 284: Madde 284- Soybağına ilişkin davalarda, aşağıdaki kurallar saklı kalmak kaydıyla..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 284 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tck-madde-233"
 title: "TCK Madde 233: Madde 233- (1) Aile hukukundan doğan bakım, eğitim veya destek olma yükümlülüğün..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 233 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tbk-madde-432"
 title: "TBK Madde 432: MADDE 432- Belirsiz süreli hizmet sözleşmelerinin feshinden önce, durumun diğer..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 432 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

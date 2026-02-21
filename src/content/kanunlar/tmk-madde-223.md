@@ -2,7 +2,7 @@
 slug: "tmk-madde-223"
 title: "TMK Madde 223: Madde 223 - Her eş, yasal sınırlar içerisinde kişisel malları ile edinilmiş mall..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 223 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

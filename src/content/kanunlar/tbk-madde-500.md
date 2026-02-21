@@ -2,7 +2,7 @@
 slug: "tbk-madde-500"
 title: "TBK Madde 500: MADDE 500- Eser sahibi eseri tamamlamadan önce ölür veya tamamlama yeteneğini yi..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 500 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

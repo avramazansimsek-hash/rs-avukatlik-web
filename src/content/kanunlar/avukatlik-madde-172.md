@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-172"
 title: "AVUKATLIK Madde 172: Madde 172 – İş sahibi, ilk anlaşmayı yaptığı avukatının yazılı muvafakatı ile, b..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 172 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

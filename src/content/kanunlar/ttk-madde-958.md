@@ -2,7 +2,7 @@
 slug: "ttk-madde-958"
 title: "TTK Madde 958: MADDE 958- (1) Türk gemisi olmayan gemilerle, yabancı bir gemi siciline kayıtlı..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 958 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

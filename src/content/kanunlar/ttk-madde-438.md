@@ -2,7 +2,7 @@
 slug: "ttk-madde-438"
 title: "TTK Madde 438: MADDE 438- (1) Her pay sahibi, pay sahipliği haklarının kullanılabilmesi için ge..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 438 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

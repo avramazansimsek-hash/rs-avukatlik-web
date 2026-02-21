@@ -2,7 +2,7 @@
 slug: "tbk-madde-584"
 title: "TBK Madde 584: MADDE 584- Eşlerden biri mahkemece verilmiş bir ayrılık kararı olmadıkça veya ya..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 584 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

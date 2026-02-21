@@ -2,7 +2,7 @@
 slug: "hmk-madde-438"
 title: "HMK Madde 438: MADDE 438- (1) Taraflarca aksi kararlaştırılmadıkça tebligat, 11/2/1959 tarihli..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 438 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -1,8 +1,8 @@
 ---
 slug: "avukatlik-madde-21"
-title: "AVUKATLIK Madde 21: Madde 21..."
+title: "AVUKATLIK Madde 21: Madde 21 – Avukatlık stajı listeye yazılma ile başlar. İtiraz yazılmayı durdurur..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 21 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 
@@ -11,37 +11,11 @@ excerpt: "Avukatlık Kanunu Madde 21 tam metni, gerekçesi ve Av. Ramazan Şimş
 ## Kanun Metni
 
 ```text
-Madde 21
-
-	
-
-1/1/2004 tarihinde
-
-Türkiye Barolar Birliğinin  ilk seçimli genel  kurulundan sonra
-
-20/1/2004
-
-
-
+Madde 21 – Avukatlık stajı listeye yazılma ile başlar. İtiraz yazılmayı durdurur.
 
  
 
-	
-
- 
-
-	
-
- 
-
-
-
-
-5218
-
-	
-
-65, Ek
+Yanında staj yapılacak avukat:
 ```
 
 

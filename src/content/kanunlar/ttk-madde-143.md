@@ -2,7 +2,7 @@
 slug: "ttk-madde-143"
 title: "TTK Madde 143: MADDE 143- (1) Yeni kuruluş yolu ile birleşmede, bu Kanun ile 24/4/1969 tarihli..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 143 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

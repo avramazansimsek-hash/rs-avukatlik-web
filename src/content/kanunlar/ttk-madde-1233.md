@@ -2,7 +2,7 @@
 slug: "ttk-madde-1233"
 title: "TTK Madde 1233: MADDE 1233- (1) Navlun sözleşmesinin, geminin varma limanına ulaşmasından önce u..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1233 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

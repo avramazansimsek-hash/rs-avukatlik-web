@@ -2,7 +2,7 @@
 slug: "tmk-madde-503"
 title: "TMK Madde 503: Madde 503- Miras sözleşmesi yapabilmek için ayırt etme gücüne sahip ve ergin olm..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 503 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

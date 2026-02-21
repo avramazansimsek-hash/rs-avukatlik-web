@@ -2,7 +2,7 @@
 slug: "tmk-madde-614"
 title: "TMK Madde 614: Madde 614- Mirasçılar, mirası reddederken, kendilerinden sonra gelen mirasçılard..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 614 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

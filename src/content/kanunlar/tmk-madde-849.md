@@ -2,7 +2,7 @@
 slug: "tmk-madde-849"
 title: "TMK Madde 849: Madde 849- Taşınmaz maliki değişirse yeni malik, başka bir işleme gerek bulunmak..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 849 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

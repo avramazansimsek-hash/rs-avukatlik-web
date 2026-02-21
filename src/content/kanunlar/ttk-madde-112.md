@@ -2,7 +2,7 @@
 slug: "ttk-madde-112"
 title: "TTK Madde 112: MADDE 112- (1) Acente, müvekkiline ait olan parayı göndermekle veya teslim etmek..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 112 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

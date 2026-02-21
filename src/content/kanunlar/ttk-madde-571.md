@@ -2,7 +2,7 @@
 slug: "ttk-madde-571"
 title: "TTK Madde 571: MADDE 571- (1) Şirketi yönetmek ve temsil etmekle görevli olan komandite ortakla..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 571 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

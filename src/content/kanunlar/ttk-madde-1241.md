@@ -2,7 +2,7 @@
 slug: "ttk-madde-1241"
 title: "TTK Madde 1241: MADDE 1241- (1) Konişmentoya konulan eşya ile ilgili kayıtlar hakkında 1145 inci..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1241 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

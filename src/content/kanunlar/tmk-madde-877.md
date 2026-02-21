@@ -2,7 +2,7 @@
 slug: "tmk-madde-877"
 title: "TMK Madde 877: Madde 877- Bir kamu kurum veya kuruluşunun katkısıyla iyileştirilen arazinin değ..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 877 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

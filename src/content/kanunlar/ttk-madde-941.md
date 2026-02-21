@@ -2,7 +2,7 @@
 slug: "ttk-madde-941"
 title: "TTK Madde 941: MADDE 941- (1) Bir Türk gemisi, kendilerine ait olduğu takdirde Türk Bayrağı çek..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 941 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

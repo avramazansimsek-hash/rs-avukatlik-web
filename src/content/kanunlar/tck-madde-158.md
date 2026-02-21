@@ -2,7 +2,7 @@
 slug: "tck-madde-158"
 title: "TCK Madde 158: Madde 158- (1) Dolandırıcılık suçunun;..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 158 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

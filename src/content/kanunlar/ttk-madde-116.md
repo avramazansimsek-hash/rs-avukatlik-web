@@ -2,7 +2,7 @@
 slug: "ttk-madde-116"
 title: "TTK Madde 116: MADDE 116- (1) Acentenin hak kazandığı ücretin, doğumu tarihinden itibaren en ge..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 116 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

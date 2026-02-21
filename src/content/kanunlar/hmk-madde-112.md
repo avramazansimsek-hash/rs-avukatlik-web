@@ -2,7 +2,7 @@
 slug: "hmk-madde-112"
 title: "HMK Madde 112: MADDE 112- (1) Seçimlik borçlarda, seçim hakkı kendisine ait olan borçlu veya üç..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 112 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

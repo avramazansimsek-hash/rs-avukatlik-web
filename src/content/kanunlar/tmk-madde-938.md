@@ -2,7 +2,7 @@
 slug: "tmk-madde-938"
 title: "TMK Madde 938: Madde 938- Rehinli taşınmazlar yerine elde edilen paralar, ilk kur'a çekiminde b..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 938 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

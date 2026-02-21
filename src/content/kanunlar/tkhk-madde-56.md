@@ -2,7 +2,7 @@
 slug: "tkhk-madde-56"
 title: "TKHK Madde 56: MADDE 56- (1) Üretici ve ithalatçılar, tüketiciye yönelik üretilen veya ithal ed..."
 category: "Tüketicinin Korunması Hakkında Kanun"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Tüketicinin Korunması Hakkında Kanun Madde 56 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

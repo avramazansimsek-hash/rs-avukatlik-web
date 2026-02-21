@@ -2,7 +2,7 @@
 slug: "ttk-madde-840"
 title: "TTK Madde 840: MADDE 840- (1) Varantın ilk cirosu, hangi borcun teminat altına alınması için ya..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 840 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

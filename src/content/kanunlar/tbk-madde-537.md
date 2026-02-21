@@ -2,7 +2,7 @@
 slug: "tbk-madde-537"
 title: "TBK Madde 537: MADDE 537- Yetkisi olmaksızın veresiye mal satması dışında, komisyoncu işlemde b..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 537 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

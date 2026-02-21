@@ -2,7 +2,7 @@
 slug: "tbk-madde-499"
 title: "TBK Madde 499: MADDE 499- Eserin tamamlanmış olan baskı adedinin tamamı veya bir bölümü, satışa..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 499 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

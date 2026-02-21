@@ -2,7 +2,7 @@
 slug: "ktk-madde-100"
 title: "KTK Madde 100: Madde 100 – Bu Kanunun sorumluluğun kaldırılması veya tazminatın azaltılmasına i..."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 100 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

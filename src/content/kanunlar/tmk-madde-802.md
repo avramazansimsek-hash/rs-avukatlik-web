@@ -2,7 +2,7 @@
 slug: "tmk-madde-802"
 title: "TMK Madde 802: Madde 802- Geri verme anında malik ve intifa hakkı sahibi tarafından ileri sürül..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 802 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

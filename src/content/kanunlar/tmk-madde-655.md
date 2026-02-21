@@ -2,7 +2,7 @@
 slug: "tmk-madde-655"
 title: "TMK Madde 655: Madde 655- Paylaşmada kendisine mirasbırakanın borçları için rehnedilmiş bir ter..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 655 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

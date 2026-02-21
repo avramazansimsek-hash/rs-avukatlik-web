@@ -2,7 +2,7 @@
 slug: "tmk-madde-330"
 title: "TMK Madde 330: Madde 330- Nafaka miktarı, çocuğun ihtiyaçları ile ana ve babanın hayat koşullar..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 330 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "hmk-madde-261"
 title: "HMK Madde 261: MADDE 261- (1) Tanıklar, hâkim tarafından ayrı ayrı dinlenir ve biri dinlenirken..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 261 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

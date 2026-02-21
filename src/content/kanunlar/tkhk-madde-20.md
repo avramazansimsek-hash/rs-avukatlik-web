@@ -2,7 +2,7 @@
 slug: "tkhk-madde-20"
 title: "TKHK Madde 20: MADDE 20- (1) Tüketici, borçlandığı toplam miktarı önceden ödeyebileceği gibi va..."
 category: "Tüketicinin Korunması Hakkında Kanun"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Tüketicinin Korunması Hakkında Kanun Madde 20 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tbk-madde-258"
 title: "TBK Madde 258: MADDE 258- Taksit borcu kambiyo senedine bağlanmış olmadıkça, alıcı satış bedeli..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 258 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

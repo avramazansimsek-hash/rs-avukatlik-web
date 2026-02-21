@@ -2,7 +2,7 @@
 slug: "cmk-madde-106"
 title: "CMK Madde 106: Madde 106 – (1) Salıverilmeden önce şüpheli veya sanık, yetkili yargı merciine v..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 106 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

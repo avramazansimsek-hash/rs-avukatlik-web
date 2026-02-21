@@ -2,7 +2,7 @@
 slug: "hmk-madde-244"
 title: "HMK Madde 244: MADDE 244- (1) Tanıklara gönderilecek davetiyede;..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 244 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

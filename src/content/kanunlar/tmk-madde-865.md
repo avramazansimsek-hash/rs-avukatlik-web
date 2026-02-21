@@ -2,7 +2,7 @@
 slug: "tmk-madde-865"
 title: "TMK Madde 865: Madde 865- Malik, rehinli taşınmazın değerini düşüren davranışlarda bulunursa; a..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 865 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

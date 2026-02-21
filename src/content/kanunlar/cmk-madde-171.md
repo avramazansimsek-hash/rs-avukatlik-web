@@ -2,7 +2,7 @@
 slug: "cmk-madde-171"
 title: "CMK Madde 171: Madde 171 – (Değişik: 6/12/2006 – 5560/22 md.)..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 171 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

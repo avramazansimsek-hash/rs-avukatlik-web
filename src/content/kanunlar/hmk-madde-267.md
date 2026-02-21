@@ -2,7 +2,7 @@
 slug: "hmk-madde-267"
 title: "HMK Madde 267: MADDE 267- (1) Mahkeme, bilirkişi olarak, yalnızca bir kişiyi görevlendirebilir...."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 267 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

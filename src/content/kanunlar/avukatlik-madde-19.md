@@ -1,8 +1,8 @@
 ---
 slug: "avukatlik-madde-19"
-title: "AVUKATLIK Madde 19: Madde 19..."
+title: "AVUKATLIK Madde 19: Madde 19 – Baro başkanı, istemin ilanından önce, baroya bağlı avukatlardan birin..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 19 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 
@@ -11,33 +11,13 @@ excerpt: "Avukatlık Kanunu Madde 19 tam metni, gerekçesi ve Av. Ramazan Şimş
 ## Kanun Metni
 
 ```text
-Madde 19
+Madde 19 – Baro başkanı, istemin ilanından önce, baroya bağlı avukatlardan birini adayın gerekli nitelikleri taşıyıp taşımadığını ve avukatlıkla birleşmiyen bir işle uğraşıp uğraşmadığını araştırarak bir rapor düzenlemek üzere görevlendirir.
 
-	
+Görevlendirilen avukat, raporu en geç onbeş gün içinde baroya vermekle yükümlüdür.
 
-3/4/1981
+ 
 
-
-
-
-2652
-
-	
-
-81
-
-	
-
-20/4/1982
-
-
-
-
-3003
-
-	
-
-12, 76, 77, 86, 87, 90, 111, 154, Ek Madde 1, Ek Madde 2, Ek Madde 3, Ek
+Karar:
 ```
 
 

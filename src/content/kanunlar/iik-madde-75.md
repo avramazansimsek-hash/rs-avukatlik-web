@@ -2,7 +2,7 @@
 slug: "iik-madde-75"
 title: "IIK Madde 75: Madde 75 – (Değişik: 6/6/1985-3222/8 md.)..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 75 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

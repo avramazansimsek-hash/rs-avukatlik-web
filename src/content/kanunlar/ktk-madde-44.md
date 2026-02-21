@@ -2,7 +2,7 @@
 slug: "ktk-madde-44"
 title: "KTK Madde 44: Madde 44 – Sürücü belgesi sahipleri:..."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 44 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

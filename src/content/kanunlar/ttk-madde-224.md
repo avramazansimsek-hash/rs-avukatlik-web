@@ -2,7 +2,7 @@
 slug: "ttk-madde-224"
 title: "TTK Madde 224: MADDE 224- (1) Ortak, yetkisiz olarak şirketten çektiği ve şirket hesabına bir y..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 224 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

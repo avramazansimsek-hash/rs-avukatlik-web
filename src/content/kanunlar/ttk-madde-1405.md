@@ -2,7 +2,7 @@
 slug: "ttk-madde-1405"
 title: "TTK Madde 1405: MADDE 1405- (1) Sigortacı ile sigorta sözleşmesi yapmak isteyen kişinin, sözleşm..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1405 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

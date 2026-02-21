@@ -2,7 +2,7 @@
 slug: "tmk-madde-382"
 title: "TMK Madde 382: Madde 382- Ortaklardan birinin ölümü hâlinde onun ortaklığa dahil olmayan mirasç..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 382 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

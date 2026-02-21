@@ -2,7 +2,7 @@
 slug: "cmk-madde-38"
 title: "CMK Madde 38: Madde 38 – (1) Cumhuriyet Başsavcılığına yapılan tebligat, tebliği gereken evrak..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 38 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

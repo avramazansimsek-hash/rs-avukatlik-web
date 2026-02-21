@@ -2,7 +2,7 @@
 slug: "ttk-madde-935"
 title: "TTK Madde 935: MADDE 935- (1) Aksini öngören kanun hükümleri saklı kalmak kaydıyla, bu Kanunun..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 935 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

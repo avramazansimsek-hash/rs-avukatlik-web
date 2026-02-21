@@ -2,7 +2,7 @@
 slug: "hmk-madde-439"
 title: "HMK Madde 439: MADDE 439- (1) Hakem kararına karşı yalnızca iptal davası açılabilir. İptal dava..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 439 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

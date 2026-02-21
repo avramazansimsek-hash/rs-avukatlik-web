@@ -2,7 +2,7 @@
 slug: "tmk-madde-738"
 title: "TMK Madde 738: Madde 738- Malik, kazı ve yapı yaparken komşu taşınmazlara, onların topraklarını..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 738 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

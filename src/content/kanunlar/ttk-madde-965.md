@@ -2,7 +2,7 @@
 slug: "ttk-madde-965"
 title: "TTK Madde 965: MADDE 965- (1) Gemi, kurtarılamayacak şekilde batar veya tamir kabul etmez hâle..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 965 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

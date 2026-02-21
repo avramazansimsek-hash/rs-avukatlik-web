@@ -2,7 +2,7 @@
 slug: "hmk-madde-435"
 title: "HMK Madde 435: MADDE 435- (1) Tahkim yargılaması, nihai hakem kararının verilmesi veya aşağıdak..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 435 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

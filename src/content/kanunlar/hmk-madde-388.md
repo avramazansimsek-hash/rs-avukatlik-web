@@ -2,7 +2,7 @@
 slug: "hmk-madde-388"
 title: "HMK Madde 388: MADDE 388- (1) Kanunda aksine hüküm bulunmayan hâllerde, çekişmesiz yargı kararl..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 388 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-531"
 title: "TMK Madde 531: Madde 531- Vasiyet, resmî şekilde veya mirasbırakanın el yazısı ile ya da sözlü..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 531 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

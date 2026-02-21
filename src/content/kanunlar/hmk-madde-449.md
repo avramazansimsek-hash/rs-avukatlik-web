@@ -2,7 +2,7 @@
 slug: "hmk-madde-449"
 title: "HMK Madde 449: MADDE 449- (1) Bu Kanunun uygulanmasıyla ilgili yönetmelikler, Adalet Bakanlığı..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 449 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

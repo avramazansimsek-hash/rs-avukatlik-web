@@ -2,7 +2,7 @@
 slug: "is_kanunu-madde-15"
 title: "IS_KANUNU Madde 15: Madde 15 - Taraflarca iş sözleşmesine bir deneme kaydı konulduğunda, bunun süres..."
 category: "İş Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İş Kanunu Madde 15 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

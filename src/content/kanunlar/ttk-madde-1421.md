@@ -2,7 +2,7 @@
 slug: "ttk-madde-1421"
 title: "TTK Madde 1421: MADDE 1421- (1) Aksine sözleşme yoksa, sigortacının sorumluluğu primin veya ilk..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1421 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

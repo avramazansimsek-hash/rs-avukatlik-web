@@ -2,7 +2,7 @@
 slug: "hmk-madde-427"
 title: "HMK Madde 427: MADDE 427- (1) Taraflar aksini kararlaştırmadıkça, bir hakemin görev yapacağı da..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 427 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

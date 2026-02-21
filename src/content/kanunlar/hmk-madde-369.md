@@ -2,7 +2,7 @@
 slug: "hmk-madde-369"
 title: "HMK Madde 369: MADDE 369- (1) Yargıtay, tarafların ileri sürdükleri temyiz sebepleriyle bağlı o..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 369 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

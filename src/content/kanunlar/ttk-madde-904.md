@@ -2,7 +2,7 @@
 slug: "ttk-madde-904"
 title: "TTK Madde 904: MADDE 904- (1) Zararın bildirimine ilişkin olarak, zarar yerinin bilinip bilinme..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 904 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

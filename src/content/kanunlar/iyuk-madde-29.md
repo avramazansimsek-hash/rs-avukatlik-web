@@ -2,7 +2,7 @@
 slug: "iyuk-madde-29"
 title: "IYUK Madde 29: Madde 29 – 1. Danıştay, bölge idare mahkemeleri, idare ve vergi mahkemelerince v..."
 category: "İdari Yargılama Usulü Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İdari Yargılama Usulü Kanunu Madde 29 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

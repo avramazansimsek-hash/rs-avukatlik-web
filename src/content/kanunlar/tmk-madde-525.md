@@ -2,7 +2,7 @@
 slug: "tmk-madde-525"
 title: "TMK Madde 525: Madde 525- Artmirasçı, mirası belirlenmiş olan geçiş anında sağ ise kazanır...."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 525 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

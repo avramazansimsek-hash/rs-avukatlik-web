@@ -1,8 +1,8 @@
 ---
 slug: "ttk-madde-2"
-title: "TTK Madde 2: MADDE 2- (Mülga: 26/6/2012-6335/43 md.)..."
+title: "TTK Madde 2: MADDE 2- (1) Kanunda aksine bir hüküm yoksa, ticari örf ve âdet olarak kabul edi..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 2 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 
@@ -11,11 +11,15 @@ excerpt: "Türk Ticaret Kanunu Madde 2 tam metni, gerekçesi ve Av. Ramazan Şim
 ## Kanun Metni
 
 ```text
-MADDE 2- (Mülga: 26/6/2012-6335/43 md.)
+MADDE 2- (1) Kanunda aksine bir hüküm yoksa, ticari örf ve âdet olarak kabul edildiği belirlenmedikçe, teamül, mahkemenin yargısına esas olamaz. Ancak, irade açıklamalarının yorumunda teamüller de dikkate alınır.
+
+(2) Bir bölgeye veya bir ticaret dalına özgü ticari örf ve âdetler genel olanlara üstün tutulur. İlgililer aynı bölgede değillerse, kanunda veya sözleşmede aksi öngörülmedikçe, ifa yerindeki ticari örf ve âdet uygulanır.
+
+(3) Ticari örf ve âdet, tacir sıfatını haiz bulunmayanlar hakkında ancak onlar tarafından bilindiği veya bilinmesi gerektiği takdirde uygulanır.
 
  
 
-GEÇİCİ
+III - Ticari işler
 ```
 
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-866"
 title: "TTK Madde 866: MADDE 866- (1) Taşıyıcı, taşınması kararlaştırılan eşyanın tamamı yüklenmiş olma..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 866 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

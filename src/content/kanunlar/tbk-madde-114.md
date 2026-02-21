@@ -2,7 +2,7 @@
 slug: "tbk-madde-114"
 title: "TBK Madde 114: MADDE 114- Borçlu, genel olarak her türlü kusurdan sorumludur. Borçlunun sorumlu..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 114 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

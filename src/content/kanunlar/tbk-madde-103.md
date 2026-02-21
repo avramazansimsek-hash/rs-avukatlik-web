@@ -2,7 +2,7 @@
 slug: "tbk-madde-103"
 title: "TBK Madde 103: MADDE 103- Borcu ödeyen borçlu, bir makbuz ve borcun tamamı ödenmişse, buna iliş..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 103 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

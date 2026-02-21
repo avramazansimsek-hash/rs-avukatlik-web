@@ -2,7 +2,7 @@
 slug: "ttk-madde-898"
 title: "TTK Madde 898: MADDE 898- (1) Kanunun 878 inci maddesinde öngörülenlerden farklı olarak, zıyaın..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 898 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

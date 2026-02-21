@@ -2,7 +2,7 @@
 slug: "hmk-madde-316"
 title: "HMK Madde 316: MADDE 316- (1) Basit yargılama usulü, kanunlarda açıkça belirtilenler dışında, a..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 316 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

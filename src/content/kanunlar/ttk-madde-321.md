@@ -2,7 +2,7 @@
 slug: "ttk-madde-321"
 title: "TTK Madde 321: MADDE 321- (1) Ticari mümessil, ticari vekil veya seyyar tacir memuru olarak har..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 321 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

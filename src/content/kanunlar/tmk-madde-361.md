@@ -2,7 +2,7 @@
 slug: "tmk-madde-361"
 title: "TMK Madde 361: Madde 361- Çocuğun mallarının tehlikeye düşmesi başka bir şekilde önlenemiyorsa..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 361 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

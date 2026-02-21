@@ -2,7 +2,7 @@
 slug: "hmk-madde-187"
 title: "HMK Madde 187: MADDE 187- (1) İspatın konusunu tarafların üzerinde anlaşamadıkları ve uyuşmazlı..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 187 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

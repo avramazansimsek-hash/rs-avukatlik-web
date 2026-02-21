@@ -2,7 +2,7 @@
 slug: "ttk-madde-1059"
 title: "TTK Madde 1059: MADDE 1059- (1) Sicile kayıtlı gemiler üzerinde intifa hakkı kurulabilir...."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1059 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

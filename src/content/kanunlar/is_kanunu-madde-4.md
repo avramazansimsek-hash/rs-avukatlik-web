@@ -1,8 +1,8 @@
 ---
 slug: "is_kanunu-madde-4"
-title: "IS_KANUNU Madde 4: Madde 4 - Mülga 3008 sayılı İş Kanununun 13 üncü maddesi hükümleri haklarında uy..."
+title: "IS_KANUNU Madde 4: Madde 4 -Aşağıda belirtilen işlerde ve iş ilişkilerinde bu Kanun hükümleri uygul..."
 category: "İş Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İş Kanunu Madde 4 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 
@@ -11,13 +11,45 @@ excerpt: "İş Kanunu Madde 4 tam metni, gerekçesi ve Av. Ramazan Şimşek'in h
 ## Kanun Metni
 
 ```text
-Madde 4 - Mülga 3008 sayılı İş Kanununun 13 üncü maddesi hükümleri haklarında uygulanmayanlar için, bu Kanunun geçici 6 ncı maddesinde sözü edilen kıdem tazminatı hakkı 12.8.1967 tarihinden itibaren başlar.
+Madde 4 -Aşağıda belirtilen işlerde ve iş ilişkilerinde bu Kanun hükümleri uygulanmaz;
 
-İlk defa bu Kanun kapsamına girenlerin kıdem tazminatı hakları bu Kanunun yürürlüğe girdiği tarihten itibaren başlar.
+a) Deniz ve hava taşıma işlerinde,
+
+b) 50'den az işçi çalıştırılan (50 dahil) tarım ve orman işlerinin yapıldığı işyerlerinde veya işletmelerinde,
+
+c) Aile ekonomisi sınırları içinde kalan tarımla ilgili her çeşit yapı işleri,
+
+d) Bir ailenin üyeleri ve 3 üncü dereceye kadar (3 üncü derece dahil) hısımları arasında dışardan başka biri katılmayarak evlerde ve el sanatlarının yapıldığı işlerde,
+
+e) Ev hizmetlerinde,
+
+f) (…)[4] çıraklar hakkında,
+
+g) Sporcular hakkında,
+
+h) Rehabilite edilenler hakkında,
+
+ı) 507 sayılı Esnaf ve Sanatkârlar Kanununun 2 nci maddesinin tarifine uygun üç kişinin çalıştığı işyerlerinde.
+
+Şu kadar ki;
+
+a) Kıyılarda veya liman ve iskelelerde gemilerden karaya ve karadan gemilere yapılan yükleme ve boşaltma işleri,
+
+b) Havacılığın bütün yer tesislerinde yürütülen işler,
+
+c) Tarım sanatları ile tarım aletleri, makine ve parçalarının yapıldığı atölye ve fabrikalarda görülen işler,
+
+d) Tarım işletmelerinde yapılan yapı işleri,
+
+e) Halkın faydalanmasına açık veya işyerinin eklentisi durumunda olan park ve bahçe işleri,
+
+f) Deniz İş Kanunu kapsamına girmeyen ve tarım işlerinden sayılmayan, denizlerde çalışan su ürünleri üreticileri ile ilgili işler,
+
+Bu Kanun hükümlerine tabidir.
 
  
 
-Geçici
+Eşit davranma ilkesi
 ```
 
 

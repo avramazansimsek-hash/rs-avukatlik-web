@@ -2,7 +2,7 @@
 slug: "tmk-madde-22"
 title: "TMK Madde 22: Madde 22- Bir öğretim kurumuna devam etmek için bir yerde bulunma ya da eğitim,..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 22 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

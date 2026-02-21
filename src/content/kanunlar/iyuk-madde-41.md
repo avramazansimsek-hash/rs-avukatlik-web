@@ -2,7 +2,7 @@
 slug: "iyuk-madde-41"
 title: "IYUK Madde 41: Madde 41 – Bağlantı iddiaları mahkemelerce kabul edilmediği takdirde, bu hususta..."
 category: "İdari Yargılama Usulü Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İdari Yargılama Usulü Kanunu Madde 41 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

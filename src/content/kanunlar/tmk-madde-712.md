@@ -2,7 +2,7 @@
 slug: "tmk-madde-712"
 title: "TMK Madde 712: Madde 712- Geçerli bir hukukî sebep olmaksızın tapu kütüğüne malik olarak yazıla..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 712 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

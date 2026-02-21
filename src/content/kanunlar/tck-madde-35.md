@@ -2,7 +2,7 @@
 slug: "tck-madde-35"
 title: "TCK Madde 35: Madde 35- (1) Kişi, işlemeyi kastettiği bir suçu elverişli hareketlerle doğrudan..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 35 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-75"
 title: "TTK Madde 75: MADDE 75- (1) Gerçekleşmesi şüpheli yükümlülük ve askıdaki işlemlerden doğabilec..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 75 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

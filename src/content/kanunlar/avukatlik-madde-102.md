@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-102"
 title: "AVUKATLIK Madde 102: Madde 102 – Baro saymanı, baronun mallarını başkanlık divanı kararları gereğince..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 102 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

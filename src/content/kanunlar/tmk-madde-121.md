@@ -2,7 +2,7 @@
 slug: "tmk-madde-121"
 title: "TMK Madde 121: Madde 121- Nişanın bozulması yüzünden kişilik hakkı saldırıya uğrayan taraf, kus..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 121 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

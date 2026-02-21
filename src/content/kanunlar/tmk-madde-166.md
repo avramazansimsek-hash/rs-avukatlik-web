@@ -2,7 +2,7 @@
 slug: "tmk-madde-166"
 title: "TMK Madde 166: Madde 166- Evlilik birliği, ortak hayatı sürdürmeleri kendilerinden beklenmeyece..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 166 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

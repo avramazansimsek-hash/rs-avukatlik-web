@@ -2,7 +2,7 @@
 slug: "tmk-madde-519"
 title: "TMK Madde 519: Madde 519- Tereke mevcudunu veya tasarrufu yerine getirme yükümlüsüne yapılan ka..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 519 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

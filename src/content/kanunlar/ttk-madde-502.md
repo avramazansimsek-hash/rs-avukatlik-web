@@ -2,7 +2,7 @@
 slug: "ttk-madde-502"
 title: "TTK Madde 502: MADDE 502- (1) Genel kurul, esas sözleşme uyarınca veya esas sözleşmeyi değiştir..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 502 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

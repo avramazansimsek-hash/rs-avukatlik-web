@@ -2,7 +2,7 @@
 slug: "ktk-madde-60"
 title: "KTK Madde 60: Madde 60 – Taşıt yolu üzerinde;..."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 60 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

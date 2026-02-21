@@ -2,7 +2,7 @@
 slug: "cmk-madde-215"
 title: "CMK Madde 215: Madde 215 – (1) Suç ortağının, tanığın veya bilirkişinin dinlenmesinden ve herha..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 215 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

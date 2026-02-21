@@ -2,7 +2,7 @@
 slug: "ttk-madde-837"
 title: "TTK Madde 837: MADDE 837- (1) Makbuz senedi ve varantın hamili, giderleri kendisine ait olmak ü..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 837 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

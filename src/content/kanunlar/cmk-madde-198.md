@@ -2,7 +2,7 @@
 slug: "cmk-madde-198"
 title: "CMK Madde 198: Madde 198 – (1) Duruşma, sanık hazır bulunmaksızın yapılırsa, mahkemenin karar v..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 198 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

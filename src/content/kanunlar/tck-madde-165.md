@@ -2,7 +2,7 @@
 slug: "tck-madde-165"
 title: "TCK Madde 165: Madde 165 - (Değişik: 26/6/2009 – 5918/3 md.)..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 165 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-789"
 title: "TMK Madde 789: Madde 789- Tarla yolu, yaya veya araba geçidi gibi geçit hakları ile hayvan otla..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 789 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "cmk-madde-210"
 title: "CMK Madde 210: Madde 210 – (1) Olayın delili, bir tanığın açıklamalarından ibaret ise, bu tanık..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 210 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

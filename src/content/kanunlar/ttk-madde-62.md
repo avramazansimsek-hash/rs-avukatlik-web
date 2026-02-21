@@ -2,7 +2,7 @@
 slug: "ttk-madde-62"
 title: "TTK Madde 62: MADDE 62- (1) a) 55 inci maddede yazılı haksız rekabet fiillerinden birini kaste..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 62 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

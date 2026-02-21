@@ -2,7 +2,7 @@
 slug: "hmk-madde-335"
 title: "HMK Madde 335: MADDE 335- (1) Adli yardım kararı, ilgiliye, aşağıdaki hususları sağlar:..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 335 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

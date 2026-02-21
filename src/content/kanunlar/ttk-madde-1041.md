@@ -2,7 +2,7 @@
 slug: "ttk-madde-1041"
 title: "TTK Madde 1041: MADDE 1041- (1) Gemi ipoteğinin içeriğinin değiştirilmesi için malik ile alacakl..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1041 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

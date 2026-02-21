@@ -2,7 +2,7 @@
 slug: "ttk-madde-418"
 title: "TTK Madde 418: MADDE 418- (1) Genel kurullar, bu Kanunda veya esas sözleşmede, aksine daha ağır..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 418 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

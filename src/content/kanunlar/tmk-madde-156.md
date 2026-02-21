@@ -2,7 +2,7 @@
 slug: "tmk-madde-156"
 title: "TMK Madde 156: Madde 156- Batıl bir evlilik ancak hâkimin kararıyla sona erer. Mutlak butlan hâ..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 156 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

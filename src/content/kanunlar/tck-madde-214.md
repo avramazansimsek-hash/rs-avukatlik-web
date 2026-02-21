@@ -2,7 +2,7 @@
 slug: "tck-madde-214"
 title: "TCK Madde 214: Madde 214- (1) Suç işlemek için alenen tahrikte bulunan kişi, altı aydan beş yıl..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 214 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

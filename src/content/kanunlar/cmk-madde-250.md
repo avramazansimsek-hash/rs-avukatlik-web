@@ -2,7 +2,7 @@
 slug: "cmk-madde-250"
 title: "CMK Madde 250: Madde 250 – (Mülga: 2/7/2012-6352/105 md.) (Başlığı ile Birlikte Yeniden Düzenle..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 250 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

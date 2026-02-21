@@ -2,7 +2,7 @@
 slug: "cmk-madde-217"
 title: "CMK Madde 217: Madde 217 – (1) Hâkim, kararını ancak duruşmaya getirilmiş ve huzurunda tartışıl..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 217 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tbk-madde-236"
 title: "TBK Madde 236: MADDE 236- Borcunu ifa etmeyen alıcı, satıcının bu yüzden uğradığı zararı giderm..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 236 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

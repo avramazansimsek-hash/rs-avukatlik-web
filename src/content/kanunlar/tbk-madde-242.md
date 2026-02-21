@@ -2,7 +2,7 @@
 slug: "tbk-madde-242"
 title: "TBK Madde 242: MADDE 242- Sözleşmeden doğan önalım hakkını kullanmak isteyen hak sahibi, bu hak..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 242 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

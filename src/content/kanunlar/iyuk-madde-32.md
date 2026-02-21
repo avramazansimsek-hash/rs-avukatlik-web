@@ -2,7 +2,7 @@
 slug: "iyuk-madde-32"
 title: "IYUK Madde 32: Madde 32 – 1. Göreve ilişkin hükümler saklı kalmak şartıyla bu Kanunda veya özel..."
 category: "İdari Yargılama Usulü Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İdari Yargılama Usulü Kanunu Madde 32 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

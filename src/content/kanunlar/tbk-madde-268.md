@@ -2,7 +2,7 @@
 slug: "tbk-madde-268"
 title: "TBK Madde 268: MADDE 268- Satıcının sözleşmenin kurulduğu sırada belirlenen toplam satış bedeli..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 268 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "hmk-madde-426"
 title: "HMK Madde 426: MADDE 426- (1) Taraflar aksini kararlaştırmadıkça tahkim davası, hakemlerin seçi..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 426 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-261"
 title: "TMK Madde 261: Madde 261- Bir eşin kişisel malı olduğu ispatlanmadıkça tüm malvarlığı değerleri..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 261 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

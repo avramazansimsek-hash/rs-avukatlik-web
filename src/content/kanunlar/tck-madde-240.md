@@ -2,7 +2,7 @@
 slug: "tck-madde-240"
 title: "TCK Madde 240: Madde 240- (1) Belli bir mal veya hizmeti satmaktan kaçınarak kamu için acil bir..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 240 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

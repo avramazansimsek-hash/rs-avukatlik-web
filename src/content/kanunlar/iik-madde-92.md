@@ -2,7 +2,7 @@
 slug: "iik-madde-92"
 title: "IIK Madde 92: Madde 92 – (Değişik: 18/2/1965-538/51 md.)..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 92 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

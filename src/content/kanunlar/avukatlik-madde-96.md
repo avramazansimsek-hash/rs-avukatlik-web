@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-96"
 title: "AVUKATLIK Madde 96: Madde 96 – Baro başkanı iki yıllık bir görev süresi için seçilir. Yeniden seçilm..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 96 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

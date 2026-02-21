@@ -2,7 +2,7 @@
 slug: "tbk-madde-551"
 title: "TBK Madde 551: MADDE 551- Ticari vekil, bir ticari işletme sahibinin, kendisine ticari temsilci..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 551 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

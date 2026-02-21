@@ -2,7 +2,7 @@
 slug: "tmk-madde-872"
 title: "TMK Madde 872: Madde 872- Sonraki sıralarda kurulmuş bir rehin hakkından önce gelen bir rehin m..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 872 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

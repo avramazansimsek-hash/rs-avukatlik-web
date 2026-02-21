@@ -2,7 +2,7 @@
 slug: "tmk-madde-746"
 title: "TMK Madde 746: Madde 746- Durum değişirse, yükümlü taşınmaz maliki, mecranın kendi yararına ola..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 746 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

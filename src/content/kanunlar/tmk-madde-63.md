@@ -2,7 +2,7 @@
 slug: "tmk-madde-63"
 title: "TMK Madde 63: Madde 63- Hiç kimse, bir derneğe üye olmaya ve hiçbir dernek de üye kabul etmeye..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 63 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-658"
 title: "TMK Madde 658: Madde 658- Mirasçılar özgülenme değeri üzerinde uyuşamazlarsa, bu değer sulh hâk..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 658 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

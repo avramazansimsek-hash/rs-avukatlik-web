@@ -2,7 +2,7 @@
 slug: "cmk-madde-276"
 title: "CMK Madde 276: Madde 276 – (1) İstinaf istemi, kanunî sürenin geçmesinden sonra veya aleyhine i..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 276 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

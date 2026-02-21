@@ -2,7 +2,7 @@
 slug: "ttk-madde-1520"
 title: "TTK Madde 1520: MADDE 1520- (1) 1487 nci maddenin ikinci fıkrası, 1490 ıncı maddenin ikinci fıkr..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1520 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

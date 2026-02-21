@@ -2,7 +2,7 @@
 slug: "cmk-madde-133"
 title: "CMK Madde 133: Madde 133 – (1) Suçun bir şirketin faaliyeti çerçevesinde işlenmekte olduğu husu..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 133 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

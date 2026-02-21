@@ -2,7 +2,7 @@
 slug: "ttk-madde-156"
 title: "TTK Madde 156: MADDE 156- (1) Birleşmeye katılan ve 155 inci maddenin birinci fıkrasında öngörü..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 156 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

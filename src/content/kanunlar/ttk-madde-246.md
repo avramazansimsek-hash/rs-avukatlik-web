@@ -2,7 +2,7 @@
 slug: "ttk-madde-246"
 title: "TTK Madde 246: MADDE 246- (1) Sermaye koyma borcunun yerine getirilmemesinden dolayı fesih dava..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 246 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

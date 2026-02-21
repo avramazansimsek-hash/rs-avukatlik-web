@@ -2,7 +2,7 @@
 slug: "hmk-madde-258"
 title: "HMK Madde 258: MADDE 258- (1) Yemin, tanığın dinlenilmesinden önce eda edilir...."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 258 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-1297"
 title: "TTK Madde 1297: MADDE 1297- (1) Çatmaya dayanan her türlü tazminat istemi, çatmanın meydana geld..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1297 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

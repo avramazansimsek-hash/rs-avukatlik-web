@@ -2,7 +2,7 @@
 slug: "tmk-madde-296"
 title: "TMK Madde 296: Madde 296- Beyanda bulunulan nüfus memuru, sulh hâkimi, noter veya vasiyetnameyi..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 296 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

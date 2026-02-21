@@ -2,7 +2,7 @@
 slug: "hmk-madde-171"
 title: "HMK Madde 171: MADDE 171- (1) İsticvabına karar verilen kimseye bizzat davetiye gönderilir ve b..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 171 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

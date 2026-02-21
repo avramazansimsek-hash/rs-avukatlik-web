@@ -2,7 +2,7 @@
 slug: "hmk-madde-45"
 title: "HMK Madde 45: MADDE 45- (1) Davada görevli zabıt kâtibi hakkında 34 ve 36 ncı maddelerde düzen..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 45 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

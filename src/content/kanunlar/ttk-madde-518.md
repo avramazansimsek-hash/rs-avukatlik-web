@@ -2,7 +2,7 @@
 slug: "ttk-madde-518"
 title: "TTK Madde 518: MADDE 518- (1) Topluluğa ilişkin yıllık faaliyet raporu ana şirketin yönetim kur..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 518 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

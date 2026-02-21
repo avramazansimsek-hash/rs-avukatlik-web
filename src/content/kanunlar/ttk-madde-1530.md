@@ -2,7 +2,7 @@
 slug: "ttk-madde-1530"
 title: "TTK Madde 1530: MADDE 1530- (1) Aksine bir hüküm bulunmadığı takdirde, ticari hükümlerle yasakla..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1530 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

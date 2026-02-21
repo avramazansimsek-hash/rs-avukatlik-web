@@ -2,7 +2,7 @@
 slug: "ttk-madde-718"
 title: "TTK Madde 718: MADDE 718- (1) Kabul, poliçedeki bedelin bir kısmına özgülenmiş bulunup da, bu y..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 718 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

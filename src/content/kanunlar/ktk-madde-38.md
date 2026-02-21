@@ -2,7 +2,7 @@
 slug: "ktk-madde-38"
 title: "KTK Madde 38: Madde 38 – (Değişik: 12/7/2013-6495/15 md.)[30]..."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 38 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

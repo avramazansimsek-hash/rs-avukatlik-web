@@ -2,7 +2,7 @@
 slug: "iik-madde-86"
 title: "IIK Madde 86: Madde 86  – (Değişik: 18/2/1965-538/48 md.)..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 86 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

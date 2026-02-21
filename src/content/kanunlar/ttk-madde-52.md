@@ -2,7 +2,7 @@
 slug: "ttk-madde-52"
 title: "TTK Madde 52: MADDE 52- (1) Ticaret unvanının, ticari dürüstlüğe aykırı biçimde bir başkası ta..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 52 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

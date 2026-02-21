@@ -2,7 +2,7 @@
 slug: "ttk-madde-1464"
 title: "TTK Madde 1464: MADDE 1464- (1) Taraflar sözleşme ile sigorta değerini belirli bir para olarak b..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1464 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

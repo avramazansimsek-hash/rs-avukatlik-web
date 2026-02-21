@@ -2,7 +2,7 @@
 slug: "ttk-madde-429"
 title: "TTK Madde 429: MADDE 429- (1) Tevdi eden temsilcisi, kendisine tevdi edilmiş bulunan pay ve pay..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 429 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

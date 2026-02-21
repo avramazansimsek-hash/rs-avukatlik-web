@@ -2,7 +2,7 @@
 slug: "ttk-madde-468"
 title: "TTK Madde 468: MADDE 468- (1) Değiştirme ve alım hakları, esas sözleşmenin şarta bağlı sermaye..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 468 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

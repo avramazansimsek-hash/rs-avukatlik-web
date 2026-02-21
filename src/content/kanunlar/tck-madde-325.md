@@ -2,7 +2,7 @@
 slug: "tck-madde-325"
 title: "TCK Madde 325: Madde 325- (1) Türkiye ile savaş halinde bulunan bir devletten akademik derece v..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 325 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

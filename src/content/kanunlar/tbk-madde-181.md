@@ -2,7 +2,7 @@
 slug: "tbk-madde-181"
 title: "TBK Madde 181: MADDE 181- Ceza koşuluna ilişkin hükümler, dönme durumunda ifa edilmiş olan kısm..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 181 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

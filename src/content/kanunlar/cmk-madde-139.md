@@ -2,7 +2,7 @@
 slug: "cmk-madde-139"
 title: "CMK Madde 139: Madde 139 – (1) (Değişik: 21/2/2014–6526/13 md.) Soruşturma konusu suçun işlendi..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 139 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

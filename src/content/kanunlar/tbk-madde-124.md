@@ -2,7 +2,7 @@
 slug: "tbk-madde-124"
 title: "TBK Madde 124: MADDE 124- Aşağıdaki durumlarda süre verilmesine gerek yoktur:..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 124 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

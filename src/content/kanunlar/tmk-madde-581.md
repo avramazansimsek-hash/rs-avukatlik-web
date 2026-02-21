@@ -2,7 +2,7 @@
 slug: "tmk-madde-581"
 title: "TMK Madde 581: Madde 581- Vasiyet alacaklısı olabilmek için mirasbırakanın ölümü anında mirasa..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 581 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

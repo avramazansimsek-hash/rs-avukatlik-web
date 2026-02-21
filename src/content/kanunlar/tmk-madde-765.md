@@ -2,7 +2,7 @@
 slug: "tmk-madde-765"
 title: "TMK Madde 765: Madde 765- Taksitle mal satan kimse, bu satımlara ilişkin özel hükümlere uymak k..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 765 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "cmk-madde-241"
 title: "CMK Madde 241: Madde 241 – (1) Katılmadan önce verilmiş olan kararlar katılana tebliğ edilmez...."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 241 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

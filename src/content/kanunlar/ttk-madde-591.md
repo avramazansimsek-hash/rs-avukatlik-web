@@ -2,7 +2,7 @@
 slug: "ttk-madde-591"
 title: "TTK Madde 591: MADDE 591- (1) Şirket sözleşmesinde veya artırma kararında aksi öngörülmemişse,..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 591 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

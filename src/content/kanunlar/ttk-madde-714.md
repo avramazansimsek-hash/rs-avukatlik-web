@@ -2,7 +2,7 @@
 slug: "ttk-madde-714"
 title: "TTK Madde 714: MADDE 714- (1) Kabul etmemenin veya ödememenin, kabul etmeme veya ödememe protes..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 714 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

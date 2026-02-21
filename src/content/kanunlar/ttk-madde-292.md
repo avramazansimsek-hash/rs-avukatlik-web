@@ -2,7 +2,7 @@
 slug: "ttk-madde-292"
 title: "TTK Madde 292: MADDE 292- (1) Tasfiye memurları tasfiyenin gereklerinden olmayan yeni bir işlem..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 292 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-112"
 title: "TMK Madde 112: Madde 112- Haklı sebepler varsa mahkeme, vakfın yönetim organı veya denetim maka..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 112 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

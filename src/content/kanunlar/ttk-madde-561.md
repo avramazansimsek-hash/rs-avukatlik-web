@@ -2,7 +2,7 @@
 slug: "ttk-madde-561"
 title: "TTK Madde 561: MADDE 561- (1) Sorumlular aleyhinde şirketin merkezinin bulunduğu yer asliye tic..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 561 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

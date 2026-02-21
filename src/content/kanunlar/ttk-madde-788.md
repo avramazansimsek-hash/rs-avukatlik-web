@@ -2,7 +2,7 @@
 slug: "ttk-madde-788"
 title: "TTK Madde 788: MADDE 788- (1) Açıkça “emre yazılı” kaydıyla veya bu kayıt olmadan belirli bir k..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 788 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

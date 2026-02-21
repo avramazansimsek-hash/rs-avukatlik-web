@@ -2,7 +2,7 @@
 slug: "tck-madde-57"
 title: "TCK Madde 57: Madde 57- (1) Fiili işlediği sırada akıl hastası olan kişi hakkında, koruma ve t..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 57 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-295"
 title: "TMK Madde 295: Madde 295- Tanıma, babanın, nüfus memuruna veya mahkemeye yazılı başvurusu ya da..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 295 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

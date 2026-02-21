@@ -2,7 +2,7 @@
 slug: "tmk-madde-316"
 title: "TMK Madde 316: Madde 316- Evlât edinmeye, ancak esaslı sayılan her türlü durum ve koşulların ka..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 316 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

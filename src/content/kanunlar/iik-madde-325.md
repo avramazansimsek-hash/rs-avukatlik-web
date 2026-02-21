@@ -2,7 +2,7 @@
 slug: "iik-madde-325"
 title: "IIK Madde 325: Madde 325 – İcra mahkemesi fevkalade mühleti verirken komiserin, yoksa bizzat ic..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 325 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

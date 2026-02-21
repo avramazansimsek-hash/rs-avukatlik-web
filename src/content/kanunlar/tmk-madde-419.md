@@ -2,7 +2,7 @@
 slug: "tmk-madde-419"
 title: "TMK Madde 419: Madde 419- Vesayet makamı, gecikmeksizin vasi atamakla yükümlüdür...."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 419 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

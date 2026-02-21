@@ -2,7 +2,7 @@
 slug: "iik-madde-138"
 title: "IIK Madde 138: Madde 138 – Mahcuz mallar tamamiyle satıldıkta bedelleri alakadarlara hisselerin..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 138 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-1496"
 title: "TTK Madde 1496: MADDE 1496- (1) En az on kişiden oluşan, sigorta ettiren tarafından, belirli kıs..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1496 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

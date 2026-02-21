@@ -2,7 +2,7 @@
 slug: "cmk-madde-299"
 title: "CMK Madde 299: Madde 299 – (1) On yıl veya daha fazla hapis cezasına ilişkin hükümlerde, Yargıt..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 299 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

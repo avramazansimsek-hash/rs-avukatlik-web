@@ -2,7 +2,7 @@
 slug: "ttk-madde-826"
 title: "TTK Madde 826: MADDE 826- (1) Senet metninde poliçe olarak gösterilmemekle beraber, açıkça emre..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 826 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

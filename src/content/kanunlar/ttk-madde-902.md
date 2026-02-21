@@ -2,7 +2,7 @@
 slug: "ttk-madde-902"
 title: "TTK Madde 902: MADDE 902- (1) Bu Kitabın Birinci ve İkinci Kısım hükümleri, aşağıdaki şartların..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 902 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-681"
 title: "TMK Madde 681: Madde 681- Mirasçılar, bölünmesine veya nakline alacaklı tarafından açık veya ör..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 681 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

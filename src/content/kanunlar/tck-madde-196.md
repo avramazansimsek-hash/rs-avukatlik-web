@@ -2,7 +2,7 @@
 slug: "tck-madde-196"
 title: "TCK Madde 196: Madde 196- (1) Ölü gömülmesine ayrılan yerlerden başka yerlere ölü gömen veya gö..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 196 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

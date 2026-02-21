@@ -2,7 +2,7 @@
 slug: "tck-madde-27"
 title: "TCK Madde 27: Madde 27- (1) Ceza sorumluluğunu kaldıran nedenlerde sınırın kast olmaksızın aşı..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 27 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

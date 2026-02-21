@@ -2,7 +2,7 @@
 slug: "tbk-madde-578"
 title: "TBK Madde 578: MADDE 578- Konaklayan zararını öğrenir öğrenmez işletene bildirmezse, istem hakk..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 578 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

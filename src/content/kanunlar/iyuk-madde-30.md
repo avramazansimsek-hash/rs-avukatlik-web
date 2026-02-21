@@ -2,7 +2,7 @@
 slug: "iyuk-madde-30"
 title: "IYUK Madde 30: Madde 30 – 1. İki tarafın adı ve soyadı ile sıfatı ve iddiaları sonucuna ilişkin..."
 category: "İdari Yargılama Usulü Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İdari Yargılama Usulü Kanunu Madde 30 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

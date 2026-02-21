@@ -2,7 +2,7 @@
 slug: "tck-madde-160"
 title: "TCK Madde 160: Madde 160- (1) Kaybedilmiş olması nedeniyle malikinin zilyedliğinden çıkmış olan..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 160 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

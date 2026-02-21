@@ -2,7 +2,7 @@
 slug: "tmk-madde-196"
 title: "TMK Madde 196: Madde 196 - Eşlerden birinin istemi üzerine hâkim, ailenin geçimi için her birin..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 196 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

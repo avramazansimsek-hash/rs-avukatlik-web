@@ -2,7 +2,7 @@
 slug: "ttk-madde-951"
 title: "TTK Madde 951: MADDE 951- (1) 947 ilâ 950 nci maddelerde tanımlanan suçlar dolayısıyla cezaya h..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 951 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

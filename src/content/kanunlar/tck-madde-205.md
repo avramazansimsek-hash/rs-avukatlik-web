@@ -2,7 +2,7 @@
 slug: "tck-madde-205"
 title: "TCK Madde 205: Madde 205- (1) Gerçek bir resmi belgeyi bozan, yok eden veya gizleyen kişi, iki..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 205 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

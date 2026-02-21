@@ -2,7 +2,7 @@
 slug: "tck-madde-313"
 title: "TCK Madde 313: Madde 313- (1) Halkı, Türkiye Cumhuriyeti Hükûmetine karşı silahlı bir isyana ta..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 313 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

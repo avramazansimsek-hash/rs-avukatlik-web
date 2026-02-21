@@ -2,7 +2,7 @@
 slug: "ttk-madde-777"
 title: "TTK Madde 777: MADDE 777- (1) İkinci ilâ dördüncü fıkralarda yazılı hâller saklı kalmak üzere,..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 777 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

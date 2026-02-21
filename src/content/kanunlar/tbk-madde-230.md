@@ -2,7 +2,7 @@
 slug: "tbk-madde-230"
 title: "TBK Madde 230: MADDE 230- Birden çok mal veya birden çok parçadan oluşan bir mal, birlikte satı..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 230 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

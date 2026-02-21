@@ -2,7 +2,7 @@
 slug: "tbk-madde-644"
 title: "TBK Madde 644: MADDE 644- Ortaklığın sona ermesi hâlinde tasfiye, yönetici olmayan ortaklar da..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 644 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

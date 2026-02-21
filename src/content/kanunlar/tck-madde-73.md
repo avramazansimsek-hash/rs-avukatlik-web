@@ -2,7 +2,7 @@
 slug: "tck-madde-73"
 title: "TCK Madde 73: Madde 73- (1) Soruşturulması ve kovuşturulması şikayete bağlı olan suç hakkında..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 73 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

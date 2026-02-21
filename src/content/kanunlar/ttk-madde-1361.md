@@ -2,7 +2,7 @@
 slug: "ttk-madde-1361"
 title: "TTK Madde 1361: MADDE 1361- (1) İhtiyati haciz kararı veren mahkeme, haksız çıkan alacaklı aleyh..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1361 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

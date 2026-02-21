@@ -2,7 +2,7 @@
 slug: "ttk-madde-597"
 title: "TTK Madde 597: MADDE 597- (1) Kanunda veya şirket sözleşmesinde esas sermaye payının bedeli ola..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 597 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ktk-madde-49"
 title: "KTK Madde 49: Madde 49 – Ticari amaçla yük ve yolcu taşıyan motorlu taşıt sürücülerinin, taşıt..."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 49 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

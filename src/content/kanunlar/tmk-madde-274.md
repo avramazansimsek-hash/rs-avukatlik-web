@@ -2,7 +2,7 @@
 slug: "tmk-madde-274"
 title: "TMK Madde 274: Madde 274- Bir eşin kişisel malı veya ortaklık malıyla bir başka mal kesimine gi..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 274 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

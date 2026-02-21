@@ -2,7 +2,7 @@
 slug: "hmk-madde-374"
 title: "HMK Madde 374: MADDE 374- (1) Yargılamanın iadesi, kesin olarak verilen veya kesinleşmiş olan h..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 374 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

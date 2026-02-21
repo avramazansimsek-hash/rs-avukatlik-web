@@ -2,7 +2,7 @@
 slug: "ttk-madde-508"
 title: "TTK Madde 508: MADDE 508- (1) Esas sözleşmede aksine bir hüküm yoksa, kâr ve tasfiye payı pay s..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 508 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

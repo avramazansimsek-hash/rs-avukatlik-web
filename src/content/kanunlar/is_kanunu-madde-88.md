@@ -2,7 +2,7 @@
 slug: "is_kanunu-madde-88"
 title: "IS_KANUNU Madde 88: Madde 88 – (Mülga: 20/6/2012-6331/37 md.)..."
 category: "İş Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İş Kanunu Madde 88 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

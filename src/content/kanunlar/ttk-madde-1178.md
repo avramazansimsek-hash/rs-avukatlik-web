@@ -2,7 +2,7 @@
 slug: "ttk-madde-1178"
 title: "TTK Madde 1178: MADDE 1178- (1) Taşıyan, navlun sözleşmesinin ifasında, özellikle eşyanın yüklet..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1178 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

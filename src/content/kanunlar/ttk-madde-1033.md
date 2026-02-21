@@ -2,7 +2,7 @@
 slug: "ttk-madde-1033"
 title: "TTK Madde 1033: MADDE 1033- (1) Alacağın muacceliyet kazanması bildirime bağlı ise, bildirim, an..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1033 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

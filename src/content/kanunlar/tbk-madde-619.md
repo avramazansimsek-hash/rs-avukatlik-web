@@ -2,7 +2,7 @@
 slug: "tbk-madde-619"
 title: "TBK Madde 619: MADDE 619- Bakım alacaklısı, hakkını başkasına devredemez...."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 619 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

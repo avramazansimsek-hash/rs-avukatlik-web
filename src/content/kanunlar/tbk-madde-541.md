@@ -2,7 +2,7 @@
 slug: "tbk-madde-541"
 title: "TBK Madde 541: MADDE 541- Komisyoncunun, sattığı malın bedeli ve satın aldığı mal üzerinde hapi..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 541 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

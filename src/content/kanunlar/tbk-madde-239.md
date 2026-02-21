@@ -2,7 +2,7 @@
 slug: "tbk-madde-239"
 title: "TBK Madde 239: MADDE 239- Aksine anlaşma olmadıkça, sözleşmeden doğan önalım, alım ve geri alım..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 239 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

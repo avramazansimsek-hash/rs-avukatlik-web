@@ -2,7 +2,7 @@
 slug: "cmk-madde-32"
 title: "CMK Madde 32: Madde 32 – (1) Bu Bölümde yazılı hükümler zabıt kâtipleri hakkında da uygulanır...."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 32 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

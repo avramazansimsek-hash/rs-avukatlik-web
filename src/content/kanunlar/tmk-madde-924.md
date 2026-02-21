@@ -2,7 +2,7 @@
 slug: "tmk-madde-924"
 title: "TMK Madde 924: Madde 924- İpotekli borç senedindeki veya irat senedindeki alacağın devri, rehin..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 924 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

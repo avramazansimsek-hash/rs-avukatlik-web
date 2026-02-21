@@ -2,7 +2,7 @@
 slug: "ttk-madde-856"
 title: "TTK Madde 856: MADDE 856- (1) Taşıma senedi taraflardan birinin istemi üzerine düzenlenir. Sene..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 856 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

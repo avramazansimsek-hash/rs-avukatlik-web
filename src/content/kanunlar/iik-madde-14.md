@@ -1,8 +1,8 @@
 ---
 slug: "iik-madde-14"
-title: "IIK Madde 14: Madde 14..."
+title: "IIK Madde 14: Madde 14 – (Değişik: 18/2/1965-538/10 md.)..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 14 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 
@@ -11,46 +11,17 @@ excerpt: "İcra ve İflas Kanunu Madde 14 tam metni, gerekçesi ve Av. Ramazan �
 ## Kanun Metni
 
 ```text
-Madde 14
+Madde 14 – (Değişik: 18/2/1965-538/10 md.)
 
-	
+Bu kanunun uygulama şekli (…)12, icra ve iflas daireleri ile icra mahkemelerinde tutulacak defterlerle dosyaların ve diğer basılı kağıtların düzenlenme şekilleri Adalet Bakanlığınca hazırlanacak yönetmelikle tayin ve tesbit olunur.[12]
 
-15/3/2018
+(İkinci fıkra mülga: 6/6/1985-3222/47 md.)
 
+(Ek fıkra: 17/7/2003-4949/3 md.) Yargıtay, icra ve iflâs işlerine ait kararların tamamını düzenli olarak yayımlar. Buna ilişkin esaslar Yargıtay tarafından yönetmelikle düzenlenir.
 
+ 
 
-
-7141
-
-	
-
-362/a
-
-	
-
-18/5/2018
-
-
-
-
-KHK/698
-
-	
-
-14, 317, 318, 330
-
-	
-
-24/6/2018 tarihinde birlikte yapılan Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimleri sonucunda Cumhurbaşkanının andiçerek göreve başladığı tarihte
-
-
-
-
-7155
-
-	
-
-8/a, 78, 89, 286, 287, 290, 292, Geçici
+Harçlar:
 ```
 
 

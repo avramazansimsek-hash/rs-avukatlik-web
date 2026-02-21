@@ -2,7 +2,7 @@
 slug: "is_kanunu-madde-106"
 title: "IS_KANUNU Madde 106: Madde 106 - Bu Kanunun 90 ıncı maddesinde öngörülen izni almadan faaliyet göster..."
 category: "İş Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İş Kanunu Madde 106 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

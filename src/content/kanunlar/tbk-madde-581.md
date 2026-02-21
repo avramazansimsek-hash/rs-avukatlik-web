@@ -2,7 +2,7 @@
 slug: "tbk-madde-581"
 title: "TBK Madde 581: MADDE 581- Kefalet sözleşmesi, kefilin alacaklıya karşı, borçlunun borcunu ifa e..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 581 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

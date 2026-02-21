@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-151"
 title: "AVUKATLIK Madde 151: Madde 151 – Disiplin kurulu üyeleri, Ceza Muhakemeleri Usulü Kanununda yazılı se..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 151 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

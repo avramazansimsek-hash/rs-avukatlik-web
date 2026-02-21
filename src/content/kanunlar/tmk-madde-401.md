@@ -2,7 +2,7 @@
 slug: "tmk-madde-401"
 title: "TMK Madde 401: Madde 401- Aile meclisi üyeleri, görevlerini gereği gibi yerine getireceklerine..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 401 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

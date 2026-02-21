@@ -2,7 +2,7 @@
 slug: "ttk-madde-1181"
 title: "TTK Madde 1181: MADDE 1181- (1) Taşıyan, müşterek avarya hâli hariç, denizde can ve eşya kurtarm..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1181 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

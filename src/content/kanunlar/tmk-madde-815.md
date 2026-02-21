@@ -2,7 +2,7 @@
 slug: "tmk-madde-815"
 title: "TMK Madde 815: Madde 815- Yerel âdetlere göre iyi bir yönetimin gereği olduğu takdirde intifa h..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 815 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

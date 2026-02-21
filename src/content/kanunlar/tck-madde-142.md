@@ -2,7 +2,7 @@
 slug: "tck-madde-142"
 title: "TCK Madde 142: Madde 142- (1) Hırsızlık suçunun;..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 142 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

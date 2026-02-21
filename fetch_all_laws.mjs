@@ -59,28 +59,27 @@ async function scrapeAllLaws() {
             fs.writeFileSync(path.join(OUTPUT_DIR, `${law.short}_raw.txt`), rawText, 'utf-8');
             console.log(`Extracted raw text length for ${law.short}: ${rawText.length}`);
 
-            // Parse articles
-            // regex to find "Madde 1 -" or "Madde 1-" or "Madde 1 - (1)" 
-            // In Turkish law, "Madde [Number]" followed by dash or newline marks a new article.
-            // Using a slightly more robust regex to catch different formats.
-            const matches = rawText.match(/Madde\s+(\d+[A-Za-z]?)\s*[\-\–\n]\s*(.*?)(?=Madde\s+\d+[A-Za-z]?\s*[\-\–\n]|$)/gs);
+            // Use case insensitive and line-start boundaries
+            const regex = /(?:^|\n)\s*Madde\s+(\d+[A-Za-z]?)\s*[\-\–\n]\s*(.*?)(?=(?:^|\n)\s*Madde\s+\d+[A-Za-z]?\s*[\-\–\n]|$)/gsi;
+            const matches = [...rawText.matchAll(regex)];
 
-            if (matches) {
+            if (matches && matches.length > 0) {
                 console.log(`Successfully parsed ${matches.length} articles for ${law.short}!`);
 
                 const jsonArray = [];
-                for (const articleText of matches) {
-                    const cleanText = articleText.trim();
-                    const headerMatch = cleanText.match(/Madde\s+(\d+[A-Za-z]?)/);
-                    if (headerMatch) {
-                        const maddeNo = headerMatch[1];
-                        jsonArray.push({
-                            kanun: law.short,
-                            kanunName: law.name,
-                            madde: maddeNo,
-                            text: cleanText
-                        });
-                    }
+                const seenVars = new Set();
+                for (const match of matches) {
+                    const maddeNo = match[1];
+                    if (seenVars.has(maddeNo)) continue;
+                    seenVars.add(maddeNo);
+
+                    const articleText = match[0].trim();
+                    jsonArray.push({
+                        kanun: law.short,
+                        kanunName: law.name,
+                        madde: maddeNo,
+                        text: articleText
+                    });
                 }
 
                 fs.writeFileSync(

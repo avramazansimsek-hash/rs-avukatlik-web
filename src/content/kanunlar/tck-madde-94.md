@@ -2,7 +2,7 @@
 slug: "tck-madde-94"
 title: "TCK Madde 94: Madde 94- (1) Bir kişiye karşı insan onuruyla bağdaşmayan ve bedensel veya ruhsa..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 94 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

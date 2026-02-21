@@ -2,7 +2,7 @@
 slug: "tck-madde-200"
 title: "TCK Madde 200: Madde 200- (1) Paralarla kıymetli damgaların üretiminde kullanılan alet veya mal..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 200 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

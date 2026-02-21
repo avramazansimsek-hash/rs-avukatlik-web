@@ -2,7 +2,7 @@
 slug: "ttk-madde-984"
 title: "TTK Madde 984: MADDE 984- (1) Tescil edilmiş ayni haklardan doğan istem hakları, tescil devam e..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 984 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

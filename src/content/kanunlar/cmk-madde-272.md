@@ -2,7 +2,7 @@
 slug: "cmk-madde-272"
 title: "CMK Madde 272: Madde 272 – (1) İlk derece mahkemelerinden verilen hükümlere karşı istinaf yolun..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 272 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

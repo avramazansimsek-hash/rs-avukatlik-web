@@ -2,7 +2,7 @@
 slug: "hmk-madde-81"
 title: "HMK Madde 81: MADDE 81- (1) Vekilin azli veya istifasının, mahkeme ve karşı taraf bakımından h..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 81 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

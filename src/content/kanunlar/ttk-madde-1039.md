@@ -2,7 +2,7 @@
 slug: "ttk-madde-1039"
 title: "TTK Madde 1039: MADDE 1039- (1) Malikin, eski alacaklı ile arasında mevcut hukuki ilişkiye dayan..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1039 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

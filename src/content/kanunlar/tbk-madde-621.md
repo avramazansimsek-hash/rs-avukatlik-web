@@ -2,7 +2,7 @@
 slug: "tbk-madde-621"
 title: "TBK Madde 621: MADDE 621- Her ortak, para, alacak veya başka bir mal ya da emek olarak, ortaklı..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 621 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

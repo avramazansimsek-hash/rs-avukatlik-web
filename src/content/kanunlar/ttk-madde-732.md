@@ -2,7 +2,7 @@
 slug: "ttk-madde-732"
 title: "TTK Madde 732: MADDE 732- (1) Zamanaşımı sebebiyle veya poliçeden doğan hakların korunması için..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 732 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -1,8 +1,8 @@
 ---
 slug: "iik-madde-3"
-title: "IIK Madde 3: Madde 3..."
+title: "IIK Madde 3: Madde 3 – İcra ve iflas işleri bir dairede birleştirilebilir...."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 3 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 
@@ -11,33 +11,29 @@ excerpt: "İcra ve İflas Kanunu Madde 3 tam metni, gerekçesi ve Av. Ramazan Ş
 ## Kanun Metni
 
 ```text
-Madde 3
+Madde 3 – İcra ve iflas işleri bir dairede birleştirilebilir.
 
-	
+ 
 
-24/11/2016
+İcra daireleri başkanlığı:
 
+MADDE 3/a- (Ek:24/11/2021-7343/2 md.)
 
+İş yoğunluğunun veya icra dairesi sayısının fazla olduğu illerde Adalet Bakanlığı tarafından, yetki çevresi de belirlenmek suretiyle bir veya birden fazla icra daireleri başkanlığı kurulabilir.
 
+Başkanlıkta bir başkan ile yeteri kadar başkan yardımcısı bulunur. Başkan birinci sınıf olmuş, başkan yardımcısı ise birinci sınıfa ayrılmış adli yargı hâkim ve Cumhuriyet savcıları arasından muvafakatleri alınarak Bakanlıkça atanır. Ayrıca başkanlıkta, yeteri kadar icra başmüdürü, icra müdürü, icra müdür yardımcısı, icra kâtibi ve memur Adalet Bakanlığı tarafından görevlendirilir.
 
-6763
+İcra daireleri başkanı ve başkan yardımcıları hakkında, bu Kanunda hüküm bulunmayan hâllerde 24/2/1983 tarihli ve 2802 sayılı Hâkimler ve Savcılar Kanununun Adalet Bakanlığı merkez kuruluşunda çalışan hâkimlere ilişkin hükümleri uygulanır.
 
-	
+Başkanlık, icra dairelerinin gözetim ve denetimlerini yapar, idari işlerine bakar; mevzuatla verilen görevleri yerine getirir.
 
-363, 364
+Bu madde hükmü iflas daireleri ile iflas dairelerinde çalışan görevliler hakkında da uygulanır.
 
-	
+Bu maddenin uygulanmasına ilişkin usul ve esaslar, Adalet Bakanlığınca yürürlüğe konulan yönetmelikle belirlenir.
 
-2/12/2016
+ 
 
-
-
-
-KHK/694
-
-	
-
-42, Geçici
+İcra mahkemesi:
 ```
 
 

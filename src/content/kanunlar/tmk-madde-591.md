@@ -2,7 +2,7 @@
 slug: "tmk-madde-591"
 title: "TMK Madde 591: Madde 591- Yazımı yapılan tereke mallarından gerekenler mühürlenir. Mühürlenmeye..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 591 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

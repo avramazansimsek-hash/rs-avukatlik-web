@@ -2,7 +2,7 @@
 slug: "cmk-madde-317"
 title: "CMK Madde 317: Madde 317 – (1) Kanun yollarına başvurma hakkındaki genel hükümler, yargılamanın..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 317 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

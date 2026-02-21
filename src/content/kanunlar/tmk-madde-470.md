@@ -2,7 +2,7 @@
 slug: "tmk-madde-470"
 title: "TMK Madde 470: Madde 470- Küçük üzerindeki vesayet, onun ergin olmasıyla kendiliğinden sona ere..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 470 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

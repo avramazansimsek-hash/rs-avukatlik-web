@@ -2,7 +2,7 @@
 slug: "tbk-madde-329"
 title: "TBK Madde 329: MADDE 329- Taraflardan her biri, bir taşınmaza veya taşınır bir yapıya ilişkin k..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 329 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

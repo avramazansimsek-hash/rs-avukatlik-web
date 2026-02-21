@@ -2,7 +2,7 @@
 slug: "iik-madde-301"
 title: "IIK Madde 301: Madde 301- (Başlığı ile Birlikte Değişik: 28/2/2018-7101/29 md.)..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 301 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

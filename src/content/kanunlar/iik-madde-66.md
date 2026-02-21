@@ -2,7 +2,7 @@
 slug: "iik-madde-66"
 title: "IIK Madde 66: Madde 66 – (Değişik: 18/2/1965-538/36 md.)..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 66 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

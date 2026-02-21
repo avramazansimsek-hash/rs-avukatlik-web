@@ -2,7 +2,7 @@
 slug: "tck-madde-143"
 title: "TCK Madde 143: Madde 143- (1) Hırsızlık suçunun gece vakti işlenmesi halinde, verilecek ceza ya..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 143 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

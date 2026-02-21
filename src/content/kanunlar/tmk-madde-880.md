@@ -2,7 +2,7 @@
 slug: "tmk-madde-880"
 title: "TMK Madde 880: Madde 880- Acele karar alınması gereken hâllerde, borçlunun veya diğer bir ilgil..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 880 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-558"
 title: "TTK Madde 558: MADDE 558- (1) İbra kararı genel kurul kararıyla kaldırılamaz. 445 inci madde hü..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 558 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

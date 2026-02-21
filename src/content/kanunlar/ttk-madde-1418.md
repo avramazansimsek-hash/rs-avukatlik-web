@@ -2,7 +2,7 @@
 slug: "ttk-madde-1418"
 title: "TTK Madde 1418: MADDE 1418- (1) Sigortacının iflası hâlinde sigorta sözleşmesi sona erer. Sigort..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1418 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-626"
 title: "TMK Madde 626: Madde 626- Defteri inceleme süresi bittikten sonra her mirasçı, mahkemece bir ay..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 626 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

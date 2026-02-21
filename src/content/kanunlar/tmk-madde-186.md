@@ -2,7 +2,7 @@
 slug: "tmk-madde-186"
 title: "TMK Madde 186: Madde 186- Eşler oturacakları konutu birlikte seçerler...."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 186 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

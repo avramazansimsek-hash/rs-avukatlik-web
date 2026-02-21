@@ -2,7 +2,7 @@
 slug: "hmk-madde-17"
 title: "HMK Madde 17: MADDE 17- (1) Tacirler veya kamu tüzel kişileri, aralarında doğmuş veya doğabile..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 17 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

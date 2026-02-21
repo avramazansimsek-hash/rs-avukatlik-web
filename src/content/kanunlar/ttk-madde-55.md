@@ -2,7 +2,7 @@
 slug: "ttk-madde-55"
 title: "TTK Madde 55: MADDE 55- (1) Aşağıda sayılan hâller haksız rekabet hâllerinin başlıcalarıdır:..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 55 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

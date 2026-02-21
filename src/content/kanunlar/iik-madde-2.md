@@ -1,8 +1,8 @@
 ---
 slug: "iik-madde-2"
-title: "IIK Madde 2: Madde 2..."
+title: "IIK Madde 2: Madde 2 – Her asliye mahkemesinin yargı çevresinde lüzumu kadar iflas dairesi bu..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 2 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 
@@ -11,20 +11,13 @@ excerpt: "İcra ve İflas Kanunu Madde 2 tam metni, gerekçesi ve Av. Ramazan Ş
 ## Kanun Metni
 
 ```text
-Madde 2
+Madde 2 – Her asliye mahkemesinin yargı çevresinde lüzumu kadar iflas dairesi bulunur.
 
-	
+Birinci madde iflasları daireleri hakkında da caridir.
 
-19/2/2014
+ 
 
-
-
-
-6728
-
-	
-
-179, 179/a, 179/b, 179/c, 287, Geçici
+İcra iflas dairelerinin birleştirilmesi:
 ```
 
 

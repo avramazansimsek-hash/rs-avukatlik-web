@@ -2,7 +2,7 @@
 slug: "tck-madde-157"
 title: "TCK Madde 157: Madde 157- (1) Hileli davranışlarla bir kimseyi aldatıp, onun veya başkasının za..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 157 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

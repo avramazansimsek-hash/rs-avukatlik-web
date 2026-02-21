@@ -2,7 +2,7 @@
 slug: "ttk-madde-720"
 title: "TTK Madde 720: MADDE 720- (1) Protestoyu düzenleyen noter poliçenin bir suretini protesto belge..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 720 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

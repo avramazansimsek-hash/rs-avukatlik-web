@@ -2,7 +2,7 @@
 slug: "ttk-madde-719"
 title: "TTK Madde 719: MADDE 719- (1) Poliçeye ilişkin bir edimin birden fazla yükümlü tarafından ifası..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 719 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

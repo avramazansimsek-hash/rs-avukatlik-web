@@ -2,7 +2,7 @@
 slug: "tmk-madde-4"
 title: "TMK Madde 4: Madde 4 - Kanunun takdir yetkisi tanıdığı veya durumun gereklerini ya da haklı s..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 4 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

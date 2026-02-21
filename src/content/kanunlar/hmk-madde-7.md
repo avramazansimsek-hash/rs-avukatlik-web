@@ -2,7 +2,7 @@
 slug: "hmk-madde-7"
 title: "HMK Madde 7: MADDE 7- (1) Davalı birden fazla ise dava, bunlardan birinin yerleşim yeri mahke..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 7 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

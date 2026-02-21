@@ -2,7 +2,7 @@
 slug: "hmk-madde-65"
 title: "HMK Madde 65: MADDE 65- (1) Bir yargılamanın konusu olan hak veya şey üzerinde kısmen ya da ta..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 65 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-388"
 title: "TTK Madde 388: MADDE 388- (1) Şirket kendi paylarını taahhüt edemez...."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 388 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

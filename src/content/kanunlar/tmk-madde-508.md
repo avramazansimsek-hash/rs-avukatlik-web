@@ -2,7 +2,7 @@
 slug: "tmk-madde-508"
 title: "TMK Madde 508: Madde 508- Mirasbırakanın sağlararası karşılıksız kazandırmaları, tenkise tâbi o..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 508 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

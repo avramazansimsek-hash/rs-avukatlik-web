@@ -2,7 +2,7 @@
 slug: "tbk-madde-410"
 title: "TBK Madde 410: MADDE 410- İşçilerin ücretinin dörtte birinden fazlası haczedilemez, başkasına d..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 410 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

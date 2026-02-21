@@ -2,7 +2,7 @@
 slug: "ttk-madde-691"
 title: "TTK Madde 691: MADDE 691- (1) Poliçe vadeye kadar hamil veya poliçeyi elinde bulunduran herkes..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 691 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

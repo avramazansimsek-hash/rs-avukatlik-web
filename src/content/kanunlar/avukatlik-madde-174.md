@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-174"
 title: "AVUKATLIK Madde 174: Madde 174 – Üzerine aldığı işi haklı bir sebep olmaksızın takipten vazgeçen avuk..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 174 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

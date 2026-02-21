@@ -2,7 +2,7 @@
 slug: "tbk-madde-397"
 title: "TBK Madde 397: MADDE 397- İşçi, üstlendiği işin görülmesi sırasında üçüncü kişiden işveren için..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 397 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

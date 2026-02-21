@@ -2,7 +2,7 @@
 slug: "ttk-madde-1000"
 title: "TTK Madde 1000: MADDE 1000- (1) Sicile kaydı gerekirken kaydedilmemiş olan bir gemiyi en az on y..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1000 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

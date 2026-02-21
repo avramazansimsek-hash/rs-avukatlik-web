@@ -2,7 +2,7 @@
 slug: "tmk-madde-762"
 title: "TMK Madde 762: Madde 762- Taşınır mülkiyetinin konusu, nitelikleri itibarıyla taşınabilen maddî..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 762 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

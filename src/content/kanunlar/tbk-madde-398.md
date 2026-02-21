@@ -2,7 +2,7 @@
 slug: "tbk-madde-398"
 title: "TBK Madde 398: MADDE 398- Fazla çalışma, ilgili kanunlarda belirlenen normal çalışma süresinin..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 398 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

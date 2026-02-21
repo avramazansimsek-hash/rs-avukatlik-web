@@ -2,7 +2,7 @@
 slug: "ttk-madde-265"
 title: "TTK Madde 265: MADDE 265- (1) Hakkını elde etmek için sadece paylaşılmamış şirket malvarlığına..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 265 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

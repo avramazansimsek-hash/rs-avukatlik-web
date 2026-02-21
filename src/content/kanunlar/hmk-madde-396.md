@@ -2,7 +2,7 @@
 slug: "hmk-madde-396"
 title: "HMK Madde 396: MADDE 396- (1) Durum ve koşulların değiştiği sabit olursa, talep üzerine ihtiyat..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 396 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

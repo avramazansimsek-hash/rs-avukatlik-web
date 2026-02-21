@@ -2,7 +2,7 @@
 slug: "tck-madde-307"
 title: "TCK Madde 307: Madde 307- (1) Devletin silahlı kuvvetlerine ait olan veya hizmetine verilmiş bu..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 307 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

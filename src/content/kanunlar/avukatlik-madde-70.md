@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-70"
 title: "AVUKATLIK Madde 70: Madde 70 – Nakil isteminin, levhasına yazılmak için başvurulan baroca reddi hali..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 70 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

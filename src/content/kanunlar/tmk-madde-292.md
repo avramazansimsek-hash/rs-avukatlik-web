@@ -2,7 +2,7 @@
 slug: "tmk-madde-292"
 title: "TMK Madde 292: Madde 292- Evlilik dışında doğan çocuk, ana ve babasının birbiriyle evlenmesi hâ..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 292 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

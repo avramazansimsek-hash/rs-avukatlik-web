@@ -2,7 +2,7 @@
 slug: "ktk-madde-95"
 title: "KTK Madde 95: Madde 95 – Sigorta sözleşmesinden veya sigorta sözleşmesine ilişkin kanun hüküml..."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 95 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

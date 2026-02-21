@@ -2,7 +2,7 @@
 slug: "tmk-madde-652"
 title: "TMK Madde 652: Madde 652- Eşlerden birinin ölümü hâlinde tereke malları arasında ev eşyası veya..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 652 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

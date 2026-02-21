@@ -2,7 +2,7 @@
 slug: "tmk-madde-143"
 title: "TMK Madde 143: Madde 143- Evlenme töreni biter bitmez evlendirme memuru eşlere bir aile cüzdanı..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 143 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

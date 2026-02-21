@@ -2,7 +2,7 @@
 slug: "ktk-madde-136"
 title: "KTK Madde 136: Madde 136 – 6085 sayılı Karayolları Trafik Kanunu ile ek ve değişiklikleri ve di..."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 136 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

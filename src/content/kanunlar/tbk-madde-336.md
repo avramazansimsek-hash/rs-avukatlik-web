@@ -2,7 +2,7 @@
 slug: "tbk-madde-336"
 title: "TBK Madde 336: MADDE 336- Taşınmaz kiralarında kiraya veren, işlemiş bir yıllık ve işlemekte ol..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 336 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

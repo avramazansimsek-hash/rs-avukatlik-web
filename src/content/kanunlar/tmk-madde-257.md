@@ -2,7 +2,7 @@
 slug: "tmk-madde-257"
 title: "TMK Madde 257: Madde 257- Genel mal ortaklığında eşlerin kanun gereğince kişisel mal sayılanlar..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 257 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

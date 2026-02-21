@@ -2,7 +2,7 @@
 slug: "ktk-madde-108"
 title: "KTK Madde 108: Madde 108 – (Değişik: 17/10/1996-4199/36 md. ;Mülga: 3/6/2007-5684/45 md.)..."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 108 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tbk-madde-273"
 title: "TBK Madde 273: MADDE 273- Taksitle satışa ilişkin hükümlerden yasal temsilcinin rızasına, sözle..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 273 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

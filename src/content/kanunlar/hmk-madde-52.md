@@ -2,7 +2,7 @@
 slug: "hmk-madde-52"
 title: "HMK Madde 52: MADDE 52- (1) Medenî hakları kullanma ehliyetine sahip olmayanlar davada kanuni..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 52 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

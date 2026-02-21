@@ -2,7 +2,7 @@
 slug: "tmk-madde-65"
 title: "TMK Madde 65: Madde 65- Üyelik için kanunda veya tüzükte aranılan nitelikleri sonradan kaybede..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 65 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

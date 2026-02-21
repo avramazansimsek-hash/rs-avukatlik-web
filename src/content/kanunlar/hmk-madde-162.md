@@ -2,7 +2,7 @@
 slug: "hmk-madde-162"
 title: "HMK Madde 162: MADDE 162- (1) Zabıt kâtibi, yargılamadan evvel ve gerektiği hâllerde dava dosya..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 162 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

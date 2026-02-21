@@ -2,7 +2,7 @@
 slug: "ttk-madde-1180"
 title: "TTK Madde 1180: MADDE 1180- (1) Zarar, geminin sevkine veya başkaca teknik yönetimine ilişkin bi..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1180 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

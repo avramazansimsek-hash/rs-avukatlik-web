@@ -2,7 +2,7 @@
 slug: "ttk-madde-717"
 title: "TTK Madde 717: MADDE 717- (1) Protesto ayrı bir belge hâlinde düzenlenerek poliçeye bağlanır...."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 717 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

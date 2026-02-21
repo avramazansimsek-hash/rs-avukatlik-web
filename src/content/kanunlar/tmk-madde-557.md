@@ -2,7 +2,7 @@
 slug: "tmk-madde-557"
 title: "TMK Madde 557: Madde 557- Aşağıdaki sebeplerle ölüme bağlı bir tasarrufun iptali için dava açıl..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 557 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

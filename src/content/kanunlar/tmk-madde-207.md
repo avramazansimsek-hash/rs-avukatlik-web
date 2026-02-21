@@ -2,7 +2,7 @@
 slug: "tmk-madde-207"
 title: "TMK Madde 207: Madde 207- Yetkili mahkeme eşlerden herhangi birinin yerleşim yeri mahkemesidir...."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 207 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

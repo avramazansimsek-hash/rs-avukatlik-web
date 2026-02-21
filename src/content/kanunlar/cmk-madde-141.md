@@ -2,7 +2,7 @@
 slug: "cmk-madde-141"
 title: "CMK Madde 141: Madde 141 – (1) Suç soruşturması veya kovuşturması sırasında;..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 141 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

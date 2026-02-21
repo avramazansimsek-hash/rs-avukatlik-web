@@ -2,7 +2,7 @@
 slug: "ttk-madde-1052"
 title: "TTK Madde 1052: MADDE 1052- (1) Alacaklının kim olduğu bilinmiyorsa, gemi siciline ipotekle ilgi..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1052 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

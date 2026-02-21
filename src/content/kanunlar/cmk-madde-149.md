@@ -2,7 +2,7 @@
 slug: "cmk-madde-149"
 title: "CMK Madde 149: Madde 149 – (1) Şüpheli veya sanık, soruşturma ve kovuşturmanın her aşamasında b..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 149 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

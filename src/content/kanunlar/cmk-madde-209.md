@@ -2,7 +2,7 @@
 slug: "cmk-madde-209"
 title: "CMK Madde 209: Madde 209 – (1) Naip veya istinabe yoluyla sorgusu yapılan sanığa ait sorgu tuta..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 209 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

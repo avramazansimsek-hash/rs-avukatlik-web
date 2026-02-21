@@ -2,7 +2,7 @@
 slug: "tbk-madde-222"
 title: "TBK Madde 222: MADDE 222- Satıcı, satış sözleşmesinin kurulduğu sırada alıcı tarafından bilinen..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 222 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-1376"
 title: "TTK Madde 1376: MADDE 1376- (1) İcra ve İflas Kanununun 264 üncü maddesinin birinci ve ikinci fı..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1376 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

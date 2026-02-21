@@ -2,7 +2,7 @@
 slug: "tmk-madde-45"
 title: "TMK Madde 45: Madde 45- Gaiplik kararı, hâkimin bildirmesi üzerine, ölüm kütüğüne kaydolunur...."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 45 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

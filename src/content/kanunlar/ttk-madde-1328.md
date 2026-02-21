@@ -2,7 +2,7 @@
 slug: "ttk-madde-1328"
 title: "TTK Madde 1328: MADDE 1328- (1) Deniz alacaklarından doğan sorumluluk, 4/6/1980 tarihli ve 17007..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1328 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

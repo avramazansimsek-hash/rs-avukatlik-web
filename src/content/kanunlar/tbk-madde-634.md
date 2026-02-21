@@ -2,7 +2,7 @@
 slug: "tbk-madde-634"
 title: "TBK Madde 634: MADDE 634- Bir ortağın ortaklıktan çıkması veya çıkarılması durumunda payı, diğe..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 634 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

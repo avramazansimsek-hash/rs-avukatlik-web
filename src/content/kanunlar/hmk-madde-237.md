@@ -2,7 +2,7 @@
 slug: "hmk-madde-237"
 title: "HMK Madde 237: MADDE 237- (1) Hâkim, eksik olan noktaları tamamlamak veya açık olmayan hususlar..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 237 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

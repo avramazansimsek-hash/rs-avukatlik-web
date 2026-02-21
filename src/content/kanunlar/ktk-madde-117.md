@@ -2,7 +2,7 @@
 slug: "ktk-madde-117"
 title: "KTK Madde 117: Madde 117 – (Mülga: 18/1/1985 – KHK 245/16 md.; Aynen kabul: 28/3/1985-3176/16 m..."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 117 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-144"
 title: "TMK Madde 144: Madde 144- Evlenme işlemi, evlenme kütüğü, evlenmeye ilişkin yazışma ve evlenme..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 144 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

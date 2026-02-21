@@ -2,7 +2,7 @@
 slug: "kvkk-madde-26"
 title: "KVKK Madde 26: MADDE 26- (1) Kurumda, Kişisel Verileri Koruma Uzmanı ve Kişisel Verileri Koruma..."
 category: "Kişisel Verilerin Korunması Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Kişisel Verilerin Korunması Kanunu Madde 26 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

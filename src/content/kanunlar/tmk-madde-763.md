@@ -2,7 +2,7 @@
 slug: "tmk-madde-763"
 title: "TMK Madde 763: Madde 763- Taşınır mülkiyetinin nakli için zilyetliğin devri gerekir...."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 763 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

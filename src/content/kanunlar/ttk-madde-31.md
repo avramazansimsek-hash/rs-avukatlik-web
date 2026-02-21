@@ -2,7 +2,7 @@
 slug: "ttk-madde-31"
 title: "TTK Madde 31: MADDE 31- (1) Tescil edilmiş hususlarda meydana gelen her türlü değişiklik de te..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 31 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

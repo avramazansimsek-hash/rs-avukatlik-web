@@ -1,8 +1,8 @@
 ---
 slug: "avukatlik-madde-1"
-title: "AVUKATLIK Madde 1: Madde 1..."
+title: "AVUKATLIK Madde 1: Madde 1 – Avukatlık, kamu hizmeti ve serbest bir meslektir...."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 1 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 
@@ -11,20 +11,13 @@ excerpt: "Avukatlık Kanunu Madde 1 tam metni, gerekçesi ve Av. Ramazan Şimşe
 ## Kanun Metni
 
 ```text
-Madde 1
+Madde 1 – Avukatlık, kamu hizmeti ve serbest bir meslektir.
 
-	
+(Değişik ikinci fıkra: 2/5/2001 - 4667/1 md.) Avukat, yargının kurucu unsurlarından olan bağımsız savunmayı serbestçe temsil eder.
 
-4/11/1980
+ 
 
-
-
-
-2442
-
-	
-
-14, Geçici
+Avukatlığın amacı:
 ```
 
 

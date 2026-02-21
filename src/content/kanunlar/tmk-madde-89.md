@@ -2,7 +2,7 @@
 slug: "tmk-madde-89"
 title: "TMK Madde 89: Madde 89- Derneğin amacı, kanuna veya ahlâka aykırı hâle gelirse; Cumhuriyet sav..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 89 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

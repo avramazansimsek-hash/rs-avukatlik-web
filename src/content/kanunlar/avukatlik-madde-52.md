@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-52"
 title: "AVUKATLIK Madde 52: Madde 52 – Avukat, üzerine aldığı her iş yahut yazılı mütalâasına başvurulan her..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 52 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

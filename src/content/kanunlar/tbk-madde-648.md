@@ -2,7 +2,7 @@
 slug: "tbk-madde-648"
 title: "TBK Madde 648: MADDE 648- Bu Kanun 1 Temmuz 2012 tarihinde yürürlüğe girer...."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 648 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-243"
 title: "TMK Madde 243: Madde 243- İspat, borçlardan sorumluluk ve paylı mülkün özgülenmesi konularında..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 243 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

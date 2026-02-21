@@ -2,7 +2,7 @@
 slug: "tbk-madde-433"
 title: "TBK Madde 433: MADDE 433- Taraflar, hizmet sözleşmesine iki ayı aşmamak koşuluyla deneme süresi..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 433 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

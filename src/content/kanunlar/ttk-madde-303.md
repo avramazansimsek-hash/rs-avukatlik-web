@@ -2,7 +2,7 @@
 slug: "ttk-madde-303"
 title: "TTK Madde 303: MADDE 303- (1) Tasfiyenin sona ermesi üzerine, şirketin ticaret unvanının sicild..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 303 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

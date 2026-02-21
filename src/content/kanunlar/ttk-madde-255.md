@@ -2,7 +2,7 @@
 slug: "ttk-madde-255"
 title: "TTK Madde 255: MADDE 255- (1) Bir ortağın kendisinden kaynaklanan sebeplerden dolayı şirketin f..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 255 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

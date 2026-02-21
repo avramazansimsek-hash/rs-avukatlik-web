@@ -2,7 +2,7 @@
 slug: "tmk-madde-766"
 title: "TMK Madde 766: Madde 766- Bir taşınırın mülkiyetini nakleden kimse özel bir hukukî ilişkiye day..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 766 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

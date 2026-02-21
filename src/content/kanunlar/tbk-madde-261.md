@@ -2,7 +2,7 @@
 slug: "tbk-madde-261"
 title: "TBK Madde 261: MADDE 261- Hâkim, temerrüde düşen alıcının borçlarını ödeyeceği konusunda güvenc..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 261 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

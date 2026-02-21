@@ -1,8 +1,8 @@
 ---
 slug: "ktk-madde-15"
-title: "KTK Madde 15: Madde 15..."
+title: "KTK Madde 15: Madde 15 – (Değişik birinci fıkra: 25/6/2010-6001/34 md.) Trafiği düzenlemede ku..."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 15 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 
@@ -11,56 +11,17 @@ excerpt: "Karayolları Trafik Kanunu Madde 15 tam metni, gerekçesi ve Av. Ramaz
 ## Kanun Metni
 
 ```text
-Madde 15
+Madde 15 – (Değişik birinci fıkra: 25/6/2010-6001/34 md.) Trafiği düzenlemede kullanılan işaret levhaları, ışıklı ve sesli işaretler, yer işaretlemeleri ile benzeri trafik işaretleri, karayolunun yapımı, bakımı, işletilmesi ile görevli kuruluşlarca temin ve tesis edilerek sürekliliği ve işlerliği sağlanır.
 
-	
+(İkinci fıkra Mülga: 18/1/1985 - KHK 245/16 md.)
 
-6/6/2008
+Görülen eksiklikler ilgili kuruluşlara bildirilerek giderilmesi sağlatılır.
 
+Trafik işaretlerinin standart, anlam, nicelik ve nitelikleri ile diğer esasları İçişleri Bakanlığının görüşü alınarak Bayındırlık Bakanlığınca çıkarılacak yönetmelikte gösterilir.
 
+ 
 
-
-5795
-
-	
-
-42
-
-	
-
-1/8/2008
-
-
-
-
-5904
-
-	
-
-116
-
-	
-
-3/7/2009
-
-
-
-
-5942
-
-	
-
-20 nci maddenin d bendinin dördüncü paragrafı
-
-	
-
-31/12/2009
-
-
-
-
-İşlenemeyen Hüküm
-Geçici
+Karayolu dışında, kenarında veya üzerindeki diğer levhalar, ışıklar ve işaretlemeler:
 ```
 
 

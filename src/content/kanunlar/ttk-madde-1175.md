@@ -2,7 +2,7 @@
 slug: "ttk-madde-1175"
 title: "TTK Madde 1175: MADDE 1175- (1) Geminin kısımları veya belli yerleri için birden çok taşıtan ile..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1175 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

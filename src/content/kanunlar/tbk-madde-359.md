@@ -2,7 +2,7 @@
 slug: "tbk-madde-359"
 title: "TBK Madde 359: MADDE 359- Kira sözleşmesi, araç ve gereçleri, hayvanları, devredilen eşyayı vey..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 359 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

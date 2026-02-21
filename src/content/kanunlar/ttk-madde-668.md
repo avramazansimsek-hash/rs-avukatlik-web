@@ -2,7 +2,7 @@
 slug: "ttk-madde-668"
 title: "TTK Madde 668: MADDE 668- (1) Banknot ve büyük miktarda çıkarılıp görüldüğünde ödenmesi gereken..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 668 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

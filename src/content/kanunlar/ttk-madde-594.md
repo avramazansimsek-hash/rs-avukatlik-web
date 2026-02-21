@@ -2,7 +2,7 @@
 slug: "ttk-madde-594"
 title: "TTK Madde 594: MADDE 594- (1) Şirket, esas sermaye paylarını içeren bir pay defteri tutar. Orta..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 594 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

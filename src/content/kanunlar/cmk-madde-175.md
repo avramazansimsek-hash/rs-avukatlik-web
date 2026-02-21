@@ -2,7 +2,7 @@
 slug: "cmk-madde-175"
 title: "CMK Madde 175: Madde 175 – (1) İddianamenin kabulüyle, kamu davası açılmış olur ve kovuşturma e..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 175 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

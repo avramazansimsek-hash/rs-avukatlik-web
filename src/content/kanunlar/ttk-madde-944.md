@@ -2,7 +2,7 @@
 slug: "ttk-madde-944"
 title: "TTK Madde 944: MADDE 944- (1) Türkiye dışında bulunan bir gemi Türk Bayrağını çekme hakkını eld..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 944 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

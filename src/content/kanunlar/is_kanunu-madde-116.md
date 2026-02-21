@@ -2,7 +2,7 @@
 slug: "is_kanunu-madde-116"
 title: "IS_KANUNU Madde 116: Madde 116 - (13.6.1952 tarihli ve 5953 sayılı Basın Mesleğinde Çalışanlarla Çalı..."
 category: "İş Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İş Kanunu Madde 116 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

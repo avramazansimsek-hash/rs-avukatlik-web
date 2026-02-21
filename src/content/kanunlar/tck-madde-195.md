@@ -2,7 +2,7 @@
 slug: "tck-madde-195"
 title: "TCK Madde 195: Madde 195- (1) Bulaşıcı hastalıklardan birine yakalanmış veya bu hastalıklardan..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 195 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

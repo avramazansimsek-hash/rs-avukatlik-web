@@ -2,7 +2,7 @@
 slug: "tmk-madde-716"
 title: "TMK Madde 716: Madde 716- Mülkiyetin kazanılmasına esas olacak bir hukukî sebebe dayanarak mali..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 716 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

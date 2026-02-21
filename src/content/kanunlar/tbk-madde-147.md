@@ -2,7 +2,7 @@
 slug: "tbk-madde-147"
 title: "TBK Madde 147: MADDE 147- Aşağıdaki alacaklar için beş yıllık zamanaşımı uygulanır:..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 147 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

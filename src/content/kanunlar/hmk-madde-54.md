@@ -2,7 +2,7 @@
 slug: "hmk-madde-54"
 title: "HMK Madde 54: MADDE 54 - (1) Kanuni temsilciler, davanın açılıp yürütülmesinin belli bir makam..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 54 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

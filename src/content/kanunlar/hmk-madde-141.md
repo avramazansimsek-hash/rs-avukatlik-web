@@ -2,7 +2,7 @@
 slug: "hmk-madde-141"
 title: "HMK Madde 141: MADDE 141- (1) (Değişik:22/7/2020-7251/15 md.) Taraflar, cevaba cevap ve ikinci..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 141 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

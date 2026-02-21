@@ -2,7 +2,7 @@
 slug: "ttk-madde-834"
 title: "TTK Madde 834: MADDE 834- (1) Umumi mağazalara tevdi edilen mal ve hububat karşılığında verilen..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 834 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

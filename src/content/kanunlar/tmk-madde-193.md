@@ -2,7 +2,7 @@
 slug: "tmk-madde-193"
 title: "TMK Madde 193: Madde 193- Kanunda aksine hüküm bulunmadıkça, eşlerden her biri diğeri ve üçüncü..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 193 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

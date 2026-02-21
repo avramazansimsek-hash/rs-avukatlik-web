@@ -2,7 +2,7 @@
 slug: "ktk-madde-42"
 title: "KTK Madde 42: Madde 42 – (Değişik: 12/7/2013-6495/18 md.)..."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 42 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

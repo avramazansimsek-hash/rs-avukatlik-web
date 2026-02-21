@@ -2,7 +2,7 @@
 slug: "tbk-madde-21"
 title: "TBK Madde 21: MADDE 21- Karşı tarafın menfaatine aykırı genel işlem koşullarının sözleşmenin k..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 21 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

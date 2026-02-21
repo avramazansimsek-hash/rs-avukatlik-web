@@ -1,8 +1,8 @@
 ---
 slug: "iik-madde-20"
-title: "IIK Madde 20: Madde 20..."
+title: "IIK Madde 20: Madde 20 – Bu kanunun tayin eylediği müddetleri değiştiren bütün mukaveleler hük..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 20 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 
@@ -11,20 +11,11 @@ excerpt: "İcra ve İflas Kanunu Madde 20 tam metni, gerekçesi ve Av. Ramazan �
 ## Kanun Metni
 
 ```text
-Madde 20
+Madde 20 – Bu kanunun tayin eylediği müddetleri değiştiren bütün mukaveleler hükümsüzdür. Ancak her hangi bir müddetin geçmesinden istifade hakkı olan borçlu bu hakkından vazgeçebilir. Bu vazgeçme üçüncü şahıslara tesir etmez.
 
-	
+ 
 
-4/6/2025
-
-
-
-
-7550
-
-	
-
-Ek
+İcra tebliğleri:
 ```
 
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-1174"
 title: "TTK Madde 1174: MADDE 1174- (1) Gönderilen, eşyayı almaya hazır olduğunu bildirip de boşaltma sü..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1174 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-793"
 title: "TMK Madde 793: Madde 793- Yüklü taşınmazın parsellere bölünmesi hâlinde kural, irtifak hakkının..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 793 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

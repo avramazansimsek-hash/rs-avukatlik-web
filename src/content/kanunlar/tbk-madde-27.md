@@ -2,7 +2,7 @@
 slug: "tbk-madde-27"
 title: "TBK Madde 27: MADDE 27- Kanunun emredici hükümlerine, ahlaka, kamu düzenine, kişilik haklarına..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 27 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

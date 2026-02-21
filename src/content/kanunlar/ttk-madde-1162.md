@@ -2,7 +2,7 @@
 slug: "ttk-madde-1162"
 title: "TTK Madde 1162: MADDE 1162- (1) Geminin belli kısımları veya yerleri için birden çok taşıtan ile..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1162 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

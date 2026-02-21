@@ -2,7 +2,7 @@
 slug: "tmk-madde-586"
 title: "TMK Madde 586: Madde 586- Ortada bulunmayan ve mirasın açıldığı anda sağ olup olmadığı ispat ed..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 586 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

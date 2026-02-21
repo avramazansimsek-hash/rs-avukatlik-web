@@ -2,7 +2,7 @@
 slug: "tmk-madde-821"
 title: "TMK Madde 821: Madde 821- Alacaklı ve intifa hakkı sahibinden birine ödemeye yetkili kılınmamış..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 821 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-773"
 title: "TMK Madde 773: Madde 773- Bilimsel değeri olan sahipsiz doğal şeyler ile eski eserlerin bulunma..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 773 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

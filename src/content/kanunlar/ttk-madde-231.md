@@ -2,7 +2,7 @@
 slug: "ttk-madde-231"
 title: "TTK Madde 231: MADDE 231- (1) Bir ortak 230 uncu maddeye aykırı hareket ederse, şirket, bu orta..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 231 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "hmk-madde-383"
 title: "HMK Madde 383: MADDE 383- (1) Çekişmesiz yargı işlerinde görevli mahkeme, aksine bir düzenleme..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 383 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

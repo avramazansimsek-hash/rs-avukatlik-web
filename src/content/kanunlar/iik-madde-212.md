@@ -2,7 +2,7 @@
 slug: "iik-madde-212"
 title: "IIK Madde 212: Madde 212 – Üçüncü şahısların mülkü olarak gösterilen yahut bunlar tarafından mü..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 212 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

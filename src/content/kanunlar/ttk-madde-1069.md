@@ -2,7 +2,7 @@
 slug: "ttk-madde-1069"
 title: "TTK Madde 1069: MADDE 1069- (1) Gemi müdürünün yönetme hakkı 1070 inci maddeye tabidir. Ancak, o..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1069 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

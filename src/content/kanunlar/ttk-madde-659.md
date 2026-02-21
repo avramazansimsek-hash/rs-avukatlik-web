@@ -2,7 +2,7 @@
 slug: "ttk-madde-659"
 title: "TTK Madde 659: MADDE 659- (1) Borçlu hamile yazılı bir senetten doğan alacağa karşı, ancak sene..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 659 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

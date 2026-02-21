@@ -2,7 +2,7 @@
 slug: "ttk-madde-344"
 title: "TTK Madde 344: MADDE 344- (1) Nakden taahhüt edilen payların itibarî değerlerinin en az yüzde y..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 344 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

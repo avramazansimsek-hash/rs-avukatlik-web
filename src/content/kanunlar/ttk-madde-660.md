@@ -2,7 +2,7 @@
 slug: "ttk-madde-660"
 title: "TTK Madde 660: MADDE 660- (1) Borçlu hamile yazılı faiz kuponlarından doğan alacağa karşı ana p..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 660 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tck-madde-39"
 title: "TCK Madde 39: Madde 39- (1) Suçun işlenmesine yardım eden kişiye, işlenen suçun ağırlaştırılmı..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 39 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

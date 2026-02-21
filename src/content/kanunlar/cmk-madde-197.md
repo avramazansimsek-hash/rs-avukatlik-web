@@ -2,7 +2,7 @@
 slug: "cmk-madde-197"
 title: "CMK Madde 197: Madde 197 – (1) Sanık hazır bulunmasa da müdafii bütün oturumlarda hazır bulunma..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 197 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

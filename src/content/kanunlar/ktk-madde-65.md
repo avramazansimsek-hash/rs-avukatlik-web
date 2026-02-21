@@ -2,7 +2,7 @@
 slug: "ktk-madde-65"
 title: "KTK Madde 65: Madde 65 – (Değişik: 25/6/2010-6001/36 md.)..."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 65 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

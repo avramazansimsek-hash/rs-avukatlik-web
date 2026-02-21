@@ -2,7 +2,7 @@
 slug: "hmk-madde-172"
 title: "HMK Madde 172: MADDE 172- (1) İsticvap olunacak kimsenin bizzat gelmesi gereklidir. Ancak, isti..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 172 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

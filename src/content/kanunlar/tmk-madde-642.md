@@ -2,7 +2,7 @@
 slug: "tmk-madde-642"
 title: "TMK Madde 642: Madde 642- Mirasçılardan her biri, sözleşme veya kanun gereğince ortaklığı sürdü..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 642 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

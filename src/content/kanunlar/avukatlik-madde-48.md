@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-48"
 title: "AVUKATLIK Madde 48: Madde 48 – Avukat veya iş sahibi tarafından vadolunan veya verilen bir ücret yah..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 48 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-1389"
 title: "TTK Madde 1389: MADDE 1389- (1) Türk veya yabancı bayraklı bir gemi, cebrî icra yoluyla satıldığ..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1389 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

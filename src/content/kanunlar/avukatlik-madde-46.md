@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-46"
 title: "AVUKATLIK Madde 46: Madde 46 – (Değişik: 2/5/2001 - 4667/32 md.)..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 46 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

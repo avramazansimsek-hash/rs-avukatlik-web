@@ -2,7 +2,7 @@
 slug: "ktk-madde-79"
 title: "KTK Madde 79: Madde 79- (Değişik: 31/5/2012-6321/2 md.)..."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 79 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-46"
 title: "TTK Madde 46: MADDE 46- (1) Tacirin kimliği, işletmesinin genişliği, önemi ve finansal durumu..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 46 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

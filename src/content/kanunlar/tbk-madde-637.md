@@ -2,7 +2,7 @@
 slug: "tbk-madde-637"
 title: "TBK Madde 637: MADDE 637- Kendi adına ve ortaklık hesabına bir üçüncü kişi ile işlemde bulunan..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 637 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-509"
 title: "TTK Madde 509: MADDE 509- (1) Sermaye için faiz ödenemez...."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 509 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-878"
 title: "TMK Madde 878: Madde 878- İyileştirme, kamu kurum veya kuruluşunun katkısı olmaksızın yapılmış..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 878 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

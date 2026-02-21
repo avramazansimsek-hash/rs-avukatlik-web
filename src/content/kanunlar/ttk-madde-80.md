@@ -2,7 +2,7 @@
 slug: "ttk-madde-80"
 title: "TTK Madde 80: MADDE 80- (1) Değerlemede uygulanacak değerlerin belirlenmesi, tanımları, kapsam..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 80 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-66"
 title: "TTK Madde 66: MADDE 66- (1) Her tacir, ticari işletmesinin açılışında, taşınmazlarını, alacakl..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 66 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

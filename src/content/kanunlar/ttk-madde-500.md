@@ -2,7 +2,7 @@
 slug: "ttk-madde-500"
 title: "TTK Madde 500: MADDE 500- (1) Şirket, iktisap edenin yanlış beyanı sonucu pay defterine yapılan..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 500 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

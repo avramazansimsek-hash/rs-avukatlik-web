@@ -2,7 +2,7 @@
 slug: "tck-madde-278"
 title: "TCK Madde 278: Madde 278- (İptal: Anayasa Mahkemesinin 30/6/2011 tarihli ve E.:2010/52, K.:2011..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 278 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-1287"
 title: "TTK Madde 1287: MADDE 1287- (1) Çatma, umulmayan bir hâl veya mücbir sebep yüzünden meydana gelm..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1287 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

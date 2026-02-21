@@ -2,7 +2,7 @@
 slug: "ttk-madde-1434"
 title: "TTK Madde 1434: MADDE 1434- (1) 1431 inci maddeye uygun olarak istenilen sigorta primini ödemeye..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1434 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

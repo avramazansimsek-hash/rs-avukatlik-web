@@ -2,7 +2,7 @@
 slug: "tck-madde-265"
 title: "TCK Madde 265: Madde 265- (1) Kamu görevlisine karşı görevini yapmasını engellemek amacıyla, ce..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 265 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

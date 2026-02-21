@@ -2,7 +2,7 @@
 slug: "cmk-madde-203"
 title: "CMK Madde 203: Madde 203 – (1) Duruşmanın düzeni, mahkeme başkanı veya hâkim tarafından sağlanı..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 203 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

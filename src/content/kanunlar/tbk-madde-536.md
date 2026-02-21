@@ -2,7 +2,7 @@
 slug: "tbk-madde-536"
 title: "TBK Madde 536: MADDE 536- Komisyoncu, vekâlet verenin izni olmaksızın malı veresiye satar veya..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 536 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

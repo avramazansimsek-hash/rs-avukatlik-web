@@ -2,7 +2,7 @@
 slug: "tmk-madde-1005"
 title: "TMK Madde 1005: Madde 1005- Birden çok bölgede bulunan taşınmaz, diğer bölge sicillerine kayıtlı..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 1005 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

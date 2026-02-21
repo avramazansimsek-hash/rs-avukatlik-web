@@ -2,7 +2,7 @@
 slug: "tmk-madde-694"
 title: "TMK Madde 694: Madde 694- Paylı mülkiyetten doğan veya paylı malı ilgilendiren yönetim giderler..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 694 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

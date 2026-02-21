@@ -2,7 +2,7 @@
 slug: "ttk-madde-113"
 title: "TTK Madde 113: MADDE 113- (1) Acente, acentelik ilişkisinin devamı süresince kendi çabasıyla ve..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 113 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

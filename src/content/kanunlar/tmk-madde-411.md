@@ -2,7 +2,7 @@
 slug: "tmk-madde-411"
 title: "TMK Madde 411: Madde 411- Vesayet işlerinde yetki küçüğün veya kısıtlının yerleşim yerindeki ve..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 411 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

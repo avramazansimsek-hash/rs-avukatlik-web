@@ -2,7 +2,7 @@
 slug: "ttk-madde-637"
 title: "TTK Madde 637: MADDE 637- (1) Sona erme, iflastan ve mahkeme kararından başka bir sebepten iler..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 637 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

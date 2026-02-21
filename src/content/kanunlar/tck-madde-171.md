@@ -2,7 +2,7 @@
 slug: "tck-madde-171"
 title: "TCK Madde 171: Madde 171- (1) Taksirle;..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 171 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

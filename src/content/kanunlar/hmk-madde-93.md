@@ -2,7 +2,7 @@
 slug: "hmk-madde-93"
 title: "HMK Madde 93: MADDE 93- (1) Resmî tatil günleri, süreye dâhildir. Sürenin son gününün resmî ta..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 93 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

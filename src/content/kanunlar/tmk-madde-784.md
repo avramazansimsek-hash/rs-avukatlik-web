@@ -2,7 +2,7 @@
 slug: "tmk-madde-784"
 title: "TMK Madde 784: Madde 784- Yüklü ve yararlanan taşınmazlara aynı kimse malik olursa, bu kişi, ir..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 784 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

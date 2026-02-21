@@ -2,7 +2,7 @@
 slug: "ttk-madde-1479"
 title: "TTK Madde 1479: MADDE 1479- (1) Sigortacı, zarara sebep olan olayın ve zarar miktarının belirlen..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1479 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-861"
 title: "TMK Madde 861: Madde 861- Rehinli bir taşınmaz için bedel olarak ödenen para, alacaklılar arası..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 861 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-847"
 title: "TMK Madde 847: Madde 847- Taşınmaz yükü zamanaşımına tâbi değildir...."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 847 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

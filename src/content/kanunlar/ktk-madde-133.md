@@ -2,7 +2,7 @@
 slug: "ktk-madde-133"
 title: "KTK Madde 133: Madde 133 – Trafiğin ve karayolu yapısının büyük ölçüde etkilendiği karayolların..."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 133 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

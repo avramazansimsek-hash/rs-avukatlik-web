@@ -2,7 +2,7 @@
 slug: "ttk-madde-1497"
 title: "TTK Madde 1497: MADDE 1497- (1) Sigortalının sözleşmenin yapılması sırasında yaşının yanlış bild..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1497 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

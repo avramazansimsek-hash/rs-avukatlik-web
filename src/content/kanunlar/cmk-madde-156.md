@@ -2,7 +2,7 @@
 slug: "cmk-madde-156"
 title: "CMK Madde 156: Madde 156 – (1) 150 nci maddede yazılı olan hâllerde, müdafi;..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 156 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

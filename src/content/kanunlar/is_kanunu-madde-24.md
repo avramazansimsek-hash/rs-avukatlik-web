@@ -2,7 +2,7 @@
 slug: "is_kanunu-madde-24"
 title: "IS_KANUNU Madde 24: Madde 24 - Süresi belirli olsun veya olmasın işçi, aşağıda yazılı hallerde iş sö..."
 category: "İş Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İş Kanunu Madde 24 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

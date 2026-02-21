@@ -2,7 +2,7 @@
 slug: "ttk-madde-1121"
 title: "TTK Madde 1121: MADDE 1121- (1) Sözleşmede aksi kararlaştırılmadıkça, taraflar, gemi kira sözleş..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1121 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

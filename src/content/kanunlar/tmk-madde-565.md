@@ -2,7 +2,7 @@
 slug: "tmk-madde-565"
 title: "TMK Madde 565: Madde 565- Aşağıdaki karşılıksız kazandırmalar, ölüme bağlı tasarruflar gibi ten..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 565 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-810"
 title: "TTK Madde 810: MADDE 810- (1) Hamil, başvurma yolu ile;..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 810 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

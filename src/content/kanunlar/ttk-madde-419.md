@@ -2,7 +2,7 @@
 slug: "ttk-madde-419"
 title: "TTK Madde 419: MADDE 419- (1) Esas sözleşmede aksine herhangi bir düzenleme yoksa, toplantıyı,..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 419 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

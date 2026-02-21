@@ -2,7 +2,7 @@
 slug: "tmk-madde-60"
 title: "TMK Madde 60: Madde 60- Kuruluş bildirimi ve belgelerin doğruluğu ile dernek tüzüğü, en büyük..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 60 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

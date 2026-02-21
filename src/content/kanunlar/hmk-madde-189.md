@@ -2,7 +2,7 @@
 slug: "hmk-madde-189"
 title: "HMK Madde 189: MADDE 189- (1) Taraflar, kanunda belirtilen süre ve usule uygun olarak ispat hak..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 189 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

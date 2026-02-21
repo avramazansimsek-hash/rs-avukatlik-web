@@ -2,7 +2,7 @@
 slug: "hmk-madde-270"
 title: "HMK Madde 270: MADDE 270- (1) Aşağıda sayılmış olan kişi ya da kuruluşlar, bilirkişilik görevin..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 270 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

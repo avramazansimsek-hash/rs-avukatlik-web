@@ -2,7 +2,7 @@
 slug: "tmk-madde-307"
 title: "TMK Madde 307: Madde 307- Evli olmayan kişi otuz yaşını doldurmuş ise tek başına evlât edinebil..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 307 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

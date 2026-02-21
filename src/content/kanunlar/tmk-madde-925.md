@@ -2,7 +2,7 @@
 slug: "tmk-madde-925"
 title: "TMK Madde 925: Madde 925- Rehin senedi irade dışında elden çıkmış veya borcu sona erdirme kastı..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 925 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

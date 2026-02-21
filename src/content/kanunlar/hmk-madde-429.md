@@ -2,7 +2,7 @@
 slug: "hmk-madde-429"
 title: "HMK Madde 429: MADDE 429- (1) Hakem veya hakem kurulu, delillerin ikamesi, sözlü beyanlarda bul..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 429 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-729"
 title: "TTK Madde 729: MADDE 729- (1) Başvurma hakkı olan herkes, poliçede aksine şart bulunmadıkça, ke..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 729 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

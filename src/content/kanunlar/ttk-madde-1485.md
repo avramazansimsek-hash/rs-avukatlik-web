@@ -2,7 +2,7 @@
 slug: "ttk-madde-1485"
 title: "TTK Madde 1485: MADDE 1485- (1) Sorumluluk sigortalarına genel hükümlerle birlikte, 1454 üncü ve..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1485 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

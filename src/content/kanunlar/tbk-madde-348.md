@@ -2,7 +2,7 @@
 slug: "tbk-madde-348"
 title: "TBK Madde 348: MADDE 348- Konut ve çatılı işyeri kiralarında fesih bildiriminin geçerliliği, ya..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 348 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

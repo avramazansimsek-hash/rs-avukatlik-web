@@ -2,7 +2,7 @@
 slug: "hmk-madde-344"
 title: "HMK Madde 344: MADDE 344- (1) İstinaf dilekçesi verilirken, istinaf kanun yoluna başvuru için g..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 344 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

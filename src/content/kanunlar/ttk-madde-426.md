@@ -2,7 +2,7 @@
 slug: "ttk-madde-426"
 title: "TTK Madde 426: MADDE 426- (1) Senede bağlanmamış paylardan, nama yazılı pay senetlerinden ve il..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 426 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

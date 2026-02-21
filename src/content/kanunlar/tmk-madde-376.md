@@ -2,7 +2,7 @@
 slug: "tmk-madde-376"
 title: "TMK Madde 376: Madde 376- Aile malları ortaklığı, ortakları elbirliği ile iktisadî faaliyette b..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 376 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tbk-madde-369"
 title: "TBK Madde 369: MADDE 369- Taraflardan biri, kira ilişkisinin devamını kendisi için çekilmez hâl..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 369 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-684"
 title: "TMK Madde 684: Madde 684- Bir şeye malik olan kimse, o şeyin bütünleyici parçalarına da malik o..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 684 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

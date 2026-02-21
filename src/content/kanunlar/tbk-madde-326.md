@@ -2,7 +2,7 @@
 slug: "tbk-madde-326"
 title: "TBK Madde 326: MADDE 326- Kiracı ve kiraya veren, kira sözleşmesinden doğan alacaklarını takas..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 326 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

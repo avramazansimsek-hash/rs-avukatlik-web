@@ -2,7 +2,7 @@
 slug: "ttk-madde-1310"
 title: "TTK Madde 1310: MADDE 1310- (1) Bir araç veya diğer eşya, bir başka gemi tarafından kurtarılırsa..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1310 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

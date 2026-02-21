@@ -2,7 +2,7 @@
 slug: "tmk-madde-439"
 title: "TMK Madde 439: Madde 439- Kıymetli evrak, değerli eşya, önemli belge ve benzerleri, malvarlığın..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 439 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

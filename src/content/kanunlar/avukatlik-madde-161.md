@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-161"
 title: "AVUKATLIK Madde 161: Madde 161 – Disiplin işlemleri dolayısiyle çağırılan her tanık ve bilirkişinin,..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 161 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

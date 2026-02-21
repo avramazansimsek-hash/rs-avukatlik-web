@@ -2,7 +2,7 @@
 slug: "tmk-madde-259"
 title: "TMK Madde 259: Madde 259 - Eşler, mal rejimi sözleşmesiyle belirli malvarlığı değerlerini veya..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 259 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

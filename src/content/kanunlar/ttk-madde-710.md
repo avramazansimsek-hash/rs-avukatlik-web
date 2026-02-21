@@ -2,7 +2,7 @@
 slug: "ttk-madde-710"
 title: "TTK Madde 710: MADDE 710- (1) Poliçenin hamili, vadeden önce ödemeyi kabulle yükümlü değildir...."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 710 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

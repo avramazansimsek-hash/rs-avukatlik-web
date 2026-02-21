@@ -2,7 +2,7 @@
 slug: "cmk-madde-315"
 title: "CMK Madde 315: Madde 315 – (1) Kanunun aynı maddesinde yer almış sınır içinde olmak üzere cezan..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 315 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

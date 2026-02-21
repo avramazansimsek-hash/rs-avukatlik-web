@@ -2,7 +2,7 @@
 slug: "ttk-madde-931"
 title: "TTK Madde 931: MADDE 931- (1) Tahsis edildiği amaç, suda hareket etmesini gerektiren, yüzme öze..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 931 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

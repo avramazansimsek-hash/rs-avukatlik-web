@@ -2,7 +2,7 @@
 slug: "ktk-madde-80"
 title: "KTK Madde 80: Madde 80 – Trafikle ilgili diğer kurallar ile tehlikeli madde taşıyan araçlar, ç..."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 80 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

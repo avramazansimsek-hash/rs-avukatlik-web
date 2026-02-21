@@ -2,7 +2,7 @@
 slug: "ttk-madde-140"
 title: "TTK Madde 140: MADDE 140- (1) Devrolunan şirketin ortaklarının, mevcut ortaklık paylarını ve ha..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 140 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

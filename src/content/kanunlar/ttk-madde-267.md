@@ -2,7 +2,7 @@
 slug: "ttk-madde-267"
 title: "TTK Madde 267: MADDE 267- (1) Şirket sözleşmesinde farklı bir düzenleme bulunmayan durumlarda t..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 267 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

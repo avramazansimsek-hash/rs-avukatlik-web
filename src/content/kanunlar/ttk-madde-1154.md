@@ -2,7 +2,7 @@
 slug: "ttk-madde-1154"
 title: "TTK Madde 1154: MADDE 1154- (1) Sözleşmede kararlaştırılmışsa taşıyan, eşyanın yükletilmesi için..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1154 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

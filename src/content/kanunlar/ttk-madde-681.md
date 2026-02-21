@@ -2,7 +2,7 @@
 slug: "ttk-madde-681"
 title: "TTK Madde 681: MADDE 681- (1) Her poliçe açıkça emre yazılı olmasa da ciro ve zilyetliğin geçir..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 681 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

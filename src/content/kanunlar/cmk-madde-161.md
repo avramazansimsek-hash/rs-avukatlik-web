@@ -2,7 +2,7 @@
 slug: "cmk-madde-161"
 title: "CMK Madde 161: Madde 161 – (1) Cumhuriyet savcısı, doğrudan doğruya veya emrindeki adlî kolluk..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 161 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-452"
 title: "TMK Madde 452: Madde 452- Vasinin onamadığı işlemlerde taraflardan her biri verdiğini geri iste..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 452 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

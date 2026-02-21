@@ -2,7 +2,7 @@
 slug: "tbk-madde-18"
 title: "TBK Madde 18: MADDE 18- Borcun sebebini içermemiş olsa bile borç tanıması geçerlidir...."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 18 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

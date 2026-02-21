@@ -2,7 +2,7 @@
 slug: "tbk-madde-560"
 title: "TBK Madde 560: MADDE 560- Kıymetli evraka bağlanmış alacağın, hâmile ödenmesi amacıyla yapılan..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 560 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

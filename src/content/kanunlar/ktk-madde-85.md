@@ -2,7 +2,7 @@
 slug: "ktk-madde-85"
 title: "KTK Madde 85: Madde 85 – (Değişik birinci fıkra: 17/10/1996-4199/28 md.) Bir motorlu aracın iş..."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 85 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

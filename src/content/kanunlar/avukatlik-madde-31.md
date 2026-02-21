@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-31"
 title: "AVUKATLIK Madde 31: Madde 31 – (Yeniden düzenleme : 2/5/2001 - 4667/20 md.; Mülga: 28/11/2006-5558/1..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 31 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

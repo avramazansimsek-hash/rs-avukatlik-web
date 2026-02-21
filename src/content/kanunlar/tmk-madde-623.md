@@ -2,7 +2,7 @@
 slug: "tmk-madde-623"
 title: "TMK Madde 623: Madde 623- İlânda belirtilen sürenin dolmasıyla defterin tutulması sona erer ve..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 623 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

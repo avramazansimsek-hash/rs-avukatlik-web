@@ -2,7 +2,7 @@
 slug: "cmk-madde-301"
 title: "CMK Madde 301: Madde 301 – (1) Yargıtay, yalnız temyiz başvurusunda belirtilen hususlar ile tem..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 301 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

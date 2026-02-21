@@ -2,7 +2,7 @@
 slug: "ttk-madde-317"
 title: "TTK Madde 317: MADDE 317- (1) Şirket ve ortakların üçüncü kişilerle olan ilişkilerinde, bu Bölü..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 317 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

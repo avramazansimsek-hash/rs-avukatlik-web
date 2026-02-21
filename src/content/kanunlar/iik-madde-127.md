@@ -2,7 +2,7 @@
 slug: "iik-madde-127"
 title: "IIK Madde 127: Madde 127 – (Değişik: 2/7/2012-6352/30 md.)..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 127 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

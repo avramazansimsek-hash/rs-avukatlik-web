@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-43"
 title: "AVUKATLIK Madde 43: Madde 43 – Her avukat, levhaya yazıldığı tarihten itibaren üç ay içinde baro böl..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 43 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

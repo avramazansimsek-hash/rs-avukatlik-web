@@ -2,7 +2,7 @@
 slug: "tbk-madde-580"
 title: "TBK Madde 580: MADDE 580- İşletenler, kendilerine bırakılan veya konaklama yerlerine, garaj, ot..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 580 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

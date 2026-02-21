@@ -2,7 +2,7 @@
 slug: "ttk-madde-1187"
 title: "TTK Madde 1187: MADDE 1187- (1) Zarara veya teslimdeki gecikmeye, kasten veya pervasızca bir dav..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1187 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

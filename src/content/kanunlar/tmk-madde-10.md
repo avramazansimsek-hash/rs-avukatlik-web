@@ -2,7 +2,7 @@
 slug: "tmk-madde-10"
 title: "TMK Madde 10: Madde 10 - Ayırt etme gücüne sahip ve kısıtlı olmayan her ergin kişinin fiil ehl..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 10 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

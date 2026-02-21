@@ -2,7 +2,7 @@
 slug: "iik-madde-161"
 title: "IIK Madde 161: Madde 161 – İflas talebinde bulunan alacaklı isterse, mahkeme borçluya ait malla..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 161 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

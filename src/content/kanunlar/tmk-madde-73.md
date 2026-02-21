@@ -2,7 +2,7 @@
 slug: "tmk-madde-73"
 title: "TMK Madde 73: Madde 73- Genel kurul, derneğin en yetkili karar organı olup; derneğe kayıtlı üy..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 73 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

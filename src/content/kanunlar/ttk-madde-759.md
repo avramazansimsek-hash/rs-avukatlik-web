@@ -2,7 +2,7 @@
 slug: "ttk-madde-759"
 title: "TTK Madde 759: MADDE 759- (1) Poliçeyi eline geçiren kişi bilinmiyorsa, poliçenin iptaline kara..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 759 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

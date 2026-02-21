@@ -2,7 +2,7 @@
 slug: "tkhk-madde-39"
 title: "TKHK Madde 39: MADDE 39- (1) Konut finansmanı sözleşmesine ilişkin bir hesap açılması ve bu hes..."
 category: "Tüketicinin Korunması Hakkında Kanun"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Tüketicinin Korunması Hakkında Kanun Madde 39 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

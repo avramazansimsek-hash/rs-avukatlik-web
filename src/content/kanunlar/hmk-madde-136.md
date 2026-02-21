@@ -2,7 +2,7 @@
 slug: "hmk-madde-136"
 title: "HMK Madde 136: MADDE 136- (1) Davacı, cevap dilekçesinin kendisine tebliğinden itibaren iki haf..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 136 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

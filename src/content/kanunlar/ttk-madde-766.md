@@ -2,7 +2,7 @@
 slug: "ttk-madde-766"
 title: "TTK Madde 766: MADDE 766- (1) Bir kişinin poliçe ile borçlanması için gereken ehliyet tabi bulu..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 766 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

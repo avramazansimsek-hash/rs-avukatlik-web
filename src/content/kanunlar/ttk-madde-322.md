@@ -2,7 +2,7 @@
 slug: "ttk-madde-322"
 title: "TTK Madde 322: MADDE 322- (1) Komanditer, koymayı taahhüt ettiği sermaye borcunun henüz ödemedi..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 322 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

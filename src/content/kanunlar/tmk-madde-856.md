@@ -2,7 +2,7 @@
 slug: "tmk-madde-856"
 title: "TMK Madde 856: Madde 856- Taşınmaz rehni tapu kütüğüne tescil ile kurulur. Kanunda öngörülen ay..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 856 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

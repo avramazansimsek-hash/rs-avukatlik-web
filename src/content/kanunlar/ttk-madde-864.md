@@ -2,7 +2,7 @@
 slug: "ttk-madde-864"
 title: "TTK Madde 864: MADDE 864- (1) Gönderen, kusuru olmasa da;..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 864 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

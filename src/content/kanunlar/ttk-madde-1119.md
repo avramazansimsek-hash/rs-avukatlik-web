@@ -2,7 +2,7 @@
 slug: "ttk-madde-1119"
 title: "TTK Madde 1119: MADDE 1119- (1) Gemi kira sözleşmesi, kiraya verenin belirli bir süre için gemin..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1119 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

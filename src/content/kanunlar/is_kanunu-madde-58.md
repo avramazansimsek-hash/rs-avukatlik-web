@@ -2,7 +2,7 @@
 slug: "is_kanunu-madde-58"
 title: "IS_KANUNU Madde 58: Madde 58 - Yıllık ücretli iznini kullanmakta olan işçinin izin süresi içinde ücr..."
 category: "İş Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İş Kanunu Madde 58 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

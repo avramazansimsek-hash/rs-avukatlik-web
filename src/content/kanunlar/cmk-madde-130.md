@@ -2,7 +2,7 @@
 slug: "cmk-madde-130"
 title: "CMK Madde 130: Madde 130 – (1) Avukat büroları ancak mahkeme kararı ile ve kararda belirtilen o..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 130 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

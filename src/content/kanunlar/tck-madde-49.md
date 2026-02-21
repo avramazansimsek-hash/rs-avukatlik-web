@@ -2,7 +2,7 @@
 slug: "tck-madde-49"
 title: "TCK Madde 49: Madde 49- (1) Süreli hapis cezası, kanunda aksi belirtilmeyen hallerde bir aydan..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 49 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

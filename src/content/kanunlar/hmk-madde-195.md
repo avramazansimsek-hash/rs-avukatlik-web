@@ -2,7 +2,7 @@
 slug: "hmk-madde-195"
 title: "HMK Madde 195: MADDE 195- (1) Tarafların ellerinde bulunmayan ve incelenmesine karar verilen de..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 195 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

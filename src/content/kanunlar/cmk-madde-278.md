@@ -2,7 +2,7 @@
 slug: "cmk-madde-278"
 title: "CMK Madde 278: Madde 278 – (Değişik: 15/8/2016-KHK-674/14 md.; Aynen kabul: 10/11/2016-6758/14..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 278 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

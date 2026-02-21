@@ -2,7 +2,7 @@
 slug: "ttk-madde-44"
 title: "TTK Madde 44: MADDE 44- (1) Ticari işletmeye sahip olan dernek, vakıf ve diğer tüzel kişilerin..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 44 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

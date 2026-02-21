@@ -2,7 +2,7 @@
 slug: "hmk-madde-37"
 title: "HMK Madde 37: MADDE 37- (1) Hâkim, reddini gerektiren sebeplerden biri varken bizzat çekilmezs..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 37 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

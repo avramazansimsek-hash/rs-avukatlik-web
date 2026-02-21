@@ -2,7 +2,7 @@
 slug: "iik-madde-123"
 title: "IIK Madde 123: Madde 123 – Taşınmazlar, satış talebinden nihayet üç ay içinde icra dairesi tara..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 123 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

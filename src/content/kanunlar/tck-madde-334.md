@@ -2,7 +2,7 @@
 slug: "tck-madde-334"
 title: "TCK Madde 334: Madde 334- (1) Yetkili makamların kanun ve düzenleyici işlemlere göre açıklanmas..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 334 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

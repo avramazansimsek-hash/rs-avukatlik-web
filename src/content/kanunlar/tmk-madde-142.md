@@ -2,7 +2,7 @@
 slug: "tmk-madde-142"
 title: "TMK Madde 142: Madde 142- Evlendirme memuru, evleneceklerden her birine birbiriyle evlenmek ist..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 142 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

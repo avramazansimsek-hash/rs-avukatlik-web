@@ -2,7 +2,7 @@
 slug: "tmk-madde-718"
 title: "TMK Madde 718: Madde 718- Arazi üzerindeki mülkiyet, kullanılmasında yarar olduğu ölçüde, üstün..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 718 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

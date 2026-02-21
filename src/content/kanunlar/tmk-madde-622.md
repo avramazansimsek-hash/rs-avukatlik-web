@@ -2,7 +2,7 @@
 slug: "tmk-madde-622"
 title: "TMK Madde 622: Madde 622- Resmî kayıtlardan veya mirasbırakanın belgelerinden varlığı anlaşılan..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 622 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "hmk-madde-411"
 title: "HMK Madde 411: MADDE 411- (1) Tahkim yargılamasına mahkemelerin yardımı, bu Kısımda açıkça izin..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 411 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

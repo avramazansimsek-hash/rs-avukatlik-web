@@ -2,7 +2,7 @@
 slug: "ttk-madde-108"
 title: "TTK Madde 108: MADDE 108- (1) Acente, yetkisi olmaksızın veya yetki sınırlarını aşarak, müvekki..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 108 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tbk-madde-313"
 title: "TBK Madde 313: MADDE 313- Kiracı, kira bedelini ödemekle yükümlüdür...."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 313 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

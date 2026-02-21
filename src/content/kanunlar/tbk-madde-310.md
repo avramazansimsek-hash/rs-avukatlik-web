@@ -2,7 +2,7 @@
 slug: "tbk-madde-310"
 title: "TBK Madde 310: MADDE 310- Sözleşmenin kurulmasından sonra kiralanan herhangi bir sebeple el değ..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 310 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

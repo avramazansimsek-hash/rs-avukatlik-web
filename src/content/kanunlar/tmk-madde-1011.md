@@ -2,7 +2,7 @@
 slug: "tmk-madde-1011"
 title: "TMK Madde 1011: Madde 1011- Aşağıdaki hâllerde geçici tescil şerhi verilebilir:..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 1011 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -1,8 +1,8 @@
 ---
 slug: "iik-madde-16"
-title: "IIK Madde 16: Madde 16..."
+title: "IIK Madde 16: Madde 16 – (Değişik: 3/7/1940-3890/1 md.)..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 16 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 
@@ -11,33 +11,15 @@ excerpt: "İcra ve İflas Kanunu Madde 16 tam metni, gerekçesi ve Av. Ramazan �
 ## Kanun Metni
 
 ```text
-Madde 16
+Madde 16 – (Değişik: 3/7/1940-3890/1 md.)
 
-	
+Kanunun hallini mahkemeye bıraktığı hususlar müstesna olmak üzere İcra ve İflas dairelerinin yaptığı muameleler hakkında kanuna muhalif olmasından veya hadiseye uygun bulunmamasından dolayı icra mahkemesine şikayet olunabilir. Şikayet bu muamelelerin öğrenildiği tarihten yedi gün içinde yapılır.
 
-28/2/2019
+Bir hakkın yerine getirilmemesinden veya sebepsiz sürüncemede bırakılmasından dolayı her zaman şikayet olunabilir.
 
+ 
 
-
-
-7251
-
-	
-
-8/a, 78, 258
-
-	
-
-28/7/2020
-
-
-
-
-7327
-
-	
-
-223, 241, 295, 296, 297, 308, 308/c, Geçici
+Şikayet üzerine yapılacak muameleler:
 ```
 
 

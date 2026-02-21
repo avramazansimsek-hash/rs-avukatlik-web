@@ -2,7 +2,7 @@
 slug: "tbk-madde-96"
 title: "TBK Madde 96: MADDE 96- Sözleşmenin hükümlerinden veya özelliğinden ya da durumun gereğinden t..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 96 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

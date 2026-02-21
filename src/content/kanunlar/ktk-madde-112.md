@@ -2,7 +2,7 @@
 slug: "ktk-madde-112"
 title: "KTK Madde 112: Madde 112 – (Değişik: 12/7/2013-6495/20 md.)..."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 112 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

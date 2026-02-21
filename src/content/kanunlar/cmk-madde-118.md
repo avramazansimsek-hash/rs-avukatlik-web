@@ -2,7 +2,7 @@
 slug: "cmk-madde-118"
 title: "CMK Madde 118: Madde 118 – (1) Konutta, işyerinde veya diğer kapalı yerlerde gece vaktinde aram..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 118 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "hmk-madde-381"
 title: "HMK Madde 381: MADDE 381- (1) Yargılamanın iadesi davası, hükmün icrasını durdurmaz. Ancak dava..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 381 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-171"
 title: "TTK Madde 171: MADDE 171- (1) Bölünmeye katılan şirketlerden her biri, genel kurulun kararından..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 171 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "hmk-madde-121"
 title: "HMK Madde 121: MADDE 121- (1) Dava dilekçesinde gösterilen ve davacının elinde bulunan belgeler..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 121 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

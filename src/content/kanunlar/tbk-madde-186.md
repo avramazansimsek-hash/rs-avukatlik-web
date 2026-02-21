@@ -2,7 +2,7 @@
 slug: "tbk-madde-186"
 title: "TBK Madde 186: MADDE 186– Borçlu, alacağın devredildiği, devreden veya devralan tarafından kend..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 186 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

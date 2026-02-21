@@ -2,7 +2,7 @@
 slug: "iik-madde-354"
 title: "IIK Madde 354: Madde 354 – Kanunun bu babında yazılı suçlardan takibi şikayete bağlı olanların..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 354 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

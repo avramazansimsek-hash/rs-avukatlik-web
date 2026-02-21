@@ -2,7 +2,7 @@
 slug: "ttk-madde-1110"
 title: "TTK Madde 1110: MADDE 1110- (1) Donatan tarafından sınırlandırılmış olmadıkça, kaptan ile donata..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1110 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

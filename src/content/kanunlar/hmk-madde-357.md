@@ -2,7 +2,7 @@
 slug: "hmk-madde-357"
 title: "HMK Madde 357: MADDE 357- (1) Bölge adliye mahkemesi hukuk dairelerinde karşı dava açılamaz, da..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 357 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tbk-madde-354"
 title: "TBK Madde 354: MADDE 354- Dava yoluyla kira sözleşmesinin sona erdirilmesine ilişkin hükümler,..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 354 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "hmk-madde-115"
 title: "HMK Madde 115: MADDE 115- (1) Mahkeme, dava şartlarının mevcut olup olmadığını, davanın her aşa..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 115 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

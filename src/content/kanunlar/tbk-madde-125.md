@@ -2,7 +2,7 @@
 slug: "tbk-madde-125"
 title: "TBK Madde 125: MADDE 125- Temerrüde düşen borçlu, verilen süre içinde, borcunu ifa etmemişse ve..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 125 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

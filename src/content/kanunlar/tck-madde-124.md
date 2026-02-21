@@ -2,7 +2,7 @@
 slug: "tck-madde-124"
 title: "TCK Madde 124: Madde 124- (1) Kişiler arasındaki haberleşmenin hukuka aykırı olarak engellenmes..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 124 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

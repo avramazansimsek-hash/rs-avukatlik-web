@@ -2,7 +2,7 @@
 slug: "ttk-madde-702"
 title: "TTK Madde 702: MADDE 702- (1) Aval veren kişi, kimin için taahhüt altına girmişse aynen onun gi..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 702 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

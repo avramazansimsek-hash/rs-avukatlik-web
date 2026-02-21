@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-50"
 title: "AVUKATLIK Madde 50: Madde 50 – Her adalet dairesinde, bölgesinde bulunduğu baro için, her mahkeme sa..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 50 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

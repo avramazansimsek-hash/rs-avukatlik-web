@@ -2,7 +2,7 @@
 slug: "tkhk-madde-34"
 title: "TKHK Madde 34: MADDE 34- (1) Tüketicinin taksitleri ödemede temerrüde düşmesi durumunda konut f..."
 category: "Tüketicinin Korunması Hakkında Kanun"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Tüketicinin Korunması Hakkında Kanun Madde 34 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

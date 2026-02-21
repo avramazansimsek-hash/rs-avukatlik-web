@@ -2,7 +2,7 @@
 slug: "tmk-madde-3"
 title: "TMK Madde 3: Madde 3- Kanunun iyiniyete hukukî bir sonuç bağladığı durumlarda, asıl olan iyin..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 3 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-251"
 title: "TTK Madde 251: MADDE 251- (1) Şirketi yönetmeye yetkili olanlar, sona ermiş şirket adına ve hes..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 251 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tbk-madde-460"
 title: "TBK Madde 460: MADDE 460- Sözleşmenin sona ermesi hâlinde, pazarlamacının bizzat yaptığı veya y..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 460 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

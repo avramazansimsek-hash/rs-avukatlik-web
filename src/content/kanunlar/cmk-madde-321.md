@@ -2,7 +2,7 @@
 slug: "cmk-madde-321"
 title: "CMK Madde 321: Madde 321 – (1) Yargılamanın yenilenmesi isteminde ileri sürülen iddialar, yeter..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 321 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

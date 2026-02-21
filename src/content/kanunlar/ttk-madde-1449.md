@@ -2,7 +2,7 @@
 slug: "ttk-madde-1449"
 title: "TTK Madde 1449: MADDE 1449- (1) Sigortacıya karşı yerine getirilmesi gereken ve sözleşmeden doğa..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1449 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

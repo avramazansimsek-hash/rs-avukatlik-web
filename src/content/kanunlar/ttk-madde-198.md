@@ -2,7 +2,7 @@
 slug: "ttk-madde-198"
 title: "TTK Madde 198: MADDE 198- (1) Bir teşebbüs, bir sermaye şirketinin sermayesinin, doğrudan veya..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 198 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

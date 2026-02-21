@@ -2,7 +2,7 @@
 slug: "ttk-madde-657"
 title: "TTK Madde 657: MADDE 657- (1) Aksine özel hükümler bulunmadıkça nama yazılı senetler, hamile ya..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 657 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

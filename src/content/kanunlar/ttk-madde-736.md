@@ -2,7 +2,7 @@
 slug: "ttk-madde-736"
 title: "TTK Madde 736: MADDE 736- (1) Araya girerek kabul, poliçe üzerine yazılır ve araya giren tarafı..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 736 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

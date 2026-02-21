@@ -2,7 +2,7 @@
 slug: "cmk-madde-291"
 title: "CMK Madde 291: Madde 291 – (1) Temyiz istemi, hükmün gerekçesiyle birlikte tebliğ edildiği tari..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 291 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

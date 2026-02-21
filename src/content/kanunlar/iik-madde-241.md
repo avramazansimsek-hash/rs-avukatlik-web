@@ -2,7 +2,7 @@
 slug: "iik-madde-241"
 title: "IIK Madde 241: Madde 241 – Masaya ait mallar iflas idaresi marifetiyle açık artırma yahut alaca..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 241 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

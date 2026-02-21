@@ -2,7 +2,7 @@
 slug: "is_kanunu-madde-66"
 title: "IS_KANUNU Madde 66: Madde 66 - Aşağıdaki süreler işçinin günlük çalışma sürelerinden sayılır:..."
 category: "İş Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İş Kanunu Madde 66 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

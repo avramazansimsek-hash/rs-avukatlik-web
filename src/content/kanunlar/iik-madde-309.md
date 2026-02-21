@@ -2,7 +2,7 @@
 slug: "iik-madde-309"
 title: "IIK Madde 309: Madde 309 – (Değişik: 28/2/2018-7101/39 md.)..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 309 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

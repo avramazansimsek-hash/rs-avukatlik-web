@@ -2,7 +2,7 @@
 slug: "hmk-madde-423"
 title: "HMK Madde 423: MADDE 423- (1) Taraflar, tahkim yargılamasında eşit hak ve yetkiye sahiptirler...."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 423 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

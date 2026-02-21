@@ -2,7 +2,7 @@
 slug: "tmk-madde-504"
 title: "TMK Madde 504: Madde 504- Mirasbırakanın yanılma, aldatma, korkutma veya zorlama etkisi altında..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 504 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-1194"
 title: "TTK Madde 1194: MADDE 1194- (1) Zaman üzerine kararlaştırılmış olan navlun, yüklemenin belli bir..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1194 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tck-madde-235"
 title: "TCK Madde 235: Madde 235- (1) (Değişik: 11/4/2013-6459/12 md.) Kamu kurumu veya kuruluşları adı..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 235 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

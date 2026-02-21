@@ -2,7 +2,7 @@
 slug: "ttk-madde-394"
 title: "TTK Madde 394: MADDE 394- (1) Yönetim kurulu üyelerine, tutarı esas sözleşmeyle veya genel kuru..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 394 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

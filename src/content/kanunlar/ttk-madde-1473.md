@@ -2,7 +2,7 @@
 slug: "ttk-madde-1473"
 title: "TTK Madde 1473: MADDE 1473- (1) Sigortacı sorumluluk sigortası ile, sözleşmede aksine hüküm yoks..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1473 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

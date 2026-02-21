@@ -2,7 +2,7 @@
 slug: "ttk-madde-17"
 title: "TTK Madde 17: MADDE 17- (1) Tacire ilişkin hükümler donatma iştirakine de aynen uygulanır...."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 17 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

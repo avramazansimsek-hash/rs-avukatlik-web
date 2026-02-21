@@ -2,7 +2,7 @@
 slug: "ttk-madde-829"
 title: "TTK Madde 829: MADDE 829- (1) İcra ve İflas Kanununun, çekler, poliçeler ve emre yazılı senetle..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 829 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

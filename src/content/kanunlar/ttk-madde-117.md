@@ -2,7 +2,7 @@
 slug: "ttk-madde-117"
 title: "TTK Madde 117: MADDE 117- (1) Acente, yükümlülüklerini yerine getirmek için yaptıklarından anca..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 117 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

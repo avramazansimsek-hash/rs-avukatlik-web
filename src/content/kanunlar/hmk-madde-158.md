@@ -2,7 +2,7 @@
 slug: "hmk-madde-158"
 title: "HMK Madde 158: MADDE 158- (1) Tutanakların tamamı veya bir kısmının örnekleri, talep hâlinde ta..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 158 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

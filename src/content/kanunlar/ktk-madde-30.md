@@ -2,7 +2,7 @@
 slug: "ktk-madde-30"
 title: "KTK Madde 30: Madde 30 – Araçların, esasları yönetmelikte belirtilen şekilde ve tarzda teknik..."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 30 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

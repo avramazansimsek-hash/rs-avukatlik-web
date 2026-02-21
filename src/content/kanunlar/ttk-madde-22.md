@@ -2,7 +2,7 @@
 slug: "ttk-madde-22"
 title: "TTK Madde 22: MADDE 22- (1) Tacir sıfatını haiz borçlu, Türk Borçlar Kanununun 121 inci maddes..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 22 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

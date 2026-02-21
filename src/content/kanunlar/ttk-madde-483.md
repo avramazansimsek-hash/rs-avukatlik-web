@@ -2,7 +2,7 @@
 slug: "ttk-madde-483"
 title: "TTK Madde 483: MADDE 483- (1) Kanunun 482 nci maddesinin ikinci ve üçüncü fıkralarının uygulana..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 483 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

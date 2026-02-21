@@ -2,7 +2,7 @@
 slug: "ttk-madde-713"
 title: "TTK Madde 713: MADDE 713- (1) Vadede poliçe ödenmemişse hamil, cirantalara, düzenleyene ve poli..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 713 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

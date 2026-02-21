@@ -2,7 +2,7 @@
 slug: "ttk-madde-584"
 title: "TTK Madde 584: MADDE 584- (1) Şirket sözleşmesinde intifa senetlerinin çıkarılması öngörülebili..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 584 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

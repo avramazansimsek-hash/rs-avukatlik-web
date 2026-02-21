@@ -2,7 +2,7 @@
 slug: "tmk-madde-338"
 title: "TMK Madde 338: Madde 338- Eşler, ergin olmayan üvey çocuklarına da özen ve ilgi göstermekle yük..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 338 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

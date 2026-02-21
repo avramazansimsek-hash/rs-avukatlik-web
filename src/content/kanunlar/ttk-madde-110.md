@@ -2,7 +2,7 @@
 slug: "ttk-madde-110"
 title: "TTK Madde 110: MADDE 110- (1) Acente, üçüncü kişilerin kabule yetkili olduğu beyanlarını, bölge..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 110 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-1350"
 title: "TTK Madde 1350: MADDE 1350- (1) Bir geminin ihtiyaten veya icraen haczi, cebrî icra yoluyla satı..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1350 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

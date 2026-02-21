@@ -2,7 +2,7 @@
 slug: "ttk-madde-721"
 title: "TTK Madde 721: MADDE 721- (1) Noter tarafından imza edilen protesto kanuna uygun olarak düzenle..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 721 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

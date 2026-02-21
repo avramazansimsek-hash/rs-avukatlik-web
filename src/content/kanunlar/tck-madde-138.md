@@ -2,7 +2,7 @@
 slug: "tck-madde-138"
 title: "TCK Madde 138: Madde 138- (1) Kanunların belirlediği sürelerin geçmiş olmasına karşın verileri..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 138 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

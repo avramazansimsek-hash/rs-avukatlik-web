@@ -2,7 +2,7 @@
 slug: "ttk-madde-1019"
 title: "TTK Madde 1019: MADDE 1019- (1) Alacak faizsiz veya faiz oranı o tarihte geçerli asgari kanuni f..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1019 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

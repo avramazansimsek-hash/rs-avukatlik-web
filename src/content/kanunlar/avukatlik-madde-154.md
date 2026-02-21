@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-154"
 title: "AVUKATLIK Madde 154: Madde 154 – (Değişik: 8/5/1984 - 3003/7 md.)..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 154 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

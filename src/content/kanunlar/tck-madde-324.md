@@ -2,7 +2,7 @@
 slug: "tck-madde-324"
 title: "TCK Madde 324: Madde 324- (1) Sulh zamanında seferberlikle ilgili görevlerini ihmal eden veya g..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 324 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

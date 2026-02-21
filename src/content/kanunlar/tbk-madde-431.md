@@ -2,7 +2,7 @@
 slug: "tbk-madde-431"
 title: "TBK Madde 431: MADDE 431- Taraflardan her birinin, belirsiz süreli sözleşmeyi fesih sürelerine..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 431 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "iik-madde-181"
 title: "IIK Madde 181: Madde 181 – 159, 160, 164, 165 ve 166 ncı maddeler bu fasıl hükmüne göre vukua g..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 181 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

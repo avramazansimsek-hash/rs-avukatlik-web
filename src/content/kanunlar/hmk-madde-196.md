@@ -2,7 +2,7 @@
 slug: "hmk-madde-196"
 title: "HMK Madde 196: MADDE 196- (1) Delil gösteren taraf, karşı tarafın açık izni olmadıkça, o delile..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 196 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

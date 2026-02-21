@@ -2,7 +2,7 @@
 slug: "ttk-madde-758"
 title: "TTK Madde 758: MADDE 758- (1) Poliçeyi eline geçiren kişi bilindiği takdirde, mahkeme, dilekçe..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 758 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

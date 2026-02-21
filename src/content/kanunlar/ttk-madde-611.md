@@ -2,7 +2,7 @@
 slug: "ttk-madde-611"
 title: "TTK Madde 611: MADDE 611- (1) Haksız yere kâr almış olan ortak ve müdür bunu geri vermekle yükü..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 611 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

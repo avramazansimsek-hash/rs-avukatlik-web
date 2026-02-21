@@ -2,7 +2,7 @@
 slug: "tck-madde-331"
 title: "TCK Madde 331: Madde 331- (1) Yabancı bir devletin güvenliği veya iç veya dış siyasal yararları..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 331 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-396"
 title: "TTK Madde 396: MADDE 396- (1) Yönetim kurulu üyelerinden biri, genel kurulun iznini almaksızın,..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 396 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

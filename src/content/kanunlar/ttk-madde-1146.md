@@ -2,7 +2,7 @@
 slug: "ttk-madde-1146"
 title: "TTK Madde 1146: MADDE 1146- (1) Taşıtan ve yükleten, harp kaçağı veya ihracı, ithali veya transi..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1146 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

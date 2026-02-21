@@ -2,7 +2,7 @@
 slug: "iyuk-madde-14"
 title: "IYUK Madde 14: Madde 14 – 1. Dilekçeler Danıştayda Evrak Müdürlüğünce kaydedilir ve Genel Sekre..."
 category: "İdari Yargılama Usulü Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İdari Yargılama Usulü Kanunu Madde 14 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-368"
 title: "TTK Madde 368: MADDE 368- (1) Yönetim kurulu, ticari mümessil ve ticari vekiller atayabilir...."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 368 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

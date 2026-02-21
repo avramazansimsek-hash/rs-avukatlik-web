@@ -2,7 +2,7 @@
 slug: "iik-madde-100"
 title: "IIK Madde 100: Madde 100 – İlk haciz üzerine satılan malın tutarı vezneye girinciye kadar aynı..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 100 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

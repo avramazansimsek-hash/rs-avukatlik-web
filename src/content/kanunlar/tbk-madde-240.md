@@ -2,7 +2,7 @@
 slug: "tbk-madde-240"
 title: "TBK Madde 240: MADDE 240- Önalım hakkı, taşınmazın satışı ya da ekonomik bakımdan satışa eşdeğe..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 240 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

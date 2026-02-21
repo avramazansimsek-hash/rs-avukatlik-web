@@ -1,8 +1,8 @@
 ---
 slug: "iik-madde-9"
-title: "IIK Madde 9: Madde 9- (Ek: 2/7/2012-6352/38 md.)[145]..."
+title: "IIK Madde 9: Madde 9 – (Değişik: 2/7/2012-6352/4 md.)..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 9 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 
@@ -11,13 +11,17 @@ excerpt: "İcra ve İflas Kanunu Madde 9 tam metni, gerekçesi ve Av. Ramazan Ş
 ## Kanun Metni
 
 ```text
-Madde 9- (Ek: 2/7/2012-6352/38 md.)[145]
+Madde 9 – (Değişik: 2/7/2012-6352/4 md.)
 
-9 uncu maddenin ikinci fıkrası gereği ödeme yapılabilmesi için ilgilisi tarafından, anılan maddenin yürürlüğe girdiği tarihten itibaren altı ay içinde banka hesap numarasının bildirilmesi gerekir.
+İcra ve iflas dairelerine yapılacak her türlü nakdî ödeme, Adalet Bakanlığı tarafından uygun görülecek bankalarda icra ve iflas dairesi adına açılan hesaba yapılır. Haciz sırasında, borçlu veya üçüncü kişiler tarafından yapılan ödeme nedeniyle tahsil edilen paralar, en geç tahsilatın yapıldığı günü takip eden ilk iş günü çalışma saati sonuna kadar banka hesabına yatırılmak üzere icra veya mahkeme kasalarında muhafaza edilir.
+
+İcra ve iflas dairelerince yapılması gereken her türlü nakdî ödeme, ilgilisinin gösterdiği banka hesabına aktarılmak üzere, icra müdürü tarafından resen bankaya verilecek talimat gereği yapılır. Talimat, paranın icra ve iflas dairesi hesabına yatırılmasını takip eden en geç üç iş günü sonuna kadar verilir.
+
+İcra ve iflas daireleri aldıkları kıymetli evrak ve değerli şeyleri kasalarında, zorunlu hâllerde ise kiralanacak banka kasalarında muhafaza ederler.
 
  
 
-Geçici
+İş görmekten memnuiyet:
 ```
 
 

@@ -2,7 +2,7 @@
 slug: "iik-madde-110"
 title: "IIK Madde 110: Madde 110 – (Değişik: 2/7/2012-6352/22 md.)..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 110 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

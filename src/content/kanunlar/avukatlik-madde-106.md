@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-106"
 title: "AVUKATLIK Madde 106: Madde 106 – Disiplin kurulu, üyelerinden en az üçü hazır bulunursa toplanır...."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 106 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

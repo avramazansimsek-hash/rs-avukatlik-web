@@ -2,7 +2,7 @@
 slug: "iik-madde-122"
 title: "IIK Madde 122: Madde 122 – Aile mal ortaklığında bir hissenin satışı 121 inci maddeye göre yapı..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 122 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

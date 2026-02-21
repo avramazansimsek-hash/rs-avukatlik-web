@@ -2,7 +2,7 @@
 slug: "ttk-madde-1230"
 title: "TTK Madde 1230: MADDE 1230- (1) Konişmentonun meşru hamili, eşyayı teslim almaya yetkilidir...."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1230 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

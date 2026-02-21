@@ -2,7 +2,7 @@
 slug: "ttk-madde-1521"
 title: "TTK Madde 1521: MADDE 1521- (1) Ticaret şirketlerinde, ortakların veya pay sahiplerinin şirketle..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1521 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

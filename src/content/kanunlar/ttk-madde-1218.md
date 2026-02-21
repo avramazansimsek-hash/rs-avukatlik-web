@@ -2,7 +2,7 @@
 slug: "ttk-madde-1218"
 title: "TTK Madde 1218: MADDE 1218- (1) Gemiye ambargo veya devlet hizmeti için el konulması, varma yeri..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1218 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

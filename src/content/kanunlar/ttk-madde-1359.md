@@ -2,7 +2,7 @@
 slug: "ttk-madde-1359"
 title: "TTK Madde 1359: MADDE 1359- (1) 1354 ve 1355 inci maddeler uyarınca deniz alacakları hakkında ih..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1359 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

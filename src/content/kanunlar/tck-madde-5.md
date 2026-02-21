@@ -2,7 +2,7 @@
 slug: "tck-madde-5"
 title: "TCK Madde 5: Madde 5- (1) Bu Kanunun genel hükümleri, özel ceza kanunları ve ceza içeren kanu..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 5 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

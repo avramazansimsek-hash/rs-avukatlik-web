@@ -2,7 +2,7 @@
 slug: "tmk-madde-378"
 title: "TMK Madde 378: Madde 378- Ortaklar, içlerinden birini ortaklığa yönetici olarak atayabilirler...."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 378 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

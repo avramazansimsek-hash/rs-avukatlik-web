@@ -2,7 +2,7 @@
 slug: "iik-madde-76"
 title: "IIK Madde 76: Madde 76 – (Değişik: 24/5/1962-51/ 1md.)..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 76 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

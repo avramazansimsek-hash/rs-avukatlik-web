@@ -2,7 +2,7 @@
 slug: "ttk-madde-1437"
 title: "TTK Madde 1437: MADDE 1437- (1) Tazminat ve bedel ödemelerinde, bildirilmeyen veya yanlış bildir..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1437 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

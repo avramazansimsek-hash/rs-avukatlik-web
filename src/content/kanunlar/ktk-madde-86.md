@@ -2,7 +2,7 @@
 slug: "ktk-madde-86"
 title: "KTK Madde 86: Madde 86 – (Değişik: 17/10/1996-4199/29 md.)..."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 86 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-199"
 title: "TMK Madde 199: Madde 199 - Ailenin ekonomik varlığının korunması veya evlilik birliğinden doğan..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 199 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-1030"
 title: "TMK Madde 1030: Madde 1030- Bu Kanun hükümlerini Bakanlar Kurulu yürütür...."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 1030 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

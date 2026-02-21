@@ -2,7 +2,7 @@
 slug: "tbk-madde-423"
 title: "TBK Madde 423: MADDE 423- İşçi, bir hizmet yılı içinde kendi kusuruyla toplam bir aydan daha uz..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 423 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

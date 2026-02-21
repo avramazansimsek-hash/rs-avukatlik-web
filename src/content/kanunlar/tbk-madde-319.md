@@ -2,7 +2,7 @@
 slug: "tbk-madde-319"
 title: "TBK Madde 319: MADDE 319- Kiracı, kiralananın ayıplarının giderilmesine ya da zararların önlenm..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 319 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

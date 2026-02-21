@@ -2,7 +2,7 @@
 slug: "tmk-madde-217"
 title: "TMK Madde 217: Madde 217- Mal rejimi, eşler arasındaki borçların muaccel olmasını önlemez. Bunu..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 217 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-532"
 title: "TTK Madde 532: MADDE 532- (1) Sona erme, iflastan ve mahkeme kararından başka bir sebepten iler..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 532 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

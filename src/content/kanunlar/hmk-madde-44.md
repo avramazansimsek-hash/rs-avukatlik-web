@@ -2,7 +2,7 @@
 slug: "hmk-madde-44"
 title: "HMK Madde 44: MADDE 44- (1) Esas hüküm bakımından temyiz yolu kapalı bulunan dava ve işlerde,..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 44 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

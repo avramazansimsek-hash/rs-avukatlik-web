@@ -2,7 +2,7 @@
 slug: "cmk-madde-44"
 title: "CMK Madde 44: Madde 44 – (1) Usulüne uygun olarak çağrılıp da mazeretini bildirmeksizin gelmey..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 44 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

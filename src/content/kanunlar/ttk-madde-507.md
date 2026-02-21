@@ -2,7 +2,7 @@
 slug: "ttk-madde-507"
 title: "TTK Madde 507: MADDE 507- (1) Her pay sahibi, kanun ve esas sözleşme hükümlerine göre pay sahip..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 507 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

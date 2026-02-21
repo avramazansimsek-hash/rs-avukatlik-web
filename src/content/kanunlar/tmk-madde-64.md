@@ -2,7 +2,7 @@
 slug: "tmk-madde-64"
 title: "TMK Madde 64: Madde 64- Fiil ehliyetine sahip bulunan her gerçek kişi ile tüzel kişiler, derne..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 64 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

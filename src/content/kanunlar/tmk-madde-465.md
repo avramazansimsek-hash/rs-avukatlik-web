@@ -2,7 +2,7 @@
 slug: "tmk-madde-465"
 title: "TMK Madde 465: Madde 465- Kanunen gerektiği hâlde vasinin yetkili vesayet dairelerinin iznini a..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 465 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

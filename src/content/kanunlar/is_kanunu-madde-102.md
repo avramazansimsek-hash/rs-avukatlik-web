@@ -2,7 +2,7 @@
 slug: "is_kanunu-madde-102"
 title: "IS_KANUNU Madde 102: Madde 102 - Bu Kanunun;..."
 category: "İş Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İş Kanunu Madde 102 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-975"
 title: "TMK Madde 975: Madde 975- Bir şeyde fiilî hâkimiyetini doğrudan doğruya sürdüren kimse dolaysız..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 975 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

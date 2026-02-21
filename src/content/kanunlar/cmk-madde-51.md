@@ -2,7 +2,7 @@
 slug: "cmk-madde-51"
 title: "CMK Madde 51: Madde 51 – (1) 45 inci madde gereğince tanıklıktan çekinebileceklere yemin verip..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 51 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

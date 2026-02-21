@@ -2,7 +2,7 @@
 slug: "tmk-madde-689"
 title: "TMK Madde 689: Madde 689- Paydaşlar, kendi aralarında oybirliğiyle anlaşarak yararlanma, kullan..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 689 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

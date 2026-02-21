@@ -2,7 +2,7 @@
 slug: "iik-madde-53"
 title: "IIK Madde 53: Madde 53 – Terekenin borçlarından dolayı ölüm günü ile beraber üç gün içinde tak..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 53 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

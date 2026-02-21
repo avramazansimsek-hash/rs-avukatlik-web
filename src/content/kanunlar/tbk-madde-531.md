@@ -2,7 +2,7 @@
 slug: "tbk-madde-531"
 title: "TBK Madde 531: MADDE 531- İşsahibi yapılan işi uygun bulmuşsa, vekâlet hükümleri uygulanır...."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 531 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "iyuk-madde-17"
 title: "IYUK Madde 17: Madde 17 – 1. (Değişik: 5/4/1990-3622/7 md.) Danıştay ile idare ve vergi mahkeme..."
 category: "İdari Yargılama Usulü Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İdari Yargılama Usulü Kanunu Madde 17 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-616"
 title: "TMK Madde 616: Madde 616- Vasiyet alacaklısının vasiyeti reddetmesi hâlinde, mirasbırakanın arz..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 616 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

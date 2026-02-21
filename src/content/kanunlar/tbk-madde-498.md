@@ -2,7 +2,7 @@
 slug: "tbk-madde-498"
 title: "TBK Madde 498: MADDE 498- Eser, yayımcıya teslimden sonra beklenmedik hâl sonucu yok olsa bile,..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 498 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

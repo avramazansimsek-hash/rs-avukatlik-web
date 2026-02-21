@@ -1,8 +1,8 @@
 ---
 slug: "tkhk-madde-2"
-title: "TKHK Madde 2: Madde 2..."
+title: "TKHK Madde 2: MADDE 2- (1) Bu Kanun, her türlü tüketici işlemi ile tüketiciye yönelik uygulama..."
 category: "Tüketicinin Korunması Hakkında Kanun"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Tüketicinin Korunması Hakkında Kanun Madde 2 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 
@@ -11,57 +11,9 @@ excerpt: "Tüketicinin Korunması Hakkında Kanun Madde 2 tam metni, gerekçesi 
 ## Kanun Metni
 
 ```text
-Madde 2
+MADDE 2- (1) Bu Kanun, her türlü tüketici işlemi ile tüketiciye yönelik uygulamaları kapsar.
 
-	
-
-28/07/2020
-
-
-
-
-7392
-
-	
-
-50, 77 nci maddesinin dördüncü fıkrası, Geçici 3 üncü maddenin ikinci ve üçüncü fıkraları
-
-	
-
-1/4/2022
-
-
-
-
-19, 24, 26, 29, 38, 44, 48, 57/A, 58, 63, 66, 68, 70, 77, 78, Geçici 3 üncü maddenin birinci ve dördüncü fıkraları
-
-	
-
-yayımı tarihinden altı ay sonra
-
-(1/10/2022)
-
-
-
-
-7499
-
-	
-
-70
-
-	
-
-1/6/2024
-
-
-
-
-7511
-
-	
-
-63, 77, Geçici
+Tanımlar
 ```
 
 

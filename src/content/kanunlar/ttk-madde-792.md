@@ -2,7 +2,7 @@
 slug: "ttk-madde-792"
 title: "TTK Madde 792: MADDE 792- (1) Çek, herhangi bir suretle hamilin elinden çıkmış bulunursa, ister..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 792 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

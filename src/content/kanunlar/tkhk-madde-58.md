@@ -2,7 +2,7 @@
 slug: "tkhk-madde-58"
 title: "TKHK Madde 58: MADDE 58- (1) Üretici veya ithalatçılar, ürettikleri veya ithal ettikleri mallar..."
 category: "Tüketicinin Korunması Hakkında Kanun"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Tüketicinin Korunması Hakkında Kanun Madde 58 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

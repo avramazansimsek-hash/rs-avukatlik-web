@@ -2,7 +2,7 @@
 slug: "hmk-madde-33"
 title: "HMK Madde 33: MADDE 33- (1) Hâkim, Türk hukukunu resen uygular...."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 33 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

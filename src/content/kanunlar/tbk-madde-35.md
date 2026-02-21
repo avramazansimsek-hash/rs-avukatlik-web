@@ -2,7 +2,7 @@
 slug: "tbk-madde-35"
 title: "TBK Madde 35: MADDE 35- Yanılan, yanılmasında kusurlu ise, sözleşmenin hükümsüzlüğünden doğan..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 35 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

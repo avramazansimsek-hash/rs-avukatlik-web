@@ -2,7 +2,7 @@
 slug: "tmk-madde-18"
 title: "TMK Madde 18: Madde 18- Eşlerden biri ile diğer eşin kan hısımları, aynı tür ve dereceden kayı..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 18 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

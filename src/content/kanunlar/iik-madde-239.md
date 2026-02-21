@@ -2,7 +2,7 @@
 slug: "iik-madde-239"
 title: "IIK Madde 239: Madde 239- (Değişik: 17/7/2003-4949/56 md.)..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 239 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

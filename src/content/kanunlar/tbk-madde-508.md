@@ -2,7 +2,7 @@
 slug: "tbk-madde-508"
 title: "TBK Madde 508: MADDE 508- Vekil, vekâlet verenin istemi üzerine yürüttüğü işin hesabını vermek..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 508 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

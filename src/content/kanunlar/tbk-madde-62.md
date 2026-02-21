@@ -2,7 +2,7 @@
 slug: "tbk-madde-62"
 title: "TBK Madde 62: MADDE 62- Tazminatın aynı zarardan sorumlu müteselsil borçlular arasında paylaşt..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 62 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

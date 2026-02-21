@@ -2,7 +2,7 @@
 slug: "tbk-madde-262"
 title: "TBK Madde 262: MADDE 262- Yerleşim yeri Türkiye’de olan alıcı, tarafı olduğu taksitle satış söz..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 262 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

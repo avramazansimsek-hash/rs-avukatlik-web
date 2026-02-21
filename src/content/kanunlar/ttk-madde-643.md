@@ -2,7 +2,7 @@
 slug: "ttk-madde-643"
 title: "TTK Madde 643: MADDE 643- (1) Tasfiye usulü ile tasfiyede şirket organlarının yetkileri hakkınd..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 643 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

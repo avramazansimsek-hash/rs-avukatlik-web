@@ -2,7 +2,7 @@
 slug: "ttk-madde-682"
 title: "TTK Madde 682: MADDE 682- (1) Cironun kayıtsız ve şartsız olması gerekir. Cironun bağlı tutuldu..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 682 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

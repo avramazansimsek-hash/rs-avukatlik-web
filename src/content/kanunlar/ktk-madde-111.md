@@ -2,7 +2,7 @@
 slug: "ktk-madde-111"
 title: "KTK Madde 111: Madde 111 – Bu Kanunla öngörülen hukuki sorumluluğu kaldıran veya daraltan anlaş..."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 111 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

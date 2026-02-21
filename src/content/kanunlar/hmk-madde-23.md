@@ -2,7 +2,7 @@
 slug: "hmk-madde-23"
 title: "HMK Madde 23: MADDE 23- (1) Yargı yerinin belirlenmesine ilişkin inceleme dosya üzerinden yapı..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 23 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

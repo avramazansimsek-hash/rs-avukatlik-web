@@ -2,7 +2,7 @@
 slug: "tmk-madde-490"
 title: "TMK Madde 490: Madde 490- Son rapor ve kesin hesap belli zamanlarda verilen rapor ve hesaplar g..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 490 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

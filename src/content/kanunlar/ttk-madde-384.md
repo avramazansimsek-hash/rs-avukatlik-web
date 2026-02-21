@@ -2,7 +2,7 @@
 slug: "ttk-madde-384"
 title: "TTK Madde 384: MADDE 384- (1) 382 nci maddenin (b) ilâ (d) bentleri ve 383 üncü madde hükümleri..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 384 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

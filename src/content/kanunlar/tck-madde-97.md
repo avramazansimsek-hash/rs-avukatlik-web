@@ -2,7 +2,7 @@
 slug: "tck-madde-97"
 title: "TCK Madde 97: Madde 97- (1) Yaşı veya hastalığı dolayısıyla kendini idare edemeyecek durumda o..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 97 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

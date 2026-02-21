@@ -2,7 +2,7 @@
 slug: "ttk-madde-1130"
 title: "TTK Madde 1130: MADDE 1130- (1) Bu Bölümde hüküm bulunmayan hâllerde Türk Borçlar Kanununun adi..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1130 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

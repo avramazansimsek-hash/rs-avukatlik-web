@@ -2,7 +2,7 @@
 slug: "iik-madde-139"
 title: "IIK Madde 139: Madde 139 – Satış tutarı bütün alacakları ödemiye yetmezse icra memuru kendiliği..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 139 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

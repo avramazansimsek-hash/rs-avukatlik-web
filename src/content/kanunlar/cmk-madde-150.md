@@ -2,7 +2,7 @@
 slug: "cmk-madde-150"
 title: "CMK Madde 150: Madde 150 – (Değişik: 6/12/2006 – 5560/21 md.)..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 150 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

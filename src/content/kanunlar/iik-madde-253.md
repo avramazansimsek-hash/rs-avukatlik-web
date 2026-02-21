@@ -2,7 +2,7 @@
 slug: "iik-madde-253"
 title: "IIK Madde 253: Madde 253 – Evvelce kaydedilmemesinden dolayı tasfiyeye girmemiş olan alacaklara..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 253 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

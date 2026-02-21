@@ -2,7 +2,7 @@
 slug: "ttk-madde-579"
 title: "TTK Madde 579: MADDE 579- (1) Şirket sözleşmesi, bu Kanunun limited şirketlere ilişkin hükümler..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 579 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

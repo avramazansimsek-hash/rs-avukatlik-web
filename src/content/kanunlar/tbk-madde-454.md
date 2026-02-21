@@ -2,7 +2,7 @@
 slug: "tbk-madde-454"
 title: "TBK Madde 454: MADDE 454- İşveren, pazarlamacıya sadece belirli bir miktardan veya bu miktarla..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 454 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

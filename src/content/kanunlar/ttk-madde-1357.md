@@ -2,7 +2,7 @@
 slug: "ttk-madde-1357"
 title: "TTK Madde 1357: MADDE 1357- (1) Bir deniz alacağı hakkında, yurt içinde mahkemede dava açıldıkta..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1357 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

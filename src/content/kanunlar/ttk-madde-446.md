@@ -2,7 +2,7 @@
 slug: "ttk-madde-446"
 title: "TTK Madde 446: MADDE 446- (1) a) Toplantıda hazır bulunup da karara olumsuz oy veren ve bu muha..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 446 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

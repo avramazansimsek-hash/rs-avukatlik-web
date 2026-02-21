@@ -2,7 +2,7 @@
 slug: "tck-madde-2"
 title: "TCK Madde 2: Madde 2- (1) Kanunun açıkça suç saymadığı bir fiil için kimseye ceza verilemez v..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 2 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "cmk-madde-169"
 title: "CMK Madde 169: Madde 169 – (1) Şüphelinin ifadesinin alınması veya sorgusu, tanık ve bilirkişin..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 169 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "cmk-madde-300"
 title: "CMK Madde 300: Madde 300 – (1) Duruşmadan önce görevlendirilen üye veya tetkik hâkimi tarafında..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 300 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

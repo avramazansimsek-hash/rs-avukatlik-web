@@ -2,7 +2,7 @@
 slug: "tmk-madde-995"
 title: "TMK Madde 995: Madde 995- İyiniyetli olmayan zilyet, geri vermekle yükümlü olduğu şeyi haksız a..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 995 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "hmk-madde-114"
 title: "HMK Madde 114: MADDE 114- (1) Dava şartları şunlardır:..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 114 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-648"
 title: "TMK Madde 648: Madde 648- Açılmış mirasta bir mirasçının payını devralmış veya haczettirmiş ola..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 648 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

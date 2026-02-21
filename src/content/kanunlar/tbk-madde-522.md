@@ -2,7 +2,7 @@
 slug: "tbk-madde-522"
 title: "TBK Madde 522: MADDE 522- Ücret, belirlenmemişse tarifeye, tarife yoksa teamüle göre ödenir...."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 522 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

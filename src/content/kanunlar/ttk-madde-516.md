@@ -2,7 +2,7 @@
 slug: "ttk-madde-516"
 title: "TTK Madde 516: MADDE 516- (1) Yönetim kurulunun yıllık faaliyet raporu, şirketin, o yıla ait fa..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 516 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

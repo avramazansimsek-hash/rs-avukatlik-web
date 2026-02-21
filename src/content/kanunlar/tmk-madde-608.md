@@ -2,7 +2,7 @@
 slug: "tmk-madde-608"
 title: "TMK Madde 608: Madde 608- Mirası reddetmeden ölen mirasçının ret hakkı kendi mirasçılarına geçe..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 608 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

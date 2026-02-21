@@ -2,7 +2,7 @@
 slug: "ttk-madde-203"
 title: "TTK Madde 203: MADDE 203- (1) Bir ticaret şirketi bir sermaye şirketinin paylarının ve oy hakla..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 203 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

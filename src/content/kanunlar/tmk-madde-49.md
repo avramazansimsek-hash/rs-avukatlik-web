@@ -2,7 +2,7 @@
 slug: "tmk-madde-49"
 title: "TMK Madde 49: Madde 49- Tüzel kişiler, kanuna ve kuruluş belgelerine göre gerekli organlara sa..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 49 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

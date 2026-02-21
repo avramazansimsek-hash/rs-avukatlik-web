@@ -2,7 +2,7 @@
 slug: "ktk-madde-50"
 title: "KTK Madde 50: Madde 50 – (Değişik birinci fıkra: 25/6/2010-6001/34 md.) Motorlu araçların cins..."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 50 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-909"
 title: "TMK Madde 909: Madde 909- İpotekli borç senedi ve irat senedi koşul ve karşı edim kaydı içereme..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 909 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

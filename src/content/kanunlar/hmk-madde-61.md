@@ -2,7 +2,7 @@
 slug: "hmk-madde-61"
 title: "HMK Madde 61: MADDE 61- (1) Taraflardan biri davayı kaybettiği takdirde, üçüncü kişiye veya üç..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 61 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

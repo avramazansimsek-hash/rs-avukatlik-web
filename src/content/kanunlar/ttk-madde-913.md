@@ -2,7 +2,7 @@
 slug: "ttk-madde-913"
 title: "TTK Madde 913: MADDE 913- (1) Taşıyıcı, seyahat ücretinin teminatı olarak, Türk Medenî Kanununu..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 913 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tbk-madde-24"
 title: "TBK Madde 24: MADDE 24- Genel işlem koşullarının bulunduğu bir sözleşmede veya ayrı bir sözleş..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 24 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

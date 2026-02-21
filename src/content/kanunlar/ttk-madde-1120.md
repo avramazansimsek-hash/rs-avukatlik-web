@@ -2,7 +2,7 @@
 slug: "ttk-madde-1120"
 title: "TTK Madde 1120: MADDE 1120- (1) Gemi kira sözleşmesinin taraflarından her biri, giderini vermek..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1120 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

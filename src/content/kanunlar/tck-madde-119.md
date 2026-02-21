@@ -2,7 +2,7 @@
 slug: "tck-madde-119"
 title: "TCK Madde 119: Madde 119- (1) Eğitim ve öğretimin engellenmesi, kamu kurumu veya kamu kurumu ni..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 119 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

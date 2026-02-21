@@ -2,7 +2,7 @@
 slug: "tbk-madde-367"
 title: "TBK Madde 367: MADDE 367- Belirli süreli kira sözleşmesi, sürenin bitiminde kendiliğinden sona..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 367 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

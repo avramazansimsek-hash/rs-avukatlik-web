@@ -2,7 +2,7 @@
 slug: "ttk-madde-479"
 title: "TTK Madde 479: MADDE 479- (1) Oyda imtiyaz, eşit itibarî değerdeki paylara farklı sayıda oy hak..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 479 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

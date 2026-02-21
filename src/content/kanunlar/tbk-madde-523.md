@@ -2,7 +2,7 @@
 slug: "tbk-madde-523"
 title: "TBK Madde 523: MADDE 523- Simsar, üstlendiği borcuna aykırı davranarak diğer tarafın menfaatine..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 523 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

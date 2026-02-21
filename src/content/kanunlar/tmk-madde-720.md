@@ -2,7 +2,7 @@
 slug: "tmk-madde-720"
 title: "TMK Madde 720: Madde 720- Her arazi maliki, komşusunun istemi üzerine belli olmayan sınırların..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 720 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

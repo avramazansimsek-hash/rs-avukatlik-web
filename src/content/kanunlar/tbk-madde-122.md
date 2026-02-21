@@ -2,7 +2,7 @@
 slug: "tbk-madde-122"
 title: "TBK Madde 122: MADDE 122- Alacaklı, temerrüt faizini aşan bir zarara uğramış olursa, borçlu ken..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 122 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

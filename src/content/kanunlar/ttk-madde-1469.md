@@ -2,7 +2,7 @@
 slug: "ttk-madde-1469"
 title: "TTK Madde 1469: MADDE 1469- (1) Sigortacı, sigorta süresi içinde sigortalı menfaatin değerini in..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1469 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

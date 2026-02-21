@@ -2,7 +2,7 @@
 slug: "ttk-madde-1073"
 title: "TTK Madde 1073: MADDE 1073- (1) Gemi müdürü, donatma iştirakinin işlerini yaparken tedbirli bir..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1073 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-699"
 title: "TMK Madde 699: Madde 699- Paylaşma, malın aynen bölüşülmesi veya pazarlık ya da artırmayla satı..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 699 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tbk-madde-424"
 title: "TBK Madde 424: MADDE 424- Yıllık ücretli izinler, kural olarak aralıksız biçimde verilir; ancak..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 424 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

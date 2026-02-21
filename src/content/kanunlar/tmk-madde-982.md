@@ -2,7 +2,7 @@
 slug: "tmk-madde-982"
 title: "TMK Madde 982: Madde 982- Başkasının zilyet bulunduğu bir şeyi gasbeden kimse, o şey üzerinde ü..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 982 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

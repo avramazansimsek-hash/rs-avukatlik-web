@@ -2,7 +2,7 @@
 slug: "tbk-madde-535"
 title: "TBK Madde 535: MADDE 535- Vekâlet verenin belirlediği bedelin altında mal satan komisyoncu, mal..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 535 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "iik-madde-205"
 title: "IIK Madde 205: Madde 205 – Bir kollektif şirket ile şeriklerden birisinin iflas muameleleri bir..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 205 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

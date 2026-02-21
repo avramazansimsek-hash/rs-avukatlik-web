@@ -2,7 +2,7 @@
 slug: "tmk-madde-715"
 title: "TMK Madde 715: Madde 715- Sahipsiz yerler ile yararı kamuya ait mallar, Devletin hüküm ve tasar..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 715 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

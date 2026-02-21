@@ -2,7 +2,7 @@
 slug: "iik-madde-195"
 title: "IIK Madde 195: Madde 195 – Borçlunun gayri taşınır mallarının rehni suretiyle temin edilmiş ola..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 195 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

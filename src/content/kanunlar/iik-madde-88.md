@@ -2,7 +2,7 @@
 slug: "iik-madde-88"
 title: "IIK Madde 88: Madde 88 – (Değişik: 2/7/2012-6352/17 md.)..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 88 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

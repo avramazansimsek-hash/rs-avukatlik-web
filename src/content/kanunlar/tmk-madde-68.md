@@ -2,7 +2,7 @@
 slug: "tmk-madde-68"
 title: "TMK Madde 68: Madde 68- Dernek üyeleri eşit haklara sahiptirler. Dernek, üyeleri arasında dil,..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 68 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

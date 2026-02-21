@@ -2,7 +2,7 @@
 slug: "tbk-madde-213"
 title: "TBK Madde 213: MADDE 213- Borcunu ifa etmeyen satıcı, alıcının bu yüzden uğradığı zararı giderm..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 213 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

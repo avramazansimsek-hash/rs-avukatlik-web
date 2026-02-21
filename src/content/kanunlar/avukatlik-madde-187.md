@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-187"
 title: "AVUKATLIK Madde 187: Madde 187 – (Mülga: 31/5/2006-5510/106 md.)..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 187 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tbk-madde-280"
 title: "TBK Madde 280: MADDE 280- Cebrî artırmalarda zapttan ve ayıptan sorumluluğa ilişkin hükümler uy..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 280 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

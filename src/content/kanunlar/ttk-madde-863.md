@@ -2,7 +2,7 @@
 slug: "ttk-madde-863"
 title: "TTK Madde 863: MADDE 863- (1) Sözleşmeden, durumun gereğinden veya ticari teamülden aksi anlaşı..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 863 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

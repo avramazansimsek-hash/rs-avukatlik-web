@@ -2,7 +2,7 @@
 slug: "hmk-madde-10"
 title: "HMK Madde 10: MADDE 10- (1) Sözleşmeden doğan davalar, sözleşmenin ifa edileceği yer mahkemesi..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 10 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

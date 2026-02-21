@@ -1,8 +1,8 @@
 ---
 slug: "ktk-madde-9"
-title: "KTK Madde 9: Madde 9 – (Ek: 17/10/1996-4199/46 md.)..."
+title: "KTK Madde 9: Madde 9 – (Değişik: 18/1/1985 - KHK 245/2 md.; Aynen kabul: 28/3/1985-3176/2 md...."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 9 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 
@@ -11,13 +11,33 @@ excerpt: "Karayolları Trafik Kanunu Madde 9 tam metni, gerekçesi ve Av. Ramaza
 ## Kanun Metni
 
 ```text
-Madde 9 – (Ek: 17/10/1996-4199/46 md.)
+Madde 9 – (Değişik: 18/1/1985 - KHK 245/2 md.; Aynen kabul: 28/3/1985-3176/2 md.)
 
-Bu Kanunun yürürlüğe girdiği tarihten önce edinilmiş ve çeşitli sebeplerle tescili yapılmamış olan tarımda kullanılan lastik tekerlekli traktörler ile varsa bunlara ait römork ve yarı römorklar ile motorlu bisiklet ve motosikletlerin tescil işlemleri bu Kanunun yürürlüğe girdiği tarihten itibaren bir yıl içinde tamamlanır. Bu süre gerektiğinde İçişleri Bakanlığınca bir yıla kadar uzatılabilir.
+Bu Kanuna göre, Tarım Orman ve Köyişleri Bakanlığının görev ve yetkileri şunlardır:
+
+a) Orman yollarında;
+
+1. Trafik düzeni ve güvenliği açısından anaorman yolları ile gerekli görülen diğer orman yollarında işaretlemeler yaparak tedbirler almak ve aldırmak,
+
+2. Bu Kanunla ve bu Kanuna göre çıkarılan yönetmeliklerle orman yolları için verilen trafikle ilgili diğer görevleri yapmak,
+
+b) Köy yollarında;
+
+1. Trafik düzeni ve güvenliği açısından gerekli düzenleme ve işaretlemeleri yaparak, tedbir almak ve aldırmak,
+
+2. Yol güvenliğini ilgilendiren konulardaki; kavşak durak yeri, yol dışı park yeri, aydınlatma ve benzeri tesislerin projelerini incelemek ve gerekenleri onaylamak,
+
+3. Yapım ve bakımından sorumlu olduğu karayollarında 17 nci maddede sayılan tesisler için bağlantıyı sağlayacak geçiş yolları yönünden izin vermek,
+
+4. Yetkili birimlerce veya trafik zabıtasınca tespit edilen trafik kaza analizi sonucu, karayolu yapısı ve işaretlemeye dayalı kaza nedenleri gözönünde bulundurularak gerekli tedbirleri almak,
+
+5. Bu Kanunla ve bu Kanuna göre çıkarılan yönetmeliklerle köy yolları için verilen trafikle ilgili diğer görevleri yapmak.
+
+Köy yolları için sayılan görev ve hizmetlerden zorunlu ve gerekli görülenler orman yolları için de uygulanabilir.
 
  
 
-Geçici
+Belediye trafik birimleri, görev ve yetkileri:
 ```
 
 

@@ -1,8 +1,8 @@
 ---
 slug: "iik-madde-13"
-title: "IIK Madde 13: Madde 13..."
+title: "IIK Madde 13: Madde 13 – (Değişik: 6/6/1985-3222/3 md.)..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 13 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 
@@ -11,20 +11,25 @@ excerpt: "İcra ve İflas Kanunu Madde 13 tam metni, gerekçesi ve Av. Ramazan �
 ## Kanun Metni
 
 ```text
-Madde 13
+Madde 13 – (Değişik: 6/6/1985-3222/3 md.)
 
-	
+(Değişik birinci cümle: 17/7/2003-4949/2 md.) İcra ve iflâs daireleri, 4 üncü maddedeki esaslara göre icra daireleri başkanlığının, bu başkanlığın kurulmadığı yerlerde icra mahkemesi hâkiminin daimî gözetimi ve denetimi altındadır. Bu daireler Cumhuriyet savcıları ve adalet müfettişleri vasıtası ile denetime tabi tutulur. Cumhuriyet savcıları bu daireleri yılda en az bir defa denetlerler.[10]
 
-8/3/2018
+İcra ve iflas memur ve yardımcılarının disiplin cezasını gerektiren fiil ve hallerinden dolayı, haklarında Devlet Memurları Kanununun disiplin cezalarına ilişkin hükümleri uygulanır.
 
+ 
 
+Birinci teftiş:
 
+Madde 13/a – (Ek: 18/2/1965-538/9 md.)
 
-7101
+13 üncü maddeye göre Cumhuriyet savcılarınca ilk defa yapılacak teftişin, geçen bir yıllık işlemlere şamil olmak üzere her sene Ocak ayı içinde yapılması ve düzenlenecek raporların birer örneğinin icra ve iflas dairesi ile Cumhuriyet savcılığında saklanması (…)[11] gereklidir.
 
-	
+Teftişlerin yapılması, savcılıkların açık olması hallerinde bunun kimler tarafından yerine getirileceği ve teftiş raporlarının nasıl düzenleneceği yönetmelikte belirtilir.
 
-128, 177, 179, 179/a, 179/b, 179/c, 185, 206, 208, 210, 224, 227, 232, 235, 241, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298, 298/a, 299, 300, 301, 302, 303, 304, 305, 306, 307, 308, 308/a, 308/b, 308/c, 308/ç, 308/d, 308/e, 308/f, 308/g, 308/h, Onikinci Bap II., III., IV. Ve V. Bölüm Başlıkları, 309, 309/a, 309/b, 309/g, 309/k, 309/l, 309/s, 329/a, Geçici
+ 
+
+Yönetmelik ve yargıtay kararları:
 ```
 
 

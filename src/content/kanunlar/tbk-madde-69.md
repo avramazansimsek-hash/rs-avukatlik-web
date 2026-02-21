@@ -2,7 +2,7 @@
 slug: "tbk-madde-69"
 title: "TBK Madde 69: MADDE 69- Bir binanın veya diğer yapı eserlerinin maliki, bunların yapımındaki b..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 69 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

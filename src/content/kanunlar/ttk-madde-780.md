@@ -2,7 +2,7 @@
 slug: "ttk-madde-780"
 title: "TTK Madde 780: MADDE 780- (1) Çek;..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 780 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

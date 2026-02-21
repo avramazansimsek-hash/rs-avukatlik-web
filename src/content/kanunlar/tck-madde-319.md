@@ -2,7 +2,7 @@
 slug: "tck-madde-319"
 title: "TCK Madde 319: Madde 319- (1) Askerleri veya askerî idareye bağlı olarak görev yapan diğer kişi..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 319 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tbk-madde-589"
 title: "TBK Madde 589: MADDE 589- Kefil, her durumda kefalet sözleşmesinde belirtilen azamî miktara kad..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 589 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

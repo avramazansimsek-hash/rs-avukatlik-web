@@ -2,7 +2,7 @@
 slug: "tmk-madde-542"
 title: "TMK Madde 542: Madde 542- Mirasbırakan, vasiyetname için kanunda öngörülen şekillerden birine u..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 542 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

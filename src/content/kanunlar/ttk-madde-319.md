@@ -2,7 +2,7 @@
 slug: "ttk-madde-319"
 title: "TTK Madde 319: MADDE 319- (1) Bir komanditerin sorumluluğu koyduğu veya taahhüt ettiği sermaye..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 319 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

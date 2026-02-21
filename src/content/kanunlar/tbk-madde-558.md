@@ -2,7 +2,7 @@
 slug: "tbk-madde-558"
 title: "TBK Madde 558: MADDE 558- Havale ödeyicisi, havale alıcısının istemesine karşın ifadan kaçınır..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 558 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

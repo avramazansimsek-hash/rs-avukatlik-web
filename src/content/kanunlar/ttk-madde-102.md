@@ -2,7 +2,7 @@
 slug: "ttk-madde-102"
 title: "TTK Madde 102: MADDE 102- (1) Ticari mümessil, ticari vekil, satış memuru veya işletmenin çalış..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 102 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

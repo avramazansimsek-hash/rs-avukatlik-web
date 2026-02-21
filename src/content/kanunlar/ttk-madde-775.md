@@ -2,7 +2,7 @@
 slug: "ttk-madde-775"
 title: "TTK Madde 775: MADDE 775- (1) Poliçenin kaybolması veya çalınması hâlinde alınacak tedbirleri,..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 775 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

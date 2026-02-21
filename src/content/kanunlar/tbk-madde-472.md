@@ -2,7 +2,7 @@
 slug: "tbk-madde-472"
 title: "TBK Madde 472: MADDE 472- Malzeme yüklenici tarafından sağlanmışsa yüklenici, bu malzemenin ayı..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 472 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

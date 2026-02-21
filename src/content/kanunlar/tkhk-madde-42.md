@@ -2,7 +2,7 @@
 slug: "tkhk-madde-42"
 title: "TKHK Madde 42: MADDE 42- (1) Bakanlıkça projedeki konut adedi ya da projenin toplam bedeli krit..."
 category: "Tüketicinin Korunması Hakkında Kanun"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Tüketicinin Korunması Hakkında Kanun Madde 42 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

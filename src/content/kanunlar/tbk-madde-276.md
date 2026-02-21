@@ -2,7 +2,7 @@
 slug: "tbk-madde-276"
 title: "TBK Madde 276: MADDE 276- Artırmaya katılan kişi, satış için konulmuş olan koşullar çerçevesind..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 276 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

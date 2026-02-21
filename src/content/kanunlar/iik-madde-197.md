@@ -2,7 +2,7 @@
 slug: "iik-madde-197"
 title: "IIK Madde 197: Madde 197 – Alacaklı talikı bir şarta veya gayri muayyen bir vadeye muallak bulu..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 197 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

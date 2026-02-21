@@ -2,7 +2,7 @@
 slug: "iik-madde-300"
 title: "IIK Madde 300: Madde 300- (Başlığı ile Birlikte Değişik: 28/2/2018-7101/28 md.)..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 300 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

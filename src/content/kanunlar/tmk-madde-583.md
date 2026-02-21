@@ -2,7 +2,7 @@
 slug: "tmk-madde-583"
 title: "TMK Madde 583: Madde 583- Mirasın açıldığı anda henüz var olmayan bir kimseye artmirasçı veya a..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 583 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

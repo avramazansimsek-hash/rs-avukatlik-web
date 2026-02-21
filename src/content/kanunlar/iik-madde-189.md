@@ -2,7 +2,7 @@
 slug: "iik-madde-189"
 title: "IIK Madde 189: Madde 189 – Müflis başkasına ait bir malı satıp da iflasın açılmasından evvel pa..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 189 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

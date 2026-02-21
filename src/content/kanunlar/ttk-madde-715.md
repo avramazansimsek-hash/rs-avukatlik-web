@@ -2,7 +2,7 @@
 slug: "ttk-madde-715"
 title: "TTK Madde 715: MADDE 715- (1) Protestonun 716 ncı maddede belirtilen şekil ve surette noterlikç..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 715 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

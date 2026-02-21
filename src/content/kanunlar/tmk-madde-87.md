@@ -2,7 +2,7 @@
 slug: "tmk-madde-87"
 title: "TMK Madde 87: Madde 87- Dernekler, aşağıdaki hâllerde kendiliğinden sona erer:..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 87 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

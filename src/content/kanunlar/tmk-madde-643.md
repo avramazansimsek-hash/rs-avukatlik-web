@@ -2,7 +2,7 @@
 slug: "tmk-madde-643"
 title: "TMK Madde 643: Madde 643- Mirasın açıldığı tarihte, mirasçı olabilecek bir cenin varsa paylaşma..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 643 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tbk-madde-292"
 title: "TBK Madde 292: MADDE 292- Bağışlayan, bağışlananın kendisinden önce ölmesi durumunda, bağışlama..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 292 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

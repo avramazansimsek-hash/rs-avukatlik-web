@@ -2,7 +2,7 @@
 slug: "ktk-madde-45"
 title: "KTK Madde 45: Madde 45 – (Değişik: 12/7/2013-6495/19 md.)..."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 45 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

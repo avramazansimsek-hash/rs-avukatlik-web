@@ -2,7 +2,7 @@
 slug: "tmk-madde-51"
 title: "TMK Madde 51: Madde 51- Tüzel kişinin yerleşim yeri, kuruluş belgesinde başka bir hüküm bulunm..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 51 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

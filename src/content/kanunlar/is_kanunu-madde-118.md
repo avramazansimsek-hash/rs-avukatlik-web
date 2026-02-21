@@ -2,7 +2,7 @@
 slug: "is_kanunu-madde-118"
 title: "IS_KANUNU Madde 118: Madde 118 - (5.5.1983 tarihli ve 2821 sayılı Sendikalar Kanunu ile ilgili olup y..."
 category: "İş Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İş Kanunu Madde 118 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

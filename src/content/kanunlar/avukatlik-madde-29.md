@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-29"
 title: "AVUKATLIK Madde 29: Madde 29 – (Yeniden düzenleme : 2/5/2001 - 4667/18 md.; Mülga: 28/11/2006-5558/1..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 29 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

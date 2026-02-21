@@ -2,7 +2,7 @@
 slug: "tbk-madde-344"
 title: "TBK Madde 344: MADDE 344 - Tarafların yenilenen kira dönemlerinde uygulanacak kira bedeline ili..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 344 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "cmk-madde-71"
 title: "CMK Madde 71: Madde 71 – (1) Usulünce çağrıldığı hâlde gelmeyen veya gelip de yeminden, oy ve..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 71 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tck-madde-280"
 title: "TCK Madde 280: Madde 280- (1) Görevini yaptığı sırada bir suçun işlendiği yönünde bir belirti i..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 280 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

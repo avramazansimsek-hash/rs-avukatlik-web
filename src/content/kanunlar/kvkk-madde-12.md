@@ -2,7 +2,7 @@
 slug: "kvkk-madde-12"
 title: "KVKK Madde 12: MADDE 12- (1) Veri sorumlusu;..."
 category: "Kişisel Verilerin Korunması Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Kişisel Verilerin Korunması Kanunu Madde 12 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

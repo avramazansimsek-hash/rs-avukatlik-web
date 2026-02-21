@@ -2,7 +2,7 @@
 slug: "tck-madde-291"
 title: "TCK Madde 291: Madde 291- (1) Kendisini, bir hükümlünün veya tutuklunun yerine koyarak ceza inf..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 291 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

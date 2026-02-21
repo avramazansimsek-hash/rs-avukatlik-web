@@ -2,7 +2,7 @@
 slug: "tbk-madde-616"
 title: "TBK Madde 616: MADDE 616- Tarafların edimleri arasında önemli ölçüde oransızlık bulunur ve fazl..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 616 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

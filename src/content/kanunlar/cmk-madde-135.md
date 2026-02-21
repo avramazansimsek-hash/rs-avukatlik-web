@@ -2,7 +2,7 @@
 slug: "cmk-madde-135"
 title: "CMK Madde 135: Madde 135 – (1) (Değişik: 21/2/2014–6526/12 md.) Bir suç dolayısıyla yapılan sor..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 135 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

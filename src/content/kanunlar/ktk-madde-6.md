@@ -1,8 +1,8 @@
 ---
 slug: "ktk-madde-6"
-title: "KTK Madde 6: Madde 6 – Taksimetrelerin hangi il ve ilçelerde hangi tarihten itibaren, takoğra..."
+title: "KTK Madde 6: Madde 6 – Trafik zabıtası ve genel zabıtanın görev ve yetki sınırı;..."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 6 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 
@@ -11,11 +11,23 @@ excerpt: "Karayolları Trafik Kanunu Madde 6 tam metni, gerekçesi ve Av. Ramaza
 ## Kanun Metni
 
 ```text
-Madde 6 – Taksimetrelerin hangi il ve ilçelerde hangi tarihten itibaren, takoğrafların, öncelikle hangi cins araçlarda hangi tarihten itibaren kullanılacağına ilişkin esaslar yönetmelikte gösterilir.
+Madde 6 – Trafik zabıtası ve genel zabıtanın görev ve yetki sınırı;
+
+a) Trafik zabıtası:
+
+(Birinci fıkra mülga: 17/10/1996-4199/4 md.)
+
+Trafik zabıtası görevi sırasında karşılaştığı acil ve zorunlu hallerde genel zabıta görevi yapmakla da yetkilidir.
+
+Mülki idare amirlerince, emniyet ve asayiş bakımından zorunlu görülen haller dışında, trafik zabıtasına genel zabıta görevi verilemez, araç, gereç ve özel teçhizatı trafik hizmetleri dışında kullanılamaz.
+
+b) (Değişik: 21/5/1997-4262/1 md.) Genel Zabıta:
+
+Trafik zabıtasının bulunmadığı veya yeterli olmadığı yerlerde polis; polisin ve trafik teşkilatının görev alanı dışında kalan yerlerde de jandarma, trafik eğitimi almış subay, astsubay ve uzman jandarmalar eliyle yönetmelikte belirtilen esas ve usullere uygun olarak trafiği düzenlemeye ve trafik suçlarına el koymaya görevli ve yetkilidir.
 
  
 
-Geçici
+Karayolları Genel Müdürlüğünün görev ve yetkileri:
 ```
 
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-212"
 title: "TTK Madde 212: MADDE 212- (1) Kollektif şirket sözleşmesi yazılı şekle tabidir; ayrıca, sözleşm..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 212 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

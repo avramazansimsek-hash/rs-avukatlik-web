@@ -2,7 +2,7 @@
 slug: "ttk-madde-669"
 title: "TTK Madde 669: MADDE 669- (1) Hamile yazılı olan ipotekli borç senediyle irat senedine ilişkin..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 669 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

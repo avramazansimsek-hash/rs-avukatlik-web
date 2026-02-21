@@ -2,7 +2,7 @@
 slug: "tmk-madde-901"
 title: "TMK Madde 901: Madde 901- İpotekli borç senedindeki borçtan kişisel olarak sorumlu olmayan rehi..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 901 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

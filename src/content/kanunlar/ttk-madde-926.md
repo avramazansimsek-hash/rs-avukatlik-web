@@ -2,7 +2,7 @@
 slug: "ttk-madde-926"
 title: "TTK Madde 926: MADDE 926- (1) Taşıma işleri komisyoncusu, eşyanın taşınmasını bizzat üstlenebil..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 926 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "hmk-madde-223"
 title: "HMK Madde 223: MADDE 223- (1) Yabancı dilde yazılmış belgeye dayanan taraf, tercümesini de mahk..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 223 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

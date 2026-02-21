@@ -2,7 +2,7 @@
 slug: "tmk-madde-116"
 title: "TMK Madde 116: Madde 116- Amacın gerçekleşmesi olanaksız hâle geldiği ve değiştirilmesine de ol..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 116 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

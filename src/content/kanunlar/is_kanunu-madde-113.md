@@ -2,7 +2,7 @@
 slug: "is_kanunu-madde-113"
 title: "IS_KANUNU Madde 113: Madde 113 - Bu Kanunun 4 üncü maddesinin birinci fıkrasının (b) ve (ı) bentlerin..."
 category: "İş Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İş Kanunu Madde 113 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

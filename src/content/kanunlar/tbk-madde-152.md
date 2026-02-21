@@ -2,7 +2,7 @@
 slug: "tbk-madde-152"
 title: "TBK Madde 152: MADDE 152- Asıl alacak zamanaşımına uğrayınca, ona bağlı faiz ve diğer alacaklar..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 152 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

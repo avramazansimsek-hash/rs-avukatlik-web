@@ -2,7 +2,7 @@
 slug: "tbk-madde-451"
 title: "TBK Madde 451: MADDE 451- Pazarlamacının, müşterilerin ödememelerinden veya diğer yükümlülükler..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 451 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

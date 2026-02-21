@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-89"
 title: "AVUKATLIK Madde 89: Madde 89 – Her baronun yönetim kurulu, baro başkanı ile en az dört üyeden kurulu..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 89 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

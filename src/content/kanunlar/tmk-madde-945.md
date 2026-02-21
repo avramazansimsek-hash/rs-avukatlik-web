@@ -2,7 +2,7 @@
 slug: "tmk-madde-945"
 title: "TMK Madde 945: Madde 945- Alacaklı, rehinli taşınırın kaybolması, yok olması veya değerinin aza..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 945 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

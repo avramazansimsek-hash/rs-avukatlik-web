@@ -2,7 +2,7 @@
 slug: "ttk-madde-1454"
 title: "TTK Madde 1454: MADDE 1454- (1) Sigorta ettiren, üçüncü bir kişinin menfaatini, onun adını belir..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1454 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

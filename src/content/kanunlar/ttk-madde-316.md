@@ -2,7 +2,7 @@
 slug: "ttk-madde-316"
 title: "TTK Madde 316: MADDE 316- (1) Ölen bir komanditerin yerine mirasçıları geçer...."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 316 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

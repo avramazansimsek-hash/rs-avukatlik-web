@@ -2,7 +2,7 @@
 slug: "tmk-madde-1016"
 title: "TMK Madde 1016: Madde 1016- Tasarruf yetkisine ve hukukî sebebe ilişkin belgeler tamam değilse i..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 1016 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

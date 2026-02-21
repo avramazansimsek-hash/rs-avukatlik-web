@@ -2,7 +2,7 @@
 slug: "ttk-madde-435"
 title: "TTK Madde 435: MADDE 435- (1) Oy hakkı, payın, kanunen veya esas sözleşmeyle belirlenmiş buluna..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 435 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

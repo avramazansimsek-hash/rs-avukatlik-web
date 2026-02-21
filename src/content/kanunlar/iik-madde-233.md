@@ -2,7 +2,7 @@
 slug: "iik-madde-233"
 title: "IIK Madde 233: Madde 233 – (Değişik:  9/11/1988-3494/48 md.)..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 233 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

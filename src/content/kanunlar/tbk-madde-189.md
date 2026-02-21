@@ -2,7 +2,7 @@
 slug: "tbk-madde-189"
 title: "TBK Madde 189: MADDE 189- Alacağın devri ile devredenin kişiliğine özgü olanlar dışındaki öncel..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 189 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

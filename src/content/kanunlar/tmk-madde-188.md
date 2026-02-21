@@ -2,7 +2,7 @@
 slug: "tmk-madde-188"
 title: "TMK Madde 188: Madde 188- Eşlerden her biri, ortak yaşamın devamı süresince ailenin sürekli iht..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 188 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

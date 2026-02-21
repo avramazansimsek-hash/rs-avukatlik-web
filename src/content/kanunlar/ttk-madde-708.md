@@ -2,7 +2,7 @@
 slug: "ttk-madde-708"
 title: "TTK Madde 708: MADDE 708- (1) Belirli bir günde veya düzenlenme gününden ya da görüldükten beli..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 708 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-383"
 title: "TTK Madde 383: MADDE 383- (1) Bir şirket, bedellerinin tamamı ödenmiş olmak şartıyla, kendi pay..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 383 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

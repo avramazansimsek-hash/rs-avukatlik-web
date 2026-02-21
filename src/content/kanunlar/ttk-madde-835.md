@@ -2,7 +2,7 @@
 slug: "ttk-madde-835"
 title: "TTK Madde 835: MADDE 835- (1) Varantın da 834 üncü maddede yazılı kayıtları aynen içermesi ve m..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 835 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

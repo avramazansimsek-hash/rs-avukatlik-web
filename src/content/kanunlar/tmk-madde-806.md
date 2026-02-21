@@ -2,7 +2,7 @@
 slug: "tmk-madde-806"
 title: "TMK Madde 806: Madde 806- Sözleşmede aksine hüküm yoksa veya durum ve koşullardan hak sahibince..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 806 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

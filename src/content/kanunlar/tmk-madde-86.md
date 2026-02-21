@@ -2,7 +2,7 @@
 slug: "tmk-madde-86"
 title: "TMK Madde 86: Madde 86- Denetim kurulu, üç asıl ve üç yedek üyeden az olmamak üzere dernek tüz..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 86 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-516"
 title: "TMK Madde 516: Madde 516- Mirasbırakan, mirasının tamamı veya belli bir oranı için bir veya bir..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 516 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-1288"
 title: "TTK Madde 1288: MADDE 1288- (1) Çatma, gemilerden birinin donatanının veya gemi adamlarının kusu..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1288 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

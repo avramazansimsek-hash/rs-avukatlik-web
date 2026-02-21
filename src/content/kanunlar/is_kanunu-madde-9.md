@@ -1,8 +1,8 @@
 ---
 slug: "is_kanunu-madde-9"
-title: "IS_KANUNU Madde 9: Madde 9..."
+title: "IS_KANUNU Madde 9: Madde 9 - Taraflar iş sözleşmesini, Kanun hükümleriyle getirilen sınırlamalar sa..."
 category: "İş Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İş Kanunu Madde 9 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 
@@ -11,33 +11,13 @@ excerpt: "İş Kanunu Madde 9 tam metni, gerekçesi ve Av. Ramazan Şimşek'in h
 ## Kanun Metni
 
 ```text
-Madde 9
+Madde 9 - Taraflar iş sözleşmesini, Kanun hükümleriyle getirilen sınırlamalar saklı kalmak koşuluyla, ihtiyaçlarına uygun türde düzenleyebilirler.
 
-	
+İş sözleşmeleri belirli veya belirsiz süreli yapılır. Bu sözleşmeler çalışma biçimleri bakımından tam süreli veya kısmî süreli yahut deneme süreli ya da diğer türde oluşturulabilir.
 
-15/10/2019
+ 
 
-
-
-
-7226
-
-	
-
-64
-
-	
-
-26/3/2020
-
-
-
-
-7244
-
-	
-
-Geçici
+Sürekli ve süreksiz işlerdeki iş sözleşmeleri
 ```
 
 

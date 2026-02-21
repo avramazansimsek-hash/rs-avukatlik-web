@@ -2,7 +2,7 @@
 slug: "hmk-madde-63"
 title: "HMK Madde 63: MADDE 63- (1) Dava kendisine ihbar edilen kişi, davayı kazanmasında hukuki yarar..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 63 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

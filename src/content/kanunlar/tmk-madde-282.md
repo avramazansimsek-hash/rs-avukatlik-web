@@ -2,7 +2,7 @@
 slug: "tmk-madde-282"
 title: "TMK Madde 282: Madde 282- Çocuk ile ana arasında soybağı doğumla kurulur...."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 282 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

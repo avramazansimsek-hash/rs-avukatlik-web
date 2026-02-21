@@ -2,7 +2,7 @@
 slug: "cmk-madde-61"
 title: "CMK Madde 61: Madde 61 – (1) Cumhuriyet savcısı veya mahkeme başkanı veya hâkim tarafından çağ..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 61 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

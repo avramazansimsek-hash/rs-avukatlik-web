@@ -2,7 +2,7 @@
 slug: "tmk-madde-908"
 title: "TMK Madde 908: Madde 908- İrat senediyle yüklü taşınmazın bölünmesi hâlinde, parsellerin malikl..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 908 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

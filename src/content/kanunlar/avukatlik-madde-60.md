@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-60"
 title: "AVUKATLIK Madde 60: Madde 60 – 59 uncu maddede yazılı mahkemelerin tutuklama veya salıverilmeye yahu..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 60 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

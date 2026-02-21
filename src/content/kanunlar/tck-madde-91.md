@@ -2,7 +2,7 @@
 slug: "tck-madde-91"
 title: "TCK Madde 91: Madde 91- (1) Hukuken geçerli rızaya dayalı olmaksızın, kişiden organ alan kimse..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 91 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

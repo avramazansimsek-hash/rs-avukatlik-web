@@ -2,7 +2,7 @@
 slug: "tmk-madde-853"
 title: "TMK Madde 853: Madde 853- Rehin hakkı, ancak tapuya kayıtlı taşınmazlar üzerinde kurulabilir...."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 853 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

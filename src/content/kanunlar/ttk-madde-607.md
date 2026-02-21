@@ -2,7 +2,7 @@
 slug: "ttk-madde-607"
 title: "TTK Madde 607: MADDE 607- (1) Şirket sözleşmesini değiştirip, ek ya da yan edim yükümlülükleri..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 607 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

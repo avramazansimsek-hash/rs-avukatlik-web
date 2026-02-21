@@ -2,7 +2,7 @@
 slug: "tck-madde-53"
 title: "TCK Madde 53: Madde 53- (1) Kişi, kasten işlemiş olduğu suçtan dolayı hapis cezasına mahkûmiye..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 53 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

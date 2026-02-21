@@ -2,7 +2,7 @@
 slug: "tmk-madde-517"
 title: "TMK Madde 517: Madde 517- Mirasbırakan, bir kimseye onu mirasçı atamaksızın belirli bir mal bır..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 517 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

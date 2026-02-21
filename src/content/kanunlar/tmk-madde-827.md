@@ -2,7 +2,7 @@
 slug: "tmk-madde-827"
 title: "TMK Madde 827: Madde 827- Üst hakkının içerik ve kapsamıyla ilgili olarak resmî senette yer ala..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 827 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

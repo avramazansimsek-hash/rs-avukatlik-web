@@ -2,7 +2,7 @@
 slug: "ttk-madde-1299"
 title: "TTK Madde 1299: MADDE 1299- (1) Bu Bölüm hükümleri;..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1299 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

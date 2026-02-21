@@ -2,7 +2,7 @@
 slug: "ttk-madde-129"
 title: "TTK Madde 129: MADDE 129- (1) Zamanında ifa edilmeyen sermaye para ise, 128 inci madde gereğinc..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 129 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

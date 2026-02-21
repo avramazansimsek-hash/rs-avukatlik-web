@@ -2,7 +2,7 @@
 slug: "ttk-madde-234"
 title: "TTK Madde 234: MADDE 234- (1) Şirketi temsil yetkisini haiz olan kimseler tarafından, açık veya..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 234 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

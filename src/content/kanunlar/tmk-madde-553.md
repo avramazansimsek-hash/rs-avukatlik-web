@@ -2,7 +2,7 @@
 slug: "tmk-madde-553"
 title: "TMK Madde 553: Madde 553- Mirasbırakan taahhüt etmiş olmadıkça, terekeye dahil malların, vasiye..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 553 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

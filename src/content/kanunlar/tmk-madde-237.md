@@ -2,7 +2,7 @@
 slug: "tmk-madde-237"
 title: "TMK Madde 237: Madde 237- Artık değere katılmada mal rejimi sözleşmesiyle başka bir esas kabul..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 237 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

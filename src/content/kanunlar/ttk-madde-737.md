@@ -2,7 +2,7 @@
 slug: "ttk-madde-737"
 title: "TTK Madde 737: MADDE 737- (1) Araya girerek kabul eden kişi, hamile ve kimin lehine araya girmi..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 737 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

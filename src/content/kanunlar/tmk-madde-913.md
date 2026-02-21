@@ -2,7 +2,7 @@
 slug: "tmk-madde-913"
 title: "TMK Madde 913: Madde 913- İpotekli borç senedi ve irat senedinin şekilleri Cumhurbaşkanınca çık..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 913 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

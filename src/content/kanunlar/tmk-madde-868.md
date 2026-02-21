@@ -2,7 +2,7 @@
 slug: "tmk-madde-868"
 title: "TMK Madde 868: Madde 868- Malik, rehinli taşınmazın güvence altına aldığı alacağın yirmide biri..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 868 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "hmk-madde-277"
 title: "HMK Madde 277: MADDE 277- (1) Bilirkişi, görevi sebebiyle yahut görevini yerine getirirken öğre..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 277 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

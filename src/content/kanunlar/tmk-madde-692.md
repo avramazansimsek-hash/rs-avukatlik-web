@@ -2,7 +2,7 @@
 slug: "tmk-madde-692"
 title: "TMK Madde 692: Madde 692- Paylı malın özgülendiği amacın değiştirilmesi, korumanın veya olağan..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 692 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

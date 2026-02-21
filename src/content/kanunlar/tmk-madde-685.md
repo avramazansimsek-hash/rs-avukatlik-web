@@ -2,7 +2,7 @@
 slug: "tmk-madde-685"
 title: "TMK Madde 685: Madde 685- Bir şeyin maliki, onun ürünlerinin de maliki olur...."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 685 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-1431"
 title: "TTK Madde 1431: MADDE 1431- (1) Sigorta priminin tamamının, taksitle ödenmesi kararlaştırılmışsa..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1431 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

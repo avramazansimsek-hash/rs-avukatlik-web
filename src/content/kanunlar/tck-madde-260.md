@@ -2,7 +2,7 @@
 slug: "tck-madde-260"
 title: "TCK Madde 260: Madde 260- (1) Hukuka aykırı olarak ve toplu biçimde, görevlerini terk eden, gör..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 260 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

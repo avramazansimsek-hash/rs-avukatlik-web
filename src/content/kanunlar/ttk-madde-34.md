@@ -2,7 +2,7 @@
 slug: "ttk-madde-34"
 title: "TTK Madde 34: MADDE 34- (1) İlgililer, tescil, değişiklik veya silinme istemleri ile ilgili ol..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 34 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

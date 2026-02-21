@@ -2,7 +2,7 @@
 slug: "tbk-madde-457"
 title: "TBK Madde 457: MADDE 457- Pazarlamacı, aynı zamanda birden fazla işveren hesabına faaliyette bu..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 457 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

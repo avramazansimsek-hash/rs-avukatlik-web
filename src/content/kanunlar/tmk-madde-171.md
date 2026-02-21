@@ -2,7 +2,7 @@
 slug: "tmk-madde-171"
 title: "TMK Madde 171: Madde 171- Ayrılığa bir yıldan üç yıla kadar bir süre için karar verilebilir. Bu..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 171 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

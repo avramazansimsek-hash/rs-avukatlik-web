@@ -2,7 +2,7 @@
 slug: "ktk-madde-128"
 title: "KTK Madde 128: Madde 128 – Yolu kullananları uzun süre etkileyecek şekilde park edilmiş, terked..."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 128 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

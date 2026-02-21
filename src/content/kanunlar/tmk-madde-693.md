@@ -2,7 +2,7 @@
 slug: "tmk-madde-693"
 title: "TMK Madde 693: Madde 693- Paydaşlardan her biri, diğerlerinin hakları ile bağdaştığı ölçüde pay..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 693 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

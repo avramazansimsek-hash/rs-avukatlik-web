@@ -2,7 +2,7 @@
 slug: "hmk-madde-401"
 title: "HMK Madde 401: MADDE 401- (1) Henüz dava açılmamış olan hâllerde delil tespiti, esas hakkındaki..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 401 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

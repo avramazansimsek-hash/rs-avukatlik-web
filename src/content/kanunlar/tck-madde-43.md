@@ -2,7 +2,7 @@
 slug: "tck-madde-43"
 title: "TCK Madde 43: Madde 43- (1) Bir suç işleme kararının icrası kapsamında, değişik zamanlarda bir..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 43 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

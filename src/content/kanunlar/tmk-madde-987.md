@@ -2,7 +2,7 @@
 slug: "tmk-madde-987"
 title: "TMK Madde 987: Madde 987- Bir taşınırın zilyedi, kendisine karşı açılan her davada üstün hakka..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 987 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

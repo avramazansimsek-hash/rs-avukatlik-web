@@ -2,7 +2,7 @@
 slug: "ttk-madde-205"
 title: "TTK Madde 205: MADDE 205- (1) Bağlı şirketin yönetim kurulu üyeleri, yöneticileri ve sorumlu tu..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 205 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

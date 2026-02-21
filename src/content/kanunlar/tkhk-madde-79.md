@@ -2,7 +2,7 @@
 slug: "tkhk-madde-79"
 title: "TKHK Madde 79: MADDE 79- (1) Gıda ürünü olmamalarına rağmen, sahip oldukları şekil, koku, renk,..."
 category: "Tüketicinin Korunması Hakkında Kanun"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Tüketicinin Korunması Hakkında Kanun Madde 79 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

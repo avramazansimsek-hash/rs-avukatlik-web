@@ -2,7 +2,7 @@
 slug: "tmk-madde-430"
 title: "TMK Madde 430: Madde 430- Temsil kayyımı, kendisine kayyım atanacak kimsenin yerleşim yeri vesa..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 430 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

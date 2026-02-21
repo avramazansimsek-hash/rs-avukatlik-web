@@ -2,7 +2,7 @@
 slug: "tmk-madde-977"
 title: "TMK Madde 977: Madde 977- Zilyetlik, şeyin veya şey üzerinde hâkimiyeti sağlayacak araçların, e..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 977 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

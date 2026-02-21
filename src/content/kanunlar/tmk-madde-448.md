@@ -2,7 +2,7 @@
 slug: "tmk-madde-448"
 title: "TMK Madde 448: Madde 448- Vesayet dairelerinin yetkilerine ilişkin hükümler saklı kalmak kaydıy..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 448 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

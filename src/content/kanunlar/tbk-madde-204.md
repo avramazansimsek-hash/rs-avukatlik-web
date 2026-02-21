@@ -2,7 +2,7 @@
 slug: "tbk-madde-204"
 title: "TBK Madde 204: MADDE 204- Mirasın paylaşılması ve rehinli taşınmazların devri konusundaki borcu..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 204 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-1023"
 title: "TMK Madde 1023: Madde 1023- Tapu kütüğündeki tescile iyiniyetle dayanarak mülkiyet veya bir başk..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 1023 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

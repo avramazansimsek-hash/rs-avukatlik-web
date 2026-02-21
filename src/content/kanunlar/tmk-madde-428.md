@@ -2,7 +2,7 @@
 slug: "tmk-madde-428"
 title: "TMK Madde 428: Madde 428- İsteğe bağlı kısıtlama sebeplerinden biri varsa, ergin bir kişiye ken..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 428 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

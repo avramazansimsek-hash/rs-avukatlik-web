@@ -2,7 +2,7 @@
 slug: "ttk-madde-750"
 title: "TTK Madde 750: MADDE 750- (1) Zamanaşımı; dava açılması, takip talebinde bulunulması, davanın i..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 750 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

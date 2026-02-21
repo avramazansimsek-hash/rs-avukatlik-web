@@ -2,7 +2,7 @@
 slug: "hmk-madde-413"
 title: "HMK Madde 413: MADDE 413- (1) Tahkim sözleşmesinin konusunu oluşturan bir uyuşmazlığın çözümü i..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 413 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

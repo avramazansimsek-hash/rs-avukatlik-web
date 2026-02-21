@@ -2,7 +2,7 @@
 slug: "is_kanunu-madde-45"
 title: "IS_KANUNU Madde 45: Madde 45 - Toplu iş sözleşmesi veya iş sözleşmelerine hafta tatili, ulusal bayra..."
 category: "İş Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İş Kanunu Madde 45 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

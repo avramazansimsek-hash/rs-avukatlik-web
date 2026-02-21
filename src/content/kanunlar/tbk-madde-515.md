@@ -2,7 +2,7 @@
 slug: "tbk-madde-515"
 title: "TBK Madde 515: MADDE 515- Kredi mektubu, mektup gönderenin gönderilene bir üst sınır belirleyer..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 515 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

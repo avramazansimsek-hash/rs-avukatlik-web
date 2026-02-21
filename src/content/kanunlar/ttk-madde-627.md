@@ -2,7 +2,7 @@
 slug: "ttk-madde-627"
 title: "TTK Madde 627: MADDE 627- (1) Müdürler ortaklara eşit şartlar altında eşit işlem yaparlar...."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 627 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

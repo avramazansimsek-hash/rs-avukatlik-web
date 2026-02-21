@@ -2,7 +2,7 @@
 slug: "hmk-madde-89"
 title: "HMK Madde 89: MADDE 89- (1) Teminat gösterilmesini gerektiren sebep ortadan kalktığı takdirde,..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 89 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

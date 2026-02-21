@@ -2,7 +2,7 @@
 slug: "tbk-madde-74"
 title: "TBK Madde 74: MADDE 74- Hâkim, zarar verenin kusurunun olup olmadığı, ayırt etme gücünün bulun..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 74 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

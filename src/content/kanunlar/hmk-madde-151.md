@@ -2,7 +2,7 @@
 slug: "hmk-madde-151"
 title: "HMK Madde 151: MADDE 151- (1) Hâkim, duruşmanın düzenini bozan kimseyi, bunu yapmaktan men eder..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 151 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

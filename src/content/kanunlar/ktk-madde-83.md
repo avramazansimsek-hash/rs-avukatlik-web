@@ -2,7 +2,7 @@
 slug: "ktk-madde-83"
 title: "KTK Madde 83: Madde 83 – Trafik kazalarına;..."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 83 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

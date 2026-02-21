@@ -2,7 +2,7 @@
 slug: "ttk-madde-914"
 title: "TTK Madde 914: MADDE 914- (1) Taşıyıcı, yolcuları rahat bir yolculukla ve sağlıklı olarak gidec..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 914 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

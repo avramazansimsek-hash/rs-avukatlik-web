@@ -2,7 +2,7 @@
 slug: "ttk-madde-1011"
 title: "TTK Madde 1011: MADDE 1011- (1) Yapı hâlindeki gemilere özgü sicile kayıtlı yapılar ve yapı payl..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1011 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

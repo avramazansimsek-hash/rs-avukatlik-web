@@ -2,7 +2,7 @@
 slug: "cmk-madde-16"
 title: "CMK Madde 16: Madde 16 – (1) Yukarıdaki maddelere göre her biri değişik mahkemelerin yetkisi i..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 16 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

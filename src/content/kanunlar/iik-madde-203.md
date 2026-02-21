@@ -2,7 +2,7 @@
 slug: "iik-madde-203"
 title: "IIK Madde 203: Madde 203 – Bir borcu birlikte taahhüt edenlerin iflas muameleleri bir zamana te..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 203 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

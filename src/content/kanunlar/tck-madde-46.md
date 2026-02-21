@@ -2,7 +2,7 @@
 slug: "tck-madde-46"
 title: "TCK Madde 46: Madde 46- (1) Hapis cezaları şunlardır:..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 46 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

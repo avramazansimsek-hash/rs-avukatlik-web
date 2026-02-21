@@ -2,7 +2,7 @@
 slug: "tck-madde-207"
 title: "TCK Madde 207: Madde 207- (1) Bir özel belgeyi sahte olarak düzenleyen veya gerçek bir özel bel..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 207 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

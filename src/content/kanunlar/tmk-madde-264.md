@@ -2,7 +2,7 @@
 slug: "tmk-madde-264"
 title: "TMK Madde 264: Madde 264- Eşlerden biri, diğerinin rızasıyla ortaklık mallarını kullanarak, tek..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 264 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

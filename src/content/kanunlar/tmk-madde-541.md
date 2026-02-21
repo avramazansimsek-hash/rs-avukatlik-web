@@ -2,7 +2,7 @@
 slug: "tmk-madde-541"
 title: "TMK Madde 541: Madde 541- Mirasbırakan için sonradan diğer şekillerde vasiyetname yapma olanağı..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 541 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

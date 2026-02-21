@@ -2,7 +2,7 @@
 slug: "tmk-madde-255"
 title: "TMK Madde 255: Madde 255- Eşlerden birinin ölümü hâlinde, paylaşma konusu olan mallar arasında..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 255 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-212"
 title: "TMK Madde 212: Madde 212 - Mal ayrılığına geçildiği takdirde, kanunda aksine hüküm bulunmadıkça..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 212 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

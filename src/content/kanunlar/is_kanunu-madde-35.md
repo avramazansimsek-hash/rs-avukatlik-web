@@ -2,7 +2,7 @@
 slug: "is_kanunu-madde-35"
 title: "IS_KANUNU Madde 35: Madde 35 - İşçilerin aylık ücretlerinin dörtte birinden fazlası haczedilemez vey..."
 category: "İş Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İş Kanunu Madde 35 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

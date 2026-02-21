@@ -2,7 +2,7 @@
 slug: "ttk-madde-152"
 title: "TTK Madde 152: MADDE 152- (1) Birleşmeye katılan şirketler tarafından birleşme kararı alınır al..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 152 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

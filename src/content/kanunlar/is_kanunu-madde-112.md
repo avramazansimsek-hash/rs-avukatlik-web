@@ -2,7 +2,7 @@
 slug: "is_kanunu-madde-112"
 title: "IS_KANUNU Madde 112: Madde 112 - Kanuna veya kanunun verdiği yetkiye dayanılarak kurulan kurum ve kur..."
 category: "İş Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İş Kanunu Madde 112 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

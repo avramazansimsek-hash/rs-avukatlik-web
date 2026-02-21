@@ -2,7 +2,7 @@
 slug: "tck-madde-182"
 title: "TCK Madde 182: Madde 182- (1) Çevreye zarar verecek şekilde, atık veya artıkların toprağa, suya..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 182 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

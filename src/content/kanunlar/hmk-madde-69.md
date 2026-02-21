@@ -2,7 +2,7 @@
 slug: "hmk-madde-69"
 title: "HMK Madde 69: MADDE 69- (1) Müdahilin de yer aldığı asıl davada hüküm, taraflar hakkında veril..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 69 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

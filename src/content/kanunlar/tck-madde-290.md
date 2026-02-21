@@ -2,7 +2,7 @@
 slug: "tck-madde-290"
 title: "TCK Madde 290: Madde 290- (1) Hükmen hak sahiplerine teslim edilen taşınmaz mallara tekrar elko..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 290 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

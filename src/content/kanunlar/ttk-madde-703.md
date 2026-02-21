@@ -2,7 +2,7 @@
 slug: "ttk-madde-703"
 title: "TTK Madde 703: MADDE 703- (1) Bir poliçe;..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 703 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

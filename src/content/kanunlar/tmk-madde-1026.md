@@ -2,7 +2,7 @@
 slug: "tmk-madde-1026"
 title: "TMK Madde 1026: Madde 1026- Bir aynî hakkın sona ermesiyle tescil her türlü hukukî değerini kayb..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 1026 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

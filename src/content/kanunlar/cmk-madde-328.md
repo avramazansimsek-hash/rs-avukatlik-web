@@ -2,7 +2,7 @@
 slug: "cmk-madde-328"
 title: "CMK Madde 328: Madde 328 – (1) Karşılıklı hakaret hâllerinde taraflardan biri veya her ikisi ha..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 328 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

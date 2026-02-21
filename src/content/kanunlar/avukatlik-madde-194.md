@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-194"
 title: "AVUKATLIK Madde 194: Madde 194 – (Bu madde 18/6/1927 tarih ve 1086 sayılı Kanunun 61 inci maddesinin..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 194 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

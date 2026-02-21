@@ -2,7 +2,7 @@
 slug: "tmk-madde-392"
 title: "TMK Madde 392: Madde 392- Malikin, yoksulluğu sebebiyle aile yurduna alınmaya muhtaç bulunan ve..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 392 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "cmk-madde-31"
 title: "CMK Madde 31: Madde 31 – (1) Mahkeme, kovuşturma evresinde ileri sürülen hâkimin reddi istemin..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 31 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

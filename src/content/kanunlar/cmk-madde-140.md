@@ -2,7 +2,7 @@
 slug: "cmk-madde-140"
 title: "CMK Madde 140: Madde 140 – (1) Aşağıdaki suçların işlendiği hususunda somut delillere dayanan k..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 140 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

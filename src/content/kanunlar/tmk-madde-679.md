@@ -2,7 +2,7 @@
 slug: "tmk-madde-679"
 title: "TMK Madde 679: Madde 679- Paylaşmanın tamamlanmasından sonra mirasçılar, paylarına düşen mallar..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 679 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

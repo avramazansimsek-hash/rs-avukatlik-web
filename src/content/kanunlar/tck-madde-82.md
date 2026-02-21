@@ -2,7 +2,7 @@
 slug: "tck-madde-82"
 title: "TCK Madde 82: Madde 82- (1) Kasten öldürme suçunun;[31]..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 82 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

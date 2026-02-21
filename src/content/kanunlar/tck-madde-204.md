@@ -2,7 +2,7 @@
 slug: "tck-madde-204"
 title: "TCK Madde 204: Madde 204- (1) Bir resmi belgeyi sahte olarak düzenleyen, gerçek bir resmi belge..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 204 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

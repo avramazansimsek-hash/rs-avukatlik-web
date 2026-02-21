@@ -2,7 +2,7 @@
 slug: "ktk-madde-114"
 title: "KTK Madde 114: Madde 114 – (Değişik: 18/1/1985-KHK 245/13 md.; Değiştirilerek kabul: 28/3/1985-..."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 114 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

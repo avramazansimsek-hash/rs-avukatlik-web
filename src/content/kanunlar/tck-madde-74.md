@@ -2,7 +2,7 @@
 slug: "tck-madde-74"
 title: "TCK Madde 74: Madde 74- (1) Genel af, özel af ve şikayetten vazgeçme, müsadere olunan şeylerin..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 74 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

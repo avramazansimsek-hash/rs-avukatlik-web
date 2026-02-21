@@ -2,7 +2,7 @@
 slug: "tmk-madde-76"
 title: "TMK Madde 76: Madde 76- Bütün üyelerin bir araya gelmeksizin yazılı katılımıyla alınan kararla..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 76 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "iyuk-madde-50"
 title: "IYUK Madde 50: Madde 50 – (Değişik: 18/6/2014-6545/23 md.)..."
 category: "İdari Yargılama Usulü Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İdari Yargılama Usulü Kanunu Madde 50 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

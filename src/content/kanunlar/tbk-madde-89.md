@@ -2,7 +2,7 @@
 slug: "tbk-madde-89"
 title: "TBK Madde 89: MADDE 89- Borcun ifa yeri, tarafların açık veya örtülü iradelerine göre belirlen..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 89 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "iyuk-madde-53"
 title: "IYUK Madde 53: Madde 53 – 1. (Değişik birinci cümle: 5/4/1990-3622/22 md.) Danıştay ile bölge i..."
 category: "İdari Yargılama Usulü Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İdari Yargılama Usulü Kanunu Madde 53 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

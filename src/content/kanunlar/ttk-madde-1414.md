@@ -2,7 +2,7 @@
 slug: "ttk-madde-1414"
 title: "TTK Madde 1414: MADDE 1414- (1) Sigortacı, sigorta teminatının kapsamında değişiklik yapmadan, a..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1414 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

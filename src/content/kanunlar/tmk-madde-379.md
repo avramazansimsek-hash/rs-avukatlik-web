@@ -2,7 +2,7 @@
 slug: "tmk-madde-379"
 title: "TMK Madde 379: Madde 379- Ortaklar, ortaklığa giren malların elbirliği hâlinde malikidirler...."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 379 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

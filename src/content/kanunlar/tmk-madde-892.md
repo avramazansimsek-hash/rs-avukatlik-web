@@ -2,7 +2,7 @@
 slug: "tmk-madde-892"
 title: "TMK Madde 892: Madde 892- Kanunî ipotek haklarının doğumu, aksi kanunda öngörülmüş olmadıkça, t..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 892 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

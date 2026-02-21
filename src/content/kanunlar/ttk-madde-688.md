@@ -2,7 +2,7 @@
 slug: "ttk-madde-688"
 title: "TTK Madde 688: MADDE 688- (1) Ciro, “bedeli tahsil içindir”, “vekâleten” veya bedelin başkası a..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 688 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

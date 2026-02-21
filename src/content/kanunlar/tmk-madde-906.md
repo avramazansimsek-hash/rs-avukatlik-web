@@ -2,7 +2,7 @@
 slug: "tmk-madde-906"
 title: "TMK Madde 906: Madde 906- İrat senedi ile yüklü olan taşınmazın maliki, sözleşmeyle daha uzun b..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 906 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

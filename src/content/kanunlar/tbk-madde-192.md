@@ -2,7 +2,7 @@
 slug: "tbk-madde-192"
 title: "TBK Madde 192: MADDE 192- Alacaklı, alacağını borcu ifaya yönelik olarak devretmekle birlikte b..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 192 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

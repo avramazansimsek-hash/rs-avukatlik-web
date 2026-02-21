@@ -2,7 +2,7 @@
 slug: "is_kanunu-madde-62"
 title: "IS_KANUNU Madde 62: Madde 62 - Her türlü işte uygulanmakta olan çalışma sürelerinin yasal olarak dah..."
 category: "İş Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İş Kanunu Madde 62 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

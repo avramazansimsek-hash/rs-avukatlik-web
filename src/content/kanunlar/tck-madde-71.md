@@ -2,7 +2,7 @@
 slug: "tck-madde-71"
 title: "TCK Madde 71: Madde 71- (1) Mahkûmiyet hükmünün infazı için yetkili merci tarafından hükümlüye..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 71 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

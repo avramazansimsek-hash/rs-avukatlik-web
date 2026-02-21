@@ -2,7 +2,7 @@
 slug: "ttk-madde-1388"
 title: "TTK Madde 1388: MADDE 1388- (1) Alıcı, icra dairesi tarafından gemi kendisine ihale edildiği vey..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1388 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

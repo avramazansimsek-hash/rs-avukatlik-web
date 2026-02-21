@@ -2,7 +2,7 @@
 slug: "tck-madde-310"
 title: "TCK Madde 310: Madde 310- (1) Cumhurbaşkanına suikastte bulunan kişi, ağırlaştırılmış müebbet h..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 310 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-605"
 title: "TTK Madde 605: MADDE 605- (1) Yerine getirilen ek ödeme yükümlülüğünün kısmen veya tamamen geri..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 605 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

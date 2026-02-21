@@ -2,7 +2,7 @@
 slug: "ktk-madde-90"
 title: "KTK Madde 90: Madde 90 – (Değişik:14/4/2016-6704/3 md.)..."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 90 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-698"
 title: "TMK Madde 698: Madde 698- Hukukî bir işlem gereğince veya paylı malın sürekli bir amaca özgülen..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 698 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

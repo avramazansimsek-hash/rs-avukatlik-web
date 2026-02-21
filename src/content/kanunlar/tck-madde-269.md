@@ -2,7 +2,7 @@
 slug: "tck-madde-269"
 title: "TCK Madde 269: Madde 269- (1) İftira edenin, mağdur hakkında adlî veya idari soruşturma başlama..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 269 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

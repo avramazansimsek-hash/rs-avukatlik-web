@@ -2,7 +2,7 @@
 slug: "tmk-madde-409"
 title: "TMK Madde 409: Madde 409- Bir kimse dinlenilmeden savurganlığı, alkol veya uyuşturucu madde bağ..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 409 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

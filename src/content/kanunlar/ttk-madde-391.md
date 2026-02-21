@@ -2,7 +2,7 @@
 slug: "ttk-madde-391"
 title: "TTK Madde 391: MADDE 391- (1) Yönetim kurulunun kararının batıl olduğunun tespiti mahkemeden is..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 391 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

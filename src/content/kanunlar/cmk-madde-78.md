@@ -2,7 +2,7 @@
 slug: "cmk-madde-78"
 title: "CMK Madde 78: Madde 78 – (1) 75 ve 76 ncı maddelerde öngörülen işlemlerle elde edilen örnekler..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 78 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

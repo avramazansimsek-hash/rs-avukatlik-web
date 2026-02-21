@@ -2,7 +2,7 @@
 slug: "tbk-madde-43"
 title: "TBK Madde 43: MADDE 43- Hukuki işlemden doğan temsil yetkisi, aksi taraflarca kararlaştırılmad..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 43 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

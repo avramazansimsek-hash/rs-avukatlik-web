@@ -2,7 +2,7 @@
 slug: "tmk-madde-777"
 title: "TMK Madde 777: Madde 777- Başkasının taşınır bir malını davasız ve aralıksız beş yıl iyiniyetle..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 777 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

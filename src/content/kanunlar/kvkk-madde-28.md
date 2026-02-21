@@ -2,7 +2,7 @@
 slug: "kvkk-madde-28"
 title: "KVKK Madde 28: MADDE 28- (1) Bu Kanun hükümleri aşağıdaki hâllerde uygulanmaz:..."
 category: "Kişisel Verilerin Korunması Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Kişisel Verilerin Korunması Kanunu Madde 28 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

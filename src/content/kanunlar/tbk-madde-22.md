@@ -2,7 +2,7 @@
 slug: "tbk-madde-22"
 title: "TBK Madde 22: MADDE 22- Sözleşmenin yazılmamış sayılan genel işlem koşulları dışındaki hükümle..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 22 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-853"
 title: "TTK Madde 853: MADDE 853- (1) Taşıyıcı ve taşıma işleri komisyoncusu, taşıma işini 852 nci madd..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 853 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

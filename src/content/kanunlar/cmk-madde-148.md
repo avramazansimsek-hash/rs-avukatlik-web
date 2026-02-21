@@ -2,7 +2,7 @@
 slug: "cmk-madde-148"
 title: "CMK Madde 148: Madde 148 – (1) Şüphelinin ve sanığın beyanı özgür iradesine dayanmalıdır. Bunu..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 148 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

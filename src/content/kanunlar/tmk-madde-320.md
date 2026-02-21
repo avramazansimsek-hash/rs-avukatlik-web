@@ -2,7 +2,7 @@
 slug: "tmk-madde-320"
 title: "TMK Madde 320: Madde 320- Küçüklerin evlât edinilmesine ilişkin aracılık faaliyetleri, ancak Cu..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 320 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

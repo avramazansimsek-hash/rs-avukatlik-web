@@ -2,7 +2,7 @@
 slug: "ttk-madde-859"
 title: "TTK Madde 859: MADDE 859- (1) Taşıma senedi düzenlenmemişse, gönderenin istemi üzerine taşıyıcı..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 859 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

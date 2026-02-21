@@ -2,7 +2,7 @@
 slug: "iik-madde-198"
 title: "IIK Madde 198: Madde 198 – Mevzuu para olmıyan alacak ona muadil bir kıymette para alacağına çe..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 198 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

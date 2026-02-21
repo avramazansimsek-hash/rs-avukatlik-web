@@ -2,7 +2,7 @@
 slug: "cmk-madde-66"
 title: "CMK Madde 66: Madde 66 – (1) Bilirkişi incelemesi yaptırılmasına ilişkin kararda, cevaplandırı..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 66 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

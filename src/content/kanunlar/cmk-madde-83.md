@@ -2,7 +2,7 @@
 slug: "cmk-madde-83"
 title: "CMK Madde 83: Madde 83 – (1) Keşif, hâkim veya mahkeme veya naip hâkim ya da istinabe olunan h..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 83 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

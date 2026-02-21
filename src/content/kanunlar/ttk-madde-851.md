@@ -2,7 +2,7 @@
 slug: "ttk-madde-851"
 title: "TTK Madde 851: MADDE 851- (1) Eşya ve yolcu taşımayı arizi olarak üstlenen kişi hakkında da bu..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 851 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "iyuk-madde-18"
 title: "IYUK Madde 18: Madde 18 – 1. Duruşmalar açık olarak yapılır. Genel ahlakın veya kamu güvenliğin..."
 category: "İdari Yargılama Usulü Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İdari Yargılama Usulü Kanunu Madde 18 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

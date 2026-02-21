@@ -2,7 +2,7 @@
 slug: "tmk-madde-935"
 title: "TMK Madde 935: Madde 935- Senedi çıkaran aracı kurum, alacaklıların ve borçlunun temsilcisi ols..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 935 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

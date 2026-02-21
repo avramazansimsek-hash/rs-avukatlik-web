@@ -2,7 +2,7 @@
 slug: "cmk-madde-295"
 title: "CMK Madde 295: Madde 295 – (Mülga:2/3/2024-7499/21 md.)..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 295 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

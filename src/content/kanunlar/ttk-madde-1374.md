@@ -2,7 +2,7 @@
 slug: "ttk-madde-1374"
 title: "TTK Madde 1374: MADDE 1374- (1) 1370 ilâ 1372 nci maddeler uyarınca teminat veren kişi her zaman..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1374 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

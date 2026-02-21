@@ -2,7 +2,7 @@
 slug: "tck-madde-52"
 title: "TCK Madde 52: Madde 52- (1) Adlî para cezası, beş günden az ve kanunda aksine hüküm bulunmayan..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 52 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

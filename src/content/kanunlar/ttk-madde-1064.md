@@ -2,7 +2,7 @@
 slug: "ttk-madde-1064"
 title: "TTK Madde 1064: MADDE 1064- (1) Birden çok kişinin paylı mülkiyet şeklinde malik oldukları bir g..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1064 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

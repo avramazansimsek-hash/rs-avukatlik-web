@@ -2,7 +2,7 @@
 slug: "tmk-madde-799"
 title: "TMK Madde 799: Madde 799- İntifa hakkı sona erince hak sahibi, hakkın konusu olan malı malike g..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 799 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

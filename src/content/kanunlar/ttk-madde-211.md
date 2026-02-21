@@ -2,7 +2,7 @@
 slug: "ttk-madde-211"
 title: "TTK Madde 211: MADDE 211- (1) Kollektif şirket ticari bir işletmeyi bir ticaret unvanı altında..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 211 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

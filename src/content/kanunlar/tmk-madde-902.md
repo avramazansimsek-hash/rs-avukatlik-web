@@ -2,7 +2,7 @@
 slug: "tmk-madde-902"
 title: "TMK Madde 902: Madde 902- İpotekli borç senedinin güvencesi olan taşınmazın devrine veya bölünm..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 902 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-32"
 title: "AVUKATLIK Madde 32: Madde 32 – 33 – (Mülga: 30/1/1979 - 2178/8 md.)..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 32 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

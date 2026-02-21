@@ -2,7 +2,7 @@
 slug: "tck-madde-250"
 title: "TCK Madde 250: Madde 250- (1) (Değişik: 2/7/2012-6352/86 md.) Görevinin sağladığı nüfuzu kötüye..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 250 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

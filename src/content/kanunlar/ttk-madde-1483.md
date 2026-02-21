@@ -2,7 +2,7 @@
 slug: "ttk-madde-1483"
 title: "TTK Madde 1483: MADDE 1483- (1) Sigortacılar, diğer kanunlardaki hükümler saklı kalmak üzere, fa..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1483 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-1022"
 title: "TTK Madde 1022: MADDE 1022- (1) Gemi ipoteğinin kapsamına giren hususlarla ilgili olarak malikin..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1022 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

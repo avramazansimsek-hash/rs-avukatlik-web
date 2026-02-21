@@ -2,7 +2,7 @@
 slug: "ttk-madde-478"
 title: "TTK Madde 478: MADDE 478- (1) İlk esas sözleşme ile veya esas sözleşme değiştirilerek bazı payl..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 478 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

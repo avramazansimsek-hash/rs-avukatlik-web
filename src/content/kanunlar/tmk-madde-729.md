@@ -2,7 +2,7 @@
 slug: "tmk-madde-729"
 title: "TMK Madde 729: Madde 729- Bir kimse başkasının fidanını kendi arazisine ya da kendisinin veya b..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 729 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

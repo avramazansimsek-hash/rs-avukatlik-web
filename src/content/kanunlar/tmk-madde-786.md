@@ -2,7 +2,7 @@
 slug: "tmk-madde-786"
 title: "TMK Madde 786: Madde 786- İrtifak hakkı sahibi, hakkının korunması ve kullanılması için gerekli..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 786 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

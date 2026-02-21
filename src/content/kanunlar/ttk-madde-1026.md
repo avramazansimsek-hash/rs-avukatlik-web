@@ -2,7 +2,7 @@
 slug: "ttk-madde-1026"
 title: "TTK Madde 1026: MADDE 1026- (1) İpotekli alacaklı, yerleşim yerini değiştirip de bunu sigortacıy..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1026 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

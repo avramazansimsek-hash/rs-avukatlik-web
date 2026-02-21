@@ -2,7 +2,7 @@
 slug: "tbk-madde-99"
 title: "TBK Madde 99: MADDE 99- Konusu para olan borç Ülke parasıyla ödenir...."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 99 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

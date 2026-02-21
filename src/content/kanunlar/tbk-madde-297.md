@@ -2,7 +2,7 @@
 slug: "tbk-madde-297"
 title: "TBK Madde 297: MADDE 297- Bağışlayan, geri alma sebebini öğrendiği günden başlayarak bir yıl iç..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 297 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

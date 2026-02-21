@@ -2,7 +2,7 @@
 slug: "ttk-madde-609"
 title: "TTK Madde 609: MADDE 609- (1) Esas sermayeye ve ek ödemelere faiz verilemez. Şirket sözleşmesiy..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 609 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

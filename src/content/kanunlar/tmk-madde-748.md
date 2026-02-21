@@ -2,7 +2,7 @@
 slug: "tmk-madde-748"
 title: "TMK Madde 748: Madde 748- Taşınmaz malikinin taşınmazını işletme veya iyileştirme ya da taşınma..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 748 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

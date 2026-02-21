@@ -2,7 +2,7 @@
 slug: "tkhk-madde-66"
 title: "TKHK Madde 66: MADDE 66- (1) (Değişik:24/3/2022-7392/12 md.) Bakanlık, tüketici işlemleri ile t..."
 category: "Tüketicinin Korunması Hakkında Kanun"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Tüketicinin Korunması Hakkında Kanun Madde 66 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

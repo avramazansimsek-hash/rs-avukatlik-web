@@ -2,7 +2,7 @@
 slug: "tmk-madde-666"
 title: "TMK Madde 666: Madde 666- (Mülga: 30/4/2014-6537/9 md.)..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 666 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

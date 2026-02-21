@@ -2,7 +2,7 @@
 slug: "tbk-madde-95"
 title: "TBK Madde 95: MADDE 95- Süre uzatılmış ise yeni süre, aksi kararlaştırılmış olmadıkça, önceki..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 95 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

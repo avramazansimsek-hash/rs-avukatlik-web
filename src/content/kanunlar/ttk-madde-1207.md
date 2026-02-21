@@ -2,7 +2,7 @@
 slug: "ttk-madde-1207"
 title: "TTK Madde 1207: MADDE 1207- (1) Gönderilen, eşyanın teslimini isteme hakkını kullanmazsa, taşıta..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1207 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

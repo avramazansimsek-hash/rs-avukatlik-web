@@ -2,7 +2,7 @@
 slug: "tck-madde-225"
 title: "TCK Madde 225: Madde 225- (1) Alenen cinsel ilişkide bulunan veya teşhircilik yapan kişi, altı..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 225 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

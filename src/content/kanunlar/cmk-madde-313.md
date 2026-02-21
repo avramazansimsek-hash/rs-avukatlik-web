@@ -2,7 +2,7 @@
 slug: "cmk-madde-313"
 title: "CMK Madde 313: Madde 313 – (1) Hükmün infaz edilmiş olması veya hükümlünün ölümü, yargılamanın..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 313 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

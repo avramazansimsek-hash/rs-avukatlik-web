@@ -2,7 +2,7 @@
 slug: "tmk-madde-927"
 title: "TMK Madde 927: Madde 927- Borçlu yalnız tescilden veya senetten doğan def'ileri ve istemde bulu..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 927 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

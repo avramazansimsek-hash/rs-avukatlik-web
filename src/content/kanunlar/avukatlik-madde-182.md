@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-182"
 title: "AVUKATLIK Madde 182: Madde 182 – (Değişik: 2/5/2001 - 4667/90 md.)..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 182 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

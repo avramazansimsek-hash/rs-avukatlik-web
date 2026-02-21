@@ -2,7 +2,7 @@
 slug: "tck-madde-287"
 title: "TCK Madde 287: Madde 287- (1) Yetkili hakim ve savcı kararı olmaksızın, kişiyi genital muayeney..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 287 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

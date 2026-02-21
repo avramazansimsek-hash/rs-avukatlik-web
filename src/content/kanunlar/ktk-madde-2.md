@@ -1,8 +1,8 @@
 ---
 slug: "ktk-madde-2"
-title: "KTK Madde 2: Madde 2..."
+title: "KTK Madde 2: Madde 2 – Bu Kanun, trafikle ilgili kuralları, şartları, hak ve yükümlülükleri,..."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 2 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 
@@ -11,132 +11,23 @@ excerpt: "Karayolları Trafik Kanunu Madde 2 tam metni, gerekçesi ve Av. Ramaza
 ## Kanun Metni
 
 ```text
-Madde 2
+Madde 2 – Bu Kanun, trafikle ilgili kuralları, şartları, hak ve yükümlülükleri, bunların uygulanmasını ve denetlenmesini, ilgili kuruluşları ve bunların görev, yetki ve sorumluluk, çalışma usulleri ile diğer hükümleri kapsar.
 
-	
+Bu Kanun, karayollarında uygulanır. Ancak aksine bir hüküm yoksa;
 
-22/2/2019
+a) Karayolu dışındaki alanlardan kamuya açık olanlar ile park, bahçe, park yeri, garaj, yolcu ve eşya terminali, servis ve akaryakıt istasyonlarında karayolu taşıt trafiği için faydalanılan yerler ile,
 
+b) Erişme kontrollü karayolunda ve para ödenerek yararlanılan karayollarının kamuya açık kesimlerinde ve belirli bir karayolunun bağlantısını sağlayan deniz, göl ve akarsular üzerinde kamu hizmeti gören araçların, karayolu araçlarına ayrılan kısımlarında da,
 
+Bu Kanun hükümleri uygulanır.
 
+ 
 
-Anayasa Mahkemesi’nin 14/3/2019 tarihli ve
+İKİNCİ BÖLÜM
 
-E.: 2019/1, K.: 2019/14 sayılı Kararı
+Tanımlar
 
-	
-
-67
-
-	
-
-19/4/2019
-
-
-
-
-7196
-
-	
-
-5, 5/A, 41, 42, 71, Ek Madde 7, 1 Sayılı Liste,
-
-	
-
-24/12/2019
-
-
-
-
-Anayasa Mahkemesinin 17/7/2020 tarihli ve
-
-E.: 2019/40, K.: 2020/40 sayılı Kararı
-
-	
-
-90,92
-
-	
-
-9/10/2020
-
-
-
-
-7261
-
-	
-
-3, 7, 37, 53, 66, 68
-
-	
-
-30/12/2020
-
-
-
-
-7327
-
-	
-
-90, 92
-
-	
-
-19/6/2021
-
-
-
-
-
-Anayasa Mahkemesi’nin 1/6/2022 tarihli ve
-E.: 2022/13, K.: 2022/66 sayılı Kararı
-
-	
-
-65
-
-	
-
-6/7/2022
-
-
-
-
-Anayasa Mahkemesinin 20/7/2022 tarihli ve
-E.: 2022/45, K.: 2022/89 sayılı Kararı
-
-	
-
-115
-
-	
-
-2/8/2022
-
-
-
-
-Anayasa Mahkemesi’nin 29/12/2022 tarihli ve
-E.: 2021/82, K.: 2022/167 sayılı Kararı
-
-	
-
-90
-
-	
-
-14/2/2023
-
-
-
-
-7440
-
-	
-
-Geçici
+Tanımlar:
 ```
 
 

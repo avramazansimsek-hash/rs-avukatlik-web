@@ -2,7 +2,7 @@
 slug: "ttk-madde-692"
 title: "TTK Madde 692: MADDE 692- (1) Düzenleyen, bir süre belirleyerek veya belirlemeden poliçenin kab..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 692 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

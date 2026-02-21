@@ -2,7 +2,7 @@
 slug: "tck-madde-231"
 title: "TCK Madde 231: Madde 231- (1) Bir çocuğun soybağını değiştiren veya gizleyen kişi, bir yıldan ü..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 231 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

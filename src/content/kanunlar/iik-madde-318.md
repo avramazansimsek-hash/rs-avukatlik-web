@@ -2,7 +2,7 @@
 slug: "iik-madde-318"
 title: "IIK Madde 318: Madde 318 – Cumhurbaşkanınca bu suretle tayin edilen mıntakalarda 317 nci madded..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 318 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

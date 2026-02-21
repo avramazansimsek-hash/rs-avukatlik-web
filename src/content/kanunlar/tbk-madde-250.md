@@ -2,7 +2,7 @@
 slug: "tbk-madde-250"
 title: "TBK Madde 250: MADDE 250- Beğenme koşuluyla satışta alıcı, satılanı kabul etmekte veya hiçbir s..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 250 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

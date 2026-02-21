@@ -2,7 +2,7 @@
 slug: "ttk-madde-144"
 title: "TTK Madde 144: MADDE 144- (1) Birleşme sözleşmesinin imzalandığı tarih ile bilanço günü arasınd..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 144 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

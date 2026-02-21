@@ -2,7 +2,7 @@
 slug: "ttk-madde-916"
 title: "TTK Madde 916: MADDE 916- (1) Yolcu taşıması, bu Kanun hükümlerine uygun olarak Ulaştırma, Deni..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 916 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

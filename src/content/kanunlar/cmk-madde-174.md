@@ -2,7 +2,7 @@
 slug: "cmk-madde-174"
 title: "CMK Madde 174: Madde 174 – (Değişik: 25/5/2005 - 5353/27 md.)..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 174 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

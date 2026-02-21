@@ -2,7 +2,7 @@
 slug: "ttk-madde-839"
 title: "TTK Madde 839: MADDE 839- (1) Senedin teslimi şartıyla, ciro aşağıda yazılı hükümleri doğurur:..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 839 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-1018"
 title: "TMK Madde 1018: Madde 1018- Taşınmaz lehine irtifakların tescil ve terkini hem yüklü, hem yararl..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 1018 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

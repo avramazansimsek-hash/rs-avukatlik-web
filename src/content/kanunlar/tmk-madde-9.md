@@ -2,7 +2,7 @@
 slug: "tmk-madde-9"
 title: "TMK Madde 9: Madde 9 - Fiil ehliyetine sahip olan kimse, kendi fiilleriyle hak edinebilir ve..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 9 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

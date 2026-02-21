@@ -2,7 +2,7 @@
 slug: "hmk-madde-266"
 title: "HMK Madde 266: MADDE 266- (1) Mahkeme, çözümü hukuk dışında, özel veya teknik bilgiyi gerektire..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 266 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

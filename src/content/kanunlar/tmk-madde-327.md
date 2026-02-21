@@ -2,7 +2,7 @@
 slug: "tmk-madde-327"
 title: "TMK Madde 327: Madde 327- Çocuğun bakımı, eğitimi ve korunması için gerekli giderler ana ve bab..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 327 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

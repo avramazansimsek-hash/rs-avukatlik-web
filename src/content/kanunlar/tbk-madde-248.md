@@ -2,7 +2,7 @@
 slug: "tbk-madde-248"
 title: "TBK Madde 248: MADDE 248- Örnek üzerine satışta kendisine örnek verilen taraf, elindeki örneğin..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 248 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

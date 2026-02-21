@@ -2,7 +2,7 @@
 slug: "tmk-madde-540"
 title: "TMK Madde 540: Madde 540- Mirasbırakan tarafından görevlendirilen tanıklardan biri, kendilerine..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 540 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

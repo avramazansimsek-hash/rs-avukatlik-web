@@ -2,7 +2,7 @@
 slug: "tmk-madde-745"
 title: "TMK Madde 745: Madde 745- Yükümlü taşınmaz maliki, kendi menfaatinin hakkaniyete uygun bir biçi..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 745 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-894"
 title: "TMK Madde 894: Madde 894- Satıcıların, mirasçıların ve diğer elbirliği ortaklarının kanunî ipot..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 894 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

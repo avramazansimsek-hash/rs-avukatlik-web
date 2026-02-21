@@ -2,7 +2,7 @@
 slug: "tbk-madde-282"
 title: "TBK Madde 282: MADDE 282- Mal değişim sözleşmesi, taraflardan birinin diğer tarafa bir veya bir..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 282 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

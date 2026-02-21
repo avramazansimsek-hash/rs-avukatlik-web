@@ -2,7 +2,7 @@
 slug: "ttk-madde-756"
 title: "TTK Madde 756: MADDE 756- (1) Poliçe üzerindeki beyanların el ile imza edilmesi gerekir...."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 756 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-184"
 title: "TTK Madde 184: MADDE 184- (1) Tür değiştirmede, yeni türün kuruluşuna ilişkin hükümler uygulanı..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 184 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

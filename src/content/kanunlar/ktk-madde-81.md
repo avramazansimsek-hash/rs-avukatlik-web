@@ -2,7 +2,7 @@
 slug: "ktk-madde-81"
 title: "KTK Madde 81: Madde 81 – Trafik kazalarına karışanlar:..."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 81 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

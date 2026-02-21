@@ -2,7 +2,7 @@
 slug: "ktk-madde-33"
 title: "KTK Madde 33: Madde 33 – Ağırlık ve boyutları bakımından özelliği olan, başka ulaşım sistemler..."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 33 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

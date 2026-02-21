@@ -2,7 +2,7 @@
 slug: "ttk-madde-543"
 title: "TTK Madde 543: MADDE 543- (1) Tasfiye hâlinde bulunan şirketin borçları ödendikten ve pay bedel..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 543 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

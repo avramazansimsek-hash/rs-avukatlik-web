@@ -2,7 +2,7 @@
 slug: "ttk-madde-194"
 title: "TTK Madde 194: MADDE 194- (1) Bir ticari işletme, bir ticaret şirketiyle, onun tarafından devra..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 194 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-964"
 title: "TTK Madde 964: MADDE 964- (1) Gemi siciline tescil edilen hususlarda meydana gelen değişiklikle..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 964 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

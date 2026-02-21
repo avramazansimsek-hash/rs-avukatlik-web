@@ -2,7 +2,7 @@
 slug: "ttk-madde-1284"
 title: "TTK Madde 1284: MADDE 1284- (1) Dispeç raporunun onaylanması hakkındaki kararın kesinleşmesiyle..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1284 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

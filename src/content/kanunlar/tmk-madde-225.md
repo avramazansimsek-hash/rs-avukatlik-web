@@ -2,7 +2,7 @@
 slug: "tmk-madde-225"
 title: "TMK Madde 225: Madde 225 - Mal rejimi, eşlerden birinin ölümü veya başka bir mal rejiminin kabu..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 225 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

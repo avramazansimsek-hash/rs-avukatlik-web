@@ -2,7 +2,7 @@
 slug: "ttk-madde-1487"
 title: "TTK Madde 1487: MADDE 1487- (1) Hayat sigortası ile sigortacı, belli bir prim karşılığında, sigo..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1487 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

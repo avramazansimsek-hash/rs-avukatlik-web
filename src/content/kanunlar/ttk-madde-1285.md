@@ -2,7 +2,7 @@
 slug: "ttk-madde-1285"
 title: "TTK Madde 1285: MADDE 1285- (1) Müşterek avarya garame payı alacakları bir yılda zamanaşımına uğ..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1285 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

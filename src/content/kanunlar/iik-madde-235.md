@@ -2,7 +2,7 @@
 slug: "iik-madde-235"
 title: "IIK Madde 235: Madde 235 – (Değişik: 18/2/1965-538/97 md.)..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 235 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

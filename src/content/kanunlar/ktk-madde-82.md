@@ -2,7 +2,7 @@
 slug: "ktk-madde-82"
 title: "KTK Madde 82: Madde 82 – Karayollarında meydana gelecek trafik kazalarına hemen el konmasını,..."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 82 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tbk-madde-10"
 title: "TBK Madde 10: MADDE 10- Geri alma açıklaması, diğer tarafa öneriden önce veya aynı anda ulaşmı..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 10 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

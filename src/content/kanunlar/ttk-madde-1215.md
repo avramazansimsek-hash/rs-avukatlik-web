@@ -2,7 +2,7 @@
 slug: "ttk-madde-1215"
 title: "TTK Madde 1215: MADDE 1215- (1) Sözleşmede ferden belirlenmemiş bulunan eşyanın yüklenmek üzere..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1215 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

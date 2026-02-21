@@ -2,7 +2,7 @@
 slug: "ttk-madde-768"
 title: "TTK Madde 768: MADDE 768- (1) Protestonun şekli ve protesto çekilmesi için belirli olan süreler..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 768 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

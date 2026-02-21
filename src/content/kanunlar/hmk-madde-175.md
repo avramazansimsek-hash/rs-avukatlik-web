@@ -2,7 +2,7 @@
 slug: "hmk-madde-175"
 title: "HMK Madde 175: MADDE 175- (1) Tanıklığa ilişkin 249, 250, 259 ilâ 263 üncü madde hükümleri nite..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 175 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-730"
 title: "TMK Madde 730: Madde 730- Bir taşınmaz malikinin mülkiyet hakkını bu hakkın yasal kısıtlamaları..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 730 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

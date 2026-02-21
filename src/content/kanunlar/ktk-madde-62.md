@@ -2,7 +2,7 @@
 slug: "ktk-madde-62"
 title: "KTK Madde 62: Madde 62 – Yerleşim birimleri içindeki karayolunda, bir trafik işaretiyle izin v..."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 62 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

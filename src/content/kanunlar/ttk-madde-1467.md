@@ -2,7 +2,7 @@
 slug: "ttk-madde-1467"
 title: "TTK Madde 1467: MADDE 1467- (1) Değerinin tamamı sigorta olunan bir menfaat, sonradan aynı veya..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1467 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

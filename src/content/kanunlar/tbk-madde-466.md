@@ -2,7 +2,7 @@
 slug: "tbk-madde-466"
 title: "TBK Madde 466: MADDE 466- Yapılan işin ücreti, işçi, işveren tarafından aralıksız olarak çalışt..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 466 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

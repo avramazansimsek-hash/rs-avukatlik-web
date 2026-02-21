@@ -2,7 +2,7 @@
 slug: "tbk-madde-170"
 title: "TBK Madde 170: MADDE 170- Bir sözleşmenin hüküm ifade etmesi, gerçekleşip gerçekleşmeyeceği bil..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 170 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

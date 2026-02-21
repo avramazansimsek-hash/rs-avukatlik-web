@@ -2,7 +2,7 @@
 slug: "hmk-madde-146"
 title: "HMK Madde 146: MADDE 146- (1) Mahkeme, taraflarca gösterilmiş olan delillerin incelenmesinden s..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 146 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

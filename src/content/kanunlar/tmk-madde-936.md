@@ -2,7 +2,7 @@
 slug: "tmk-madde-936"
 title: "TMK Madde 936: Madde 936- Senetlerin geri ödenmesi, çıkarma sırasında yapılan veya o sırada ver..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 936 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

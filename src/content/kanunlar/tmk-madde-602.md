@@ -2,7 +2,7 @@
 slug: "tmk-madde-602"
 title: "TMK Madde 602: Madde 602- Vasiyet alacaklısının dava hakkı, ölüme bağlı kazandırmayı öğrenmesin..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 602 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

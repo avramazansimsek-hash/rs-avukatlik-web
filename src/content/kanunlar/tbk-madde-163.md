@@ -2,7 +2,7 @@
 slug: "tbk-madde-163"
 title: "TBK Madde 163: MADDE 163- Alacaklı, borcun tamamının veya bir kısmının ifasını, dilerse borçlul..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 163 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-950"
 title: "TMK Madde 950: Madde 950- Alacaklı, borçluya ait olup onun rızasıyla zilyedi bulunduğu taşınırı..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 950 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

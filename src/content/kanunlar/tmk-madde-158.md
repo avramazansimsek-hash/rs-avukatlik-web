@@ -2,7 +2,7 @@
 slug: "tmk-madde-158"
 title: "TMK Madde 158: Madde 158- Evlenmenin butlanına karar verilirse, evlenirken iyiniyetli bulunan e..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 158 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

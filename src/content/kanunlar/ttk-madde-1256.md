@@ -2,7 +2,7 @@
 slug: "ttk-madde-1256"
 title: "TTK Madde 1256: MADDE 1256- (1) Taşıyan, yolcunun gemi kazası yüzünden ölmesi veya yaralanmasınd..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1256 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

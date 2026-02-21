@@ -2,7 +2,7 @@
 slug: "ttk-madde-1385"
 title: "TTK Madde 1385: MADDE 1385- (1) İcra ve İflas Kanununun 126 ncı maddesi uyarınca yapılacak ilan,..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1385 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

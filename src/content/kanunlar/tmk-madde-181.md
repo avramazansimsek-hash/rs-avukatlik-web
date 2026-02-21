@@ -2,7 +2,7 @@
 slug: "tmk-madde-181"
 title: "TMK Madde 181: Madde 181- Boşanan eşler, bu sıfatla birbirlerinin yasal mirasçısı olamazlar ve..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 181 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

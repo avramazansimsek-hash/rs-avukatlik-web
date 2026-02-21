@@ -2,7 +2,7 @@
 slug: "iyuk-madde-27"
 title: "IYUK Madde 27: Madde 27 – (Değişik: 10/6/1994-4001/12 md.)..."
 category: "İdari Yargılama Usulü Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İdari Yargılama Usulü Kanunu Madde 27 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

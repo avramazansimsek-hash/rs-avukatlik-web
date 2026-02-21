@@ -2,7 +2,7 @@
 slug: "tbk-madde-11"
 title: "TBK Madde 11: MADDE 11- Hazır olmayanlar arasında kurulan sözleşmeler, kabulün gönderildiği an..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 11 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

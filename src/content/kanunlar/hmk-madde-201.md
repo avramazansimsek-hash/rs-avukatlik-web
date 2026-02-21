@@ -2,7 +2,7 @@
 slug: "hmk-madde-201"
 title: "HMK Madde 201: MADDE 201- (1) Senede bağlı her çeşit iddiaya karşı ileri sürülen ve senedin hük..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 201 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

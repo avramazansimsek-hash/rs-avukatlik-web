@@ -2,7 +2,7 @@
 slug: "ttk-madde-985"
 title: "TTK Madde 985: MADDE 985- (1) Aksi kararlaştırılmadıkça gemi veya gemi payı üzerindeki mülkiyet..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 985 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

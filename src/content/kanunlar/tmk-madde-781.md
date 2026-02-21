@@ -2,7 +2,7 @@
 slug: "tmk-madde-781"
 title: "TMK Madde 781: Madde 781- İrtifak hakkının kurulmasına ilişkin sözleşmenin geçerli olması, resm..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 781 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

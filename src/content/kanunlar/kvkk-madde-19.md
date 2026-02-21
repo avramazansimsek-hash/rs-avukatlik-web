@@ -2,7 +2,7 @@
 slug: "kvkk-madde-19"
 title: "KVKK Madde 19: MADDE 19- (1) Bu Kanunla verilen görevleri yerine getirmek üzere, idari ve mali..."
 category: "Kişisel Verilerin Korunması Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Kişisel Verilerin Korunması Kanunu Madde 19 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

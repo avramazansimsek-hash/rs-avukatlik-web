@@ -2,7 +2,7 @@
 slug: "ttk-madde-1070"
 title: "TTK Madde 1070: MADDE 1070- (1) Gemi müdürü, bu sıfatla iştirakin olağan işlerinin gerektirdiği..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1070 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

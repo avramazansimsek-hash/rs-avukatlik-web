@@ -2,7 +2,7 @@
 slug: "cmk-madde-273"
 title: "CMK Madde 273: Madde 273 – (1) İstinaf istemi, hükmün gerekçesiyle birlikte tebliğ edildiği tar..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 273 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

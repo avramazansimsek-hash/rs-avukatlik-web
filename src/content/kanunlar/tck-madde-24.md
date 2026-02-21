@@ -2,7 +2,7 @@
 slug: "tck-madde-24"
 title: "TCK Madde 24: Madde 24- (1) Kanunun hükmünü yerine getiren kimseye ceza verilmez...."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 24 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

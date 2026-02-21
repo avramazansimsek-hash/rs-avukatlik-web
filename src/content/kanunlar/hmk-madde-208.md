@@ -2,7 +2,7 @@
 slug: "hmk-madde-208"
 title: "HMK Madde 208: MADDE 208- (1) Taraflardan biri, kendisi tarafından düzenlendiği iddia edilen bi..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 208 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

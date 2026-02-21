@@ -2,7 +2,7 @@
 slug: "iik-madde-39"
 title: "IIK Madde 39: Madde 39 – İlama müstenit takip, son muamele üzerinden on sene geçmekle zamanaşı..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 39 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

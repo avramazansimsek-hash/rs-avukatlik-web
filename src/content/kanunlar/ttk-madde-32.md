@@ -2,7 +2,7 @@
 slug: "ttk-madde-32"
 title: "TTK Madde 32: MADDE 32- (1) Sicil müdürü tescil için aranan kanuni şartların var olup olmadığı..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 32 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

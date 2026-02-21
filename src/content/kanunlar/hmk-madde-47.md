@@ -2,7 +2,7 @@
 slug: "hmk-madde-47"
 title: "HMK Madde 47: MADDE 47- (1) (Değişik: 1/4/2015-6644/3 md.) Devlet aleyhine açılan tazminat dav..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 47 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

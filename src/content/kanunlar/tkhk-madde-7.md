@@ -2,7 +2,7 @@
 slug: "tkhk-madde-7"
 title: "TKHK Madde 7: MADDE 7- (1) Sipariş edilmeyen malların gönderilmesi ya da hizmetlerin sunulması..."
 category: "Tüketicinin Korunması Hakkında Kanun"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Tüketicinin Korunması Hakkında Kanun Madde 7 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

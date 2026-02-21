@@ -2,7 +2,7 @@
 slug: "ttk-madde-573"
 title: "TTK Madde 573: MADDE 573- (1) Limited şirket, bir veya daha çok gerçek veya tüzel kişi tarafınd..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 573 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

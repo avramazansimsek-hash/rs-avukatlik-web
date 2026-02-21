@@ -2,7 +2,7 @@
 slug: "tck-madde-115"
 title: "TCK Madde 115: Madde 115- (1) Cebir veya tehdit kullanarak, bir kimseyi dini, siyasi, sosyal, f..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 115 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

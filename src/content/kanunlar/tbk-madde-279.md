@@ -2,7 +2,7 @@
 slug: "tbk-madde-279"
 title: "TBK Madde 279: MADDE 279- Artırmada taşınır bir mal alan kişi, onun mülkiyetini ihale anında ka..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 279 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

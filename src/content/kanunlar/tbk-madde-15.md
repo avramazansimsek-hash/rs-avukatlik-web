@@ -2,7 +2,7 @@
 slug: "tbk-madde-15"
 title: "TBK Madde 15: MADDE 15- İmzanın, borç altına girenin el yazısıyla atılması zorunludur. Güvenli..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 15 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

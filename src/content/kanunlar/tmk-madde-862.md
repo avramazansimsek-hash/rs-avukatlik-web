@@ -2,7 +2,7 @@
 slug: "tmk-madde-862"
 title: "TMK Madde 862: Madde 862- Rehin, taşınmazı bütünleyici parçaları ve eklentileri ile birlikte yü..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 862 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

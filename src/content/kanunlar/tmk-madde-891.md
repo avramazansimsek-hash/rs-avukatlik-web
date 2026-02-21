@@ -2,7 +2,7 @@
 slug: "tmk-madde-891"
 title: "TMK Madde 891: Madde 891- İpotekle güvence altına alınmış bir alacağın devrinin geçerli olması,..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 891 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

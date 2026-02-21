@@ -2,7 +2,7 @@
 slug: "ttk-madde-186"
 title: "TTK Madde 186: MADDE 186- (1) Yönetim organı tür değiştirme hakkında yazılı bir rapor hazırlar...."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 186 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

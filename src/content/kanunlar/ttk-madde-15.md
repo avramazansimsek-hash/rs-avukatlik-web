@@ -1,8 +1,8 @@
 ---
 slug: "ttk-madde-15"
-title: "TTK Madde 15: Madde 15..."
+title: "TTK Madde 15: MADDE 15- (1) İster gezici olsun ister bir dükkânda veya bir sokağın belirli yer..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 15 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 
@@ -11,33 +11,11 @@ excerpt: "Türk Ticaret Kanunu Madde 15 tam metni, gerekçesi ve Av. Ramazan Şi
 ## Kanun Metni
 
 ```text
-Madde 15
+MADDE 15- (1) İster gezici olsun ister bir dükkânda veya bir sokağın belirli yerlerinde sabit bulunsun, ekonomik faaliyeti sermayesinden fazla bedenî çalışmasına dayanan ve geliri 11 inci maddenin ikinci fıkrası uyarınca çıkarılacak kararnamede gösterilen sınırı aşmayan ve sanat veya ticaretle uğraşan kişi esnaftır. Ancak, tacirlere özgü 20 ve 53 üncü maddeler ile Türk Medenî Kanununun 950 nci maddesinin ikinci fıkrası hükmü bunlara da uygulanır.
 
-	
+ 
 
-29/5/2024
-
-
-
-
-7519
-
-	
-
-1259
-
-	
-
-9/7/2024
-
-
-
-
-Anayasa Mahkemesinin 10/9/2025 tarihli ve E.: 2025/31, K.: 2025/183 Sayılı Kararı
-
-	
-
-Geçici
+II - Tüzel kişiler
 ```
 
 

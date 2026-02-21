@@ -2,7 +2,7 @@
 slug: "tbk-madde-516"
 title: "TBK Madde 516: MADDE 516- Bir kimse kendi adına ve hesabına kredi emri verenin sorumluluğu altı..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 516 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-1229"
 title: "TTK Madde 1229: MADDE 1229- (1) Konişmento, aşağıdaki kayıtları içerir:..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1229 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

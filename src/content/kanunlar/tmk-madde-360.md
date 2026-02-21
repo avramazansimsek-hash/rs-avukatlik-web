@@ -2,7 +2,7 @@
 slug: "tmk-madde-360"
 title: "TMK Madde 360: Madde 360- Ana ve baba, çocuğun mallarını yönetmekte her ne sebeple olursa olsun..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 360 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

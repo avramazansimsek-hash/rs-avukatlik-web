@@ -2,7 +2,7 @@
 slug: "tbk-madde-530"
 title: "TBK Madde 530: MADDE 530- İşsahibi, kendi menfaatine yapılmamış olsa bile, işgörmeden doğan fay..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 530 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

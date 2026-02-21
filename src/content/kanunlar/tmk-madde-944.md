@@ -2,7 +2,7 @@
 slug: "tmk-madde-944"
 title: "TMK Madde 944: Madde 944 - Alacağın ödenmesi suretiyle veya başka bir sebeple rehin hakkı sona..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 944 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

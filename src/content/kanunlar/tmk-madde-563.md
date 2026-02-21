@@ -2,7 +2,7 @@
 slug: "tmk-madde-563"
 title: "TMK Madde 563: Madde 563- Tenkis, mirasbırakanın arzusunun başka türlü olduğu tasarruftan anlaş..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 563 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

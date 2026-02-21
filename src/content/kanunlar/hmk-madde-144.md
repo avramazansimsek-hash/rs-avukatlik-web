@@ -2,7 +2,7 @@
 slug: "hmk-madde-144"
 title: "HMK Madde 144: MADDE 144- (1) Tahkikat aşamasında mahkeme, her iki tarafı usulüne uygun olarak..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 144 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

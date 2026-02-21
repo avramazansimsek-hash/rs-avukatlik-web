@@ -2,7 +2,7 @@
 slug: "hmk-madde-365"
 title: "HMK Madde 365: MADDE 365- (1) Temyiz dilekçesi, kararı veren bölge adliye mahkemesi hukuk daire..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 365 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

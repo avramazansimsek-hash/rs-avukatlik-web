@@ -2,7 +2,7 @@
 slug: "tmk-madde-1015"
 title: "TMK Madde 1015: Madde 1015- Tescil, terkin ve değişiklik gibi tasarruf işlemlerinin yapılabilmes..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 1015 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tck-madde-274"
 title: "TCK Madde 274: Madde 274- (1) Aleyhine tanıklık yapılan kişi hakkında bir hak kısıtlamasını vey..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 274 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

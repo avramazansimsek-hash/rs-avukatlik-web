@@ -2,7 +2,7 @@
 slug: "tmk-madde-701"
 title: "TMK Madde 701: Madde 701- Kanun veya kanunda öngörülen sözleşmeler uyarınca oluşan topluluk dol..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 701 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

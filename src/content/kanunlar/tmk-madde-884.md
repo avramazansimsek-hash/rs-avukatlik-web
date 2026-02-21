@@ -2,7 +2,7 @@
 slug: "tmk-madde-884"
 title: "TMK Madde 884: Madde 884- Borçtan şahsen sorumlu olmayan rehinli taşınmaz maliki, borçluya ait..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 884 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

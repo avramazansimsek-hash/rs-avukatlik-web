@@ -2,7 +2,7 @@
 slug: "iik-madde-113"
 title: "IIK Madde 113: Madde 113 – Alacaklı talep etmeden borçlunun talebiyle de satış yapılabilir...."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 113 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

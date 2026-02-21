@@ -2,7 +2,7 @@
 slug: "tck-madde-186"
 title: "TCK Madde 186: Madde 186- (1) Kişilerin hayatını ve sağlığını tehlikeye sokacak biçimde bozulmu..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 186 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

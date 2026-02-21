@@ -2,7 +2,7 @@
 slug: "ttk-madde-1458"
 title: "TTK Madde 1458: MADDE 1458- (1) Sigorta, sigorta koruması sözleşmenin yapılmasından önceki bir t..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1458 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

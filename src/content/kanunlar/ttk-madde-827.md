@@ -2,7 +2,7 @@
 slug: "ttk-madde-827"
 title: "TTK Madde 827: MADDE 827- (1) Emre yazılı havale kabul için ibraz edilemez...."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 827 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "cmk-madde-179"
 title: "CMK Madde 179: Madde 179 – (1) Sanık, doğrudan doğruya davet ettireceği veya duruşma sırasında..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 179 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "cmk-madde-268"
 title: "CMK Madde 268: Madde 268 – (1) Hâkim veya mahkeme kararına karşı itiraz, kanunun ayrıca hüküm k..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 268 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

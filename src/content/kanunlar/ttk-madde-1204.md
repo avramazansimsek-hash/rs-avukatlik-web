@@ -2,7 +2,7 @@
 slug: "ttk-madde-1204"
 title: "TTK Madde 1204: MADDE 1204- (1) Gönderilen, eşyanın teslimini istediği andan itibaren, sadece 12..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1204 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

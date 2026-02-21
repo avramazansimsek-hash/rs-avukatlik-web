@@ -2,7 +2,7 @@
 slug: "ttk-madde-923"
 title: "TTK Madde 923: MADDE 923- (1) Komisyoncu, taşıma işleri komisyonculuğu sözleşmesinden doğan büt..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 923 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

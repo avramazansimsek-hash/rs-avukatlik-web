@@ -2,7 +2,7 @@
 slug: "tck-madde-102"
 title: "TCK Madde 102: Madde 102- (Değişik: 18/6/2014-6545/58 md.)..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 102 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

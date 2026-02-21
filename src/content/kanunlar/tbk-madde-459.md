@@ -2,7 +2,7 @@
 slug: "tbk-madde-459"
 title: "TBK Madde 459: MADDE 459- Komisyon, sabit ücretin en az beşte birini oluşturuyor ve önemli mevs..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 459 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-424"
 title: "TTK Madde 424: MADDE 424- (1) Bilançonun onaylanmasına ilişkin genel kurul kararı, kararda aksi..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 424 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

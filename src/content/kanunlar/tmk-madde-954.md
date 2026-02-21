@@ -2,7 +2,7 @@
 slug: "tmk-madde-954"
 title: "TMK Madde 954: Madde 954- Başkasına devredilebilen alacaklar ve diğer haklar rehnedilebilir...."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 954 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

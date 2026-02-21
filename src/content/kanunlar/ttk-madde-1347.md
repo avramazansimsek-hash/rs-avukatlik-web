@@ -2,7 +2,7 @@
 slug: "ttk-madde-1347"
 title: "TTK Madde 1347: MADDE 1347- (1) 1976 veya 1992 tarihli sözleşmeler uyarınca sorumluluğun sınırla..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1347 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

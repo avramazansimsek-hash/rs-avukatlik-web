@@ -2,7 +2,7 @@
 slug: "ttk-madde-955"
 title: "TTK Madde 955: MADDE 955- (1) Gemi, bağlama limanının tabi olduğu sicil müdürlüğünce tescil olu..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 955 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

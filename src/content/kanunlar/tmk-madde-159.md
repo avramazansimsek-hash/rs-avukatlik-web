@@ -2,7 +2,7 @@
 slug: "tmk-madde-159"
 title: "TMK Madde 159: Madde 159- Evlenmenin butlanını dava etme hakkı mirasçılara geçmez. Ancak, miras..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 159 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

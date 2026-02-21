@@ -2,7 +2,7 @@
 slug: "ttk-madde-967"
 title: "TTK Madde 967: MADDE 967- (1) Tescil edilmiş bir gemi hakkında yirmi yıldan beri hiçbir kayıt i..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 967 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -1,8 +1,8 @@
 ---
 slug: "iyuk-madde-9"
-title: "IYUK Madde 9: Madde 9..."
+title: "IYUK Madde 9: Madde 9 – 1. (Değişik: 5/4/1990-3622/2 md.) Çözümlenmesi Danıştayın, idare ve ve..."
 category: "İdari Yargılama Usulü Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İdari Yargılama Usulü Kanunu Madde 9 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 
@@ -11,87 +11,13 @@ excerpt: "İdari Yargılama Usulü Kanunu Madde 9 tam metni, gerekçesi ve Av. R
 ## Kanun Metni
 
 ```text
-Madde 9
+Madde 9 – 1. (Değişik: 5/4/1990-3622/2 md.) Çözümlenmesi Danıştayın, idare ve vergi mahkemelerinin görevlerine girdiği halde, adli (…)[6] yargı yerlerine açılmış bulunan davaların görev noktasından reddi halinde, bu husustaki kararların kesinleşmesini izleyen günden itibaren otuz gün içinde görevli mahkemede dava açılabilir. Görevsiz yargı merciine başvurma tarihi, Danıştaya, idare ve vergi mahkemelerine başvurma tarihi olarak kabul edilir.
 
-	
+2. Adli (…)6 yargı yerlerine açılan ve görevsizlik sebebiyle reddedilen davalarda, görevsizlik kararının kesinleşmesinden sonra birinci fıkrada yazılı otuz günlük süre geçirilmiş olsa dahi, idari dava açılması için öngörülen süre henüz dolmamış ise bu süre içinde idari dava açılabilir.
 
-27/3/2018
+ 
 
-
-
-
-KHK/703
-
-	
-
-2, 9, 13, 15, 20, 20/A, 27
-
-	
-
-24/6/2018 tarihinde birlikte yapılan Türkiye Büyük Millet Meclisi ve Cumhurbaşkanlığı seçimleri sonucunda Cumhurbaşkanının andiçerek göreve başladığı tarihte
-
-(9/7/2018)
-
-
-
-
-7145
-
-	
-
-53
-
-	
-
-31/7/2018
-
-
-
-
-7188
-
-	
-
-31
-
-	
-
-24/10/2019
-
-
-
-
-7251
-
-	
-
-31
-
-	
-
-28/07/2020
-
-
-
-
-7329
-
-	
-
-20/C
-
-	
-
-30/6/2021
-
-
-
-
-7331
-
-	
-
-10, 11, 13, 24, Geçici
+İdari makamların sükutu:
 ```
 
 

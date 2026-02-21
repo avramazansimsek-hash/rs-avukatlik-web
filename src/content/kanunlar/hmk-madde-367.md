@@ -2,7 +2,7 @@
 slug: "hmk-madde-367"
 title: "HMK Madde 367: MADDE 367- (1) Temyiz, kararın icrasını durdurmaz. İcra ve İflas Kanununun icran..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 367 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

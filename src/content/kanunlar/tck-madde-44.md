@@ -2,7 +2,7 @@
 slug: "tck-madde-44"
 title: "TCK Madde 44: Madde 44- (1) İşlediği bir fiil ile birden fazla farklı suçun oluşmasına sebebiy..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 44 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

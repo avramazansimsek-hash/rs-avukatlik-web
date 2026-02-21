@@ -2,7 +2,7 @@
 slug: "cmk-madde-142"
 title: "CMK Madde 142: Madde 142 – (1) Karar veya hükümlerin kesinleştiğinin ilgilisine tebliğinden iti..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 142 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

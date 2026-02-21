@@ -2,7 +2,7 @@
 slug: "tck-madde-279"
 title: "TCK Madde 279: Madde 279- (1) Kamu adına soruşturma ve kovuşturmayı gerektiren bir suçun işlend..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 279 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

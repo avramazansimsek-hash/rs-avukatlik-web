@@ -2,7 +2,7 @@
 slug: "ttk-madde-798"
 title: "TTK Madde 798: MADDE 798- (1) Çekin bir takas odasına ibrazı ödeme için ibraz yerine geçer...."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 798 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

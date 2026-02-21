@@ -2,7 +2,7 @@
 slug: "iik-madde-215"
 title: "IIK Madde 215: Madde 215 – Daire doğruluğu ve noksansızlığı hakkında beyanda bulunmak üzere tut..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 215 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

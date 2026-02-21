@@ -2,7 +2,7 @@
 slug: "tmk-madde-639"
 title: "TMK Madde 639: Madde 639- Miras sebebiyle istihkak davası, davacının kendisinin mirasçı olduğun..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 639 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

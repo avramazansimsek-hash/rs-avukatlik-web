@@ -2,7 +2,7 @@
 slug: "ttk-madde-1094"
 title: "TTK Madde 1094: MADDE 1094- (1) Yükleme başladıktan boşaltma bitinceye kadar zorunlu bir sebep b..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1094 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

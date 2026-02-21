@@ -2,7 +2,7 @@
 slug: "tbk-madde-518"
 title: "TBK Madde 518: MADDE 518- Kredi emri verilen, kredi emrinden yararlanana kendiliğinden önel ver..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 518 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

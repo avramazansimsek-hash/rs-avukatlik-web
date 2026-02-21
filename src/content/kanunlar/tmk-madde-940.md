@@ -2,7 +2,7 @@
 slug: "tmk-madde-940"
 title: "TMK Madde 940: Madde 940- Yetkili makamlar tarafından izin verilen kuruluşlar ile kooperatifler..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 940 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

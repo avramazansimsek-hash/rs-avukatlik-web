@@ -2,7 +2,7 @@
 slug: "ttk-madde-686"
 title: "TTK Madde 686: MADDE 686- (1) Bir poliçeyi elinde bulunduran kişi, son ciro beyaz ciro olsa da..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 686 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

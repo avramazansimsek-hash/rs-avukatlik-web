@@ -2,7 +2,7 @@
 slug: "tmk-madde-811"
 title: "TMK Madde 811: Madde 811- Malik veya intifa hakkı sahibi, diğerinden giderleri paylaşmak üzere..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 811 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

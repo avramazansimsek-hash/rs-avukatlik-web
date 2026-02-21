@@ -2,7 +2,7 @@
 slug: "tmk-madde-713"
 title: "TMK Madde 713: Madde 713- Tapu kütüğünde kayıtlı olmayan bir taşınmazı davasız ve aralıksız ola..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 713 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

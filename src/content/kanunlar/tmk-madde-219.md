@@ -2,7 +2,7 @@
 slug: "tmk-madde-219"
 title: "TMK Madde 219: Madde 219- Edinilmiş mal, her eşin bu mal rejiminin devamı süresince karşılığını..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 219 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

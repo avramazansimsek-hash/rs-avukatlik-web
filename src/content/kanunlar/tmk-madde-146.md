@@ -2,7 +2,7 @@
 slug: "tmk-madde-146"
 title: "TMK Madde 146: Madde 146- Mutlak butlan davası, Cumhuriyet savcısı tarafından re'sen açılır...."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 146 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

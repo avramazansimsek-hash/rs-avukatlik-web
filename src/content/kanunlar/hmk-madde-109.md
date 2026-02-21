@@ -2,7 +2,7 @@
 slug: "hmk-madde-109"
 title: "HMK Madde 109: MADDE 109- (1) Talep konusunun niteliği itibarıyla bölünebilir olduğu durumlarda..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 109 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

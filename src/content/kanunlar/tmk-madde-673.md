@@ -2,7 +2,7 @@
 slug: "tmk-madde-673"
 title: "TMK Madde 673: Madde 673- Denkleştirme, kazandırmanın denkleştirme anındaki değerine göre yapıl..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 673 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

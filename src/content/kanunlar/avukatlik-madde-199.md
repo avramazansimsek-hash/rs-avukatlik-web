@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-199"
 title: "AVUKATLIK Madde 199: Madde 199 – (Bu madde 3/4/1930 tarih ve 1580 sayılı Belediye Kanunu ile 13/3/192..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 199 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

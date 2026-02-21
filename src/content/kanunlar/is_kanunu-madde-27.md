@@ -2,7 +2,7 @@
 slug: "is_kanunu-madde-27"
 title: "IS_KANUNU Madde 27: Madde 27- Bildirim süreleri içinde işveren, işçiye yeni bir iş bulması için gere..."
 category: "İş Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İş Kanunu Madde 27 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

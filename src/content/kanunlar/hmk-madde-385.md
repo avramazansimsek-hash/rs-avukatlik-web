@@ -2,7 +2,7 @@
 slug: "hmk-madde-385"
 title: "HMK Madde 385: MADDE 385- (1) Çekişmesiz yargı işlerinde, niteliğine uygun düştüğü ölçüde, basi..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 385 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-962"
 title: "TMK Madde 962: Madde 962- İşletme olarak taşınır rehni karşılığında ödünç verme işiyle uğraşmak..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 962 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

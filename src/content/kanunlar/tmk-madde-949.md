@@ -2,7 +2,7 @@
 slug: "tmk-madde-949"
 title: "TMK Madde 949: Madde 949- Borcun ödenmemesi hâlinde rehinli taşınırın mülkiyetinin alacaklıya g..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 949 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

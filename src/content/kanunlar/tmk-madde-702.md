@@ -2,7 +2,7 @@
 slug: "tmk-madde-702"
 title: "TMK Madde 702: Madde 702- Ortakların hakları ve yükümlülükleri, topluluğu doğuran kanun veya sö..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 702 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

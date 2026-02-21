@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-138"
 title: "AVUKATLIK Madde 138: Madde 138 – (Değişik birinci fıkra: 2/5/2001 - 4667/67 md.) Baro levhasına kabul..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 138 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

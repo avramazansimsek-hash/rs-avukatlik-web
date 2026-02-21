@@ -2,7 +2,7 @@
 slug: "tbk-madde-90"
 title: "TBK Madde 90: MADDE 90- İfa zamanı taraflarca kararlaştırılmadıkça veya hukuki ilişkinin özell..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 90 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

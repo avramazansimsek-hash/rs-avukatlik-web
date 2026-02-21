@@ -2,7 +2,7 @@
 slug: "tmk-madde-522"
 title: "TMK Madde 522: Madde 522- Tasarrufta geçiş anı belirtilmemişse miras, önmirasçının ölümüyle art..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 522 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

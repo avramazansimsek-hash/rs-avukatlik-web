@@ -2,7 +2,7 @@
 slug: "tmk-madde-416"
 title: "TMK Madde 416: Madde 416- Vesayet altına alınan kimsenin yerleşim yerinde oturanlardan vasiliğe..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 416 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

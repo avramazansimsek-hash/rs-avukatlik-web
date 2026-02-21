@@ -2,7 +2,7 @@
 slug: "iik-madde-114"
 title: "IIK Madde 114: Madde 114 – (Değişik:24/11/2021-7343/14 md.)..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 114 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

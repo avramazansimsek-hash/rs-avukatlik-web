@@ -2,7 +2,7 @@
 slug: "kvkk-madde-29"
 title: "KVKK Madde 29: MADDE 29- (1) Kurumun bütçesi, 5018 sayılı Kanunda belirlenen usul ve esaslara g..."
 category: "Kişisel Verilerin Korunması Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Kişisel Verilerin Korunması Kanunu Madde 29 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

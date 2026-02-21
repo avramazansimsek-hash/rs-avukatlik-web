@@ -2,7 +2,7 @@
 slug: "ttk-madde-675"
 title: "TTK Madde 675: MADDE 675- (1) Görüldüğünde veya görüldüğünden belirli bir süre sonra ödenmesi ş..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 675 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

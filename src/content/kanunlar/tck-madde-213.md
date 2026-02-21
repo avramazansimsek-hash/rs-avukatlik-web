@@ -2,7 +2,7 @@
 slug: "tck-madde-213"
 title: "TCK Madde 213: Madde 213- (1) Halk arasında endişe, korku ve panik yaratmak amacıyla hayat, sağ..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 213 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

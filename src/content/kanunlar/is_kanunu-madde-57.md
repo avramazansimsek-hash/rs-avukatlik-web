@@ -2,7 +2,7 @@
 slug: "is_kanunu-madde-57"
 title: "IS_KANUNU Madde 57: Madde 57 - İşveren, yıllık ücretli iznini kullanan her işçiye, yıllık izin dönem..."
 category: "İş Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İş Kanunu Madde 57 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

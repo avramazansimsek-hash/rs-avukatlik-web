@@ -2,7 +2,7 @@
 slug: "hmk-madde-397"
 title: "HMK Madde 397: MADDE 397- (1) İhtiyati tedbir kararı dava açılmasından önce verilmişse, tedbir..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 397 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

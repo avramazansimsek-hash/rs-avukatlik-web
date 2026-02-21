@@ -2,7 +2,7 @@
 slug: "ttk-madde-59"
 title: "TTK Madde 59: MADDE 59- (1) Mahkeme, davayı kazanan tarafın istemiyle, gideri haksız çıkan tar..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 59 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tbk-madde-604"
 title: "TBK Madde 604: MADDE 604- Kumar ve bahisten doğan alacak hakkında dava açılamaz ve takip yapıla..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 604 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

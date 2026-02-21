@@ -2,7 +2,7 @@
 slug: "ttk-madde-163"
 title: "TTK Madde 163: MADDE 163- (1) Devralan şirket sermayesini, devreden şirketin ortaklarının hakla..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 163 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

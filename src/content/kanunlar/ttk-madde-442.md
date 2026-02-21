@@ -2,7 +2,7 @@
 slug: "ttk-madde-442"
 title: "TTK Madde 442: MADDE 442- (1) Özel denetçi, incelemenin sonucu hakkında, şirketin sırlarını da..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 442 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

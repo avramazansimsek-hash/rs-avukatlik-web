@@ -2,7 +2,7 @@
 slug: "tmk-madde-850"
 title: "TMK Madde 850: Madde 850- Taşınmaz rehni, ancak ipotek, ipotekli borç senedi veya irat senedi ş..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 850 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

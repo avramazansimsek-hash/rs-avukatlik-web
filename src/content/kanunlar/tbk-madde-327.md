@@ -2,7 +2,7 @@
 slug: "tbk-madde-327"
 title: "TBK Madde 327: MADDE 327- Açık veya örtülü biçimde bir süre belirlenmişse, kira sözleşmesi bu s..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 327 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

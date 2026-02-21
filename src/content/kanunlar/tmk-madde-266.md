@@ -2,7 +2,7 @@
 slug: "tmk-madde-266"
 title: "TMK Madde 266: Madde 266- Mal ortaklığının sona ermesi hâlinde, eşlerden her biri ortaklık malı..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 266 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

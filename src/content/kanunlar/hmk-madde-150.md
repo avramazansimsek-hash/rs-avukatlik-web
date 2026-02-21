@@ -2,7 +2,7 @@
 slug: "hmk-madde-150"
 title: "HMK Madde 150: MADDE 150- (1) Usulüne uygun şekilde davet edilmiş olan taraflar, duruşmaya gelm..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 150 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

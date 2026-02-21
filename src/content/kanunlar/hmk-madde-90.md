@@ -2,7 +2,7 @@
 slug: "hmk-madde-90"
 title: "HMK Madde 90: MADDE 90- (1) Süreler, kanunda belirtilir veya hâkim tarafından tespit edilir. K..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 90 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

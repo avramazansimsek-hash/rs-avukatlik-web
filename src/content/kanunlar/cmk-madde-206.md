@@ -2,7 +2,7 @@
 slug: "cmk-madde-206"
 title: "CMK Madde 206: Madde 206 – (1) Sanığın sorguya çekilmesinden sonra delillerin ortaya konulmasın..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 206 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-752"
 title: "TMK Madde 752: Madde 752- Su, rüzgâr, çığ veya diğer doğal güçlerin etkisiyle ya da rastlantı s..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 752 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

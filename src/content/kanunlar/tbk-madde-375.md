@@ -2,7 +2,7 @@
 slug: "tbk-madde-375"
 title: "TBK Madde 375: MADDE 375- Kiralananı geri veren kiracı, düzenli bir işletmenin gerektirdiği ora..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 375 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

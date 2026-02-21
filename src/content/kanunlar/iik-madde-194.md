@@ -2,7 +2,7 @@
 slug: "iik-madde-194"
 title: "IIK Madde 194: Madde 194 – (Değişik birinci fıkra : 9/11/1988-3494/40 md.) Acele haller müstesn..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 194 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

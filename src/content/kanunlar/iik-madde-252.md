@@ -2,7 +2,7 @@
 slug: "iik-madde-252"
 title: "IIK Madde 252: Madde 252 – İtiraz müddetinin bitmesinden sonra muvakkat dağıtmalar yapılabilir...."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 252 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

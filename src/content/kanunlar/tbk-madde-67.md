@@ -2,7 +2,7 @@
 slug: "tbk-madde-67"
 title: "TBK Madde 67: MADDE 67- Bir hayvanın bakımını ve yönetimini sürekli veya geçici olarak üstlene..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 67 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-160"
 title: "TTK Madde 160: MADDE 160- (1) Sermaye şirketleri ve kooperatifler sermaye şirketlerine ve koope..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 160 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

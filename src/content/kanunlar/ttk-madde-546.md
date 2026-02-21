@@ -2,7 +2,7 @@
 slug: "ttk-madde-546"
 title: "TTK Madde 546: MADDE 546- (1) Pay sahipleri ile tasfiye memuru veya memurları arasındaki uyuşma..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 546 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

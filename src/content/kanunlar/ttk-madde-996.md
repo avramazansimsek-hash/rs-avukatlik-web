@@ -2,7 +2,7 @@
 slug: "ttk-madde-996"
 title: "TTK Madde 996: MADDE 996- (1) Kanunda aksine hüküm bulunmadıkça, bu Bölüm hükümleri yalnız Türk..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 996 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

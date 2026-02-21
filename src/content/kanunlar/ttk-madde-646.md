@@ -2,7 +2,7 @@
 slug: "ttk-madde-646"
 title: "TTK Madde 646: MADDE 646- (1) Kıymetli evrakın borçlusu, ancak senedin teslimi karşılığında öde..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 646 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

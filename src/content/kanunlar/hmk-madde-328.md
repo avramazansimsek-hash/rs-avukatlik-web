@@ -2,7 +2,7 @@
 slug: "hmk-madde-328"
 title: "HMK Madde 328: MADDE 328- (1) Fer’î müdahil olarak davada yer alan kimse, yanında katıldığı tar..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 328 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

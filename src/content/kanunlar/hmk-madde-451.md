@@ -2,7 +2,7 @@
 slug: "hmk-madde-451"
 title: "HMK Madde 451: MADDE 451- (1) Bu Kanun 1/10/2011 tarihinde yürürlüğe girer...."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 451 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

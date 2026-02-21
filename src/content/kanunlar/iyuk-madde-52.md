@@ -2,7 +2,7 @@
 slug: "iyuk-madde-52"
 title: "IYUK Madde 52: Madde 52 – 1. (Değişik: 5/4/1990-3622/21 md.) Temyiz veya istinaf yoluna başvuru..."
 category: "İdari Yargılama Usulü Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İdari Yargılama Usulü Kanunu Madde 52 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

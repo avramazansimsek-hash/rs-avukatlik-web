@@ -2,7 +2,7 @@
 slug: "cmk-madde-69"
 title: "CMK Madde 69: Madde 69 – (1) Hâkimin reddini gerektiren sebepler, bilirkişi hakkında da geçerl..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 69 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

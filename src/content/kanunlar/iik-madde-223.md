@@ -2,7 +2,7 @@
 slug: "iik-madde-223"
 title: "IIK Madde 223: Madde 223 – (Değişik: 6/6/1985-3222/26 md.)..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 223 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

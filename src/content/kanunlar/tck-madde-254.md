@@ -2,7 +2,7 @@
 slug: "tck-madde-254"
 title: "TCK Madde 254: Madde 254- (1) (Değişik: 2/7/2012-6352/88 md.) Rüşvet alan kişinin, durum resmi..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 254 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

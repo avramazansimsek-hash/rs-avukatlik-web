@@ -2,7 +2,7 @@
 slug: "tmk-madde-491"
 title: "TMK Madde 491: Madde 491- Son rapor ve kesin hesap onaylandıktan ve malvarlığı vesayet altındak..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 491 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

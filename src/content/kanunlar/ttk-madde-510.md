@@ -2,7 +2,7 @@
 slug: "ttk-madde-510"
 title: "TTK Madde 510: MADDE 510- (1) İşletmenin tam bir şekilde faaliyete başlamasına kadar geçecek ha..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 510 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

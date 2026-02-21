@@ -2,7 +2,7 @@
 slug: "ttk-madde-560"
 title: "TTK Madde 560: MADDE 560- (1) Sorumlu olanlara karşı tazminat istemek hakkı, davacının zararı v..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 560 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

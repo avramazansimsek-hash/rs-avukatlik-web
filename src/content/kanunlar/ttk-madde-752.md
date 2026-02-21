@@ -2,7 +2,7 @@
 slug: "ttk-madde-752"
 title: "TTK Madde 752: MADDE 752- (1) Vadesi pazara veya diğer bir resmî tatil gününe rastlayan poliçen..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 752 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "hmk-madde-321"
 title: "HMK Madde 321: MADDE 321- (1) Tahkikatın tamamlanmasından sonra, mahkeme tarafların son beyanla..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 321 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

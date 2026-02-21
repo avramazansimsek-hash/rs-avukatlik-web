@@ -2,7 +2,7 @@
 slug: "ttk-madde-142"
 title: "TTK Madde 142: MADDE 142- (1) Devralma yoluyla birleşmede, devralan şirket, sermayesini, devrol..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 142 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

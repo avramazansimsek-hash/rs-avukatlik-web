@@ -2,7 +2,7 @@
 slug: "ttk-madde-911"
 title: "TTK Madde 911: MADDE 911- (1) Sefer, taşıma sözleşmesinin kurulmasından ve hareketten sonra dur..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 911 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

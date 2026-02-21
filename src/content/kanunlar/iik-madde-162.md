@@ -2,7 +2,7 @@
 slug: "iik-madde-162"
 title: "IIK Madde 162: Madde 162 – (Değişik: 6/6/1985-3222/19 md.)..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 162 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

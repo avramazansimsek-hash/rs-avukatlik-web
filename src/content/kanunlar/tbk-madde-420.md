@@ -2,7 +2,7 @@
 slug: "tbk-madde-420"
 title: "TBK Madde 420: MADDE 420- Hizmet sözleşmelerine sadece işçi aleyhine konulan ceza koşulu geçers..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 420 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

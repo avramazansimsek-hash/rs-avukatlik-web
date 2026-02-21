@@ -2,7 +2,7 @@
 slug: "tmk-madde-669"
 title: "TMK Madde 669: Madde 669- Yasal mirasçılar, mirasbırakandan miras paylarına mahsuben elde ettik..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 669 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-1516"
 title: "TTK Madde 1516: MADDE 1516- (1) Bekleme sürelerini öngören sigorta sözleşmelerinde, bekleme süre..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1516 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

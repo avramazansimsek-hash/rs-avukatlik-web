@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-125"
 title: "AVUKATLIK Madde 125: Madde 125 – Birlik başkanlık divanı, kanunla veya birlik yönetim kurulu karariyl..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 125 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

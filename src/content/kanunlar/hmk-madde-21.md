@@ -2,7 +2,7 @@
 slug: "hmk-madde-21"
 title: "HMK Madde 21: MADDE 21- (1) Aşağıdaki hâllerde, davaya bakacak mahkemenin tayini için yargı ye..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 21 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

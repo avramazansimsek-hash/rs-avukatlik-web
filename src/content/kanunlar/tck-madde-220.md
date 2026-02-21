@@ -2,7 +2,7 @@
 slug: "tck-madde-220"
 title: "TCK Madde 220: Madde 220- (1) Kanunun suç saydığı fiilleri işlemek amacıyla örgüt kuranlar veya..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 220 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

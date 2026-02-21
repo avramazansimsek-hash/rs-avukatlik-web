@@ -2,7 +2,7 @@
 slug: "ttk-madde-1501"
 title: "TTK Madde 1501: MADDE 1501- (1) En az bir yıldan beri yürürlükte bulunan ve bir yıllık primi öde..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1501 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

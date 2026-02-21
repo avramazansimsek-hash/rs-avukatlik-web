@@ -2,7 +2,7 @@
 slug: "cmk-madde-233"
 title: "CMK Madde 233: Madde 233 – (1) Mağdur ile şikâyetçi, Cumhuriyet savcısı veya mahkeme başkanı ve..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 233 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

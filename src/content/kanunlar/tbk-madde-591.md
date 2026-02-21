@@ -2,7 +2,7 @@
 slug: "tbk-madde-591"
 title: "TBK Madde 591: MADDE 591- Kefil, asıl borçluya veya mirasçılarına ait olan ve asıl borçlunun öd..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 591 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

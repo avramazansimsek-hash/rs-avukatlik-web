@@ -2,7 +2,7 @@
 slug: "iik-madde-187"
 title: "IIK Madde 187: Madde 187 – 201 inci madde ile 277 den 284 üncüye kadar olan maddeler mucibince..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 187 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

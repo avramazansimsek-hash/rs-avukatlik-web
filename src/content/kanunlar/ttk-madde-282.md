@@ -2,7 +2,7 @@
 slug: "ttk-madde-282"
 title: "TTK Madde 282: MADDE 282- (1) Tasfiye memurlarının kanunen haiz oldukları yetkiler, ortaklar ta..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 282 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

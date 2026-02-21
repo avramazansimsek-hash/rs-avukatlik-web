@@ -2,7 +2,7 @@
 slug: "ktk-madde-120"
 title: "KTK Madde 120: Madde 120 – (Mülga: 12/7/2013-6495/24 md.)..."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 120 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

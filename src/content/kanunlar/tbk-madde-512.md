@@ -2,7 +2,7 @@
 slug: "tbk-madde-512"
 title: "TBK Madde 512: MADDE 512- Vekâlet veren ve vekil, her zaman sözleşmeyi tek taraflı olarak sona..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 512 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

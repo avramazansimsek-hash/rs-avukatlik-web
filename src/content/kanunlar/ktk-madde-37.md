@@ -2,7 +2,7 @@
 slug: "ktk-madde-37"
 title: "KTK Madde 37: Madde 37 – Sürücü belgesi almaları zorunlu olmamakla beraber;..."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 37 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tmk-madde-154"
 title: "TMK Madde 154: Madde 154- Kadının bekleme süresi bitmeden evlenmesi, evlenmenin butlanını gerek..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 154 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

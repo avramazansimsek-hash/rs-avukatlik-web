@@ -2,7 +2,7 @@
 slug: "tmk-madde-783"
 title: "TMK Madde 783: Madde 783- İrtifak hakkı, tescilin terkini veya yüklü ya da yararlanan taşınmazı..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 783 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

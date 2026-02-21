@@ -2,7 +2,7 @@
 slug: "ttk-madde-849"
 title: "TTK Madde 849: MADDE 849- (1) Makbuz senedi veya varantı kaybeden hamil, bu senetlere malik old..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 849 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

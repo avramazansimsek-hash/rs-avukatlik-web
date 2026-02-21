@@ -2,7 +2,7 @@
 slug: "ttk-madde-1391"
 title: "TTK Madde 1391: MADDE 1391- (1) Sıra cetvelinin ikinci sırasına, satılan gemi karaya oturmuş vey..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1391 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "kvkk-madde-22"
 title: "KVKK Madde 22: MADDE 22- (1) Kurulun görev ve yetkileri şunlardır:..."
 category: "Kişisel Verilerin Korunması Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Kişisel Verilerin Korunması Kanunu Madde 22 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

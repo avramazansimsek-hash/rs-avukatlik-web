@@ -2,7 +2,7 @@
 slug: "tmk-madde-208"
 title: "TMK Madde 208: Madde 208- Eşler, her zaman yeni bir mal rejimi sözleşmesiyle önceki veya başka..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 208 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

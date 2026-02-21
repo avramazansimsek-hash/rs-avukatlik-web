@@ -2,7 +2,7 @@
 slug: "hmk-madde-161"
 title: "HMK Madde 161: MADDE 161- (1) Zabıt kâtibinin gözetimi altında taraflar veya fer’î müdahil, dav..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 161 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

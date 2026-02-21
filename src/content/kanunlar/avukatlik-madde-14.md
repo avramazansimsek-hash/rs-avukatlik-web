@@ -1,8 +1,8 @@
 ---
 slug: "avukatlik-madde-14"
-title: "AVUKATLIK Madde 14: Madde 14 – 3499 sayılı Kanunla ek ve değişikliklerine göre kurulmuş olan barolar..."
+title: "AVUKATLIK Madde 14: Madde 14 – (İptal birinci fıkra: Anayasa Mahkemesi’nin 1/10/2009 tarihli ve E.:..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 14 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 
@@ -11,11 +11,23 @@ excerpt: "Avukatlık Kanunu Madde 14 tam metni, gerekçesi ve Av. Ramazan Şimş
 ## Kanun Metni
 
 ```text
-Madde 14 – 3499 sayılı Kanunla ek ve değişikliklerine göre kurulmuş olan barolar, bu Kanun hükümlerine göre görevlerine devam ederler.
+Madde 14 – (İptal birinci fıkra: Anayasa Mahkemesi’nin 1/10/2009 tarihli ve E.: 2009/67, K.: 2009/119 sayılı Kararı ile.)
+
+Yukarıki fıkra hükmü Anayasa Mahkemesi üyeleri ve Yüksek Mahkemeler hâkimleri hakkında da uygulanır.
+
+(Değişik üçüncü fıkra: 22/1/1986 - 3256/4 md.) Devlet, belediye, il özel idare ve Kamu İktisadi Teşebbüsleri Hakkında 233 Sayılı Kanun Hükmünde Kararnamenin kapsamına giren iktisadi Devlet Teşekkülleri ile kamu iktisadi kuruluşları ve bunların müessese, bağlı ortaklık ve iştiraklerinde çalışanlar, buralardan ayrıldıkları tarihten itibaren iki yıl geçmeden ayrıldıkları idare aleyhine dava alamaz ve takipte bulunamazlar.
+
+(Ek fıkra: 1/4/1981 - 2442/1 md.; Mülga fıkra: 2/7/2018-KHK-700/56 md.)
 
  
 
-Geçici
+DÖRDÜNCÜ KISIM
+
+Staj
+
+ 
+
+Genel olarak:
 ```
 
 

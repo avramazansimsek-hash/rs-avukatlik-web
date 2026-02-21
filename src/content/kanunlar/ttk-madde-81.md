@@ -2,7 +2,7 @@
 slug: "ttk-madde-81"
 title: "TTK Madde 81: MADDE 81- (1) Şartların gerçekleşmesi hâlinde Türkiye Muhasebe Standartlarında ö..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 81 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

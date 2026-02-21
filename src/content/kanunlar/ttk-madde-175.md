@@ -2,7 +2,7 @@
 slug: "ttk-madde-175"
 title: "TTK Madde 175: MADDE 175- (1) Bölünmeye katılan şirketler, 174 üncü maddede öngörülen ilanların..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 175 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

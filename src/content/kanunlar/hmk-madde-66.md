@@ -2,7 +2,7 @@
 slug: "hmk-madde-66"
 title: "HMK Madde 66: MADDE 66- (1) Üçüncü kişi, davayı kazanmasında hukuki yararı bulunan taraf yanın..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 66 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

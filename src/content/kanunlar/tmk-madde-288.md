@@ -2,7 +2,7 @@
 slug: "tmk-madde-288"
 title: "TMK Madde 288: Madde 288 - Çocuk, evlenmeden önce veya ayrı yaşama sırasında ana rahmine düşmüş..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 288 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

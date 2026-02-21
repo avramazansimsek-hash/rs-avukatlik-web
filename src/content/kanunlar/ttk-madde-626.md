@@ -2,7 +2,7 @@
 slug: "ttk-madde-626"
 title: "TTK Madde 626: MADDE 626- (1) Müdürler ve yönetimle görevli kişiler, görevlerini tüm özeni göst..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 626 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

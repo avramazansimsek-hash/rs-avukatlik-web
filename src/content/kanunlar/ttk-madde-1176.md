@@ -2,7 +2,7 @@
 slug: "ttk-madde-1176"
 title: "TTK Madde 1176: MADDE 1176- (1) Kırkambar sözleşmesinde gönderilen, taşıyanın veya yetkili bir t..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1176 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

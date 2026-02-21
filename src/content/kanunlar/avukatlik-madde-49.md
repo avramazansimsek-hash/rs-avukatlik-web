@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-49"
 title: "AVUKATLIK Madde 49: Madde 49 – (Başlığı ile Birlikte Değişik:11/7/2020-7249/7 md.)..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 49 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

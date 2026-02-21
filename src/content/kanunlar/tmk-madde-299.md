@@ -2,7 +2,7 @@
 slug: "tmk-madde-299"
 title: "TMK Madde 299: Madde 299- Davacı, tanıyanın baba olmadığını ispatla yükümlüdür...."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 299 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

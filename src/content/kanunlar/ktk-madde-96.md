@@ -2,7 +2,7 @@
 slug: "ktk-madde-96"
 title: "KTK Madde 96: Madde 96 – Zarar görenlerin tazminat alacakları, sigorta sözleşmesinde öngörülen..."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 96 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

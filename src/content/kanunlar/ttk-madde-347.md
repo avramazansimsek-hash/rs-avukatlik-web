@@ -2,7 +2,7 @@
 slug: "ttk-madde-347"
 title: "TTK Madde 347: MADDE 347- (1) İtibarî değerinden aşağı bedelle pay çıkarılamaz. Payların itibar..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 347 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

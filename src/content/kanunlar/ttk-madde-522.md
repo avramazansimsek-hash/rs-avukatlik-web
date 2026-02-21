@@ -2,7 +2,7 @@
 slug: "ttk-madde-522"
 title: "TTK Madde 522: MADDE 522- (1) Esas sözleşmede şirketin yöneticileri, çalışanları ve işçileri iç..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 522 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "kvkk-madde-15"
 title: "KVKK Madde 15: MADDE 15- (1) Kurul, şikâyet üzerine veya ihlal iddiasını öğrenmesi durumunda re..."
 category: "Kişisel Verilerin Korunması Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Kişisel Verilerin Korunması Kanunu Madde 15 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tbk-madde-212"
 title: "TBK Madde 212: MADDE 212- Satıcının temerrüdü hâlinde, borçlunun temerrüdüne ilişkin genel hükü..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 212 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-1012"
 title: "TTK Madde 1012: MADDE 1012- (1) Sicile kayıtlı olmayan bir geminin bir donatma iştiraki tarafınd..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1012 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

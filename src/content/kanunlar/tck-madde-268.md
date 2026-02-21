@@ -2,7 +2,7 @@
 slug: "tck-madde-268"
 title: "TCK Madde 268: Madde 268- (1) İşlediği suç nedeniyle kendisi hakkında soruşturma ve kovuşturma..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 268 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

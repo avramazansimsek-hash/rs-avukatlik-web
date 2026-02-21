@@ -2,7 +2,7 @@
 slug: "hmk-madde-313"
 title: "HMK Madde 313: MADDE 313- (1) Sulh, görülmekte olan bir davada, tarafların aralarındaki uyuşmaz..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 313 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

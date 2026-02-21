@@ -2,7 +2,7 @@
 slug: "iik-madde-316"
 title: "IIK Madde 316: Madde 316 – Hileli veya taksiratlı yahut adi müflisin itibarının yerine gelmesin..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 316 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "hmk-madde-24"
 title: "HMK Madde 24: MADDE 24- (1) Hâkim, iki taraftan birinin talebi olmaksızın, kendiliğinden bir d..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 24 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

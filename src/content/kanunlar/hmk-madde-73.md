@@ -2,7 +2,7 @@
 slug: "hmk-madde-73"
 title: "HMK Madde 73: MADDE 73- (1) Davaya vekâlet, kanunda özel yetki verilmesini gerektiren hususlar..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 73 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

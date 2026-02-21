@@ -2,7 +2,7 @@
 slug: "iik-madde-330"
 title: "IIK Madde 330: Madde 330 – Salgın hastalık, umumi bir musibet veya harb halinde Cumhurbaşkanı k..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 330 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

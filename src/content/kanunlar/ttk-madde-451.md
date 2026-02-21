@@ -2,7 +2,7 @@
 slug: "ttk-madde-451"
 title: "TTK Madde 451: MADDE 451- (1) Genel kurulun kararına karşı, kötüniyetle iptal veya butlan davas..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 451 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

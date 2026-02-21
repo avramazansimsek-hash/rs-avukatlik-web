@@ -2,7 +2,7 @@
 slug: "tmk-madde-273"
 title: "TMK Madde 273: Madde 273 - Bir eşin kişisel mallara ilişkin borçları, ortaklık mallarından veya..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 273 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

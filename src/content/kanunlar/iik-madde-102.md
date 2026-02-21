@@ -2,7 +2,7 @@
 slug: "iik-madde-102"
 title: "IIK Madde 102: Madde 102 – Taşınır bir malı haciz için mahallinde bir tutanak tutulur. Tutanakt..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 102 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

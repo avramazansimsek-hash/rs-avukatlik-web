@@ -2,7 +2,7 @@
 slug: "tkhk-madde-37"
 title: "TKHK Madde 37: MADDE 37- (1) Tüketici, vadesi gelmemiş bir veya birden çok taksit ödemesinde bu..."
 category: "Tüketicinin Korunması Hakkında Kanun"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Tüketicinin Korunması Hakkında Kanun Madde 37 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

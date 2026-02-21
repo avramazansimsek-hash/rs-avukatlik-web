@@ -2,7 +2,7 @@
 slug: "hmk-madde-399"
 title: "HMK Madde 399: MADDE 399- (1) Lehine ihtiyati tedbir kararı verilen taraf, ihtiyati tedbir tale..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 399 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "cmk-madde-193"
 title: "CMK Madde 193: Madde 193 – (1) Kanunun ayrık tuttuğu hâller saklı kalmak üzere, hazır bulunmaya..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 193 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

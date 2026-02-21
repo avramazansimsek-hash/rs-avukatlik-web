@@ -2,7 +2,7 @@
 slug: "ttk-madde-521"
 title: "TTK Madde 521: MADDE 521- (1) Yedek akçeye yıllık kârın yüzde beşinden fazla bir tutarın ayrıla..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 521 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

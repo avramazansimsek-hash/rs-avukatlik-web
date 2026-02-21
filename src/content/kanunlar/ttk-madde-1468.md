@@ -2,7 +2,7 @@
 slug: "ttk-madde-1468"
 title: "TTK Madde 1468: MADDE 1468- (1) Sigorta olunan menfaatin değeri önceki sözleşmeyle tamamen temin..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1468 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

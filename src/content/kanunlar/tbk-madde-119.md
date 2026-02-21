@@ -2,7 +2,7 @@
 slug: "tbk-madde-119"
 title: "TBK Madde 119: MADDE 119- Temerrüde düşen borçlu, beklenmedik hâl sebebiyle doğacak zarardan so..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 119 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tbk-madde-330"
 title: "TBK Madde 330: MADDE 330- Taraflardan her biri, bir taşınıra ilişkin kira sözleşmesini üç gün ö..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 330 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

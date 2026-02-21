@@ -2,7 +2,7 @@
 slug: "iik-madde-184"
 title: "IIK Madde 184: Madde 184 – İflas açıldığı zamanda müflisin haczi kabil bütün malları hangi yerd..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 184 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

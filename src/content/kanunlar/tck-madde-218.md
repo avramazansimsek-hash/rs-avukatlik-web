@@ -2,7 +2,7 @@
 slug: "tck-madde-218"
 title: "TCK Madde 218: Madde 218- (1) (Değişik: 29/6/2005 – 5377/25 md.) Yukarıdaki maddelerde tanımlan..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 218 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

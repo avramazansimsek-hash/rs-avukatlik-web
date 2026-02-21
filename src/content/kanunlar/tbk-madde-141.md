@@ -2,7 +2,7 @@
 slug: "tbk-madde-141"
 title: "TBK Madde 141: MADDE 141- Üçüncü kişi yararına borçlanan kişi, bu borcu ile sözleşmenin diğer t..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 141 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

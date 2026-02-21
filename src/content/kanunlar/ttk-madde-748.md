@@ -2,7 +2,7 @@
 slug: "ttk-madde-748"
 title: "TTK Madde 748: MADDE 748- (1) Bir poliçe metni değiştirildiği takdirde, değiştirmeden sonra pol..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 748 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "hmk-madde-395"
 title: "HMK Madde 395: MADDE 395- (1) Aleyhine ihtiyati tedbir kararı verilen veya hakkında bu tedbir k..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 395 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

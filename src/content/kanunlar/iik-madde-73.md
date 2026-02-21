@@ -2,7 +2,7 @@
 slug: "iik-madde-73"
 title: "IIK Madde 73: Madde 73 – (Değişik: 18/2/1965-538/44 md.)..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 73 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

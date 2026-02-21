@@ -2,7 +2,7 @@
 slug: "avukatlik-madde-95"
 title: "AVUKATLIK Madde 95: Madde 95 – Yönetim kurulu, kendisine kanunen verilen görevleri yerine getirmekle..."
 category: "Avukatlık Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Avukatlık Kanunu Madde 95 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "cmk-madde-305"
 title: "CMK Madde 305: Madde 305 – (1) Hüküm, 231 inci madde gereğince açıklanır. Buna olanak bulunmadı..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 305 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

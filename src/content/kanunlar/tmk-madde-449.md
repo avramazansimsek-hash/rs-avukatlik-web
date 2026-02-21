@@ -2,7 +2,7 @@
 slug: "tmk-madde-449"
 title: "TMK Madde 449: Madde 449- Vesayet altındaki kişi adına kefil olmak, vakıf kurmak ve önemli bağı..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 449 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

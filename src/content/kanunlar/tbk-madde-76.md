@@ -2,7 +2,7 @@
 slug: "tbk-madde-76"
 title: "TBK Madde 76: MADDE 76- Zarar gören, iddiasının haklılığını gösteren inandırıcı kanıtlar sundu..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 76 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "tbk-madde-12"
 title: "TBK Madde 12: MADDE 12- Sözleşmelerin geçerliliği, kanunda aksi öngörülmedikçe, hiçbir şekle b..."
 category: "Türk Borçlar Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Borçlar Kanunu Madde 12 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

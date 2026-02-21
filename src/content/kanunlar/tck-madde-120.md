@@ -2,7 +2,7 @@
 slug: "tck-madde-120"
 title: "TCK Madde 120: Madde 120- (1) Hukuka aykırı olarak bir kimsenin üstünü veya eşyasını arayan kam..."
 category: "Türk Ceza Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ceza Kanunu Madde 120 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "ttk-madde-1381"
 title: "TTK Madde 1381: MADDE 1381- (1) Akdî veya kanuni gemi ipoteği alacaklıları, ipoteğin paraya çevr..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 1381 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

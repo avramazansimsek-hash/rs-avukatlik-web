@@ -2,7 +2,7 @@
 slug: "iik-madde-350"
 title: "IIK Madde 350: Madde 350 – İcra mahkemesi iki tarafı ve delillerini dinler ve gerek tarafların..."
 category: "İcra ve İflas Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İcra ve İflas Kanunu Madde 350 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

@@ -2,7 +2,7 @@
 slug: "hmk-madde-99"
 title: "HMK Madde 99: MADDE 99- (1) Eski hâle getirme talebi, yargılamanın ertelenmesini gerektirmez v..."
 category: "Hukuk Muhakemeleri Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Hukuk Muhakemeleri Kanunu Madde 99 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

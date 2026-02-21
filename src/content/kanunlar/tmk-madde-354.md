@@ -2,7 +2,7 @@
 slug: "tmk-madde-354"
 title: "TMK Madde 354: Madde 354- Ana ve baba, kusurları sebebiyle velâyetleri kaldırılmadıkça, çocuğun..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 354 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

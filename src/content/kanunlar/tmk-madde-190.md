@@ -2,7 +2,7 @@
 slug: "tmk-madde-190"
 title: "TMK Madde 190: Madde 190- Eşlerden biri birliği temsil yetkisini aşar veya bu yetkiyi kullanmad..."
 category: "Türk Medeni Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Medeni Kanunu Madde 190 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

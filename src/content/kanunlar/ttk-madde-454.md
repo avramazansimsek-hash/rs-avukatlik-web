@@ -2,7 +2,7 @@
 slug: "ttk-madde-454"
 title: "TTK Madde 454: MADDE 454- (1) Genel kurulun esas sözleşmenin değiştirilmesine, yönetim kuruluna..."
 category: "Türk Ticaret Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Türk Ticaret Kanunu Madde 454 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

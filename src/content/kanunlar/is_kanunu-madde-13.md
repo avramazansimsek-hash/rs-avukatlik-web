@@ -2,7 +2,7 @@
 slug: "is_kanunu-madde-13"
 title: "IS_KANUNU Madde 13: Madde 13 - İşçinin normal haftalık çalışma süresinin, tam süreli iş sözleşmesiyl..."
 category: "İş Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "İş Kanunu Madde 13 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 

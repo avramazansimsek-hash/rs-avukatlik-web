@@ -1,8 +1,8 @@
 ---
 slug: "cmk-madde-2"
-title: "CMK Madde 2: Madde 2..."
+title: "CMK Madde 2: Madde 2 – (1) Bu Kanunun uygulanmasında;..."
 category: "Ceza Muhakemesi Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Ceza Muhakemesi Kanunu Madde 2 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 
@@ -11,100 +11,47 @@ excerpt: "Ceza Muhakemesi Kanunu Madde 2 tam metni, gerekçesi ve Av. Ramazan Ş
 ## Kanun Metni
 
 ```text
-Madde 2
+Madde 2 – (1) Bu Kanunun uygulanmasında;
 
-	
+a) Şüpheli: Soruşturma evresinde, suç şüphesi altında bulunan kişiyi,
 
-30/4/2013
+b) Sanık: Kovuşturmanın başlamasından itibaren hükmün kesinleşmesine kadar, suç şüphesi altında bulunan kişiyi,
 
+c) Müdafi: Şüpheli veya sanığın ceza muhakemesinde savunmasını yapan avukatı,
 
+d) Vekil: Katılan, suçtan zarar gören veya malen sorumlu kişiyi ceza muhakemesinde temsil eden avukatı,
 
+e) Soruşturma: Kanuna göre yetkili mercilerce suç şüphesinin öğrenilmesinden iddianamenin kabulüne kadar geçen evreyi,
 
-Anayasa Mahkemesi’nin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı
+f) Kovuşturma: İddianamenin kabulüyle başlayıp, hükmün kesinleşmesine kadar geçen evreyi,
 
-	
+g) İfade alma: Şüphelinin kolluk görevlileri veya Cumhuriyet savcısı tarafından soruşturma konusu suçla ilgili olarak dinlenmesini,
 
-331
+h) Sorgu: Şüpheli veya sanığın hâkim veya mahkeme tarafından soruşturma veya kovuşturma konusu suçla ilgili olarak dinlenmesini,
 
-	
+i) Malen sorumlu: Yargılama konusu işin hükme bağlanması ve bunun kesinleşmesinden sonra, maddî ve malî sorumluluk taşıyarak hükmün sonuçlarından etkilenecek veya bunlara katlanacak kişiyi,
 
-1/1/2013 tarihinden başlayarak altı ay sonra
+j) Suçüstü:
 
-(1/7/2013)
+1. İşlenmekte olan suçu,
 
+2. Henüz işlenmiş olan fiil ile fiilin işlenmesinden hemen sonra kolluk, suçtan zarar gören veya başkaları tarafından takip edilerek yakalanan kişinin işlediği suçu,
 
+3. Fiilin pek az önce işlendiğini gösteren eşya veya delille yakalanan kimsenin işlediği suçu,
 
+k) Toplu suç: Aralarında iştirak iradesi bulunmasa da üç veya daha fazla kişi tarafından işlenen suçu,
 
-6494
+l) Disiplin hapsi: Kısmî bir düzeni korumak amacıyla yaptırım altına alınmış olan fiil dolayısıyla verilen, seçenek yaptırımlara çevrilemeyen, önödeme uygulanamayan, tekerrüre esas olmayan, şartla salıverilme hükümleri uygulanamayan, ertelenemeyen ve adlî sicil kayıtlarına geçirilmeyen hapsi,
 
-	
+İfade eder.
 
-331
+ 
 
-	
+İKİNCİ BÖLÜM
 
-7/7/2013
+Görev
 
-
-
-
-6526
-
-	
-
-91, 94, 100, 116, 128, 134, 135, 139, 140, 153, 161, 169
-
-	
-
-6/3/2014
-
-
-
-
-6545
-
-	
-
-141, 143, 173, 188, 231, 238, 260, 268, 273, 279, 280, 286
-
-	
-
-28/6/2014
-
-
-
-
-6572
-
-	
-
-116, 128, 135, 140, 153
-
-	
-
-12/12/2014
-
-
-
-
-6638
-
-	
-
-91, 100
-
-	
-
-4/4/2015
-
-
-
-
-6713
-
-	
-
-Ek
+Görev
 ```
 
 

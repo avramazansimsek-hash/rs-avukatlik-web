@@ -1,8 +1,8 @@
 ---
 slug: "ktk-madde-24"
-title: "KTK Madde 24: Madde 24..."
+title: "KTK Madde 24: Madde 24 – (Değişik: 2/1/2017 – KHK-680/53 md.; Aynen kabul: 1/2/2018-7072/52 md..."
 category: "Karayolları Trafik Kanunu"
-date: "2026-02-20"
+date: "2026-02-21"
 excerpt: "Karayolları Trafik Kanunu Madde 24 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
 ---
 
@@ -11,72 +11,15 @@ excerpt: "Karayolları Trafik Kanunu Madde 24 tam metni, gerekçesi ve Av. Ramaz
 ## Kanun Metni
 
 ```text
-Madde 24
+Madde 24 – (Değişik: 2/1/2017 – KHK-680/53 md.; Aynen kabul: 1/2/2018-7072/52 md.)
 
-	
+Bu Kanunun 35 inci maddesiyle yetkilendirilen kuruluşlarca araç muayene raporu tanzim edilebilmesi için araç tescil belgesi veya sahiplik belgesi ile zorunlu mali sorumluluk sigortasının ibrazı zorunludur.
 
-8/3/2018
+Tescil belgesi ve tescil plakalarının verilmesi şartları, geçerlilikleri, süreleri, nitelik ve nicelikleri ile diğer esaslar yönetmelikte gösterilir.
 
+ 
 
-
-
-7076
-
-	
-
-65/A
-
-	
-
-8/3/2018
-
-
-
-
-7078
-
-	
-
-35
-
-	
-
-8/3/2018
-
-
-
-
-7079
-
-	
-
-5/A
-
-	
-
-8/3/2018
-
-
-
-
-7139
-
-	
-
-71
-
-	
-
-28/4/2018
-
-
-
-
-KHK/703
-
-	
-
-4, 35, 65/A, 98, Ek
+Geçici trafik belgeleri ile geçici tescil plakaları:
 ```
 
 

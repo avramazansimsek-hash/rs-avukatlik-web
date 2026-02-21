@@ -1,0 +1,48 @@
+---
+import MainLayout from '../../../layouts/MainLayout.astro';
+import KanunView from '../../../views/pages/KanunView';
+import { getAllLaws } from '../../../lib/kanunlar';
+
+export async function getStaticPaths() {
+  const laws = await getAllLaws();
+  return laws.map((law) => ({
+    params: { book: law.bookSlug, slug: law.slug },
+    props: { law },
+  }));
+}
+
+const { law } = Astro.props;
+
+const title = `${law.title} | RS Avukatlık`;
+const description = law.excerpt || `${law.category} ${law.title} açıklaması, avukat değerlendirmesi ve emsal kararlar.`;
+const canonical = `https://www.rsavukatlik.com/kanunlar/${law.bookSlug}/${law.slug}`;
+
+const schema = {
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": title,
+  "description": description,
+  "author": {
+    "@type": "Person",
+    "name": "Av. Ramazan Şimşek",
+    "url": "https://www.rsavukatlik.com"
+  },
+  "publisher": {
+    "@type": "LegalService",
+    "name": "RS Avukatlık",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.rsavukatlik.com/logo.png"
+    }
+  },
+  "datePublished": law.date,
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": canonical
+  }
+};
+---
+
+<MainLayout title={title} description={description} canonical={canonical} schema={schema}>
+  <KanunView client:load law={law} />
+</MainLayout>

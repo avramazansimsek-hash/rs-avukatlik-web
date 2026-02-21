@@ -1,0 +1,31 @@
+---
+slug: "ttk-madde-114"
+title: "TTK Madde 114: MADDE 114- (1) Acente, kurulan işlem yerine getirildiği anda ve ölçüde ücrete ha..."
+category: "Türk Ticaret Kanunu"
+date: "2026-02-20"
+excerpt: "Türk Ticaret Kanunu Madde 114 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
+---
+
+# Türk Ticaret Kanunu (TTK) Madde 114
+
+## Kanun Metni
+
+```text
+MADDE 114- (1) Acente, kurulan işlem yerine getirildiği anda ve ölçüde ücrete hak kazanır. Taraflar bu kuralı acentelik sözleşmesiyle değiştirebilir; ancak müvekkil işlemi yerine getirince, acente, izleyen ayın son günü istenebilecek uygun bir avansa hak kazanır. Her hâlde acente, üçüncü kişi kurulan işlemi yerine getirdiği anda ve ölçüde ücrete hak kazanır.
+
+(2) Üçüncü kişinin işlemi yerine getirmeyeceği kesinleşirse, acentenin ücret hakkı düşer; ödenmiş tutarlar geri verilir.
+
+(3) Aracılık edilen sözleşmeyi müvekkilin kısmen veya tamamen yahut öngörüldüğü şekliyle yerine getirmeyeceği kesinleşse bile, acente ücret isteyebilir. Müvekkile yüklenemeyen sebeplerle sözleşmenin yerine getirilemediği hâlde ve ölçüde acentenin ücret hakkı düşer.
+
+ 
+
+3. Ücretin miktarı
+```
+
+
+## Avukat Ramazan Şimşek'in Değerlendirmesi
+
+Türk Ticaret Kanunu Madde 114 kapsamında hukuki sürecinizin doğru, hızlı ve güvenilir bir şekilde yönetilmesi hukuki hak kaybı yaşamamanız için hayati öneme sahiptir. Kanun maddesinin detayları ve mahkeme heyeti üzerindeki etkileri davanın seyrini değiştirebilir.
+
+**Not:** Bu kanun maddesi hakkında profesyonel hukuki destek almak veya dava süreçlerinizi yönetmek için İstanbul'da bulunan RS Avukatlık bürosu ile iletişime geçebilirsiniz. Uzman avukat kadromuzla sürecinizi en iyi şekilde takip ediyoruz.
+

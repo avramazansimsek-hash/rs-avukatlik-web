@@ -1,12 +1,12 @@
 ---
 import MainLayout from '../../layouts/MainLayout.astro';
 import KanunlarPage from '../../views/pages/Kanunlar';
-import { getAllTck } from '../../lib/kanunlar';
+import { getAllLaws } from '../../lib/kanunlar';
 
-const laws = await getAllTck();
+const laws = await getAllLaws();
 
 const title = "Kanunlar & Mevzuat | RS Avukatlık";
-const description = "Güncel Türk Ceza Kanunu (TCK) maddeleri, detaylı hukuki incelemeler, avukat görüşleri ve yargı kararları.";
+const description = "Güncel Türk Hukuku mevzuatı, tüm kanunlar, detaylı hukuki incelemeler, avukat görüşleri ve yargı kararları.";
 const canonical = "https://www.rsavukatlik.com/kanunlar";
 
 const schema = {

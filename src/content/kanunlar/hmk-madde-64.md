@@ -1,0 +1,27 @@
+---
+slug: "hmk-madde-64"
+title: "HMK Madde 64: MADDE 64- (1) İhbar edilen davada verilen hükmün ihbar eden kişiye etkisi hakkın..."
+category: "Hukuk Muhakemeleri Kanunu"
+date: "2026-02-20"
+excerpt: "Hukuk Muhakemeleri Kanunu Madde 64 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
+---
+
+# Hukuk Muhakemeleri Kanunu (HMK) Madde 64
+
+## Kanun Metni
+
+```text
+MADDE 64- (1) İhbar edilen davada verilen hükmün ihbar eden kişiye etkisi hakkında 69 uncu maddenin ikinci fıkrası hükmü kıyasen uygulanır.
+
+ 
+
+Asli müdahale
+```
+
+
+## Avukat Ramazan Şimşek'in Değerlendirmesi
+
+Hukuk Muhakemeleri Kanunu Madde 64 kapsamında hukuki sürecinizin doğru, hızlı ve güvenilir bir şekilde yönetilmesi hukuki hak kaybı yaşamamanız için hayati öneme sahiptir. Kanun maddesinin detayları ve mahkeme heyeti üzerindeki etkileri davanın seyrini değiştirebilir.
+
+**Not:** Bu kanun maddesi hakkında profesyonel hukuki destek almak veya dava süreçlerinizi yönetmek için İstanbul'da bulunan RS Avukatlık bürosu ile iletişime geçebilirsiniz. Uzman avukat kadromuzla sürecinizi en iyi şekilde takip ediyoruz.
+

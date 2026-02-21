@@ -63,14 +63,14 @@ export default function Navigation({ currentPath = '' }: NavigationProps) {
                     <div key={item.href} className="relative group/dropdown">
                       <a
                         href="/makalelerimiz"
-                        className={`relative text-sm font-medium transition-all duration-300 py-4 ${isActive('/makalelerimiz') || isActive('/dilekce-ornekleri') || isActive('/kanunlar')
+                        className={`relative text-sm font-medium transition-all duration-300 py-4 ${isActive('/makalelerimiz') || isActive('/dilekce-ornekleri')
                           ? 'text-gold'
                           : 'text-white/80 hover:text-gold'
                           }`}
                       >
                         {item.label}
                         <span
-                          className={`absolute bottom-2 left-0 h-0.5 bg-gold transition-all duration-300 ${isActive('/makalelerimiz') || isActive('/dilekce-ornekleri') || isActive('/kanunlar') ? 'w-full' : 'w-0 group-hover/dropdown:w-full'
+                          className={`absolute bottom-2 left-0 h-0.5 bg-gold transition-all duration-300 ${isActive('/makalelerimiz') || isActive('/dilekce-ornekleri') ? 'w-full' : 'w-0 group-hover/dropdown:w-full'
                             }`}
                         />
                       </a>
@@ -86,16 +86,51 @@ export default function Navigation({ currentPath = '' }: NavigationProps) {
                           </a>
                           <a
                             href="/dilekce-ornekleri"
-                            className="block px-6 py-3 text-sm text-white/80 hover:text-gold hover:bg-white/5 transition-colors border-b border-white/5"
+                            className="block px-6 py-3 text-sm text-white/80 hover:text-gold hover:bg-white/5 transition-colors"
                           >
                             Dilekçe Örnekleri
                           </a>
-                          <a
-                            href="/kanunlar"
-                            className="block px-6 py-3 text-sm text-white/80 hover:text-gold hover:bg-white/5 transition-colors"
-                          >
-                            Kanunlar ve Mevzuat
-                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  );
+                }
+
+                if (item.href === '/kanunlar') {
+                  return (
+                    <div key={item.href} className="relative group/dropdown">
+                      <a
+                        href="/kanunlar"
+                        className={`relative text-sm font-medium transition-all duration-300 py-4 ${isActive('/kanunlar')
+                          ? 'text-gold'
+                          : 'text-white/80 hover:text-gold'
+                          }`}
+                      >
+                        Kanunlar ve Mevzuat
+                        <span
+                          className={`absolute bottom-2 left-0 h-0.5 bg-gold transition-all duration-300 ${isActive('/kanunlar') ? 'w-full' : 'w-0 group-hover/dropdown:w-full'
+                            }`}
+                        />
+                      </a>
+
+                      {/* Dropdown Menu */}
+                      <div className="absolute top-full left-1/2 -translate-x-1/2 pt-2 invisible opacity-0 translate-y-2 group-hover/dropdown:visible group-hover/dropdown:opacity-100 group-hover/dropdown:translate-y-0 transition-all duration-300">
+                        <div className="bg-navy border border-white/10 rounded-xl overflow-hidden shadow-xl min-w-[200px]">
+                          <a href="/kanunlar/tck" className="block px-6 py-3 text-sm text-white/80 hover:text-gold hover:bg-white/5 transition-colors">Türk Ceza Kanunu (TCK)</a>
+                          <a href="/kanunlar/cmk" className="block px-6 py-3 text-sm text-white/80 hover:text-gold hover:bg-white/5 transition-colors">Ceza Muhakemesi Kanunu (CMK)</a>
+                          <a href="/kanunlar/hmk" className="block px-6 py-3 text-sm text-white/80 hover:text-gold hover:bg-white/5 transition-colors">Hukuk Muhakemeleri Kanunu (HMK)</a>
+                          <a href="/kanunlar/tmk" className="block px-6 py-3 text-sm text-white/80 hover:text-gold hover:bg-white/5 transition-colors">Türk Medeni Kanunu (TMK)</a>
+                          <a href="/kanunlar/tbk" className="block px-6 py-3 text-sm text-white/80 hover:text-gold hover:bg-white/5 transition-colors">Türk Borçlar Kanunu (TBK)</a>
+                          <a href="/kanunlar/avukatlik" className="block px-6 py-3 text-sm text-white/80 hover:text-gold hover:bg-white/5 transition-colors">Avukatlık Kanunu</a>
+                          <a href="/kanunlar/iik" className="block px-6 py-3 text-sm text-white/80 hover:text-gold hover:bg-white/5 transition-colors">İcra ve İflas Kanunu (İİK)</a>
+                          <a href="/kanunlar/ttk" className="block px-6 py-3 text-sm text-white/80 hover:text-gold hover:bg-white/5 transition-colors">Türk Ticaret Kanunu (TTK)</a>
+                          <a href="/kanunlar/is_kanunu" className="block px-6 py-3 text-sm text-white/80 hover:text-gold hover:bg-white/5 transition-colors">İş Kanunu</a>
+                          <a href="/kanunlar/iyuk" className="block px-6 py-3 text-sm text-white/80 hover:text-gold hover:bg-white/5 transition-colors">İdari Yargılama Usulü Kanunu (İYUK)</a>
+                          <a href="/kanunlar/ktk" className="block px-6 py-3 text-sm text-white/80 hover:text-gold hover:bg-white/5 transition-colors">Karayolları Trafik Kanunu (KTK)</a>
+                          <a href="/kanunlar/tkhk" className="block px-6 py-3 text-sm text-white/80 hover:text-gold hover:bg-white/5 transition-colors">Tüketicinin Korunması Hakkında Kanun (TKHK)</a>
+                          <a href="/kanunlar/danistay" className="block px-6 py-3 text-sm text-white/80 hover:text-gold hover:bg-white/5 transition-colors">Danıştay Kanunu</a>
+                          <a href="/kanunlar/yargitay" className="block px-6 py-3 text-sm text-white/80 hover:text-gold hover:bg-white/5 transition-colors">Yargıtay Kanunu</a>
+                          <a href="/kanunlar/kvkk" className="block px-6 py-3 text-sm text-white/80 hover:text-gold hover:bg-white/5 transition-colors">Kişisel Verilerin Korunması Kanunu (KVKK)</a>
                         </div>
                       </div>
                     </div>
@@ -196,7 +231,7 @@ export default function Navigation({ currentPath = '' }: NavigationProps) {
                   <div key={item.href} className="flex flex-col">
                     <a
                       href="/makalelerimiz"
-                      className={`text-lg font-medium py-3 px-4 rounded-lg transition-all duration-300 ${isActive('/makalelerimiz') && !isActive('/dilekce-ornekleri') && !isActive('/kanunlar')
+                      className={`text-lg font-medium py-3 px-4 rounded-lg transition-all duration-300 ${isActive('/makalelerimiz') && !isActive('/dilekce-ornekleri')
                         ? 'bg-gold/20 text-gold'
                         : 'text-white/80 hover:bg-white/5 hover:text-gold'
                         }`}
@@ -214,16 +249,53 @@ export default function Navigation({ currentPath = '' }: NavigationProps) {
                     >
                       ↳ Dilekçe Örnekleri
                     </a>
+                  </div>
+                );
+              }
+              if (item.href === '/kanunlar') {
+                return (
+                  <div key={item.href} className="flex flex-col">
                     <a
                       href="/kanunlar"
-                      className={`text-lg font-medium py-3 px-4 rounded-lg transition-all duration-300 ml-4 border-l-2 border-white/10 ${isActive('/kanunlar')
-                        ? 'text-gold border-gold'
-                        : 'text-white/60 hover:text-gold hover:border-gold/50'
+                      className={`text-lg font-medium py-3 px-4 rounded-lg transition-all duration-300 ${isActive('/kanunlar')
+                        ? 'bg-gold/20 text-gold'
+                        : 'text-white/80 hover:bg-white/5 hover:text-gold'
                         }`}
-                      style={{ animationDelay: `${index * 50 + 50}ms` }}
+                      style={{ animationDelay: `${index * 50}ms` }}
                     >
-                      ↳ Kanunlar ve Mevzuat
+                      Kanunlar ve Mevzuat
                     </a>
+                    <div className="flex flex-col max-h-[40vh] overflow-y-auto pr-2 custom-scrollbar">
+                      {[
+                        { href: '/kanunlar/tck', label: 'Türk Ceza Kanunu (TCK)' },
+                        { href: '/kanunlar/cmk', label: 'Ceza Muhakemesi (CMK)' },
+                        { href: '/kanunlar/hmk', label: 'Hukuk Muhakemeleri (HMK)' },
+                        { href: '/kanunlar/tmk', label: 'Türk Medeni Kanunu (TMK)' },
+                        { href: '/kanunlar/tbk', label: 'Türk Borçlar Kanunu (TBK)' },
+                        { href: '/kanunlar/avukatlik', label: 'Avukatlık Kanunu' },
+                        { href: '/kanunlar/iik', label: 'İcra ve İflas Kanunu (İİK)' },
+                        { href: '/kanunlar/ttk', label: 'Türk Ticaret Kanunu (TTK)' },
+                        { href: '/kanunlar/is_kanunu', label: 'İş Kanunu' },
+                        { href: '/kanunlar/iyuk', label: 'İdari Yargılama Usulü (İYUK)' },
+                        { href: '/kanunlar/ktk', label: 'Karayolları Trafik Kanunu (KTK)' },
+                        { href: '/kanunlar/tkhk', label: 'Tüketicinin Korunması (TKHK)' },
+                        { href: '/kanunlar/danistay', label: 'Danıştay Kanunu' },
+                        { href: '/kanunlar/yargitay', label: 'Yargıtay Kanunu' },
+                        { href: '/kanunlar/kvkk', label: 'Kişisel Verilerin Korunması (KVKK)' },
+                      ].map((law, i) => (
+                        <a
+                          key={law.href}
+                          href={law.href}
+                          className={`text-lg font-medium py-2 px-4 rounded-lg transition-all duration-300 ml-4 border-l-2 border-white/10 ${isActive(law.href)
+                            ? 'text-gold border-gold'
+                            : 'text-white/60 hover:text-gold hover:border-gold/50'
+                            }`}
+                          style={{ animationDelay: `${index * 50 + 25 + (i * 10)}ms` }}
+                        >
+                          ↳ {law.label}
+                        </a>
+                      ))}
+                    </div>
                   </div>
                 );
               }

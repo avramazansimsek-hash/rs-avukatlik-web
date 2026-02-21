@@ -1,0 +1,29 @@
+---
+slug: "tbk-madde-555"
+title: "TBK Madde 555: MADDE 555- Havale, havale edenin, kendi hesabına, para, kıymetli evrak ya da diğ..."
+category: "Türk Borçlar Kanunu"
+date: "2026-02-20"
+excerpt: "Türk Borçlar Kanunu Madde 555 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
+---
+
+# Türk Borçlar Kanunu (TBK) Madde 555
+
+## Kanun Metni
+
+```text
+MADDE 555- Havale, havale edenin, kendi hesabına, para, kıymetli evrak ya da diğer bir mislî eşyayı havale alıcısına vermek üzere havale ödeyicisini; bunları kendi adına kabul etmek üzere havale alıcısını yetkili kıldığı bir hukuki işlemdir.
+
+ 
+
+B. Hükümleri
+
+I. Havale eden ile havale alıcısı arasındaki ilişki
+```
+
+
+## Avukat Ramazan Şimşek'in Değerlendirmesi
+
+Türk Borçlar Kanunu Madde 555 kapsamında hukuki sürecinizin doğru, hızlı ve güvenilir bir şekilde yönetilmesi hukuki hak kaybı yaşamamanız için hayati öneme sahiptir. Kanun maddesinin detayları ve mahkeme heyeti üzerindeki etkileri davanın seyrini değiştirebilir.
+
+**Not:** Bu kanun maddesi hakkında profesyonel hukuki destek almak veya dava süreçlerinizi yönetmek için İstanbul'da bulunan RS Avukatlık bürosu ile iletişime geçebilirsiniz. Uzman avukat kadromuzla sürecinizi en iyi şekilde takip ediyoruz.
+

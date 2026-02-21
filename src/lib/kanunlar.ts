@@ -1,9 +1,10 @@
 export interface Kanun {
-    slug: string;
+    slug: string; // The full slug, e.g. "tck-madde-1"
+    bookSlug: string; // The short prefix, e.g. "tck", "cmk"
     title: string;
     excerpt: string;
     date: string;
-    category: string;
+    category: string; // Full law name, e.g. "Türk Ceza Kanunu"
     content: string;
 }
 
@@ -47,7 +48,7 @@ function parseFrontmatter(fileContent: string) {
     };
 }
 
-export async function getAllTck(): Promise<Kanun[]> {
+export async function getAllLaws(): Promise<Kanun[]> {
     const modules = import.meta.glob('/src/content/kanunlar/*.md', { as: 'raw', eager: true });
 
     const kanunlar: Kanun[] = [];
@@ -57,13 +58,15 @@ export async function getAllTck(): Promise<Kanun[]> {
         const { data, content: markdownContent } = parseFrontmatter(content);
 
         const slug = path.split('/').pop()?.replace('.md', '') || '';
+        const bookSlug = slug.split('-')[0] || 'tck';
 
         kanunlar.push({
             slug,
+            bookSlug,
             title: data.title || 'İsimsiz Madde',
             excerpt: data.excerpt || '',
             date: data.date || new Date().toISOString(),
-            category: data.category || 'TCK',
+            category: data.category || 'Kanun',
             content: markdownContent,
         });
     }
@@ -72,11 +75,15 @@ export async function getAllTck(): Promise<Kanun[]> {
     return kanunlar.sort((a, b) => {
         const numA = parseInt(a.slug.split('-').pop() || '0');
         const numB = parseInt(b.slug.split('-').pop() || '0');
+        // also sort by book if they are different
+        if (a.bookSlug !== b.bookSlug) {
+            return a.bookSlug.localeCompare(b.bookSlug);
+        }
         return numA - numB;
     });
 }
 
-export async function getTckBySlug(slug: string): Promise<Kanun | undefined> {
-    const kanunlar = await getAllTck();
+export async function getLawBySlug(slug: string): Promise<Kanun | undefined> {
+    const kanunlar = await getAllLaws();
     return kanunlar.find((k) => k.slug === slug);
 }

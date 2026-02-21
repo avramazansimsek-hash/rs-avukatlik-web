@@ -1,0 +1,26 @@
+---
+slug: "hmk-madde-91"
+title: "HMK Madde 91: MADDE 91- (1) Süreler, taraflara tebliğ tarihinden veya kanunda öngörülen hâller..."
+category: "Hukuk Muhakemeleri Kanunu"
+date: "2026-02-20"
+excerpt: "Hukuk Muhakemeleri Kanunu Madde 91 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
+---
+
+# Hukuk Muhakemeleri Kanunu (HMK) Madde 91
+
+## Kanun Metni
+
+```text
+MADDE 91- (1) Süreler, taraflara tebliğ tarihinden veya kanunda öngörülen hâllerde, tefhim tarihinden itibaren işlemeye başlar.
+
+ 
+Sürelerin bitimi
+```
+
+
+## Avukat Ramazan Şimşek'in Değerlendirmesi
+
+Hukuk Muhakemeleri Kanunu Madde 91 kapsamında hukuki sürecinizin doğru, hızlı ve güvenilir bir şekilde yönetilmesi hukuki hak kaybı yaşamamanız için hayati öneme sahiptir. Kanun maddesinin detayları ve mahkeme heyeti üzerindeki etkileri davanın seyrini değiştirebilir.
+
+**Not:** Bu kanun maddesi hakkında profesyonel hukuki destek almak veya dava süreçlerinizi yönetmek için İstanbul'da bulunan RS Avukatlık bürosu ile iletişime geçebilirsiniz. Uzman avukat kadromuzla sürecinizi en iyi şekilde takip ediyoruz.
+

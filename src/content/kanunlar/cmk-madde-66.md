@@ -1,0 +1,39 @@
+---
+slug: "cmk-madde-66"
+title: "CMK Madde 66: Madde 66 – (1) Bilirkişi incelemesi yaptırılmasına ilişkin kararda, cevaplandırı..."
+category: "Ceza Muhakemesi Kanunu"
+date: "2026-02-20"
+excerpt: "Ceza Muhakemesi Kanunu Madde 66 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
+---
+
+# Ceza Muhakemesi Kanunu (CMK) Madde 66
+
+## Kanun Metni
+
+```text
+Madde 66 – (1) Bilirkişi incelemesi yaptırılmasına ilişkin kararda, cevaplandırılması uzmanlığı, özel veya teknik bilgiyi gerektiren sorularla inceleme konusu ve görevin yerine getirileceği süre belirtilir. Bu süre, işin niteliğine göre üç ayı geçemez. Özel sebepler zorunlu kıldığında bu süre, bilirkişinin istemi üzerine, kendisini atayan merciin gerekçeli kararıyla en çok üç ay daha uzatılabilir.
+
+(2) Belirlenen süre içinde raporunu vermeyen bilirkişi hemen değiştirilebilir. Bu durumda bilirkişi, o ana kadar yaptığı işlemleri açıklayan bir rapor sunar ve görevi sebebiyle kendisine teslim edilmiş olan eşya ve belgeleri hemen geri verir. (Değişik son cümle : 3/11/2016-6754/44 md.) Ayrıca, hukukî ve cezaî sorumluluğuna ilişkin hükümler saklı kalmak kaydıyla, bilirkişiye ücret ve masraf adı altında hiçbir ödeme yapılmamasına karar verilebilir ve gerekçesi gösterilerek gerekli yaptırımların uygulanması bilirkişilik bölge kurulundan istenir.
+
+(3) Bilirkişi, görevini, kendisini atamış olan merci ile ilişki içinde yerine getirir, gerektiğinde bu mercie incelemelerindeki gelişmeler hakkında bilgi verir, yararlı görülecek tedbirlerin alınmasını isteyebilir.
+
+(4) Bilirkişi, görevini yerine getirmek amacıyla bilgi edinmek için şüpheli veya sanık dışındaki kimselerin de bilgilerine başvurabilir. Bilirkişi, uzmanlık alanına girmeyen bir sorun bakımından aydınlatılmasını isteyecek olursa; hâkim, mahkeme veya Cumhuriyet savcısı, nitelikli ve konusunda bilgisiyle tanınmış kişilerle bir araya gelmesine izin verebilir. Bu şekilde çağrılan kişiler yemin eder ve verecekleri raporlar, bilirkişi raporunun tamamlayıcı bir bölümü olarak dosyaya konulur.
+
+(5) İlgililer de merciinden, incelemeler yapılırken bilirkişiye teknik nitelikte bilgiler verebilecek olan ve ismen belirleyecekleri kişileri dinlemeleri veya bazı araştırmaların yapılması hususlarında karar verilmesini isteyebilir.
+
+(6) Gerekli olması halinde, bilirkişi, mağdur, şüpheli veya sanığa mahkeme başkanı, hâkim veya Cumhuriyet savcısı aracılığı ile soru sorabilir. Ancak, mahkeme başkanı, hâkim veya Cumhuriyet savcısı, bilirkişinin doğrudan soru sormasına da izin verebilir. Muayene ile görevlendirilen hekim bilirkişi, görevini yerine getirirken zorunlu saydığı soruları, hâkim, Cumhuriyet savcısı ve müdafi bulunmadan da mağdur, şüpheli veya sanığa doğrudan doğruya yöneltebilir.
+
+(7) Bilirkişiye inceleyeceği şeyler mühür altında verilmeden önce bunların listesi ve sayımı yapılır. Bu hususlar bir tutanakla belirlenir. Bilirkişi, mühürlerin açılmasını ve yeniden konulmasını yine tutanakla belirtmek ve bir liste düzenlemekle yükümlüdür.
+
+ 
+
+Bilirkişi raporu, uzman mütalaası
+```
+
+
+## Avukat Ramazan Şimşek'in Değerlendirmesi
+
+Ceza Muhakemesi Kanunu Madde 66 kapsamında hukuki sürecinizin doğru, hızlı ve güvenilir bir şekilde yönetilmesi hukuki hak kaybı yaşamamanız için hayati öneme sahiptir. Kanun maddesinin detayları ve mahkeme heyeti üzerindeki etkileri davanın seyrini değiştirebilir.
+
+**Not:** Bu kanun maddesi hakkında profesyonel hukuki destek almak veya dava süreçlerinizi yönetmek için İstanbul'da bulunan RS Avukatlık bürosu ile iletişime geçebilirsiniz. Uzman avukat kadromuzla sürecinizi en iyi şekilde takip ediyoruz.
+

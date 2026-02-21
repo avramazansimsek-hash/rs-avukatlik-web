@@ -5,6 +5,7 @@ export const navItems: NavItem[] = [
   { label: 'Hakkımızda', href: '/hakkimizda' },
   { label: 'Faaliyet Alanlarımız', href: '/faaliyet-alanlarimiz' },
   { label: 'Makalelerimiz', href: '/makalelerimiz' },
+  { label: 'Kanunlar', href: '/kanunlar' },
   { label: 'İletişim', href: '/iletisim' },
 ];
 

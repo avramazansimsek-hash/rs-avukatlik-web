@@ -1,0 +1,64 @@
+---
+import MainLayout from '../../../layouts/MainLayout.astro';
+import KanunlarPage from '../../../views/pages/Kanunlar';
+import { getAllLaws } from '../../../lib/kanunlar';
+
+export async function getStaticPaths() {
+    const allLaws = await getAllLaws();
+    
+    // Extract unique book slugs
+    const books = [...new Set(allLaws.map(law => law.bookSlug))];
+    
+    return books.map(book => {
+        const bookLaws = allLaws.filter(law => law.bookSlug === book);
+        return {
+            params: { book },
+            props: { bookLaws, bookSlug: book }
+        };
+    });
+}
+
+const { bookLaws, bookSlug } = Astro.props;
+
+// Map bookSlug to a readable name
+const bookNames: Record<string, string> = {
+    'tck': 'Türk Ceza Kanunu (TCK)',
+    'cmk': 'Ceza Muhakemesi Kanunu (CMK)',
+    'hmk': 'Hukuk Muhakemeleri Kanunu (HMK)',
+    'tmk': 'Türk Medeni Kanunu (TMK)',
+    'tbk': 'Türk Borçlar Kanunu (TBK)',
+    'iik': 'İcra ve İflas Kanunu (İİK)',
+    'ttk': 'Türk Ticaret Kanunu (TTK)',
+    'is-kanunu': 'İş Kanunu',
+    'kvkk': 'Kişisel Verilerin Korunması Kanunu (KVKK)',
+    'danistay-kanunu': 'Danıştay Kanunu',
+    'avukatlik-kanunu': 'Avukatlık Kanunu'
+};
+
+const bookName = bookNames[bookSlug as string] || bookSlug.toString().toUpperCase();
+
+const title = `${bookName} Maddeleri | RS Avukatlık`;
+const description = `${bookName} tüm maddeleri, güncel mevzuat ve hukuki incelemeleri. İstanbul RS Avukatlık Bürosu.`;
+const canonical = `https://rsavukatlik.com/kanunlar/${bookSlug}`;
+
+// Schema for the specific book listing
+const schema = {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": title,
+    "description": description,
+    "url": canonical,
+    "publisher": {
+        "@type": "LegalService",
+        "name": "Daima Hukuk",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://rsavukatlik.com/logo.png"
+        }
+    }
+};
+---
+
+<MainLayout title={title} description={description} canonical={canonical} schema={schema}>
+    <KanunlarPage client:load initialLaws={bookLaws} defaultBook={bookSlug} />
+</MainLayout>

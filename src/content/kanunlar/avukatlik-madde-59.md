@@ -1,0 +1,35 @@
+---
+slug: "avukatlik-madde-59"
+title: "AVUKATLIK Madde 59: Madde 59 – 58 inci maddeye göre yapılan soruşturmaya ait dosya Adalet Bakanlığı..."
+category: "Avukatlık Kanunu"
+date: "2026-02-20"
+excerpt: "Avukatlık Kanunu Madde 59 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
+---
+
+# Avukatlık Kanunu (AVUKATLIK) Madde 59
+
+## Kanun Metni
+
+```text
+Madde 59 – 58 inci maddeye göre yapılan soruşturmaya ait dosya Adalet Bakanlığı Ceza İşleri Genel Müdürlüğüne tevdi olunur. İnceleme sonunda kovuşturma yapılması gerekli görüldüğü takdirde dosya, suçun işlendiği yer ağır ceza mahkemesine en yakın bulunan ağır ceza mahkemesi Cumhuriyet Savcılığına gönderilir.
+
+Cumhuriyet Savcısı beş gün içinde, iddianamesini düzenliyerek dosyayı son soruşturmanın açılmasına veya açılmasına yer olmadığına karar verilmek üzere ağır ceza mahkemesine verir.
+
+İddianamenin bir örneği, Ceza Muhakemeleri Usulü Kanununun hükümleri uyarınca, hakkında kovuşturma yapılan avukata tebliğ olunur. Bu tebliğ üzerine avukat, kanunda yazılı süre içinde bazı delillerin toplanmasını ister veya kabule değer bir istemde bulunursa nazara alınır, gerekirse soruşturma başkan tarafından derinleştirilir.
+
+Haklarında son soruşturmanın açılmasına karar verilen avukatların duruşmaları, suçun işlendiği yer ağır ceza mahkemesinde yapılır. (Ek cümle: 2/5/2001 - 4667/38 md.) (Değişik cümle:24/12/2025-7571/4 md.) Bu durum ve yargılama aşamalarında verilen nihai kararlar avukatın kayıtlı olduğu baroya bildirilir.
+
+(Ek fıkra:11/7/2020-7249/10 md.) Avukatların, avukatlık veya Türkiye Barolar Birliği ya da baroların organlarındaki görevlerinden doğan veya görev sırasında işledikleri suçlar nedeniyle verilen bölge adliye mahkemesi ceza dairelerinin kararları hakkında 4/12/2004 tarihli ve 5271 sayılı Ceza Muhakemesi Kanununun 286 ncı maddesinin ikinci fıkrası uygulanmaz.
+
+ 
+
+İtiraz hakkı:
+```
+
+
+## Avukat Ramazan Şimşek'in Değerlendirmesi
+
+Avukatlık Kanunu Madde 59 kapsamında hukuki sürecinizin doğru, hızlı ve güvenilir bir şekilde yönetilmesi hukuki hak kaybı yaşamamanız için hayati öneme sahiptir. Kanun maddesinin detayları ve mahkeme heyeti üzerindeki etkileri davanın seyrini değiştirebilir.
+
+**Not:** Bu kanun maddesi hakkında profesyonel hukuki destek almak veya dava süreçlerinizi yönetmek için İstanbul'da bulunan RS Avukatlık bürosu ile iletişime geçebilirsiniz. Uzman avukat kadromuzla sürecinizi en iyi şekilde takip ediyoruz.
+

@@ -1,0 +1,27 @@
+---
+slug: "ttk-madde-978"
+title: "TTK Madde 978: MADDE 978- (1) Şerh, bir ihtiyati tedbir kararına yahut şerh sonucunda gemisi ve..."
+category: "Türk Ticaret Kanunu"
+date: "2026-02-20"
+excerpt: "Türk Ticaret Kanunu Madde 978 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
+---
+
+# Türk Ticaret Kanunu (TTK) Madde 978
+
+## Kanun Metni
+
+```text
+MADDE 978- (1) Şerh, bir ihtiyati tedbir kararına yahut şerh sonucunda gemisi veya hakkı sınırlanan kişinin onayına dayalı olarak verilir. İhtiyati tedbir kararının verilmesinde hakkın tehlikede olduğuna dair yaklaşık ispat şartı aranmaz.
+
+ 
+
+3. Sağladığı hak
+```
+
+
+## Avukat Ramazan Şimşek'in Değerlendirmesi
+
+Türk Ticaret Kanunu Madde 978 kapsamında hukuki sürecinizin doğru, hızlı ve güvenilir bir şekilde yönetilmesi hukuki hak kaybı yaşamamanız için hayati öneme sahiptir. Kanun maddesinin detayları ve mahkeme heyeti üzerindeki etkileri davanın seyrini değiştirebilir.
+
+**Not:** Bu kanun maddesi hakkında profesyonel hukuki destek almak veya dava süreçlerinizi yönetmek için İstanbul'da bulunan RS Avukatlık bürosu ile iletişime geçebilirsiniz. Uzman avukat kadromuzla sürecinizi en iyi şekilde takip ediyoruz.
+

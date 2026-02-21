@@ -1,0 +1,27 @@
+---
+slug: "ttk-madde-981"
+title: "TTK Madde 981: MADDE 981- (1) Şerh sonucunda gemisi veya hakkı sınırlandırılan kişi, şerh ile t..."
+category: "Türk Ticaret Kanunu"
+date: "2026-02-20"
+excerpt: "Türk Ticaret Kanunu Madde 981 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
+---
+
+# Türk Ticaret Kanunu (TTK) Madde 981
+
+## Kanun Metni
+
+```text
+MADDE 981- (1) Şerh sonucunda gemisi veya hakkı sınırlandırılan kişi, şerh ile teminat altına alınan istem hakkının ileri sürülmesini sürekli olarak imkânsız kılan bir def’e sahip bulunduğu takdirde alacaklıdan şerhin silinmesini isteyebilir.
+
+ 
+
+VI- İtiraz veya şerhin kalkması
+```
+
+
+## Avukat Ramazan Şimşek'in Değerlendirmesi
+
+Türk Ticaret Kanunu Madde 981 kapsamında hukuki sürecinizin doğru, hızlı ve güvenilir bir şekilde yönetilmesi hukuki hak kaybı yaşamamanız için hayati öneme sahiptir. Kanun maddesinin detayları ve mahkeme heyeti üzerindeki etkileri davanın seyrini değiştirebilir.
+
+**Not:** Bu kanun maddesi hakkında profesyonel hukuki destek almak veya dava süreçlerinizi yönetmek için İstanbul'da bulunan RS Avukatlık bürosu ile iletişime geçebilirsiniz. Uzman avukat kadromuzla sürecinizi en iyi şekilde takip ediyoruz.
+

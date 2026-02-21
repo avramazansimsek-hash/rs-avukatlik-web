@@ -3,6 +3,7 @@ import { Search, ChevronRight, ChevronLeft, Scale } from 'lucide-react';
 
 interface Kanun {
     slug: string;
+    bookSlug: string;
     title: string;
     excerpt: string;
     date: string;
@@ -11,11 +12,12 @@ interface Kanun {
 
 interface KanunlarPageProps {
     initialLaws: Kanun[];
+    defaultBook?: string;
 }
 
 const ITEMS_PER_PAGE = 24;
 
-export default function KanunlarPage({ initialLaws }: KanunlarPageProps) {
+export default function KanunlarPage({ initialLaws, defaultBook = 'tck' }: KanunlarPageProps) {
     const [searchQuery, setSearchQuery] = useState('');
     const [currentPage, setCurrentPage] = useState(1);
 
@@ -60,8 +62,8 @@ export default function KanunlarPage({ initialLaws }: KanunlarPageProps) {
                         Kanunlar ve <span className="text-gold">Mevzuat</span>
                     </h1>
                     <p className="text-lg text-white/70 max-w-2xl mx-auto mb-12">
-                        RS Avukatlık olarak sizler için hazırladığımız güncel Türk Ceza Kanunu (TCK) maddeleri,
-                        hukuki değerlendirmeler ve açıklamaları.
+                        RS Avukatlık olarak sizler için hazırladığımız güncel Türk Hukuku mevzuat rehberi.
+                        İlgili kanun maddeleri, hukuki değerlendirmeler ve açıklamaları.
                     </p>
 
                     <div className="max-w-xl mx-auto relative group">
@@ -79,6 +81,52 @@ export default function KanunlarPage({ initialLaws }: KanunlarPageProps) {
                             className="w-full bg-white/5 border border-white/10 rounded-2xl py-4 pl-12 pr-4 text-white placeholder-white/40 focus:outline-none focus:border-gold/50 focus:bg-white/10 transition-all font-light"
                         />
                     </div>
+
+                    <div className="max-w-2xl mx-auto mt-4">
+                        <form
+                            onSubmit={(e) => {
+                                e.preventDefault();
+                                const fd = new FormData(e.currentTarget);
+                                const no = fd.get('maddeNo');
+                                const book = fd.get('book');
+                                if (no && book) {
+                                    window.location.href = `/kanunlar/${book}/${book}-madde-${no}`;
+                                }
+                            }}
+                            className="flex flex-col sm:flex-row gap-2"
+                        >
+                            <select
+                                name="book"
+                                defaultValue={defaultBook}
+                                className="bg-white/5 border border-white/10 rounded-xl py-3 px-4 text-white focus:outline-none focus:border-gold/50 cursor-pointer"
+                            >
+                                <option value="tck">Türk Ceza Kanunu (TCK)</option>
+                                <option value="cmk">Ceza Muhakemesi Kanunu (CMK)</option>
+                                <option value="hmk">Hukuk Muhakemeleri Kanunu (HMK)</option>
+                                <option value="tmk">Türk Medeni Kanunu (TMK)</option>
+                                <option value="tbk">Türk Borçlar Kanunu (TBK)</option>
+                                <option value="iik">İcra ve İflas Kanunu (İİK)</option>
+                                <option value="ttk">Türk Ticaret Kanunu (TTK)</option>
+                                <option value="is-kanunu">İş Kanunu</option>
+                                <option value="danistay-kanunu">Danıştay Kanunu</option>
+                                <option value="avukatlik-kanunu">Avukatlık Kanunu</option>
+                                <option value="kvkk">Kişisel Verilerin Korunması Kanunu</option>
+                            </select>
+                            <input
+                                name="maddeNo"
+                                type="number"
+                                placeholder="Örn: 5 yazıp Enter'a basın"
+                                className="flex-1 bg-white/5 border border-white/10 rounded-xl py-3 px-4 text-white placeholder-white/40 focus:outline-none focus:border-gold/50 hover:bg-white/10 transition-all font-light"
+                                min="1"
+                            />
+                            <button
+                                type="submit"
+                                className="bg-gold text-navy px-6 py-3 rounded-xl font-medium hover:bg-gold/90 transition-colors shadow-lg shadow-gold/20"
+                            >
+                                Git
+                            </button>
+                        </form>
+                    </div>
                 </div>
             </section>
 
@@ -86,7 +134,7 @@ export default function KanunlarPage({ initialLaws }: KanunlarPageProps) {
                 <div className="flex flex-col md:flex-row gap-8">
                     <div className="flex-1">
                         <div className="mb-8 flex items-center justify-between">
-                            <h2 className="text-2xl font-serif text-white">Türk Ceza Kanunu</h2>
+                            <h2 className="text-2xl font-serif text-white">Tüm Kanun Maddeleri</h2>
                             <span className="text-white/50 text-sm">{filteredLaws.length} Madde Bulundu</span>
                         </div>
 
@@ -106,7 +154,7 @@ export default function KanunlarPage({ initialLaws }: KanunlarPageProps) {
                             <div className="grid md:grid-cols-2 gap-6 mb-16">
                                 {paginatedLaws.map((law) => (
                                     <a
-                                        href={`/kanunlar/tck/${law.slug}`}
+                                        href={`/kanunlar/${law.bookSlug}/${law.slug}`}
                                         key={law.slug}
                                         className="group bg-white/5 border border-white/10 rounded-2xl p-6 hover:bg-white/10 hover:border-gold/30 transition-all duration-300 flex flex-col h-full"
                                     >

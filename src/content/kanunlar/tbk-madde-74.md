@@ -1,0 +1,29 @@
+---
+slug: "tbk-madde-74"
+title: "TBK Madde 74: MADDE 74- Hâkim, zarar verenin kusurunun olup olmadığı, ayırt etme gücünün bulun..."
+category: "Türk Borçlar Kanunu"
+date: "2026-02-20"
+excerpt: "Türk Borçlar Kanunu Madde 74 tam metni, gerekçesi ve Av. Ramazan Şimşek'in hukuki incelemesi. İstanbul RS Avukatlık."
+---
+
+# Türk Borçlar Kanunu (TBK) Madde 74
+
+## Kanun Metni
+
+```text
+MADDE 74- Hâkim, zarar verenin kusurunun olup olmadığı, ayırt etme gücünün bulunup bulunmadığı hakkında karar verirken, ceza hukukunun sorumlulukla ilgili hükümleriyle bağlı olmadığı gibi, ceza hâkimi tarafından verilen beraat kararıyla da bağlı değildir.
+
+Aynı şekilde, ceza hâkiminin kusurun değerlendirilmesine ve zararın belirlenmesine ilişkin kararı da, hukuk hâkimini bağlamaz.
+
+ 
+
+II. Tazminat hükmünün değiştirilmesi
+```
+
+
+## Avukat Ramazan Şimşek'in Değerlendirmesi
+
+Türk Borçlar Kanunu Madde 74 kapsamında hukuki sürecinizin doğru, hızlı ve güvenilir bir şekilde yönetilmesi hukuki hak kaybı yaşamamanız için hayati öneme sahiptir. Kanun maddesinin detayları ve mahkeme heyeti üzerindeki etkileri davanın seyrini değiştirebilir.
+
+**Not:** Bu kanun maddesi hakkında profesyonel hukuki destek almak veya dava süreçlerinizi yönetmek için İstanbul'da bulunan RS Avukatlık bürosu ile iletişime geçebilirsiniz. Uzman avukat kadromuzla sürecinizi en iyi şekilde takip ediyoruz.
+

@@ -21,10 +21,13 @@ export default function Footer() {
                 <span className="text-gold font-serif text-lg font-semibold tracking-wide block">
                   RS AVUKATLIK
                 </span>
+                <span className="text-white/50 text-xs font-medium tracking-widest mt-1 block uppercase">
+                  Av. Ramazan Şimşek
+                </span>
               </div>
             </a>
             <p className="text-white/60 text-sm leading-relaxed mb-6">
-              En hızlı, en etkili ve müvekkil odaklı hizmet anlayışıyla yanınızdayız.
+              İstanbul Kartal merkezli ofisimizde Şirket Danışmanlığı, Ceza ve Boşanma davalarında en hızlı, en etkili ve müvekkil odaklı hukuki çözümler sunuyoruz.
             </p>
             {/* Social Links */}
             <div className="flex gap-3">

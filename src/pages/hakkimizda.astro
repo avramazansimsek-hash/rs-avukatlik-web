@@ -2,23 +2,25 @@
 import MainLayout from '@/layouts/MainLayout.astro';
 import AboutPage from '@/views/About';
 
-const title = "Hakkımızda | RS Avukatlık - Av. Ramazan Şimşek";
-const description = "RS Avukatlık olarak müvekkillerimize uluslararası standartlarda, nitelikli ve çözüm odaklı hukuki danışmanlık hizmeti sunuyoruz.";
+const title = "Hakkımızda | İstanbul Kartal Avukatı Av. Ramazan Şimşek - RS Avukatlık";
+const description = "İstanbul Kartal merkezli RS Avukatlık. Av. Ramazan Şimşek liderliğinde Ceza Hukuku, Boşanma ve İşçi Alacakları alanlarında uzman hukuki danışmanlık.";
 const canonical = "https://www.rsavukatlik.com/hakkimizda";
 
 const schema = {
   "@context": "https://schema.org",
   "@type": "AboutPage",
-  "name": "Hakkımızda",
+  "name": title,
   "description": description,
   "mainEntity": {
       "@type": "LegalService",
       "name": "RS Avukatlık",
+      "url": "https://www.rsavukatlik.com",
       "founder": {
           "@type": "Person",
           "name": "Av. Ramazan Şimşek",
           "image": "https://rsavukatlik.com/kurucu-ramazan-simsek.jpg?v=2", 
-          "jobTitle": "Kurucu Avukat"
+          "jobTitle": "Kurucu Avukat",
+          "url": "https://www.rsavukatlik.com/hakkimizda"
       }
   }
 };

@@ -46,21 +46,21 @@ export default function Hero() {
           <p
             className="text-sm sm:text-base text-gold/70 font-light tracking-widest uppercase mb-6 animate-fade-in"
           >
-            RS Avukatlık
+            RS Avukatlık | Adalete Açılan Kapınız
           </p>
 
-          {/* Main Motto - Smaller and Left Aligned */}
-          <h1 className="font-serif text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-2 leading-tight animate-fade-in-up">
-            <span className="block">En Hızlı, En Etkili ve</span>
-            <span className="block text-gold mt-1">Müvekkil Odaklı</span>
+          {/* Main Motto - SEO Optimized H1 for exact keywords */}
+          <h1 className="font-serif text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-4 leading-tight animate-fade-in-up">
+            <span className="block">İstanbul Avukatı</span>
+            <span className="block text-gold mt-1">Av. Ramazan Şimşek</span>
           </h1>
 
-          {/* Sub-motto */}
+          {/* Sub-motto / SEO description paragraph */}
           <p
-            className="text-xl sm:text-2xl md:text-3xl text-gold font-serif font-semibold mb-12 animate-fade-in-up"
+            className="text-lg sm:text-xl md:text-2xl text-white/90 font-light mb-12 animate-fade-in-up leading-relaxed max-w-2xl"
             style={{ animationDelay: '100ms' }}
           >
-            Hizmet Anlayışı
+            <strong className="text-white font-semibold">RS Avukatlık</strong> bünyesinde Ağır Ceza, Boşanma, İşçi Alacakları ve Şirket Danışmanlığı alanlarında en hızlı, en etkili ve müvekkil odaklı hukuki çözümler sunuyoruz.
           </p>
 
           {/* CTA Button */}

@@ -105,13 +105,16 @@ export default function KanunlarPage({ initialLaws, defaultBook = 'tck' }: Kanun
                                 <option value="hmk">Hukuk Muhakemeleri Kanunu (HMK)</option>
                                 <option value="tmk">Türk Medeni Kanunu (TMK)</option>
                                 <option value="tbk">Türk Borçlar Kanunu (TBK)</option>
+                                <option value="avukatlik">Avukatlık Kanunu</option>
                                 <option value="iik">İcra ve İflas Kanunu (İİK)</option>
                                 <option value="ttk">Türk Ticaret Kanunu (TTK)</option>
-                                <option value="is-kanunu">İş Kanunu</option>
-                                <option value="anayasa">T.C. Anayasası</option>
+                                <option value="is_kanunu">İş Kanunu</option>
+                                <option value="iyuk">İdari Yargılama Usulü Kanunu (İYUK)</option>
+                                <option value="ktk">Karayolları Trafik Kanunu (KTK)</option>
+                                <option value="tkhk">Tüketicinin Korunması Hakkında Kanun (TKHK)</option>
+                                <option value="anayasa">Türkiye Cumhuriyeti Anayasası</option>
                                 <option value="kabahatler">Kabahatler Kanunu</option>
-                                <option value="avukatlik-kanunu">Avukatlık Kanunu</option>
-                                <option value="kvkk">Kişisel Verilerin Korunması Kanunu</option>
+                                <option value="kvkk">Kişisel Verilerin Korunması Kanunu (KVKK)</option>
                             </select>
                             <input
                                 name="maddeNo"
@@ -135,7 +138,7 @@ export default function KanunlarPage({ initialLaws, defaultBook = 'tck' }: Kanun
                 <div className="flex flex-col md:flex-row gap-8">
                     <div className="flex-1">
                         <div className="mb-8 flex items-center justify-between">
-                            <h2 className="text-2xl font-serif text-white">Tüm Kanun Maddeleri</h2>
+                            <h2 className="text-2xl font-serif text-white">Kanun Maddeleri</h2>
                             <span className="text-white/50 text-sm">{filteredLaws.length} Madde Bulundu</span>
                         </div>
 
@@ -230,6 +233,6 @@ export default function KanunlarPage({ initialLaws, defaultBook = 'tck' }: Kanun
                     </div>
                 </div>
             </section>
-        </main>
+        </main >
     );
 }

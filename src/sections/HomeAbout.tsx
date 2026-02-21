@@ -68,7 +68,7 @@ export default function HomeAbout() {
                             }`}
                     >
                         <p className="text-white/80 text-lg leading-relaxed text-justify">
-                            İstanbul’da kurulan RS Avukatlık, kuruluşundan bu yana profesyonel ve çözüm odaklı ekibiyle hukuk ve danışmanlık hizmetleri sunmaktadır.
+                            İstanbul Kartal merkezli <strong>RS Avukatlık</strong>, kurucu avukatımız <strong>Av. Ramazan Şimşek</strong> liderliğinde profesyonel ve çözüm odaklı ekibiyle hukuki danışmanlık hizmetleri sunmaktadır. Ağır Ceza Hukuku, Boşanma Davaları, İşçi Alacakları ve İdare Hukuku alanlarında uzmanlaşmış kadromuzla yanınızdayız.
                         </p>
                         <p className="text-white/80 text-lg leading-relaxed text-justify">
                             RS Avukatlık olarak etik ilkelerden ödün vermeden seçkin kadromuz müvekkil memnuniyeti odaklı, ulusal ve uluslararası kalite standartlarında hizmet anlayışı ile sektörde öncü uygulamalarla fark yaratmak ve sağladığımız hizmeti gerek ulusal gerekse uluslararası ihtiyaçların karşılanması ve kalite sürekliliğinin sağlanması için hukuki, finansal, bilimsel ve teknolojik güncel gelişmeleri yakından takip etmekte; bu doğrultuda sadece var olan sorunlara çözüm üretmekle kalmayıp beraberinde bu sorunları ortaya çıkmadan da engellemeyi amaçlamaktayız.
@@ -82,12 +82,13 @@ export default function HomeAbout() {
                             <div className="w-40 h-40 rounded-full border-4 border-gold/20 overflow-hidden mb-6 shadow-xl relative group">
                                 <img
                                     src="/kurucu-ramazan-simsek.jpg?v=2"
-                                    alt="Av. Ramazan Şimşek"
+                                    alt="İstanbul Kartal Avukatı Av. Ramazan Şimşek"
+                                    title="RS Avukatlık Kurucusu Av. Ramazan Şimşek"
                                     className="w-full h-full object-cover object-[center_30%]"
                                 />
                             </div>
                             <h3 className="font-serif text-2xl font-semibold text-white">
-                                Ramazan Şimşek
+                                Av. Ramazan Şimşek
                             </h3>
                             <p className="text-gold text-sm font-medium tracking-wider uppercase mt-2">
                                 Kurucu Avukat

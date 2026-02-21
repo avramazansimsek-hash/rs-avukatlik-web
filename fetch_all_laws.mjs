@@ -15,8 +15,8 @@ const TARGET_LAWS = [
     { short: "iyuk", no: "2577", tertip: "5", name: "İdari Yargılama Usulü Kanunu" },
     { short: "ktk", no: "2918", tertip: "5", name: "Karayolları Trafik Kanunu" },
     { short: "tkhk", no: "6502", tertip: "5", name: "Tüketicinin Korunması Hakkında Kanun" },
-    { short: "danistay", no: "2575", tertip: "5", name: "Danıştay Kanunu" },
-    { short: "yargitay", no: "2797", tertip: "5", name: "Yargıtay Kanunu" },
+    { short: "anayasa", no: "2709", tertip: "5", name: "Türkiye Cumhuriyeti Anayasası" },
+    { short: "kabahatler", no: "5326", tertip: "5", name: "Kabahatler Kanunu" },
     { short: "kvkk", no: "6698", tertip: "5", name: "Kişisel Verilerin Korunması Kanunu" },
 ];
 

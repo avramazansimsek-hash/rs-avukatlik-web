@@ -128,8 +128,8 @@ export default function Navigation({ currentPath = '' }: NavigationProps) {
                           <a href="/kanunlar/iyuk" className="block px-6 py-3 text-sm text-white/80 hover:text-gold hover:bg-white/5 transition-colors">İdari Yargılama Usulü Kanunu (İYUK)</a>
                           <a href="/kanunlar/ktk" className="block px-6 py-3 text-sm text-white/80 hover:text-gold hover:bg-white/5 transition-colors">Karayolları Trafik Kanunu (KTK)</a>
                           <a href="/kanunlar/tkhk" className="block px-6 py-3 text-sm text-white/80 hover:text-gold hover:bg-white/5 transition-colors">Tüketicinin Korunması Hakkında Kanun (TKHK)</a>
-                          <a href="/kanunlar/danistay" className="block px-6 py-3 text-sm text-white/80 hover:text-gold hover:bg-white/5 transition-colors">Danıştay Kanunu</a>
-                          <a href="/kanunlar/yargitay" className="block px-6 py-3 text-sm text-white/80 hover:text-gold hover:bg-white/5 transition-colors">Yargıtay Kanunu</a>
+                          <a href="/kanunlar/anayasa" className="block px-6 py-3 text-sm text-white/80 hover:text-gold hover:bg-white/5 transition-colors">T.C. Anayasası</a>
+                          <a href="/kanunlar/kabahatler" className="block px-6 py-3 text-sm text-white/80 hover:text-gold hover:bg-white/5 transition-colors">Kabahatler Kanunu</a>
                           <a href="/kanunlar/kvkk" className="block px-6 py-3 text-sm text-white/80 hover:text-gold hover:bg-white/5 transition-colors">Kişisel Verilerin Korunması Kanunu (KVKK)</a>
                         </div>
                       </div>

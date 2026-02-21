@@ -108,7 +108,8 @@ export default function KanunlarPage({ initialLaws, defaultBook = 'tck' }: Kanun
                                 <option value="iik">İcra ve İflas Kanunu (İİK)</option>
                                 <option value="ttk">Türk Ticaret Kanunu (TTK)</option>
                                 <option value="is-kanunu">İş Kanunu</option>
-                                <option value="danistay-kanunu">Danıştay Kanunu</option>
+                                <option value="anayasa">T.C. Anayasası</option>
+                                <option value="kabahatler">Kabahatler Kanunu</option>
                                 <option value="avukatlik-kanunu">Avukatlık Kanunu</option>
                                 <option value="kvkk">Kişisel Verilerin Korunması Kanunu</option>
                             </select>

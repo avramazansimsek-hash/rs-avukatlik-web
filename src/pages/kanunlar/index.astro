@@ -3,7 +3,9 @@ import MainLayout from '../../layouts/MainLayout.astro';
 import KanunlarPage from '../../views/pages/Kanunlar';
 import { getAllLaws } from '../../lib/kanunlar';
 
-const laws = await getAllLaws();
+const allLaws = await getAllLaws();
+// Strip heavy markdown content to prevent massive JSON serialization on the client
+const laws = allLaws.map(({ content, ...rest }) => rest);
 
 const title = "Kanunlar & Mevzuat | RS Avukatlık";
 const description = "Güncel Türk Hukuku mevzuatı, tüm kanunlar, detaylı hukuki incelemeler, avukat görüşleri ve yargı kararları.";

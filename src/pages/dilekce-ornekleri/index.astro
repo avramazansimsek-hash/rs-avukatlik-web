@@ -3,7 +3,9 @@ import MainLayout from '@/layouts/MainLayout.astro';
 import DilekcelerPage from '@/views/pages/Dilekceler';
 import { getAllDilekceler } from '@/lib/dilekceler';
 
-const dilekceler = await getAllDilekceler();
+const allDilekceler = await getAllDilekceler();
+// Strip heavy markdown content to avoid large JSON payloads on the frontend
+const dilekceler = allDilekceler.map(({ content, ...rest }) => rest);
 
 const title = "Dilekçe Örnekleri | RS Avukatlık";
 const description = "Ceza Hukuku, Aile Hukuku, İcra Hukuku ve diğer tüm branşlarda en güncel dilekçe örnekleri. Hukuki bilgi ve dilekçe şablonları.";

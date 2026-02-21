@@ -10,7 +10,9 @@ export async function getStaticPaths() {
     const books = [...new Set(allLaws.map(law => law.bookSlug))];
     
     return books.map(book => {
-        const bookLaws = allLaws.filter(law => law.bookSlug === book);
+        const bookLaws = allLaws
+            .filter(law => law.bookSlug === book)
+            .map(({ content, ...rest }) => rest); // Strip heavy markdown content
         return {
             params: { book },
             props: { bookLaws, bookSlug: book }
